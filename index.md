@@ -39,7 +39,8 @@ For the active GSC website, please visit https://gensc.org/.
     * [Members](pages/about/GSC-members.md)
  * [Calendar](pages/calendar.md)
  
-## Insert twitter feed:
+## Insert twitter feed
+
 <div class='jekyll-twitter-plugin' align="center">
     {% twitter https://twitter.com/genomestandards maxwidth=500 limit=5 %}
 </div>
