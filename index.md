@@ -41,9 +41,7 @@ For the active GSC website, please visit https://gensc.org/.
  
 ## Insert twitter feed
 
-<div align="center">
-    https://twitter.com/genomestandards maxwidth=500 limit=5
-</div>
+<a class="twitter-timeline" href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw">Tweets by genomestandards</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## The old website layout
 *   [Home](http://gensc.org)
