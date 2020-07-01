@@ -1,6 +1,4 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-
-# Specify your gem's dependencies in jekyll-twitter-plugin.gemspec
-gemspec
+gem 'jekyll-twitter-plugin'
