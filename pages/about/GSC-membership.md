@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  GSC Membership
+# GSC Membership
 The Genomic Standards Consortium has an open membership policy. If you would like to join the GSC, please contact the Secretary by clicking on Contact on the menubar. We also recommend that you subscribe to the GSC’s general mailing list.
-</head>
-<body>
 
-Current Members
+## Current Members
 Name	Affiliation
 Niyaz Ahmed	Pathogen Biology Laboratory, Department of Biotechnology, School of Life Sciences, University of Hyderabad, Hyderabad, India
 Michael J. Allen	Plymouth Marine Laboratory, Prospect Place, Plymouth, UK
@@ -180,5 +175,3 @@ Kai Xu	Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China
 Pelin Yilmaz	Microbial Genome Research, Jacobs University Bremen, Max Planck Institute for Marine Microbiology, Bremen 28359 Germany
 Albert Zhou	Department of Nutrition, Dietetics and Food Sciences, Utah State University, Logan, Utah, USA
 
-  </body>
-</html>
