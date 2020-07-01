@@ -36,6 +36,7 @@ For the active GSC website, please visit https://gensc.org/.
        - Alumni
        - Advisory board
     * [Community](pages/about/community.md)
+    * [Members](pages/about/GSC-members.md)
  * [Calendar](pages/calendar.md)
  
 
