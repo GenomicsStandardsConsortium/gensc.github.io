@@ -41,7 +41,7 @@ For the active GSC website, please visit https://gensc.org/.
  
 ## Insert twitter feed:
 <div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/anaik96 maxwidth=500 limit=5 %}
+    {% twitter https://twitter.com/genomestandards maxwidth=500 limit=5 %}
 </div>
 
 ## The old website layout
