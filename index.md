@@ -4,7 +4,7 @@ The Genomic Standards Consortium (GSC) is an open-membership working body formed
 
 For the active GSC website, please visit https://gensc.org/.
 
-
+## The new layout
 *[Home](/)
  * [Contact us](pages/contact.md)
     includes; email, mailing lists, twitter, slack etc
@@ -39,7 +39,7 @@ For the active GSC website, please visit https://gensc.org/.
  * [Calendar](pages/calendar.md)
  
 
-Old website links:
+## The old website layout
 *   [Home](http://gensc.org)
 *   [About](https://gensc.org/about-gsc/)
     *   [Funding](https://gensc.org/about-gsc/funding/)
