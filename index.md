@@ -7,8 +7,8 @@ For the active GSC website, please visit https://gensc.org/.
 ## The new layout
 *[Home](/)
  * [Contact us](pages/contact.md)
-    includes; email, mailing lists, twitter, slack etc
- * [Membership (how to join us etc)](pages/membership.md)
+    - includes; email, mailing lists, twitter, slack etc
+    - Membership (how to join us etc)
  * [News](pages/news/news.md)
  * [Meetings pages](page/meetings.md)
     * [Current](pages/meetings/current.md)
