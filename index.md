@@ -6,17 +6,17 @@ For the active GSC website, please visit https://gensc.org/.
 
 
 [Home](/)
- - [Contact us](_pages/contact.md)
+ - [Contact us](pages/contact.md)
     includes; email, mailing lists, twitter, slack etc
- - [Membership (how to join us etc)](_pages/membership.md)
- - [News](_pages/news.md)
- - [Meetings pages](_page/meetings.md)
-    - [Current](_pages/meetings/current.md)
-    - [Previous](_pages/meetings/past.md)
- - [Standards](_pages/standards-intro.md)
+ - [Membership (how to join us etc)](pages/membership.md)
+ - [News](pages/news.md)
+ - [Meetings pages](page/meetings.md)
+    - [Current](pages/meetings/current.md)
+    - [Previous](pages/meetings/past.md)
+ - [Standards](pages/standards-intro.md)
     - current standards
-       - [Packages/extensions](_pages/standards/packages.md) 
-       - [Introduction](_pages/standards/packages.md) 
+       - [Packages/extensions](pages/standards/packages.md) 
+       - [Introduction](pages/standards/packages.md) 
        - links to current implementations
        - links to purls/RDF of terms
     - historic standards
@@ -26,17 +26,17 @@ For the active GSC website, please visit https://gensc.org/.
     - current implementations
        - FAIR Sharing map
        - links to INSDC, QIIME, MGRAST etc
- - [Publications](_pages/publication-list.md)
+ - [Publications](pages/publication-list.md)
     - Stuff GSC have published
     - Stuff citing GSC
- - [About](_pages/about.md)
-    - [Mission Statement](_pages/about/mission.md)
-    - [Governance](_pages/about/goverhance.md)
-    - [Board](_pages/about/board-members.md)
+ - [About](pages/about.md)
+    - [Mission Statement](pages/about/mission.md)
+    - [Governance](pages/about/goverhance.md)
+    - [Board](pages/about/board-members.md)
        - Alumni
-    - [Advisory board](_pages/about/advisors.md)
-    - [Community](_pages/about/community.md)
- - [Calendar](_pages/calendar.md)
+    - [Advisory board](pages/about/advisors.md)
+    - [Community](pages/about/community.md)
+ - [Calendar](pages/calendar.md)
  
 
 
