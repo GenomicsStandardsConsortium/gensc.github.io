@@ -9,7 +9,7 @@ For the active GSC website, please visit https://gensc.org/.
  * [Contact us](pages/contact.md)
     includes; email, mailing lists, twitter, slack etc
  * [Membership (how to join us etc)](pages/membership.md)
- * [News](pages/news.md)
+ * [News](pages/news/news.md)
  * [Meetings pages](page/meetings.md)
     * [Current](pages/meetings/current.md)
     * [Previous](pages/meetings/past.md)
