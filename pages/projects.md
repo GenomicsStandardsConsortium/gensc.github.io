@@ -31,7 +31,7 @@
 <th>GSC 1, 2005</th>
   </tr>
 <tr>
-<td><a href="/pages/projects/mixs-gsc-project/"><img style="vertical-align: top" src="/images/MIxSlogo.png" alt="MIxSlogo" width="82" height="83" /></a></td>
+<td><a href="./projects/mixs-gsc-project/"><img style="vertical-align: top" src="../images/MIxSlogo.png" alt="MIxSlogo" width="82" height="83" /></a></td>
 <td style="text-align: center;vertical-align: middle">MIxS</td>
 <td style="vertical-align: middle"><span style="line-height: 19px">Minimum Information about any Sequence</span></td>
 <td style="vertical-align: middle"><a href="/pages/projects/mixs-gsc-project">Core standards of the GSC for describing genomes, metagenomes and gene marker sequences</a></td>
