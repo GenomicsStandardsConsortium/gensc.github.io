@@ -1,12 +1,14 @@
-GSC22 \[postponed\] | Genomic Standards Consortium
+[![Genomic Standards Consortium](/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
 
-GSC22 \[postponed\]
-===================
+| [Home](http://gensc.org) | [Meeting](/pages/meetings.md) | [About](/pages/about.md) | [News](/pages/new/news.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) | [Contact](/pages/contact.md) | 
+
+
+# GSC22 \[postponed\]
 
 22nd Genomic Standards Consortium Meeting[![](/images/Full_gsc_logo_small_2010-300x63.png)](/images/Full_gsc_logo_small_2010.png)
----------------------------------------------------------------------------------------------------------------------------------
 
-### **Genomic Standards for Precision Medicine, Agriculture,** **Comparative Genomics, and Metabolomics**
+
+## **Genomic Standards for Precision Medicine, Agriculture, Comparative Genomics, and Metabolomics**
 
 GSC22 sessions will focus on tackling metadata challenges related to the sample collection, processing and genomic sequencing workflow critical for small and large scale datasets within the fields of medical genomics, agriculture, comparative genomics, and metabolomics tackling metadata challenges related to the sample collection, processing and genomic sequencing workflow critical for small and large scale datasets. It is our intention to discuss and plan for evolving genomic and laboratory standards to address the needs of the clinical, academic and industry researchers with a focus on precision medicine and agriculture.
 
@@ -28,7 +30,7 @@ GSC22 sessions will focus on tackling metadata challenges related to the sample
 
 **Sessions:** **Precision Medicine, Agriculture,** **Comparative Genomics,** **and Metabolomics**
 
-### Hotels 
+## Hotels 
 
 Attendees are encouraged to make their hotel booking as early as possible. Here we provide a list of Bangkok (3 star and 4 star) hotels, with estimated per night costs (for the meeting dates, prices were looked up in February, 2020) 
 
@@ -36,13 +38,13 @@ Attendees are encouraged to make their hotel booking as early as possible. Here 
 
 [Translation rates](https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=THB) for Thai Baht (THB) to USD
 
-### **Agenda – Confirmed Speakers:**
+## **Agenda – Confirmed Speakers:**
 
 **July 14, 2020**
 
- **Session:** **Genomic Standards for Precision Medicine**
+**Session:** **Genomic Standards for Precision Medicine**
 
- **Keynote:** **Personalized Medicine –** **Leslie Biesecker** (NIH/NHGRI)
+**Keynote:** **Personalized Medicine –** **Leslie Biesecker** (NIH/NHGRI)
 
 **Curating Clinical Genomes –** Manop Pithukpakorn (Faculty of Medicine Siriraj Hospital, Mahidol University)
 
@@ -50,7 +52,7 @@ Attendees are encouraged to make their hotel booking as early as possible. Here 
 
 **Pathogen Genomics – October Michael Sessions** (NUS School of Public Health, Singapore)
 
- **Session: Standards Perspectives from Publishing and Databases**
+**Session: Standards Perspectives from Publishing and Databases**
 
 **Journal perspective: Gigascience –** Chris Hunter 
 
@@ -69,15 +71,15 @@ Attendees are encouraged to make their hotel booking as early as possible. Here 
 
 **July 15, 2020** 
 
- **Session: Genomic Standards for Metabolomics**
+**Session: Genomic Standards for Metabolomics**
 
- **Keynote:** **Jia Li** **–** (Imperial College London)
+**Keynote:** **Jia Li** **–** (Imperial College London)
 
 **Metabolomics standards in natural product research –** Sakda Khoomrung (Siriraj Hospital, Mahidol University, Thailand)
 
 **Standardised NMR Metabolomics and its applications –** Jutarop Phetcharaburanin (Khon Kaen University, Thailand)
 
- **Session:** **Genomic Standards for Agriculture Microbiomes** 
+**Session:** **Genomic Standards for Agriculture Microbiomes** 
 
 **AgMicrobiome Research Coordination Network (RCN)** – Lindal Kinkel (University of Minnesota) 
 
@@ -91,9 +93,9 @@ Attendees are encouraged to make their hotel booking as early as possible. Here 
 *   Standardized Protocols
 *   Comparative Genomics
 
-**J****uly 16, 2020**
+**~~July 16, 2020**~~
 
- **Session:****GSC Current & Evolving Standards**
+ **Session: GSC Current & Evolving Standards**
 
 Session Speakers:
 
@@ -107,7 +109,7 @@ Session Speakers:
 
 **Venom – Parasite Microbiome Standards** – Sabah Ul-Hasan (Scripps Research)
 
- **Session: Genomic Standards for Comparative Genomics**
+**Session: Genomic Standards for Comparative Genomics**
 
 Nikos Kyrpides – JGI
 
