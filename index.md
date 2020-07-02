@@ -38,6 +38,7 @@ For the active GSC website, please visit https://gensc.org/.
        - Advisory board
     * [Community](pages/about/community.md)
     * [Members](pages/about/GSC-members.md)
+    * [Funding](pages/about/funding.md)
  * [Calendar](pages/calendar.md)
  
 ## Insert twitter feed
