@@ -72,7 +72,7 @@
 <td>GSC 9, 2009</td>
 </tr>
 <tr>
-<td> <a href="http://gensc.org/index.php?title=Biodiversity_Working_Group"><img class="alignnone size-full wp-image-373" src="../images//GBWG2-logo.png" alt="GBWG2-logo" width="188" height="47" srcset="/images/GBWG2-logo.png 626w, /images/GBWG2-logo-300x75.png 300w" sizes="(max-width: 188px) 100vw, 188px" /></a></td>
+<td> <a href="http://gensc.org/index.php?title=Biodiversity_Working_Group"><img class="alignnone size-full wp-image-373" src="../images//GBWG2-logo.png" alt="GBWG2-logo" width="188" height="47" srcset="../images/GBWG2-logo.png 626w, ../images/GBWG2-logo-300x75.png 300w" sizes="(max-width: 188px) 100vw, 188px" /></a></td>
 <td style="text-align: center;vertical-align: middle">GBWG</td>
 <td style="vertical-align: middle">GSC Biodiversity Working Group</td>
 <td style="vertical-align: middle"><a href="/pages/projects/biodiversity-genomics-working-group/">Building intersections between the genomics and biodiversity communities &#8211; towards building the field of &#8220;Biodiversity Genomics&#8221;</a></td>
@@ -160,7 +160,7 @@
 <td>GSC 15, 2013</td>
 </tr>
 <tr>
-<td><a href="/pages/projects/mibig/"><img class="alignnone wp-image-479" src="../images/mibig_logo.jpg" alt="mibig1.pdf" width="101" height="49" srcset="/images/mibig_logo.jpg 302w, /images/mibig_logo-300x146.jpg 300w" sizes="(max-width: 101px) 100vw, 101px" /></a></td>
+<td><a href="/pages/projects/mibig/"><img class="alignnone wp-image-479" src="../images/mibig_logo.jpg" alt="mibig1.pdf" width="101" height="49" srcset="../images/mibig_logo.jpg 302w, ../images/mibig_logo-300x146.jpg 300w" sizes="(max-width: 101px) 100vw, 101px" /></a></td>
 <td style="text-align: center;vertical-align: middle">MiBiG</td>
 <td style="vertical-align: middle">Minimum Information about a Biosynthetic Gene cluster</td>
 <td style="vertical-align: middle">
