@@ -47,7 +47,7 @@ For the active GSC website, please visit https://gensc.org/.
  * [Calendar](pages/calendar.md)
  
 ## Insert twitter feed
-<iframe id="Tweets by genomestandards" width="853" height="480" src="https://platform.twitter.com/widgets.js" frameborder="0" allowfullscreen allow='xr-spatial-tracking'></iframe>
+<iframe id="Tweets by genomestandards" width="853" height="480" <a class="twitter-timeline" href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw">Tweets by genomestandards</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script> frameborder="0" allowfullscreen allow='xr-spatial-tracking'></iframe>
 
 <a class="twitter-timeline" href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw">Tweets by genomestandards</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
 
