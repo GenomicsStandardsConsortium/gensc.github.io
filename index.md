@@ -15,8 +15,8 @@ For the active GSC website, please visit https://gensc.org/.
     * [Previous](pages/meetings/past.md)
  * [Standards](pages/standards-intro.md)
     * current standards
-       * [Packages/extensions](pages/standards/packages.md) 
        * [Introduction](pages/standards/packages.md) 
+       * [MIxS checklists](pages/standards/mixs.md) These pages needs to be compiled from source RDF of each public checklist
        * links to current implementations
        * links to purls/RDF of terms
     * historic standards
@@ -26,6 +26,7 @@ For the active GSC website, please visit https://gensc.org/.
     * current implementations
        * FAIR Sharing map
        * links to INSDC, QIIME, MGRAST etc
+ * [Projects](pages/projects.md)
  * [Publications](pages/publication-list.md)
     - Stuff GSC have published
     - Stuff citing GSC
