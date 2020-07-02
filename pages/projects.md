@@ -159,7 +159,7 @@
 <td>GSC 15, 2013</td>
 </tr>
 <tr>
-<td><a href="/pages/projects/mibig/"><img class="alignnone wp-image-479" src="../images/mibig_logo.jpg" alt="mibig1.pdf" width="101" height="49" srcset="../images/mibig_logo.jpg 302w, ../images/mibig_logo-300x146.jpg 300w" sizes="(max-width: 101px) 100vw, 101px" /></a></td>
+<td><a href="/pages/projects/mibig/"><img class="alignnone wp-image-479" src="../images/mibig_logo.jpg" alt="mibig1.pdf" width="101" height="49" /></a></td>
 <td style="text-align: center;vertical-align: middle">MiBiG</td>
 <td style="vertical-align: middle">Minimum Information about a Biosynthetic Gene cluster</td>
 <td style="vertical-align: middle">
