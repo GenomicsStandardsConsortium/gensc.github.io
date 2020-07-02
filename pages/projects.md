@@ -1,6 +1,6 @@
 Projects | Genomic Standards Consortium
 
-[![Genomic Standards Consortium](https://gensc.org/files/2015/09/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
+[![Genomic Standards Consortium](images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
 
 *   [Home](http://gensc.org)
 *   [About](https://gensc.org/about-gsc/)
