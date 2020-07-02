@@ -4,7 +4,7 @@ Include link to previous meetings, probably just a list of meeting number and lo
 
 ## **Upcoming meetings:**
 
-*   [GSC22, Bangkok, Thailand, July 13-17, 2020](https://gensc.org/gsc22/)
+*   [GSC22, Bangkok, Thailand, July 13-17, 2020](/pages/meetings/current.md)
 
 ## **Past meetings:**
 
