@@ -7,7 +7,7 @@
 
 The Genomic Standards Consortium (GSC) is an open-membership working body formed in September 2005. The aim of the GSC is making genomic data discoverable. The GSC enables genomic data integration, discovery and comparison through international community-driven standards.
 
-For the active GSC website, please visit https://gensc.org/.
+For the active GSC website, please visit <https://gensc.org/>.
 
 # News
 we should insert an active news feed here showing title and topic of most recent news itmes added, but I have no idea how to do that.
@@ -25,7 +25,7 @@ we should insert an active news feed here showing title and topic of most recent
     * current standards
        * [Introduction](pages/standards/packages.md) 
        * [MIxS checklists](pages/standards/mixs.md) These pages needs to be compiled from source RDF of each public checklist
-       * links to current implementations
+       * [links to current implementations](https://github.com/GenomicsStandardsConsortium/mixs){:target="_blank"}
        * links to purls/RDF of terms
     * historic standards
     * future standards (projects/packages)
