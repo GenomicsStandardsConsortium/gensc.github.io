@@ -1,17 +1,17 @@
-**Copied directly from the old website. Needs updating with more recent publications.
+[![Genomic Standards Consortium](/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
 
-[Home](https://gensc.org) › Publications
+| [Home](http://gensc.org) | [Meeting](/pages/meetings.md) | [About](/pages/about.md) | [News](/pages/news.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) | [Contact](/pages/contact.md) | 
 
-Publications
-============
+**Copied directly from the old website. Needs updating with more recent publications.**
+
+# Publications
 
 The GSC aims to make its activities transparent to the wider community through maintenance of a GSC website and when relevant, publication of GSC led articles. To date several roadmap publications have been published along with reports from all GSC workshops.
 
 [GSC Project Publications](#project-publications)  
 [GSC Meeting Reports](#meeting-publications)  
 
-GSC Project Publications
-------------------------
+## GSC Project Publications
 
 As an outgrowth of the activities surrounding the creation and implementation of the MIxS standard there are now [18 projects](http://gensc.org/projects/ "Projects") within the GSC. These efforts cover an ever widening range of standardization activities. The following publications are either directly or indirectly related to these projects. Furthermore, two umbrella publications titled [**Genomic standards consortium projects**](http://www.ncbi.nlm.nih.gov/pubmed/25197446) and [**The Genomic Standards Consortium**](http://www.ncbi.nlm.nih.gov/pubmed/21713030) detail how these projects are initiated and integrated within GSC.
 
@@ -67,8 +67,7 @@ As an outgrowth of the activities surrounding the creation and implementation of
 
 [**The minimum information about a genome sequence (MIGS) specification.**](http://www.ncbi.nlm.nih.gov/pubmed/18464787) Field D, Garrity G, Gray T, Morrison N, Selengut J, Sterk P, Tatusova T, Thomson N, Allen MJ, Angiuoli SV, Ashburner M, Axelrod N, Baldauf S, Ballard S, Boore J, Cochrane G, Cole J, Dawyndt P et al. _Nat Biotechnol. 2008 May;26(5):541-7. doi: 10.1038/nbt1360._
 
-Meeting Reports
----------------
+## Meeting Reports
 
 This section includes meeting reports published to date from all GSC and RCN4GSC workshops or GSC-led special interest groups. Additionally, reports from satellite meetings following GSC workshops are included here.
 
