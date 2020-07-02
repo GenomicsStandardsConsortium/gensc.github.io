@@ -1,6 +1,6 @@
-[![Genomic Standards Consortium](https://gensc.org/files/2015/09/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
+[![Genomic Standards Consortium](/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
 
-[Home](https://gensc.org) › About GSC
+| [Home](http://gensc.org) | [Meeting](/pages/meetings.md) | [About](/pages/about.md) | [News](/pages/new/news.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) | [Contact](/pages/contact.md) | 
 
 # About GSC
 
@@ -13,14 +13,17 @@ The mission of the GSC is to work towards:
 *   Making genomic data discoverable
 *   Enabling genomic data integration, discovery and comparison through international community-driven standards
 
-## [Governance](/pages/about/governance.md)
+## [Governance and Bylaws](./about/governance.md)
 
-## [Board](/pages/about/board-members.md)
-* Current board members 
+How the GSC is governed and the bylaws of the consortium.
+
+## [Board](./about/board-members.md)
+Includes the names of our:
+* Current Board Members 
 * Alumni Board Members
-* Advisory board
+* Advisory Board
 
-## [Community](/pages/about/community.md)
+## [Community](./about/community.md)
 
-## [Funding](/pages/about/funding.md)
+## [Funding](./about/funding.md)
 
