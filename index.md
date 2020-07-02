@@ -1,6 +1,6 @@
 [![Genomic Standards Consortium](/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
 
-| [Home](http://gensc.org) | [About](/pages/about.md) | [Contact](/pages/contact.md) | [Members](/pages/members.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) |
+| [Home](http://gensc.org) | [About](/pages/about.md) | [Contact](/pages/contact.md) | [News](/pages/new/news.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) |
 
 
 # Genomic Standards Consortium
@@ -8,6 +8,9 @@
 The Genomic Standards Consortium (GSC) is an open-membership working body formed in September 2005. The aim of the GSC is making genomic data discoverable. The GSC enables genomic data integration, discovery and comparison through international community-driven standards.
 
 For the active GSC website, please visit https://gensc.org/.
+
+# News
+we should insert an active news feed here showing title and topic of most recent news itmes added, but I have no idea how to do that.
 
 ## The new layout
 *[Home](/)
@@ -46,8 +49,7 @@ For the active GSC website, please visit https://gensc.org/.
     * [Funding](pages/about/funding.md)
  * [Calendar](pages/calendar.md)
  
-## Insert twitter feed
-<iframe id="Tweets by genomestandards" width="853" height="480" <a class="twitter-timeline" href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw">Tweets by genomestandards</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script> frameborder="0" allowfullscreen allow='xr-spatial-tracking'></iframe>
+## Twitter feed
 
 <a class="twitter-timeline" href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw">Tweets by genomestandards</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
 
