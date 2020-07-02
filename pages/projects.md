@@ -1,4 +1,6 @@
-Projects | Genomic Standards Consortium
+| Home | About | Contact | Members | Projects | Checklists |
+
+| [Home](http://gensc.org) | [About](/pages/about.md) | [Contact](/pages/contact.md) | [Members](/pages/members.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) |
 
 [Home](https://gensc.org) › Projects
 
