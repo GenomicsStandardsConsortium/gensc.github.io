@@ -1,6 +1,7 @@
-stub for meetings top level page
-Probably want to include the advert for the next GSC meeting
-Include link to previous meetings, probably just a list of meeting number and location:
+[![Genomic Standards Consortium](/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
+
+| [Home](http://gensc.org) | [Meeting](/pages/meetings.md) | [About](/pages/about.md) | [News](/pages/new/news.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) | [Contact](/pages/contact.md) | 
+
 
 ## **Upcoming meetings:**
 
