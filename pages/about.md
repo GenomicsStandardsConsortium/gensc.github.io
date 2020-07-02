@@ -1,20 +1,4 @@
-About GSC | Genomic Standards Consortium
-
 [![Genomic Standards Consortium](https://gensc.org/files/2015/09/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
-
-*   [Home](http://gensc.org)
-*   [About](https://gensc.org/about-gsc/)
-    *   [Funding](https://gensc.org/about-gsc/funding/)
-    *   [GSC Membership](https://gensc.org/gsc-membership/)
-*   [Board](https://gensc.org/gsc-board/)
-*   [Projects](https://gensc.org/projects/)
-    *   [GSC Projects](https://gensc.org/projects/)
-    *   [GSC Project Description Template](https://gensc.org/gsc-project-description-template/)
-*   [Publications](https://gensc.org/publications-2/)
-*   [Meetings](http://gensc.org/meetings)
-*   [Join](https://gensc.org/join-gsc/)
-*   [News](https://gensc.org/gsc-blog/)
-*   [Contact](https://gensc.org/contact-2/)
 
 [Home](https://gensc.org) › About GSC
 
