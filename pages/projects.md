@@ -25,30 +25,10 @@ Projects
 
 ![FAIRsharing Logo](https://fairsharing.org/static/img/home/svg/FAIRsharing-logo.svg) You can also view our standards using FAIRsharing [GSC collection](https://fairsharing.org/collection/GSC)
 
-Logo
-
-Acronym
-
-Full Name
-
-GSC Project Description
-
-Lead
-
-Date
-
-[![MIxSlogo](http://press3.mcs.anl.gov/gensc/files/2012/09/MIxSlogo.png)](http://gensc.org/wordpress/projects/mixs-gsc-project/)
-
-MIxS
-
-Minimum Information about any Sequence
-
-[Core standards of the GSC for describing genomes, metagenomes and gene marker sequences](http://gensc.org/wordpress/projects/mixs-gsc-project/)
-
-Pelin Yilmaz
-
-GSC 1, 2005
-
+|Logo|Acronym|Full Name|GSC Project Description|Lead|Date|
+|--------------------------------------------------------|
+|[![MIxSlogo](http://press3.mcs.anl.gov/gensc/files/2012/09/MIxSlogo.png)](http://gensc.org/wordpress/projects/mixs-gsc-project/)|MIxS|Minimum Information about any Sequence|[Core standards of the GSC for describing genomes, metagenomes and gene marker sequences](http://gensc.org/wordpress/projects/mixs-gsc-project/)|Pelin Yilmaz|GSC 1, 2005|
+|--------------------------------------------------------|
 [![Gcdml-original-tiny](http://press3.mcs.anl.gov/gensc/files/2013/06/Gcdml-original-tiny.png)](http://gensc.org/wordpress/projects/gcdml/)
 
 GCDML
