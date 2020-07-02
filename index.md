@@ -1,6 +1,6 @@
 [![Genomic Standards Consortium](/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
 
-| [Home](http://gensc.org) | [Meeting](/pages/meetings.md) | [About](/pages/about.md) | [News](/pages/new/news.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) | [Contact](/pages/contact.md) | 
+| [Home](http://gensc.org) | [Meeting](/pages/meetings.md) | [About](/pages/about.md) | [News](/pages/news.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) | [Contact](/pages/contact.md) | 
 
 
 # Genomic Standards Consortium
@@ -32,8 +32,8 @@ We need to make this twitter feed window smaller! but i dont know how to do that
     * [Community](pages/about/community.md)
     * [Members](pages/about/GSC-members.md)
     * [Funding](pages/about/funding.md)
- * [News](pages/news/news.md)
-    * [Publications](pages/publication-list.md)
+ * [News](pages/news.md)
+    * [Publications](pages/news/publication-list.md)
       - Stuff GSC have published
       - Stuff citing GSC
  * [Projects](pages/projects.md)
