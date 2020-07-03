@@ -1,11 +1,10 @@
-MIxS | Genomic Standards Consortium
-
 [![Genomic Standards Consortium](/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
 
-[Home](https://gensc.org) › MIxS
+| [Home](http://gensc.org) | [Meeting](/pages/meetings.md) | [About](/pages/about.md) | [News](/pages/news.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) | [Contact](/pages/contact.md) | 
+ 
+# **THE LINKS IN THIS PAGE TO ALL THE CURRENT CHECKLIST VERSIONS NEEDS TO BE MADE FUTRUE PROOF- i.e. links to relevant github repo locations**
 
-MIxS
-====
+# MIxS
 
 **The GSC family of minimum information standards (checklists) – Minimum Information about any (x) Sequence (MIxS)**
 
@@ -15,16 +14,17 @@ To create a single entry point to all minimum information checklists from the GS
 
 The three checklists that are currently under MIxS share the same central set of core descriptors, but have checklist specific descriptors as well. Additionally, they enable a detailed description of environment through the use of optional environmental packages.
 
-#### [![spreadsheet](http://press3.mcs.anl.gov/gensc/files/2015/07/spreadsheet.png)](http://press3.mcs.anl.gov/gensc/files/2015/07/spreadsheet.png)
+## [![spreadsheet](http://press3.mcs.anl.gov/gensc/files/2015/07/spreadsheet.png)](http://press3.mcs.anl.gov/gensc/files/2015/07/spreadsheet.png)
 
-#### Download MIxS Checklist v5.0: [mixs\_v5](http://press3.mcs.anl.gov/gensc/files/2020/02/mixs_v5.xlsx)
+## Download MIxS Checklist v5.0: [mixs\_v5](http://press3.mcs.anl.gov/gensc/files/2020/02/mixs_v5.xlsx)
 
-##### or from the MIxS GitHub [here](https://github.com/GenomicsStandardsConsortium/mixs-legacy/blob/master/mixs5/mixs_v5.xlsx)
+### or from the MIxS GitHub [here](https://github.com/GenomicsStandardsConsortium/mixs-legacy/blob/master/mixs5/mixs_v5.xlsx)
 
-#### **[Download MIxS Checklist v4.0 here](http://press3.mcs.anl.gov/gensc/files/2015/07/MIxS_v4.xls "MIxS")**
+### **[Download MIxS Checklist v4.0 here](http://press3.mcs.anl.gov/gensc/files/2015/07/MIxS_v4.xls "MIxS")**
 
 [![mixs](http://press3.mcs.anl.gov/gensc/files/2015/07/mixs.png)](http://press3.mcs.anl.gov/gensc/files/2015/07/mixs.png)
 
+## Environmental packages
 The core MIxS team developed the following environmental packages These packages are available as separate spreadsheets:
 
 1.  Air ([download MIxS-air only](http://press3.mcs.anl.gov/gensc/files/2016/07/MIxSair_210514.xls))
@@ -113,38 +113,19 @@ Column 9 – position: position of item within a package as requested by the res
 
 Column 10 – preferred units: a unit suggestion if a measurement value is given
 
-A few important notes:
+## A few important notes:
 
-*   All dates, times, durations and intervals should be written in ISO 8601 formats
-*   Units – Strict units are not defined for items in the MIxS checklists, but suggestions are made under “preferred units”, wherever applicable the unit of choice should accompany the value of an item. The units should be in accordance with the The International System of Units (SI)
-*   If a value is missing, please consider using the INSDC missing value vocabulary
+* All dates, times, durations and intervals should be written in ISO 8601 formats
+* Units – Strict units are not defined for items in the MIxS checklists, but suggestions are made under “preferred units”, wherever applicable the unit of choice should accompany the value of an item. The units should be in accordance with the The International System of Units (SI)
+* If a value is missing, please consider using the INSDC missing value vocabulary
 
-Not applicable
+### Not applicable
 
 information is inappropriate to report, can indicate that the standard itself fails to model or represent the information appropriately
 
-Missing
-
-Not collected
-
-information of an expected format was not given because it has not been collected
-
-Not provided
-
-information of an expected format was not given, a value may be given at the later stage
-
-Restricted access
-
-information exists but can not be released openly because of privacy concerns
+* Missing - its unknown if the data was collected or not
+* Not collected - information of an expected format was not given because it has not been collected
+* Not provided - information of an expected format was not given, a value may be given at the later stage
+* Restricted access - information exists but can not be released openly because of privacy concerns
 
 If you require further information about MIxS checklists, please visit the [compliance and implementation pages](http://gensc.org/mixs/mixs-compliance-and-implementation/ "MIxS Compliance and Implementation"), and [MIxS extensions pages](http://gensc.org/mixs/mixs-extensions/ "MIxS Extensions").
-
-###### 0 comments on “MIxS”
-
-###### 1 Pings/Trackbacks for "MIxS"
-
-1.  [The National Microbiome Initiative: A lucky day for all |](http://www.mostlymicrobes.com/national-microbiome-initiative/) says:
-    
-    [July 19, 2016 at 3:36 pm](https://gensc.org/mixs/#comment-19)
-    
-    \[…\] Both the EMP and HMP have established such protocols. Tools such as QIIME, Site Painter, the MIxS standard for reporting information about a sample, and more allow anyone with access to the lab equipment \[…\]
