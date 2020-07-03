@@ -117,15 +117,11 @@ Column 10 – preferred units: a unit suggestion if a measurement value is given
 
 * All dates, times, durations and intervals should be written in ISO 8601 formats
 * Units – Strict units are not defined for items in the MIxS checklists, but suggestions are made under “preferred units”, wherever applicable the unit of choice should accompany the value of an item. The units should be in accordance with the The International System of Units (SI)
-* If a value is missing, please consider using the INSDC missing value vocabulary
-
-### Not applicable
-
-information is inappropriate to report, can indicate that the standard itself fails to model or represent the information appropriately
-
-* Missing - its unknown if the data was collected or not
-* Not collected - information of an expected format was not given because it has not been collected
-* Not provided - information of an expected format was not given, a value may be given at the later stage
-* Restricted access - information exists but can not be released openly because of privacy concerns
-
+* If a value is missing, please consider using the INSDC missing value vocabulary:
+   * Not applicable - information is inappropriate to report, can indicate that the standard itself fails to model or represent the information appropriately
+   * Not collected - information of an expected format was not given because it has not been collected
+   * Not provided - information of an expected format was not given, a value may be given at the later stage
+   * Restricted access - information exists but can not be released openly because of privacy concerns
+   * Missing - its unknown if the data was collected or not
+   
 If you require further information about MIxS checklists, please visit the [compliance and implementation pages](http://gensc.org/mixs/mixs-compliance-and-implementation/ "MIxS Compliance and Implementation"), and [MIxS extensions pages](http://gensc.org/mixs/mixs-extensions/ "MIxS Extensions").
