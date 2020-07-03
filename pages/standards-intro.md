@@ -12,9 +12,11 @@ MIxS currently consists of three separate checklists; **[MIGS for genomes](https
 To create a single entry point to all minimum information checklists from the GSC and to the environmental packages, we created an overarching framework, the MIxS standard (publication in Nature Biotechnology). MIxS includes the technology-specific checklists from the previous MIGS and MIMS standards, provides a way of introducing additional checklists such as MIMARKS, and also allows annotation of sample data using environmental packages.
 
 ## [The checklists](/pages/standards/mixs.md)
-[Click here for more details on the MIxS checklists](/pages/standards/mixs.md)
+The current versions of the checklists are available [here](/pages/standards/mixs.md). 
+We have a github repository where the next versions are being developed and discussed, please feel free to join the discussion using the github issue tracker.
+In addition there are more techincal speficication available in the [GitHub Wiki](https://github.com/GenomicsStandardsConsortium/mixs/wiki)
 
-Visit our GitHub repository to find previous versions of the checklists.
+You can find all previous versions of the checklistsin our [mixs-legacy GitHub](https://github.com/GenomicsStandardsConsortium/mixs-legacy) repository.
 
 ## [Compliance and Implementation](/pages/standards/compliance.md)
 Details of how to comply with the standard, and which repositories and institutions are currently making use of them
