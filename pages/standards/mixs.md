@@ -1,11 +1,11 @@
 [![Genomic Standards Consortium](/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
 
 | [Home](http://gensc.org) | [Meeting](/pages/meetings.md) | [About](/pages/about.md) | [News](/pages/news.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) | [Contact](/pages/contact.md) | 
+
  
+# **THE LINKS IN THIS PAGE TO ALL THE CURRENT CHECKLIST VERSIONS NEEDS TO BE MADE FUTRUE PROOF- i.e. links to relevant github repo locations**
 
-
-# MIxS 
-# **ALL THE LINKS ON THIS PAGE NEED CHECKING AND UPDATING**
+# MIxS
 
 **The GSC family of minimum information standards (checklists) – Minimum Information about any (x) Sequence (MIxS)**
 
@@ -19,12 +19,13 @@ The three checklists that are currently under MIxS share the same central set of
 
 ## Download MIxS Checklist v5.0: [mixs\_v5](http://press3.mcs.anl.gov/gensc/files/2020/02/mixs_v5.xlsx)
 
-## or from the MIxS GitHub [here](https://github.com/GenomicsStandardsConsortium/mixs-legacy/blob/master/mixs5/mixs_v5.xlsx)
+### or from the MIxS GitHub [here](https://github.com/GenomicsStandardsConsortium/mixs-legacy/blob/master/mixs5/mixs_v5.xlsx)
 
-## **[Download MIxS Checklist v4.0 here](http://press3.mcs.anl.gov/gensc/files/2015/07/MIxS_v4.xls "MIxS")**
+### **[Download MIxS Checklist v4.0 here](http://press3.mcs.anl.gov/gensc/files/2015/07/MIxS_v4.xls "MIxS")**
 
 [![mixs](http://press3.mcs.anl.gov/gensc/files/2015/07/mixs.png)](http://press3.mcs.anl.gov/gensc/files/2015/07/mixs.png)
 
+## Environmental packages
 The core MIxS team developed the following environmental packages These packages are available as separate spreadsheets:
 
 1.  Air ([download MIxS-air only](http://press3.mcs.anl.gov/gensc/files/2016/07/MIxSair_210514.xls))
@@ -115,27 +116,14 @@ Column 10 – preferred units: a unit suggestion if a measurement value is given
 
 ## A few important notes:
 
-*   All dates, times, durations and intervals should be written in ISO 8601 formats
-*   Units – Strict units are not defined for items in the MIxS checklists, but suggestions are made under “preferred units”, wherever applicable the unit of choice should accompany the value of an item. The units should be in accordance with the The International System of Units (SI)
-*   If a value is missing, please consider using the INSDC missing value vocabulary
-
-Not applicable
-
-information is inappropriate to report, can indicate that the standard itself fails to model or represent the information appropriately
-
-Missing
-
-Not collected
-
-information of an expected format was not given because it has not been collected
-
-Not provided
-
-information of an expected format was not given, a value may be given at the later stage
-
-Restricted access
-
-information exists but can not be released openly because of privacy concerns
-
+* All dates, times, durations and intervals should be written in ISO 8601 formats
+* Units – Strict units are not defined for items in the MIxS checklists, but suggestions are made under “preferred units”, wherever applicable the unit of choice should accompany the value of an item. The units should be in accordance with the The International System of Units (SI)
+* If a value is missing, please consider using the INSDC missing value vocabulary:
+   * Not applicable - information is inappropriate to report, can indicate that the standard itself fails to model or represent the information appropriately
+   * Not collected - information of an expected format was not given because it has not been collected
+   * Not provided - information of an expected format was not given, a value may be given at the later stage
+   * Restricted access - information exists but can not be released openly because of privacy concerns
+   * Missing - its unknown if the data was collected or not
+   
 If you require further information about MIxS checklists, please visit the [compliance and implementation pages](http://gensc.org/mixs/mixs-compliance-and-implementation/ "MIxS Compliance and Implementation"), and [MIxS extensions pages](http://gensc.org/mixs/mixs-extensions/ "MIxS Extensions").
 
