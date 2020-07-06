@@ -1,1 +1,14 @@
-theme: jekyll-theme-leap-day
+  
+name: "GSC Portal"
+author: "GSC"
+title: Genomics Standards Consortium
+description: "The Genomic Standards Consortium (GSC) is an open-membership working body formed in September 2005. The aim of the GSC is making genomic data discoverable. The GSC enables genomic data integration, discovery and comparison through international community-driven standards."
+image: /images/cropped-full_gsc_logo_sml.png
+
+theme: jekyll-theme-dinky
+plugins:
+  - jekyll-gist
+  
+# Twitter username (used by jekyll-seo-tag)
+twitter:
+  username: genomestandards
