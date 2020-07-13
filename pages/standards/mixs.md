@@ -1,6 +1,4 @@
-[![Genomic Standards Consortium](/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
-
-| [Home](http://gensc.org) | [Meeting](/pages/meetings.md) | [About](/pages/about.md) | [News](/pages/news.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) | [Contact](/pages/contact.md) | 
+{% include header.html %}
 
  
 # **THE LINKS IN THIS PAGE TO ALL THE CURRENT CHECKLIST VERSIONS NEEDS TO BE MADE FUTRUE PROOF- i.e. links to relevant github repo locations**
