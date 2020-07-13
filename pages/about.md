@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
+check
+[![Genomic Standards Consortium](/only1chunts-gensc.github.io/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
 
-[![Genomic Standards Consortium](/gensc.github.io/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
-
-| [Home](http://gensc.org) | [Meeting](/gensc.github.io/pages/meetings.md) | [About](/pages/about.md) | [News](/pages/new/news.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) | [Contact](/pages/contact.md) | 
+| [Home](http://gensc.org) | [Meeting](/only1chunts-gensc.github.io/pages/meetings.md) | [About](/only1chunts-gensc.github.io/pages/about.md) | [News](/only1chunts-gensc.github.io/pages/new/news.md) | [Projects](/only1chunts-gensc.github.io/pages/projects.md) | [Checklists](/only1chunts-gensc.github.io/pages/checklists.md) | [Contact](/only1chunts-gensc.github.io/pages/contact.md) | 
 
 # About GSC
 
