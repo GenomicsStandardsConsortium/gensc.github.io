@@ -14,18 +14,18 @@ MIxS currently consists of three separate checklists; **[MIGS for genomes](https
 
 To create a single entry point to all minimum information checklists from the GSC and to the environmental packages, we created an overarching framework, the MIxS standard (publication in Nature Biotechnology). MIxS includes the technology-specific checklists from the previous MIGS and MIMS standards, provides a way of introducing additional checklists such as MIMARKS, and also allows annotation of sample data using environmental packages.
 
-## [The checklists](/gensc.github.io/pages/standards/mixs.md)
-The current versions of the checklists are available [here](/gensc.github.io/pages/standards/mixs.md). 
+## [The checklists](/gensc.github.io/pages/standards/mixs.html)
+The current versions of the checklists are available [here](/gensc.github.io/pages/standards/mixs.html). 
 We have a github repository where the next versions are being developed and discussed, please feel free to join the discussion using the github issue tracker.
 In addition there are more techincal speficication available in the [GitHub Wiki](https://github.com/GenomicsStandardsConsortium/mixs/wiki)
 
 You can find all previous versions of the checklistsin our [mixs-legacy GitHub](https://github.com/GenomicsStandardsConsortium/mixs-legacy) repository.
 
-## [Compliance and Implementation](/gensc.github.io/pages/standards/compliance.md)
+## [Compliance and Implementation](/gensc.github.io/pages/standards/compliance.html)
 Details of how to comply with the standard, and which repositories and institutions are currently making use of them
 
-## [Extensions](/gensc.github.io/pages/standards/mixs-ext-and-profiles.md)
+## [Extensions](/gensc.github.io/pages/standards/mixs-ext-and-profiles.html)
 Many of the core packages also have multiple extensions of recomended terms that have been compiled by experts in the relevant field of research. Explore all the ready made checklist extensions that we have available
-If there is not a suitable checklist already available and you are interested in developing your own extention, [this page](/gensc.github.io/pages/standards/mixs-ext-and-profiles.md) also contains details on Developing Extensions that you may find useful.
+If there is not a suitable checklist already available and you are interested in developing your own extention, [this page](/gensc.github.io/pages/standards/mixs-ext-and-profiles.html) also contains details on Developing Extensions that you may find useful.
 
 
