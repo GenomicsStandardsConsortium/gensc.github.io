@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 	<html>
-		<head>
+		<head><title>{{ page.title }}</title>
         <p><a href="https://gensc.org/"><img src="/gensc.github.io/images/cropped-full_gsc_logo_sml.png" alt="Genomic Standards Consortium" /></a></p>
-
+		</head>
+		<body>
+			<nav>
+	    		<ul>
 <table>
   <tbody>
     <tr>
@@ -16,8 +19,13 @@
     </tr>
   </tbody>
 </table>
-		</head>
-		<body>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
 
 			<footer>
 
