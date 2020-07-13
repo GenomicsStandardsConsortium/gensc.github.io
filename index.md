@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: GSC home
 ---
 
 # Genomic Standards Consortium
