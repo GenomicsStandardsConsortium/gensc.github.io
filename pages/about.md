@@ -1,6 +1,3 @@
----
-include: header.html
----
 {% include header.html %}
 
 [![Genomic Standards Consortium](/only1chunts-gensc.github.io/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
