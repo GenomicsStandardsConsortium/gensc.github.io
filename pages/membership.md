@@ -1,3 +1,5 @@
+{% include header.html %}
+
 Stub of page, needs completing with correct information.
 
 # Join GSC
