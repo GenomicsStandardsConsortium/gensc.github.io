@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [![Genomic Standards Consortium](/gensc.github.io/images/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
 
 | [Home](http://gensc.org) | [Meeting](/gensc.github.io/pages/meetings.md) | [About](/pages/about.md) | [News](/pages/new/news.md) | [Projects](/pages/projects.md) | [Checklists](/pages/checklists.md) | [Contact](/pages/contact.md) | 
