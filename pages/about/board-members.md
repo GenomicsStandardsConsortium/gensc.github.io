@@ -1,5 +1,4 @@
-[![Genomic Standards Consortium](https://gensc.org/files/2015/09/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
-[Home](https://gensc.org) › GSC Board
+{% include header.html %}
 
 GSC Board
 =========
