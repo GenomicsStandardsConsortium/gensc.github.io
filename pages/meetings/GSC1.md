@@ -1,3 +1,4 @@
+{% include header.html %}
 # 1st "Exploratory" Genomics Standards Consortium Workshop==
 
 **Date:** 7-9 September, 2005
