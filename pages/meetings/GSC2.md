@@ -1,3 +1,4 @@
+{% include header.html %}
 # 2nd Genomics Standards Consortium Workshop==
 
 **Date:** 10-11 November, 2005
