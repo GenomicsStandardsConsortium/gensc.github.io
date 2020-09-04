@@ -31,7 +31,7 @@
 <td><a href="/pages/projects/gcdml"><img style="vertical-align: middle" src="../images/Gcdml-original-tiny.png" alt="Gcdml-original-tiny" width="114" height="21" /></a></td>
 <td style="text-align: center;vertical-align: middle">GCDML</td>
 <td style="vertical-align: middle">Genomic Contextual Data Markup Language</td>
-<td style="vertical-align: middle"><a href="/pages/projects/gcdml">An XML schema implementing MIxS</a></td>
+<td style="vertical-align: middle"><a href="projects/gcdml">An XML schema implementing MIxS</a></td>
 <td>Renzo Kottmann</td>
 <td>GSC 4, 2007</td>
 </tr>
