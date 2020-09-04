@@ -23,7 +23,7 @@
 <td><a href="/pages/projects/mixs-gsc-project/"><img style="vertical-align: top" src="../images/MIxSlogo.png" alt="MIxSlogo" width="82" height="83" /></a></td>
 <td style="text-align: center;vertical-align: middle">MIxS</td>
 <td style="vertical-align: middle"><span style="line-height: 19px">Minimum Information about any Sequence</span></td>
-<td style="vertical-align: middle"><a href="/pages/projects/mixs-gsc-project.html">Core standards of the GSC for describing genomes, metagenomes and gene marker sequences</a></td>
+<td style="vertical-align: middle"><a href="projects/mixs-gsc-project.html">Core standards of the GSC for describing genomes, metagenomes and gene marker sequences</a></td>
 <td>Pelin Yilmaz</td>
 <td>GSC 1, 2005</td>
 </tr>
@@ -31,7 +31,7 @@
 <td><a href="/pages/projects/gcdml"><img style="vertical-align: middle" src="../images/Gcdml-original-tiny.png" alt="Gcdml-original-tiny" width="114" height="21" /></a></td>
 <td style="text-align: center;vertical-align: middle">GCDML</td>
 <td style="vertical-align: middle">Genomic Contextual Data Markup Language</td>
-<td style="vertical-align: middle"><a href="projects/gcdml">An XML schema implementing MIxS</a></td>
+<td style="vertical-align: middle"><a href="projects/gcdml-project.md">An XML schema implementing MIxS</a></td>
 <td>Renzo Kottmann</td>
 <td>GSC 4, 2007</td>
 </tr>
