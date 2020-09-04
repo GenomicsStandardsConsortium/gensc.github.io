@@ -1,4 +1,4 @@
-{insert header}
+{% include header.html %}
 
 MIxS GSC Project
 ================
