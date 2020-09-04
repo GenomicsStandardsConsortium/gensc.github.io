@@ -36,12 +36,15 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 You can simply cut and paste from a webpage to a text file and apply MarkDown to it manualy, which in some cases is actually the quickest way! But if the page has a number of links, text formatting, images or things that require some MarkDown code then using the converter below will probably be easier.
 
 A free online HTML to MD converter is available here: https://cloudconvert.com/html-to-md
+Now realised that cloudconvert only lets you do afew each day, so this is another alternative:
+https://domchristie.github.io/turndown/
+
 
 To get the HTML of the page that you want to convert 
 1. Navigate to the page you are trying to copy (e.g. http://www.gensc.org/meetings/gsc21/) 
 2. Right click anywhere on page and select "view page source"
 3. Select-all (ctrl-A) and Copy the HTML code
-4. Paste into a text file, save
+4. Paste into a text file, save - (or if using turndown option just paste directly into turndown)
 5. upload the saved file to https://cloudconvert.com/html-to-md 
 6. Check the settings (spanner icon) on the cloudconvert site to make sure the output is GitHub flavor of MarkDown.
 7. Click convert, download converted file to your machine
