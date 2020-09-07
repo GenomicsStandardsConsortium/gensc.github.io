@@ -1,5 +1,4 @@
-Funding | Genomic Standards Consortium
-
+{% include header.html %}
 
 # Funding
 
