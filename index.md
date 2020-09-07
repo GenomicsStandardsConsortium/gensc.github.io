@@ -31,11 +31,11 @@ We need to make this twitter feed window smaller! but i dont know how to do that
     * [Community](pages/about/community.md)
     * [Members](pages/about/GSC-members.md)
     * [Funding](pages/about/funding.md)
- * [News](pages/news.md)
-    * [Publications](pages/news/publication-list.md)
+    * [Publications](pages/about/publication-list.md)
       - Stuff GSC have published
       - Stuff citing GSC
- * [Projects](pages/projects.md)
+ * [News](pages/news.md)
+     * [Projects](pages/projects.md)
  * [Standards](pages/standards-intro.md)
     * current standards
        * [Introduction](pages/standards/packages.md) 
