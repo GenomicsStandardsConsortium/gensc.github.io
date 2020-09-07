@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # GSC Membership
 The Genomic Standards Consortium has an open membership policy. If you would like to join the GSC, please contact the Secretary by clicking on Contact on the menubar. We also recommend that you subscribe to the GSC’s general mailing list.
 
