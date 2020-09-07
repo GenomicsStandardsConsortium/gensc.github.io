@@ -1,15 +1,13 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/GenomicsStandardsConsortium/gensc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to the GSC website GitHub Pages
 
 To see the website generated from this Repo:
 https://genomicsstandardsconsortium.github.io/gensc.github.io/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This GitHub repo contains all the code and pages requried to generate the above website, its writen almost entirely in MarkDown (MD). Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Markdown
+## What is Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. Below are the simple text format conventions:
 
 ```markdown
 Syntax highlighted code block
@@ -31,25 +29,33 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+## Repo layout
+The repository has been setup to have a single location for all Image files reagardless of the page in which they appear, this should allow for effective reuse of images and mean if/when any image/logo needs to be updated it can be done in one place.
+
+Similarly, all downloadable files (termed "other media") should also be saved to the common directory regardless of which webpage they appear in. This will include things like PDF files or Powerpoint slides etc.
+
+With both of those directories it is important to check for the existance of the file you are intending to upload first to avoid duplicates. You should also ensure the file names used are both meaningful and unique. When committing file uploads it would be helpful to include a description of the file in the commit comment.
+
+The "\_includes" directory holds the common files that can be added to any sub-page, specifically the header.html file which provides the GSC header consistently for each page or wherever the \{% include header.html %} flag is added to a webpage.
+Its possible we might require a footer aswell that can be created here and added to any of the pages that require it.
+
 ### Converting HTML pages to markdown
 
+Since we want to keep most of the information from our current website (gensc.org) knowing how to covert that html website into MD is useful.
 You can simply cut and paste from a webpage to a text file and apply MarkDown to it manualy, which in some cases is actually the quickest way! But if the page has a number of links, text formatting, images or things that require some MarkDown code then using the converter below will probably be easier.
 
-A free online HTML to MD converter is available here: https://cloudconvert.com/html-to-md
-Now realised that cloudconvert only lets you do afew each day, so this is another alternative:
-https://domchristie.github.io/turndown/
-
+A free online HTML to MD converter is available here https://domchristie.github.io/turndown/
+A better alternative is available here https://cloudconvert.com/html-to-md **but** it only lets you do afew each day for free.
 
 To get the HTML of the page that you want to convert 
 1. Navigate to the page you are trying to copy (e.g. http://www.gensc.org/meetings/gsc21/) 
 2. Right click anywhere on page and select "view page source"
 3. Select-all (ctrl-A) and Copy the HTML code
-4. Paste into a text file, save - (or if using turndown option just paste directly into turndown)
-5. upload the saved file to https://cloudconvert.com/html-to-md 
-6. Check the settings (spanner icon) on the cloudconvert site to make sure the output is GitHub flavor of MarkDown.
-7. Click convert, download converted file to your machine
-8. Save the file with relevant name in the relevant place in the github repo (e.g. https://github.com/GenomicsStandardsConsortium/gensc.github.io/tree/master/pages/meetings/GSC21.md)  
-9. Open the file in GitHub and use the "preview" option to check how the convertion looks, Tidy up as requried then commit your changes.
+4. Paste into the TurnDown website window (or save as a text file to upload to cloudconvert)
+NB if using CloudConvert, check the settings (spanner icon) to make sure the output is GitHub flavor of MarkDown.
+5. Click convert, download converted file to your machine
+6. Save the file with relevant name in the relevant place in the github repo (e.g. https://github.com/GenomicsStandardsConsortium/gensc.github.io/tree/master/pages/meetings/GSC21.md)  
+7. Open the file in GitHub and use the "preview" option to check how the convertion looks, Tidy up as requried then commit your changes.
   
 Any images used need to be saved here https://github.com/GenomicsStandardsConsortium/gensc.github.io/tree/master/images
 NB- sponsors images they may already exist.
@@ -66,13 +72,11 @@ To include the GSC header section in a new page just add this line at the top of
 ### When you have the page completed
 If you have been working in your Fork of the repository you will need to make a pull request
 
-
 ## Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GenomicsStandardsConsortium/gensc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This GitHub pages site will use the layout and styles from the Jekyll theme, the name of the theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## To Do
+There are some "projects" that include numerous issue tickets that are hopefully small enough for volunteers to take and do in a reasonably short period of time as and when people have a spare 30mins to work on this website.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-## See [to-do.md](to-do.md) for list of things that have not been done yet
+There is also a [to-do.md](to-do.md) file with a generic list of things that have not been done yet, eventually @only1chunts will convert these to individual tickets!
