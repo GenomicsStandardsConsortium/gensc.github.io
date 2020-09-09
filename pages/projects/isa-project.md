@@ -55,13 +55,15 @@ At the heart of this open source framework is the general-purpose **ISA-Tab file
 *   [www.isa-tools.org](http://www.isa-tools.org/) (specification, code repositories, examples, documentation)
     
 
-![image](images/ISA_image_001.png)
+![image](../images/ISA_image_001.png)
 
 
-![image](images/ISA_image_002.png)
+![image](../images/ISA_image_002.png)
   
 
-![image](images/ISA_image_003.png) ![image](ISA%20for%20GSC%20-April%202012_files/Image_004.png)
+![image](../images/ISA_image_003.png) 
+
+![image](../images/ISA_image_004.png)
 
   
 
