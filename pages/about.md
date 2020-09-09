@@ -23,7 +23,7 @@ Includes the names of our:
 
 ## [Community](./about/community.md)
 
-## [Publications](.about/publication-list.md)
+## [Publications](./about/publication-list.md)
 
 ## [Funding](./about/funding.md)
 
