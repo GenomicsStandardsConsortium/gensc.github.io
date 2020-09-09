@@ -6,13 +6,18 @@
 
 The GSC aims to make its activities transparent to the wider community through maintenance of a GSC website and when relevant, publication of GSC led articles. To date several roadmap publications have been published along with reports from all GSC workshops.
 
+GSC publication (https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/45575934/public/ "Collection"
+)
+GSC citing (https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/59763603/public/ "References")
+
 [GSC Project Publications](#project-publications)  
 [GSC Meeting Reports](#meeting-publications)  
 
 ## GSC Project Publications
 
-As an outgrowth of the activities surrounding the creation and implementation of the MIxS standard there are now [18 projects](http://gensc.org/projects/ "Projects") within the GSC. These efforts cover an ever widening range of standardization activities. The following publications are either directly or indirectly related to these projects. Furthermore, two umbrella publications titled [**Genomic standards consortium projects**](http://www.ncbi.nlm.nih.gov/pubmed/25197446) and [**The Genomic Standards Consortium**](http://www.ncbi.nlm.nih.gov/pubmed/21713030) detail how these projects are initiated and integrated within GSC.
-
+GSC Projects (http://gensc.org/projects/ "Projects") are an outgrowth of the activities surrounding the creation and implementation of the MIxS standard within the GSC. These efforts cover an ever widening range of standardization activities. 
+Furthermore, two umbrella publications titled [**Genomic standards consortium projects**](http://www.ncbi.nlm.nih.gov/pubmed/25197446) and [**The Genomic Standards Consortium**](http://www.ncbi.nlm.nih.gov/pubmed/21713030) detail how these projects are initiated and integrated within GSC.
+The following publications are either directly or indirectly related to these projects. 
 [**Minimum Information about a Biosynthetic Gene cluster.**](http://www.nature.com/nchembio/journal/v11/n9/full/nchembio.1890.html) Medema MH, Kottmann R, Yilmaz P, Cummings M, Biggins JB, Blin K, de Bruijn I et al. _Nat Chem Biol. 2015 ;11(9):625-631. doi:10.1038/nchembio.1890._
 
 [**The ocean sampling day consortium.**](http://www.ncbi.nlm.nih.gov/pubmed/26097697) Kopf A, Bicak M, Kottmann R, Schnetzer J, Kostadinov I et al. _Gigascience. 2015 Jun 19;4:27. doi: 10.1186/s13742-015-0066-5._
