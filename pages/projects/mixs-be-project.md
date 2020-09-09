@@ -46,19 +46,3 @@ Pelin Yilmaz (GSC)
 **14\. What are your current plans for publishing/promoting the project?** The MIxS-BE environmental package has been published in the ISME Journal, see: [www.nature.com/ismej/journal/v8/n1/full/ismej2013176a.html](http://www.nature.com/ismej/journal/v8/n1/full/ismej2013176a.html)
 
 **15\. References or relevant websites (for further reading)** See [MoBeDAC homepage](http://microbe.net/alfred-p-sloan-foundation/grantees_archive/microbiome-of-the-built-environment-data-analysis-core-mobedac/)
-
-### Leave a Reply [Cancel reply](/gensc/projects/mixs-indoor-gsc-project/#respond)
-
-Your email address will not be published. Required fields are marked \*
-
-Comment
-
-Name \*
-
-E-mail \*
-
-Website
-
-Save my name, email, and website in this browser for the next time I comment.
-
-  
