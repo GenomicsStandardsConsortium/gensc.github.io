@@ -22,27 +22,25 @@ GCDML
 
 **9\. Which existing projects, if any, does this one replace/complement/subsume/expand?** GCDML is the first reference implementation of the MIxS specification.
 
-**10\. How does this project fit into GSC’s mission statement ?** Helps implementation and adoption of MIxS and information exchange.
+**10\. How does this project fit into GSC’s mission statement?** Helps implementation and adoption of MIxS and information exchange.
 
-**11\. Will you start a GSC working group ?** Formed: [http://wiki.gensc.org/index.php?title=GCDML](http://wiki.gensc.org/index.php?title=GCDML)
+**11\. Will you start a GSC working group?** Formed: [http://wiki.gensc.org/index.php?title=GCDML](http://wiki.gensc.org/index.php?title=GCDML)
 
 **12\. How do you wish to further engage the GSC ?** GCDML is now primarily developed through the developer’s group.
 
-**13\. Do you already have a website or do you wish to create a home page for the project in the GSC website ?** GSC website: [http://wiki.gensc.org/index.php?title=GCDML](http://wiki.gensc.org/index.php?title=GCDML)
+**13\. Do you already have a website or do you wish to create a home page for the project in the GSC website?** GSC website: [http://wiki.gensc.org/index.php?title=GCDML](http://wiki.gensc.org/index.php?title=GCDML)
 
-**14\. What other resources might you like from what the GSC can offer (mailing lists, etc) ?** All needed resources already well established.
+**14\. What other resources might you like from what the GSC can offer (mailing lists, etc)?** All needed resources already well established.
 
-**15\. What kind of timeline are you working to for building consensus, releasing a first version etc** The timeline is synced with MIxS timeline of development.
+**15\. What kind of timeline are you working to for building consensus, releasing a first version etc?** The timeline is synced with MIxS timeline of development.
 
-**16\. How is this work currently funded ?** Funded through PhD work of Renzo Kottmann and volunteer activities within GSC. Currently no funding.
+**16\. How is this work currently funded?** Funded through PhD work of Renzo Kottmann and volunteer activities within GSC. Currently no funding.
 
-**17\. What resources will be required for completion ?** Current version complete. Documentation missing. Need of 2-6 Pm (FTE) to create full documentation and next version release.
+**17\. What resources will be required for completion?** Current version complete. Documentation missing. Need of 2-6 Pm (FTE) to create full documentation and next version release.
 
 **18\. What are your current plans for publishing/promoting the project?** No plans currently.
 
 **19\. References or relevant websites:**
-
-GCDML website: [http://wiki.gensc.org/index.php?title=GCDML](http://wiki.gensc.org/index.php?title=GCDML)
 
 GCDML Roadmap paper in SIGS:
 
