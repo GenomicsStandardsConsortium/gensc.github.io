@@ -6,7 +6,8 @@
 
 The GSC aims to make its activities transparent to the wider community through maintenance of a GSC website and when relevant, publication of GSC led articles. To date several roadmap publications have been published along with reports from all GSC workshops.
 
-[**GSC publication Collection**](https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/45575934/public/)
+[**GSC publication collection**](https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/45575934/public/)
+
 [**GSC citing references**](https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/59763603/public/)
 
 [GSC Project Publications](#project-publications)  
