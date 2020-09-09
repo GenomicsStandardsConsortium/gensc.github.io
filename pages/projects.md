@@ -96,7 +96,7 @@
 <td><a href="/images/envo.gif"><img style="vertical-align: top" src="../images/envo.gif" alt="envo" width="91" height="39" /></a></td>
 <td style="text-align: center;vertical-align: middle">EnvO</td>
 <td style="vertical-align: middle">Environment Ontology</td>
-<td style="vertical-align: middle"><a href="/pages/projects/the-environment-ontology-envo-project/">An ontology to describe the environment (and samples taken from it)</a></td>
+<td style="vertical-align: middle"><a href="/pages/projects/envo-project.html">An ontology to describe the environment (and samples taken from it)</a></td>
 <td>Pier Luigi Buttigieg</td>
 <td>GSC 14, 2012</td>
 </tr>
