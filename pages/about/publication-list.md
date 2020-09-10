@@ -19,56 +19,56 @@ The following publications are either directly or indirectly related to these pr
 
 [**GSC publication collection**](https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/45575934/public/)
 
-<! --- [**The ocean sampling day consortium.**](http://www.ncbi.nlm.nih.gov/pubmed/26097697) Kopf A, Bicak M, Kottmann R, Schnetzer J, Kostadinov I et al. _Gigascience. 2015 Jun 19;4:27. doi: 10.1186/s13742-015-0066-5._ --->
+<!--- [**The ocean sampling day consortium.**](http://www.ncbi.nlm.nih.gov/pubmed/26097697) Kopf A, Bicak M, Kottmann R, Schnetzer J, Kostadinov I et al. _Gigascience. 2015 Jun 19;4:27. doi: 10.1186/s13742-015-0066-5._ 
 
-[**Genomic Encyclopedia of Bacterial and Archaeal Type Strains, Phase III: the genomes of soil and plant-associated and newly described type strains.**](http://www.standardsingenomics.com/content/10/1/26) Whitman WB, Woyke T, Klenk HP, Zhou Y, Lilburn TG, Beck BJ, De Vos P et al. _Stand Genomic Sci. 2015 May 17; 10:26. doi:10.1186/s40793-015-0017-x._
+<!--- [**Genomic Encyclopedia of Bacterial and Archaeal Type Strains, Phase III: the genomes of soil and plant-associated and newly described type strains.**](http://www.standardsingenomics.com/content/10/1/26) Whitman WB, Woyke T, Klenk HP, Zhou Y, Lilburn TG, Beck BJ, De Vos P et al. _Stand Genomic Sci. 2015 May 17; 10:26. doi:10.1186/s40793-015-0017-x._
 
-[**Marine microbial biodiversity, bioinformatics and biotechnology (M2B3) data reporting and service standards.**](http://www.standardsingenomics.com/content/10/1/20) ten Hoopen P, Pesant S, Kottmann R, Kopf A, Bicak M et al. _Stand Genomic Sci. 2015 May 8; 10:20. doi:10.1186/s40793-015-0001-5._
+<!--- [**Marine microbial biodiversity, bioinformatics and biotechnology (M2B3) data reporting and service standards.**](http://www.standardsingenomics.com/content/10/1/20) ten Hoopen P, Pesant S, Kottmann R, Kopf A, Bicak M et al. _Stand Genomic Sci. 2015 May 8; 10:20. doi:10.1186/s40793-015-0001-5._
 
-[**Genomic encyclopedia of bacteria and archaea: sequencing a myriad of type strains.**](http://www.ncbi.nlm.nih.gov/pubmed/25093819) Kyrpides NC, Hugenholtz P, Eisen JA, Woyke T, Göker M et al. _PLoS Biol. 2014 Aug 5;12(8):e1001920. doi: 10.1371/journal.pbio.1001920._
+<!--- [**Genomic encyclopedia of bacteria and archaea: sequencing a myriad of type strains.**](http://www.ncbi.nlm.nih.gov/pubmed/25093819) Kyrpides NC, Hugenholtz P, Eisen JA, Woyke T, Göker M et al. _PLoS Biol. 2014 Aug 5;12(8):e1001920. doi: 10.1371/journal.pbio.1001920._
 
-[**Semantics in support of biodiversity knowledge discovery: an introduction to the biological collections ontology and related ontologies.**](http://www.ncbi.nlm.nih.gov/pubmed/24595056) Walls RL, Deck J, Guralnick R, Baskauf S, Beaman R et al. _PLoS One. 2014 Mar 3;9(3):e89606. doi: 10.1371/journal.pone.0089606._
+<!--- [**Semantics in support of biodiversity knowledge discovery: an introduction to the biological collections ontology and related ontologies.**](http://www.ncbi.nlm.nih.gov/pubmed/24595056) Walls RL, Deck J, Guralnick R, Baskauf S, Beaman R et al. _PLoS One. 2014 Mar 3;9(3):e89606. doi: 10.1371/journal.pone.0089606._
 
-[**The founding charter of the Genomic Observatories Network.**](http://www.ncbi.nlm.nih.gov/pubmed/24606731) Davies N, Field D, Amaral-Zettler L, Clark MS, Deck J et al. _Gigascience. 2014 Mar 7;3(1):2. doi: 10.1186/2047-217X-3-2._
+<!--- [**The founding charter of the Genomic Observatories Network.**](http://www.ncbi.nlm.nih.gov/pubmed/24606731) Davies N, Field D, Amaral-Zettler L, Clark MS, Deck J et al. _Gigascience. 2014 Mar 7;3(1):2. doi: 10.1186/2047-217X-3-2._
 
-[**MIxS-BE: a MIxS extension defining a minimum information standard for sequence data from the built environment.**](http://www.ncbi.nlm.nih.gov/pubmed/24152717) Glass EM, Dribinsky Y, Yilmaz P, Levin H, Van Pelt R, Wendel D, Wilke A, Eisen JA, Huse S, Shipanova A, Sogin M, Stajich J, Knight R, Meyer F, Schriml LM. _ISME J. 2014 Jan;8(1):1-3. doi: 10.1038/ismej.2013.176._
+<!--- [**MIxS-BE: a MIxS extension defining a minimum information standard for sequence data from the built environment.**](http://www.ncbi.nlm.nih.gov/pubmed/24152717) Glass EM, Dribinsky Y, Yilmaz P, Levin H, Van Pelt R, Wendel D, Wilke A, Eisen JA, Huse S, Shipanova A, Sogin M, Stajich J, Knight R, Meyer F, Schriml LM. _ISME J. 2014 Jan;8(1):1-3. doi: 10.1038/ismej.2013.176._
 
-[**Genomic Encyclopedia of Type Strains, Phase I: The one thousand microbial genomes (KMG-I) project.**](http://www.ncbi.nlm.nih.gov/pubmed/25197443) Kyrpides NC, Woyke T, Eisen JA, Garrity G, Lilburn TG, Beck BJ, Whitman WB, Hugenholtz P, Klenk HP. _Stand Genomic Sci. 2013 Dec 17;9(3):1278-84. doi: 10.4056/sigs.5068949._
+<!--- [**Genomic Encyclopedia of Type Strains, Phase I: The one thousand microbial genomes (KMG-I) project.**](http://www.ncbi.nlm.nih.gov/pubmed/25197443) Kyrpides NC, Woyke T, Eisen JA, Garrity G, Lilburn TG, Beck BJ, Whitman WB, Hugenholtz P, Klenk HP. _Stand Genomic Sci. 2013 Dec 17;9(3):1278-84. doi: 10.4056/sigs.5068949._
 
-[**The environment ontology: contextualising biological and biomedical entities.**](http://www.ncbi.nlm.nih.gov/pubmed/24330602) Buttigieg PL, Morrison N, Smith B, Mungall CJ, Lewis SE; ENVO Consortium. _J Biomed Semantics. 2013 Dec 11;4(1):43. doi: 10.1186/2041-1480-4-43._
+<!--- [**The environment ontology: contextualising biological and biomedical entities.**](http://www.ncbi.nlm.nih.gov/pubmed/24330602) Buttigieg PL, Morrison N, Smith B, Mungall CJ, Lewis SE; ENVO Consortium. _J Biomed Semantics. 2013 Dec 11;4(1):43. doi: 10.1186/2041-1480-4-43._
 
-[**Darwin Core: an evolving community-developed biodiversity data standard.**](http://www.ncbi.nlm.nih.gov/pubmed/22238640) Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, Robertson T, Vieglais D. _PLoS One. 2012;7(1):e29715. doi: 10.1371/journal.pone.0029715._
+<!--- [**Darwin Core: an evolving community-developed biodiversity data standard.**](http://www.ncbi.nlm.nih.gov/pubmed/22238640) Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, Robertson T, Vieglais D. _PLoS One. 2012;7(1):e29715. doi: 10.1371/journal.pone.0029715._
 
-[**The Biological Observation Matrix (BIOM) format or: how I learned to stop worrying and love the ome-ome**](http://www.ncbi.nlm.nih.gov/pubmed/23587224). McDonald D, Clemente JC, Kuczynski J, Rideout JR, Stombaugh J, Wendel D, Wilke A, Huse S, Hufnagle J, Meyer F, Knight R, Caporaso JG. _Gigascience. 2012 Jul 12;1(1):7. doi: 10.1186/2047-217X-1-7._
+<!--- [**The Biological Observation Matrix (BIOM) format or: how I learned to stop worrying and love the ome-ome**](http://www.ncbi.nlm.nih.gov/pubmed/23587224). McDonald D, Clemente JC, Kuczynski J, Rideout JR, Stombaugh J, Wendel D, Wilke A, Huse S, Hufnagle J, Meyer F, Knight R, Caporaso JG. _Gigascience. 2012 Jul 12;1(1):7. doi: 10.1186/2047-217X-1-7._
 
-[**A call for an international network of genomic observatories (GOs).**](http://www.ncbi.nlm.nih.gov/pubmed/23587188) Davies N, Meyer C, Gilbert JA, Amaral-Zettler L, Deck J, Bicak M, Rocca-Serra P, Assunta-Sansone S, Willis K, Field D. _Gigascience. 2012 Jul 12;1(1):5. doi: 10.1186/2047-217X-1-5._
+<!--- [**A call for an international network of genomic observatories (GOs).**](http://www.ncbi.nlm.nih.gov/pubmed/23587188) Davies N, Meyer C, Gilbert JA, Amaral-Zettler L, Deck J, Bicak M, Rocca-Serra P, Assunta-Sansone S, Willis K, Field D. _Gigascience. 2012 Jul 12;1(1):5. doi: 10.1186/2047-217X-1-5._
 
-[**The M5nr: a novel non-redundant database containing protein sequences and annotations from multiple sources and associated tools.**](http://www.ncbi.nlm.nih.gov/pubmed/22720753) Wilke A, Harrison T, Wilkening J, Field D, Glass EM, Kyrpides N, Mavrommatis K, Meyer F. _BMC Bioinformatics. 2012 Jun 21;13:141. doi: 10.1186/1471-2105-13-141._
+<!--- [**The M5nr: a novel non-redundant database containing protein sequences and annotations from multiple sources and associated tools.**](http://www.ncbi.nlm.nih.gov/pubmed/22720753) Wilke A, Harrison T, Wilkening J, Field D, Glass EM, Kyrpides N, Mavrommatis K, Meyer F. _BMC Bioinformatics. 2012 Jun 21;13:141. doi: 10.1186/1471-2105-13-141._
 
-[**Sequencing data: A genomic network to monitor Earth.**](http://www.ncbi.nlm.nih.gov/pubmed/22237100) Davies N, Field D, Genomic Observatories Network. _Nature. 2012 Jan 11;481(7380):145. doi: 10.1038/481145a._
+<!--- [**Sequencing data: A genomic network to monitor Earth.**](http://www.ncbi.nlm.nih.gov/pubmed/22237100) Davies N, Field D, Genomic Observatories Network. _Nature. 2012 Jan 11;481(7380):145. doi: 10.1038/481145a._
 
-[**Toward interoperable bioscience data.**](http://www.ncbi.nlm.nih.gov/pubmed/22281772) Sansone SA, Rocca-Serra P, Field D, Maguire E, Taylor C et al. _Nat Genet. 2012 Jan 27;44(2):121-6. doi: 10.1038/ng.1054._
+<!--- [**Toward interoperable bioscience data.**](http://www.ncbi.nlm.nih.gov/pubmed/22281772) Sansone SA, Rocca-Serra P, Field D, Maguire E, Taylor C et al. _Nat Genet. 2012 Jan 27;44(2):121-6. doi: 10.1038/ng.1054._
 
-[**The genomic standards consortium: bringing standards to life for microbial ecology.**](http://www.ncbi.nlm.nih.gov/pubmed/21472015) Yilmaz P, Gilbert JA, Knight R, Amaral-Zettler L, Karsch-Mizrachi I, Cochrane G, Nakamura Y, Sansone SA, Glöckner FO, Field D. _ISME J. 2011 Oct;5(10):1565-7. doi: 10.1038/ismej.2011.39._
+<!--- [**The genomic standards consortium: bringing standards to life for microbial ecology.**](http://www.ncbi.nlm.nih.gov/pubmed/21472015) Yilmaz P, Gilbert JA, Knight R, Amaral-Zettler L, Karsch-Mizrachi I, Cochrane G, Nakamura Y, Sansone SA, Glöckner FO, Field D. _ISME J. 2011 Oct;5(10):1565-7. doi: 10.1038/ismej.2011.39._
 
-[**Minimum information about a marker gene sequence (MIMARKS) and minimum information about any (x) sequence (MIxS) specifications.**](http://www.ncbi.nlm.nih.gov/pubmed/21552244) Yilmaz P, Kottmann R, Field D, Knight R, Cole JR, Amaral-Zettler L, Gilbert JA, Karsch-Mizrachi I, Johnston A, Cochrane G, Vaughan R, Hunter C, Park J, Morrison N, Rocca-Serra P, Sterk P et al. _Nat Biotechnol. 2011 May;29(5):415-20. doi: 10.1038/nbt.1823._
+<!--- [**Minimum information about a marker gene sequence (MIMARKS) and minimum information about any (x) sequence (MIxS) specifications.**](http://www.ncbi.nlm.nih.gov/pubmed/21552244) Yilmaz P, Kottmann R, Field D, Knight R, Cole JR, Amaral-Zettler L, Gilbert JA, Karsch-Mizrachi I, Johnston A, Cochrane G, Vaughan R, Hunter C, Park J, Morrison N, Rocca-Serra P, Sterk P et al. _Nat Biotechnol. 2011 May;29(5):415-20. doi: 10.1038/nbt.1823._
 
-[**ISA software suite: supporting standards-compliant experimental annotation and enabling curation at the community level.**](http://www.ncbi.nlm.nih.gov/pubmed/20679334) Rocca-Serra P, Brandizi M, Maguire E, Sklyar N, Taylor C, Begley K, Field D, Harris S, Hide W, Hofmann O, Neumann S, Sterk P, Tong W, Sansone SA_. Bioinformatics. 2010 Sep 15;26(18):2354-6. doi: 10.1093/bioinformatics/btq415._
+<!--- [**ISA software suite: supporting standards-compliant experimental annotation and enabling curation at the community level.**](http://www.ncbi.nlm.nih.gov/pubmed/20679334) Rocca-Serra P, Brandizi M, Maguire E, Sklyar N, Taylor C, Begley K, Field D, Harris S, Hide W, Hofmann O, Neumann S, Sterk P, Tong W, Sansone SA_. Bioinformatics. 2010 Sep 15;26(18):2354-6. doi: 10.1093/bioinformatics/btq415._
 
-[**A phylogeny-driven genomic encyclopaedia of Bacteria and Archaea.**](http://www.ncbi.nlm.nih.gov/pubmed/20033048) Wu D, Hugenholtz P, Mavromatis K, Pukall R, Dalin E et al. _Nature. 2009 Dec 24;462(7276):1056-60. doi: 10.1038/nature08656._
+<!--- [**A phylogeny-driven genomic encyclopaedia of Bacteria and Archaea.**](http://www.ncbi.nlm.nih.gov/pubmed/20033048) Wu D, Hugenholtz P, Mavromatis K, Pukall R, Dalin E et al. _Nature. 2009 Dec 24;462(7276):1056-60. doi: 10.1038/nature08656._
 
-[**Extending Standards for Genomics and Metagenomics Data: A Research Coordination Network for the Genomic Standards Consortium (RCN4GSC).**](http://www.ncbi.nlm.nih.gov/pubmed/21304642) Wooley JC, Field D, Glöckner FO. _Stand Genomic Sci. 2009 Jul 20;1(1):87-90. doi: 10.4056/sigs.26218._
+<!--- [**Extending Standards for Genomics and Metagenomics Data: A Research Coordination Network for the Genomic Standards Consortium (RCN4GSC).**](http://www.ncbi.nlm.nih.gov/pubmed/21304642) Wooley JC, Field D, Glöckner FO. _Stand Genomic Sci. 2009 Jul 20;1(1):87-90. doi: 10.4056/sigs.26218._
 
-[**Standards in genomic sciences.**](http://www.ncbi.nlm.nih.gov/pubmed/21304630) _Stand Genomic Sci. 2009 Jul 20;1(1):1-2. doi: 10.4056/sigs.34251._
+<!--- [**Standards in genomic sciences.**](http://www.ncbi.nlm.nih.gov/pubmed/21304630) _Stand Genomic Sci. 2009 Jul 20;1(1):1-2. doi: 10.4056/sigs.34251._
 
-[**A standard MIGS/MIMS compliant XML Schema: toward the development of the Genomic Contextual Data Markup Language (GCDML).**](http://www.ncbi.nlm.nih.gov/pubmed/18479204) Kottmann R, Gray T, Murphy S, Kagan L, Kravitz S, Lombardot T, Field D, Glöckner FO. _OMICS. 2008 Jun;12(2):115-21. doi: 10.1089/omi.2008.0A10._
+<!--- [**A standard MIGS/MIMS compliant XML Schema: toward the development of the Genomic Contextual Data Markup Language (GCDML).**](http://www.ncbi.nlm.nih.gov/pubmed/18479204) Kottmann R, Gray T, Murphy S, Kagan L, Kravitz S, Lombardot T, Field D, Glöckner FO. _OMICS. 2008 Jun;12(2):115-21. doi: 10.1089/omi.2008.0A10._
 
-[**Laying the foundation for a Genomic Rosetta Stone: creating information hubs through the use of consensus identifiers.**](http://www.ncbi.nlm.nih.gov/pubmed/18479205) Van Brabant B, Gray T, Verslyppe B, Kyrpides N, Dietrich K, Glöckner FO, Cole J, Farris R, Schriml LM, De Vos P, De Baets B, Field D, Dawyndt P. _OMICS. 2008 Jun;12(2):123-7. doi: 10.1089/omi.2008.0020._
+<!--- [**Laying the foundation for a Genomic Rosetta Stone: creating information hubs through the use of consensus identifiers.**](http://www.ncbi.nlm.nih.gov/pubmed/18479205) Van Brabant B, Gray T, Verslyppe B, Kyrpides N, Dietrich K, Glöckner FO, Cole J, Farris R, Schriml LM, De Vos P, De Baets B, Field D, Dawyndt P. _OMICS. 2008 Jun;12(2):123-7. doi: 10.1089/omi.2008.0020._
 
-[**Toward a standards-compliant genomic and metagenomic publication record.**](http://www.ncbi.nlm.nih.gov/pubmed/18564916) Garrity GM, Field D, Kyrpides N, Hirschman L, Sansone SA, Angiuoli S, Cole JR, Glöckner FO, Kolker E, Kowalchuk G, Moran MA, Ussery D, White O. _OMICS. 2008 Jun;12(2):157-60. doi: 10.1089/omi.2008.A2B2._
+<!--- [**Toward a standards-compliant genomic and metagenomic publication record.**](http://www.ncbi.nlm.nih.gov/pubmed/18564916) Garrity GM, Field D, Kyrpides N, Hirschman L, Sansone SA, Angiuoli S, Cole JR, Glöckner FO, Kolker E, Kowalchuk G, Moran MA, Ussery D, White O. _OMICS. 2008 Jun;12(2):157-60. doi: 10.1089/omi.2008.A2B2._
 
-[**The minimum information about a genome sequence (MIGS) specification.**](http://www.ncbi.nlm.nih.gov/pubmed/18464787) Field D, Garrity G, Gray T, Morrison N, Selengut J, Sterk P, Tatusova T, Thomson N, Allen MJ, Angiuoli SV, Ashburner M, Axelrod N, Baldauf S, Ballard S, Boore J, Cochrane G, Cole J, Dawyndt P et al. _Nat Biotechnol. 2008 May;26(5):541-7. doi: 10.1038/nbt1360._
---->
+<!--- [**The minimum information about a genome sequence (MIGS) specification.**](http://www.ncbi.nlm.nih.gov/pubmed/18464787) Field D, Garrity G, Gray T, Morrison N, Selengut J, Sterk P, Tatusova T, Thomson N, Allen MJ, Angiuoli SV, Ashburner M, Axelrod N, Baldauf S, Ballard S, Boore J, Cochrane G, Cole J, Dawyndt P et al. _Nat Biotechnol. 2008 May;26(5):541-7. doi: 10.1038/nbt1360._ 
+
 
 ## Meeting Reports
 
