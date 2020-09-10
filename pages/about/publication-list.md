@@ -19,8 +19,7 @@ The following publications are either directly or indirectly related to these pr
 
 [**GSC publication collection**](https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/45575934/public/)
 
-<! ---
-[**The ocean sampling day consortium.**](http://www.ncbi.nlm.nih.gov/pubmed/26097697) Kopf A, Bicak M, Kottmann R, Schnetzer J, Kostadinov I et al. _Gigascience. 2015 Jun 19;4:27. doi: 10.1186/s13742-015-0066-5._
+<! --- [**The ocean sampling day consortium.**](http://www.ncbi.nlm.nih.gov/pubmed/26097697) Kopf A, Bicak M, Kottmann R, Schnetzer J, Kostadinov I et al. _Gigascience. 2015 Jun 19;4:27. doi: 10.1186/s13742-015-0066-5._ --->
 
 [**Genomic Encyclopedia of Bacterial and Archaeal Type Strains, Phase III: the genomes of soil and plant-associated and newly described type strains.**](http://www.standardsingenomics.com/content/10/1/26) Whitman WB, Woyke T, Klenk HP, Zhou Y, Lilburn TG, Beck BJ, De Vos P et al. _Stand Genomic Sci. 2015 May 17; 10:26. doi:10.1186/s40793-015-0017-x._
 
