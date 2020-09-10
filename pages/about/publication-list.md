@@ -6,12 +6,8 @@
 
 The GSC aims to make its activities transparent to the wider community through maintenance of a GSC website and when relevant, publication of GSC led articles. To date several roadmap publications have been published along with reports from all GSC workshops.
 
-[**GSC publication collection**](https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/45575934/public/)
-
 [**GSC citing references**](https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/59763603/public/)
 
-[GSC Project Publications](#project-publications)  
-[GSC Meeting Reports](#meeting-publications)  
 
 ## GSC Project Publications
 
@@ -20,6 +16,10 @@ Furthermore, two umbrella publications titled [**Genomic standards consortium pr
 The following publications are either directly or indirectly related to these projects. 
 [**Minimum Information about a Biosynthetic Gene cluster.**](http://www.nature.com/nchembio/journal/v11/n9/full/nchembio.1890.html) Medema MH, Kottmann R, Yilmaz P, Cummings M, Biggins JB, Blin K, de Bruijn I et al. _Nat Chem Biol. 2015 ;11(9):625-631. doi:10.1038/nchembio.1890._
 
+
+[**GSC publication collection**](https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/45575934/public/)
+
+<! --
 [**The ocean sampling day consortium.**](http://www.ncbi.nlm.nih.gov/pubmed/26097697) Kopf A, Bicak M, Kottmann R, Schnetzer J, Kostadinov I et al. _Gigascience. 2015 Jun 19;4:27. doi: 10.1186/s13742-015-0066-5._
 
 [**Genomic Encyclopedia of Bacterial and Archaeal Type Strains, Phase III: the genomes of soil and plant-associated and newly described type strains.**](http://www.standardsingenomics.com/content/10/1/26) Whitman WB, Woyke T, Klenk HP, Zhou Y, Lilburn TG, Beck BJ, De Vos P et al. _Stand Genomic Sci. 2015 May 17; 10:26. doi:10.1186/s40793-015-0017-x._
@@ -69,6 +69,7 @@ The following publications are either directly or indirectly related to these pr
 [**Toward a standards-compliant genomic and metagenomic publication record.**](http://www.ncbi.nlm.nih.gov/pubmed/18564916) Garrity GM, Field D, Kyrpides N, Hirschman L, Sansone SA, Angiuoli S, Cole JR, Glöckner FO, Kolker E, Kowalchuk G, Moran MA, Ussery D, White O. _OMICS. 2008 Jun;12(2):157-60. doi: 10.1089/omi.2008.A2B2._
 
 [**The minimum information about a genome sequence (MIGS) specification.**](http://www.ncbi.nlm.nih.gov/pubmed/18464787) Field D, Garrity G, Gray T, Morrison N, Selengut J, Sterk P, Tatusova T, Thomson N, Allen MJ, Angiuoli SV, Ashburner M, Axelrod N, Baldauf S, Ballard S, Boore J, Cochrane G, Cole J, Dawyndt P et al. _Nat Biotechnol. 2008 May;26(5):541-7. doi: 10.1038/nbt1360._
+-->
 
 ## Meeting Reports
 
