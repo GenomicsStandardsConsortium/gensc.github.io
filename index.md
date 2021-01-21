@@ -13,10 +13,9 @@ we should insert an active news feed here showing title and topic of most recent
 
  
 ## Twitter feed
-We need to make this twitter feed window smaller! but i dont know how to do that.
-<a class="twitter-timeline" href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw">Tweets by genomestandards</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a width=400  class="twitter-timeline" href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw">Tweets by genomestandards</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script> 
+<a width=400 height=800 class="twitter-timeline" href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw">Tweets by genomestandards</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script> 
+
 <!--
 ## Site Map
 * [Home](/)
