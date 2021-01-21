@@ -26,15 +26,15 @@ Current Board Members
     <td>Bonnie Hurwitz, University of Arizona (May 2019-)</td>
     <td>Christopher Hunter, GigaScience (May 2018 -)</td>
     <td>Emiley Eloe-Fadrosh, DOE JGI (May 2018 -)</td>
-  </tr>
+</tr>
     <td><img src="../../images/board/Folker_Meyer-400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Granger_Sutton400x400.jpg" width"200" height="200"/><td>
+    <td><img src="../../images/board/Granger_Sutton400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Lynn_Schriml-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
     <td>Folker Meyer, Argonne (August 2009 -). Treasurer (2015 -)</td>
     <td>Granger Sutton, J. Craig Venter Institute (September 2015 -)</td>
-    <td>Lynn Schriml, University of Maryland (Sept 2009) (Treasurer of GSC (April 2010 – May 2015). President (May 2015 – )</td>
+  <td>Lynn Schriml, University of Maryland (Sept 2009) (Treasurer of GSC (April 2010 – May 2015). President (May 2015 –)</td>
   </tr>
     <td><img src="../../images/board/Maria_Chuvochina-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Neil_Davies-400x400.jpg" width="200" height="200" /></td>
