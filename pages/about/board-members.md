@@ -45,6 +45,8 @@ Current Board Members
 
 [![](http://press3.mcs.anl.gov/gensc/files/2019/02/RamonaWalls-253x300.jpg)](http://press3.mcs.anl.gov/gensc/ramonawalls/) Ramona Walls, CyVerse, University of Arizona (February 2019 -)
 
+[![]()]() Pier Buttigier, HGF MPG Joint Research Group for Deep-Sea Ecology and Technology, MPI for Marine Microbiology, Bremen. (2020 -)
+
 Institutional Liasons to the GSC Board
 --------------------------------------
 
