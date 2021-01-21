@@ -16,41 +16,61 @@ In 2011 (at GSC 11), the Board ratified a set of ByLaws that define how the GSC 
 
 Current Board Members
 ---------------------
+<table style="width:100%">
+  <tr>
+    <td><img src="../../images/board/Bonnie_Hurwitz-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Christopher_Hunter-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Eloe_Fadrosh-400x400.jpg" width="200" height="200" /></td>
+  </tr>
+  <tr>
+    <td>Bonnie Hurwitz, University of Arizona (May 2019-)</td>
+    <td>Christopher Hunter, GigaScience (May 2018 -)</td>
+    <td>Emiley Eloe-Fadrosh, DOE JGI (May 2018 -)</td>
+  </tr>
+    <td><img src="../../images/board/Folker_Meyer-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Granger_Sutton400x400.jpg" width"200" height="200"/><td>
+    <td><img src="../../images/board/Lynn_Schriml-400x400.jpg" width="200" height="200" /></td>
+  </tr>
+  <tr>
+    <td>Folker Meyer, Argonne (August 2009 -). Treasurer (2015 -)</td>
+    <td>Granger Sutton, J. Craig Venter Institute (September 2015 -)</td>
+    <td>Lynn Schriml, University of Maryland (Sept 2009) (Treasurer of GSC (April 2010 – May 2015). President (May 2015 – )</td>
+  </tr>
+    <td><img src="../../images/board/Maria_Chuvochina-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Neil_Davies-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Nikos_Kyrpides-400x400.jpg" width="200" height="200" /></td>
+  </tr>
+  <tr>
+    <td>Maria Chuvochina, Australian Centre for Ecogenomics (May 2019-)</td>
+    <td>Neil Davies, Berkeley (Sept 2011 -)</td>
+    <td>Nikos Kyrpides, DOE JGI (April 2009-)</td>
+  </tr>
+    <td><img src="../../images/board/Phil_Hugenholtz-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Pier_Buttigier-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Ramona_Walls-400x400.jpg" width="200" height="200" /></td>
+  </tr>
+  <tr>
+    <td>Philip Hugenholtz, The University of Queensland (September 2015-)</td>
+    <td>Pier Buttigier, MPI for Marine Microbiology, Bremen. (2020 -)</td>
+    <td>Ramona Walls, CyVerse, University of Arizona (February 2019 -)</td>
+    
+  </tr>
+    <td><img src="../../images/board/Rob_Finn-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Scott_Tighe-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Susanna_Sansone-400x400.jpg" width="200" height="200" /></td>
+  </tr>
+  <tr>
+    <td>Rob Finn, EMBL-EBI (May 2019- )</td>
+    <td>Scott Tighe, University of Vermont (May 2019 – )</td>
+    <td>Susanna Sansone, University of Oxford (April 2009-)</td>
+  </tr>
+</table>
 
-[![](http://press3.mcs.anl.gov/gensc/files/2019/08/Maria_Chuvochina-225x300.jpg)](http://press3.mcs.anl.gov/gensc/files/2019/08/Maria_Chuvochina-e1565302147402.jpg) Maria Chuvochina, Australian Centre for Ecogenomics (May 2019-)
-
-![img-4](http://press3.mcs.anl.gov/gensc/files/2015/09/img-4.png) Neil Davies, Berkeley (Sept 2011 -)
-
-![](http://press3.mcs.anl.gov/gensc/files/2018/05/Eloe-Fadrosh-835x1024.jpg) Emiley Eloe-Fadrosh, DOE JGI (May 2018 -)
-
-[![](http://press3.mcs.anl.gov/gensc/files/2019/08/RobFinn.jpeg)](http://press3.mcs.anl.gov/gensc/files/2019/08/RobFinn.jpeg) Rob Finn, EMBL-EBI (May 2019- )
-
-![img-19](http://press3.mcs.anl.gov/gensc/files/2015/09/img-19.png) Philip Hugenholtz, The University of Queensland (September 2015-)
-
-![](http://press3.mcs.anl.gov/gensc/files/2018/05/Christopher_Hunter.jpg) Christopher Hunter, GigaScience (May 2018 -)
-
-[![](http://press3.mcs.anl.gov/gensc/files/2019/08/Bonnie_Hurwitz-300x300.jpg)](http://press3.mcs.anl.gov/gensc/files/2019/08/Bonnie_Hurwitz.jpg) Bonnie Hurwitz, University of Arizona (May 2019- )
-
-![img-11](http://press3.mcs.anl.gov/gensc/files/2015/09/img-11.png) Nikos Kyrpides, DOE JGI (April 2009-)
-
-![img-9](http://press3.mcs.anl.gov/gensc/files/2015/09/img-9.png) Folker Meyer, Argonne (August 2009 -). Treasurer (2015 -)
-
-![img-12](http://press3.mcs.anl.gov/gensc/files/2015/09/img-12.png) Susanna Sansone, University of Oxford (April 2009-)
-
-![img-14](http://press3.mcs.anl.gov/gensc/files/2015/09/img-14.png) Lynn Schriml, University of Maryland (Sept 2009) (Treasurer of GSC (April 2010 – May 2015). President (May 2015 – )
-
-![img-18](http://press3.mcs.anl.gov/gensc/files/2015/09/img-18.jpg) Granger Sutton, J. Craig Venter Institute (September 2015 -)
-
-[![](http://press3.mcs.anl.gov/gensc/files/2019/08/Scott_Tighe-1.png)](http://press3.mcs.anl.gov/gensc/files/2019/08/Scott_Tighe-1.png)Scott Tighe, University of Vermont (May 2019 – )
-
-[![](http://press3.mcs.anl.gov/gensc/files/2019/02/RamonaWalls-253x300.jpg)](http://press3.mcs.anl.gov/gensc/ramonawalls/) Ramona Walls, CyVerse, University of Arizona (February 2019 -)
-
-[![]()]() Pier Buttigier, HGF MPG Joint Research Group for Deep-Sea Ecology and Technology, MPI for Marine Microbiology, Bremen. (2020 -)
 
 Institutional Liasons to the GSC Board
 --------------------------------------
 
-![img-8](http://press3.mcs.anl.gov/gensc/files/2015/09/img-8.png)Ilene Mizrachi (NCBI/GenBank)
+<img src="../../images/board/Ilene_Mizrachi-400x400.jpg" width="200" height="200" /> Ilene Mizrachi (NCBI/GenBank)
 
 Advisory Board members
 ----------------------
