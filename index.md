@@ -8,9 +8,10 @@
 The Genomic Standards Consortium (GSC) is an open-membership working body formed in September 2005. The aim of the GSC is making genomic data discoverable. The GSC enables genomic data integration, discovery and comparison through international community-driven standards.
 Learn more on the [About](https://genomicsstandardsconsortium.github.io/gensc.github.io/pages/about.html) page.
 
-# News
-we should insert an active news feed here showing title and topic of most recent news itmes added, but I have no idea how to do that.<br>
-{% include linked_post.html url="meetings" %}
+# [News](https://genomicsstandardsconsortium.github.io/gensc.github.io/pages/news.html)
+{% for post in site.posts limit:1 %}
+- {{ post.date | date: "%-d %B %Y" }} - {{ post.title }}
+{% endfor %}
  
 ## Twitter <a href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @genomestandards</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
