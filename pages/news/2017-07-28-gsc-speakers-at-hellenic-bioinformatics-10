@@ -1,4 +1,13 @@
-[Home](https://gensc.org) › [Meeting](https://gensc.org/category/meeting/) › GSC Speakers at Hellenic Bioinformatics 10
+---
+layout: default
+title: GSC Speakers at Hellenic Bioinformatics 10
+category: news
+tag: [Pelin Yilmaz, meetings, GSC speakers]
+date: 2017-08-28
+---
+
+{% include header.html %}
+
 
 GSC Speakers at Hellenic Bioinformatics 10
 ==========================================
