@@ -9,13 +9,13 @@ The Genomic Standards Consortium (GSC) is an open-membership working body formed
 Learn more on the [About](https://genomicsstandardsconsortium.github.io/gensc.github.io/pages/about.html) page.
 
 # News
-we should insert an active news feed here showing title and topic of most recent news itmes added, but I have no idea how to do that.
-{% include linked_post.html url="2019-07-26-gsc22_bangkok_thailand.html" %}
+we should insert an active news feed here showing title and topic of most recent news itmes added, but I have no idea how to do that.<br>
+{% include linked_post.html url="pages/meetings.html" %}
  
-## Twitter feed
+## Twitter <a href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @genomestandards</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
 <a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw">Tweets by genomestandards</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @genomestandards</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--
 ## Site Map
