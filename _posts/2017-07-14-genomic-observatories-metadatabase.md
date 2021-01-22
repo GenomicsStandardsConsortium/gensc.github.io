@@ -3,7 +3,7 @@ layout: default
 title: Genomic Observatories Metadatabase
 category: news
 tag: [Pelin Yilmaz, announcement, news, Genomic Observatories]
-date: 2021-01-22
+date: 2017-08-14
 ---
 
 [Home](https://gensc.org) › [Biodiversity](https://gensc.org/category/biodiversity/) › Genomic Observatories Metadatabase
