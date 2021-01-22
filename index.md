@@ -13,9 +13,9 @@ we should insert an active news feed here showing title and topic of most recent
 
  
 ## Twitter feed
-<a href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @genomestandards</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw">Tweets by genomestandards</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<iframe> src=<a class="twitter-timeline" href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw">Tweets by genomestandards</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script> width="400" height="400" </iframe>
+<a href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @genomestandards</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--
 ## Site Map
