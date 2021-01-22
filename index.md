@@ -10,7 +10,7 @@ Learn more on the [About](https://genomicsstandardsconsortium.github.io/gensc.gi
 
 # News
 we should insert an active news feed here showing title and topic of most recent news itmes added, but I have no idea how to do that.<br>
-{% include linked_post.html url="pages/meetings.html" %}
+{% include linked_post.html url="meetings" %}
  
 ## Twitter <a href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @genomestandards</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
