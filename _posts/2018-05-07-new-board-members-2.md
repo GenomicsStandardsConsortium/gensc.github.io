@@ -4,6 +4,7 @@ title: New Board Members
 category: news
 tag: [Pelin Yilmaz, board, news]
 date: 2018-05-07
+permalink: /news/2018/05/07/new-board-members-2.html
 ---
 {% include header.html %}
 
