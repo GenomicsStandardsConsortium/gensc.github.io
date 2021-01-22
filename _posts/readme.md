@@ -1,15 +1,6 @@
----
-layout: default
-title: Posts Readme
-category: reference
-tag: 
-date: 2021-01-22
-published:false
----
-
-# This is the first post
+# This is not a post
 To enable github sites to use the baked in jekyl blog functionality we need to put all news items (our equivilent to blog posts) in this directory, named with the format:
-YYYY-MM-DD-title.md as seen in the file name of this first post (2021-01-21-readme.md)
+YYYY-MM-DD-title.md 
 There are some very useful tips on getting started with jekyl blogs [here](https://jekyllrb.com/docs/posts/)
 
 All posts need a Front matter, e.g.<br>
@@ -22,8 +13,10 @@ All posts need a Front matter, e.g.<br>
 <br>---"
 
 
-The tags and categories are indexed in site.tags and site.categories which means they can be used in pages
-We should use the tags:
+The tags and categories are indexed in site.tags and site.categories which means they can be used in pages.
+Tags are like keywords, we can include the page author in tags, they should be listed as yaml lists (see example above).
+
+We should use the categories:
 <table>
 <thead>
   <tr>
