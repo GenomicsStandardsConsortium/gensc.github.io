@@ -1,3 +1,11 @@
+---
+layout: default
+title: 
+category: news
+tag: [meeting, GSC22, Thailand, announcment, Lynn Schriml]
+date: 2019-07-26
+---
+
 Save The Date: GSC22 July 13-17, 2020 Bangkok, Thailand
 =======================================================
 
