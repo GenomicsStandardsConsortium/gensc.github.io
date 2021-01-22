@@ -1,4 +1,14 @@
+---
+layout: default
+title: New Board Members
+category: news
+tag: [Pelin Yilmaz, board, news]
+date: 2021-01-22
+---
+{% include header.html %}
+
 New Board Members
+=================
 
 Posted on May 7, 2018 by pyilmaz
 
