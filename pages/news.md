@@ -3,4 +3,11 @@
 Stub for News page.
 Needs all information added and we need to create a complete archive of all old news items currently available on <https://gensc.org/gsc-blog/>
 
-Ideally this page will auto update when new items are added to "/pages/news/" folder, but I have no idea how to do that in markdown!
+Ideally this page will auto update when new items are added to "_posts" folder, I think that should be happening below now.
+
+<ui>
+  {% for post in site.posts %}
+     {{ post.date | date: "%-d %B %Y" }} <a href="{{ post.url }}">{{ post.excerpt }} </a>
+        <br>
+  {% endfor %}
+</ui>
