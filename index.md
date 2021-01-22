@@ -9,7 +9,7 @@ The Genomic Standards Consortium (GSC) is an open-membership working body formed
 Learn more on the [About](https://genomicsstandardsconsortium.github.io/gensc.github.io/pages/about.html) page.
 
 # [News](https://genomicsstandardsconsortium.github.io/gensc.github.io/pages/news.html)
-{% for post in site.posts limit:1 %}
+{% for post in site.posts limit:3 %}
 - {{ post.date | date: "%-d %B %Y" }} - {{ post.title }}
 {% endfor %}
  
