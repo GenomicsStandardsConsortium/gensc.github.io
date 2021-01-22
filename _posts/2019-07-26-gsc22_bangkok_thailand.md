@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Announcing GSC22 in Bangkok Thailand
 category: news
 tag: [meeting, GSC22, Thailand, announcment, Lynn Schriml]
 date: 2019-07-26
