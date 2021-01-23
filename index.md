@@ -10,6 +10,10 @@ Learn more on the [About](https://genomicsstandardsconsortium.github.io/gensc.gi
 
 # [News](https://genomicsstandardsconsortium.github.io/gensc.github.io/pages/news.html)
 {% for post in site.posts limit:3 %}
+- {{ post.date | date: "%-d %B %Y" }} - <a href={{ post.url }}> {{ post.title }}</a>
+{% endfor %}
+ 
+{% for post in site.posts limit:3 %}
 - {{ post.date | date: "%-d %B %Y" }} - <a href="{{ post.url }}"> {{ post.title }}</a>
 {% endfor %}
  
