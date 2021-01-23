@@ -10,7 +10,7 @@ Learn more on the [About](https://genomicsstandardsconsortium.github.io/gensc.gi
 
 # [News](https://genomicsstandardsconsortium.github.io/gensc.github.io/pages/news.html)
 {% for post in site.posts limit:3 %}
-- {{ post.date | date: "%-d %B %Y" }} - <a href={{ post.url }}>{{ post.title }}</a>
+- {{ post.date | date: "%-d %B %Y" }} - <a href={% post_url 2010-07-21-name-of-post %}>{{ post.title }}</a>
 {% endfor %}
  
 ## Twitter <a href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @genomestandards</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
