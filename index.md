@@ -8,7 +8,7 @@
 The Genomic Standards Consortium (GSC) is an open-membership working body formed in September 2005. The aim of the GSC is making genomic data discoverable. The GSC enables genomic data integration, discovery and comparison through international community-driven standards.
 Learn more on the [About](https://genomicsstandardsconsortium.github.io/gensc.github.io/pages/about.html) page.
 
-# [News](https://genomicsstandardsconsortium.github.io/gensc.github.io/pages/news.html)
+# [Announcements / Recent Blog posts](https://genomicsstandardsconsortium.github.io/gensc.github.io/pages/blog.html)
 {% for post in site.posts limit:3 %}
 - {{ post.date | date: "%-d %B %Y" }} - <a href="{{site.url}}{{ post.url }}"> {{ post.title }}</a>
 {% endfor %}
