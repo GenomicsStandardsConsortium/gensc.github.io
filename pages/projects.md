@@ -28,43 +28,42 @@
 <td>GSC 1, 2005</td>
 </tr>
 <tr>
-<td><a href="/pages/projects/gcdml"><img style="vertical-align: middle" src="../images/Gcdml-original-tiny.png" alt="Gcdml-original-tiny" width="114" height="21" /></a></td>
+<td><a href="projects/gcdml-project.html"><img style="vertical-align: middle" src="../images/Gcdml-original-tiny.png" alt="Gcdml-original-tiny" width="114" height="21" /></a></td>
 <td style="text-align: center;vertical-align: middle">GCDML</td>
 <td style="vertical-align: middle">Genomic Contextual Data Markup Language</td>
-<td style="vertical-align: middle"><a href="projects/gcdml-project.md">An XML schema implementing MIxS</a></td>
+<td style="vertical-align: middle"><a href="projects/gcdml-project.html">An XML schema implementing MIxS</a></td>
 <td>Renzo Kottmann</td>
 <td>GSC 4, 2007</td>
 </tr>
 <tr>
-<td><a href="/images/GRS_transparent_small.png"><img style="vertical-align: top" src="../images/GRS_transparent_small.png" alt="GRS_transparent_small" width="88" height="87" /></a></td>
+<td><a href="projects/genomic-rosetta-stone.html"><img style="vertical-align: top" src="../images/GRS_transparent_small.png" alt="GRS_transparent_small" width="88" height="87" /></a></td>
 <td style="text-align: center;vertical-align: middle">GRS</td>
 <td style="vertical-align: middle">Genomic Rosetta Stone</td>
-<td style="vertical-align: middle"><a href="/pages/projects/genomic-rosetta-stone">Mapping of genomic identifiers across databases (to help unify descriptions from different electronic sources)</a></td>
+<td style="vertical-align: middle"><a href="projects/genomic-rosetta-stone.html">Mapping of genomic identifiers across databases (to help unify descriptions from different electronic sources)</a></td>
 <td>Peter Dawyndt</td>
 <td>GSC 4, 2007</td>
 </tr>
 <tr>
-<td><a href="/images/SIGS.gif"><img style="vertical-align: top" src="../images/SIGS.gif" alt="" width="114" height="49" /></a></td>
+<td><a href="projects/standards-in-genomics-sigs-project.html"><img style="vertical-align: top" src="../images/SIGS.gif" alt="" width="114" height="49" /></a></td>
 <td style="text-align: center;vertical-align: middle">SIGS</td>
 <td style="vertical-align: middle">Standards in Genomic Sciences Journal</td>
-<td style="vertical-align: middle"><a href="/pages/projects/standards-in-genomics-sigs-project/">The Open Access Journal of the Genomic Standards Consortium (GSC)</a><a href="/pages/projects/standards-in-genomics-sigs-project/"><br />
-</a></td>
+<td style="vertical-align: middle"><a href="projects/standards-in-genomics-sigs-project.html">The Open Access Journal of the Genomic Standards Consortium (GSC)</a></td>
 <td>George Garrity</td>
 <td>GSC 5, 2008</td>
 </tr>
 <tr>
-<td><a href="/images/M5_logo_trans_small.png"><img style="vertical-align: top" src="../images/M5_logo_trans_small.png" alt="M5_logo_trans_small" width="81" height="81" /></a></td>
+<td><a href="projects/m5-project.html"><img style="vertical-align: top" src="../images/M5_logo_trans_small.png" alt="M5_logo_trans_small" width="81" height="81" /></a></td>
 <td style="text-align: center;vertical-align: middle">M5</td>
 <td style="vertical-align: middle">Metagenomics, Metadata, MetaAnalysis, Models and MetaInfrastructure</td>
-<td style="vertical-align: middle"><a href="/pages/projects/m5/">Bringing it all together in metagenomes &#8211; from data, to metadata to workflows to clouds</a></td>
+<td style="vertical-align: middle"><a href="projects/m5-project.html">Bringing it all together in metagenomes &#8211; from data, to metadata to workflows to clouds</a></td>
 <td>Folker Meyer</td>
 <td>GSC 9, 2005</td>
 </tr>
 <tr>
-<td><a href="/images/Microbial_earth_logo_small.png"><img style="vertical-align: top" src="../images/Microbial_earth_logo_small.png" alt="Microbial_earth_logo_small" width="94" height="92" /></a></td>
+<td><a href="projects/microbial-earth-project.html"><img style="vertical-align: top" src="../images/Microbial_earth_logo_small.png" alt="Microbial_earth_logo_small" width="94" height="92" /></a></td>
 <td style="text-align: center;vertical-align: middle">MEP</td>
 <td style="vertical-align: middle">Microbial Earth Project</td>
-<td style="vertical-align: middle"><a href="/pages/projects/microbial-earth-project">Megasequencing project covering all microbial type strains (~10.000 genomes)</a></td>
+<td style="vertical-align: middle"><a href="projects/microbial-earth-project.html">Megasequencing project covering all microbial type strains (~10.000 genomes)</a></td>
 <td> Nikos Kyrpides</td>
 <td>GSC 9, 2009</td>
 </tr>
@@ -72,7 +71,7 @@
 <td> <a href="http://gensc.org/index.php?title=Biodiversity_Working_Group"><img class="alignnone size-full wp-image-373" src="../images//GBWG2-logo.png" alt="GBWG2-logo" width="188" height="47" /></a></td>
 <td style="text-align: center;vertical-align: middle">GBWG</td>
 <td style="vertical-align: middle">GSC Biodiversity Working Group</td>
-<td style="vertical-align: middle"><a href="/pages/projects/biodiversity-genomics-working-group/">Building intersections between the genomics and biodiversity communities &#8211; towards building the field of &#8220;Biodiversity Genomics&#8221;</a></td>
+<td style="vertical-align: middle"><a href="projects/biodiversity-genomics-working-group/">Building intersections between the genomics and biodiversity communities &#8211; towards building the field of &#8220;Biodiversity Genomics&#8221;</a></td>
 <td>Bob Robbins</td>
 <td>GSC 9, 2009</td>
 </tr>
