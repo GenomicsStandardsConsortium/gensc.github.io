@@ -6,7 +6,7 @@
 
 ## **Past meetings:**
 
-*   [GSC21, Vienna, Austria, May 20-23, 2019](http://www.gensc.org/meetings/gsc21/)
+*   [GSC21, Vienna, Austria, May 20-23, 2019](meetings/gsc21.html)
 *   [GSC20, San Diego, USA, May 2-4, 2018](http://press3.mcs.anl.gov/gensc/meetings/gsc20/)
 *   [GSC19, Brisbane, Australia, May 14-17, 2017](http://wiki.gensc.org/index.php?title=GSC_19)
 *   [GSC18, Crete Hellenic Center for Marine Research, Crete, Greece, June 12-15, 2016](http://wiki.gensc.org/index.php?title=GSC_18)
