@@ -45,7 +45,7 @@ Sequence and function, species interactions, personal genomes/microbiomes, model
 
 **GOLD Sponsor TITANIUM Sponsor BRONZE Sponsor**
 
- [![QIAGEN](/images/QLogo_RGB-5500x4635px-300x253.png)](https://www.qiagen.com/us/) [![Phase Genomics](/images/PGI_logo_Image-300x138.png)](https://phasegenomics.com) [![ISME](/images/ISME-Logo-Online-GreenBlack-300x70.jpg)](http://www.isme-microbes.org)
+ [![QIAGEN](../../images/QLogo_RGB-5500x4635px-300x253.png)](https://www.qiagen.com/us/) [![Phase Genomics](../../images/PGI_logo_Image-300x138.png)](https://phasegenomics.com) [![ISME](../../images/ISME-Logo-Online-GreenBlack-300x70.jpg)](http://www.isme-microbes.org)
 
 **GSC21 Satellite Meetings**
 
