@@ -8,7 +8,7 @@ GSC board meeting May 20, 2019
 
 GSC 21st 3-day meeting will highlight the nexus of genomic standards and innovative methods in genomics. The meeting in charming Vienna will bring together people from many fields, including microbiology, microbial ecology, bioinformatics, medicine and system biology.
 
-[![](/images/vienna_banner.jpg)](/images/vienna_banner.jpg)
+[![](../../images/vienna_banner.jpg)](../../images/vienna_banner.jpg)
 
 **LOGISTICS**
 
@@ -17,13 +17,13 @@ Campus of the University of Vienna, Spitalgasse 2, 1090 Vienna \[[Google maps](h
 
 **Directions:** Public transport: subway lines U6 (Alser Strasse) or U2 (Schottentor) and tram lines 1, 5, 33, 43, 44 (Lange Gasse). Note: campus parking is very limited.
 
-[GSC21\_Booklet\_Agenda](/other-media/GSC21_Booklet_Agenda.pdf) 
+[GSC21\_Booklet\_Agenda](../../other-media/GSC21_Booklet_Agenda.pdf) 
 
-[GSC21\_Maps\_locations](/other-media/GSC21_Maps_locations.pdf)
+[GSC21\_Maps\_locations](../../other-media/GSC21_Maps_locations.pdf)
 
-[Vienna-Map-City-Center](/other-media/Vienna-Map-City-Center.pdf)
+[Vienna-Map-City-Center](../../other-media/Vienna-Map-City-Center.pdf)
 
-[Vienna-tram-map](/other-media/vienna-tram-map.pdf)
+[Vienna-tram-map](../../other-media/vienna-tram-map.pdf)
 
 **Rooms:**
 
