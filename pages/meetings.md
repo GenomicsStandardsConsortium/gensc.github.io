@@ -2,7 +2,7 @@
 
 ## **Upcoming meetings:**
 
-*   [GSC22, Bangkok, Thailand, July 13-17, 2020](pages/meetings/current.html)
+*   [GSC22, Bangkok, Thailand, July 13-17, 2020](meetings/current.html)
 
 ## **Past meetings:**
 
@@ -38,7 +38,7 @@
 *   [GSC 3, Cambridge, UK, September 11-13, 2006](/gensc.github.io/pages/meetings/GSC3.html)
 original link - http://wiki.gensc.org/index.php?title=GSC_Meetings#3rd_Genomics_Standards_Consortium_Workshop
 *   [1st Technical Implementation Working Group Workshop, Oxford, UK, December 18, 2005](http://wiki.gensc.org/index.php?title=GSC_Meetings#1st_Technical_Implementation_Working_Group_Workshop)
-*   [GSC 2, EBI, Cambridge, UK, November 10-11, 2005](pages/meetings/GSC2.html)
+*   [GSC 2, EBI, Cambridge, UK, November 10-11, 2005](meetings/GSC2.html)
 original link - http://wiki.gensc.org/index.php?title=GSC_Meetings#2nd_Genomics_Standards_Consortium_Workshop
-*   [GSC 1, Cambridge, UK, September 7-9, 2005](pages/meetings/GSC1.html)
+*   [GSC 1, Cambridge, UK, September 7-9, 2005](meetings/GSC1.html)
 original link - http://wiki.gensc.org/index.php?title=GSC_Meetings#1st_.22Exploratory.22_Genomics_Standards_Consortium_Workshop
