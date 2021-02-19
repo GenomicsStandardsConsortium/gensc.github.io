@@ -1,9 +1,5 @@
 {% include header.html %}
 
-
-[![Genomic Standards Consortium](https://gensc.org/files/2015/09/cropped-full_gsc_logo_sml.png)](https://gensc.org/)
-
-
 **21st Genomic Standards Consortium Meeting**
 =========================================
 
@@ -12,7 +8,7 @@ GSC board meeting May 20, 2019
 
 GSC 21st 3-day meeting will highlight the nexus of genomic standards and innovative methods in genomics. The meeting in charming Vienna will bring together people from many fields, including microbiology, microbial ecology, bioinformatics, medicine and system biology.
 
-[![](http://press3.mcs.anl.gov/gensc/files/2018/07/vienna_banner.jpg)](http://press3.mcs.anl.gov/gensc/files/2018/07/vienna_banner.jpg)
+[![](/images/vienna_banner.jpg)](/images/vienna_banner.jpg)
 
 **LOGISTICS**
 
@@ -21,13 +17,13 @@ Campus of the University of Vienna, Spitalgasse 2, 1090 Vienna \[[Google maps](h
 
 **Directions:** Public transport: subway lines U6 (Alser Strasse) or U2 (Schottentor) and tram lines 1, 5, 33, 43, 44 (Lange Gasse). Note: campus parking is very limited.
 
-[GSC21\_Booklet\_Agenda](http://press3.mcs.anl.gov/gensc/files/2019/05/GSC21_Booklet_Agenda.pdf)
+[GSC21\_Booklet\_Agenda](/other-media/GSC21_Booklet_Agenda.pdf) 
 
-[GSC21\_Maps\_locations](http://press3.mcs.anl.gov/gensc/files/2019/05/GSC21_Maps_locations.pdf)
+[GSC21\_Maps\_locations](/other-media/GSC21_Maps_locations.pdf)
 
-[Vienna-Map-City-Center](http://press3.mcs.anl.gov/gensc/files/2019/05/Vienna-Map-City-Center.pdf)
+[Vienna-Map-City-Center](/other-media/Vienna-Map-City-Center.pdf)
 
-[Vienna-tram-map](http://press3.mcs.anl.gov/gensc/files/2019/05/vienna-tram-map.pdf)
+[Vienna-tram-map](/other-media/vienna-tram-map.pdf)
 
 **Rooms:**
 
@@ -49,7 +45,7 @@ Sequence and function, species interactions, personal genomes/microbiomes, model
 
 **GOLD Sponsor TITANIUM Sponsor BRONZE Sponsor**
 
- [![QIAGEN](http://press3.mcs.anl.gov/gensc/files/2019/03/QLogo_RGB-5500x4635px-300x253.png)](https://www.qiagen.com/us/) [![Phase Genomics](http://press3.mcs.anl.gov/gensc/files/2019/03/PGI_logo_Image-300x138.png)](https://phasegenomics.com) [![ISME](http://press3.mcs.anl.gov/gensc/files/2018/12/ISME-Logo-Online-GreenBlack-300x70.jpg)](http://www.isme-microbes.org)
+ [![QIAGEN](/images/QLogo_RGB-5500x4635px-300x253.png)](https://www.qiagen.com/us/) [![Phase Genomics](/images/PGI_logo_Image-300x138.png)](https://phasegenomics.com) [![ISME](/images/ISME-Logo-Online-GreenBlack-300x70.jpg)](http://www.isme-microbes.org)
 
 **GSC21 Satellite Meetings**
 
@@ -133,7 +129,7 @@ Rob Finn – EMBL-EBI
 **17:00-18:00** University of Vienna historic main building tour
 
 **18:00-18:45** **Keynote:** **Biobanking BBMRI-ERIC**  
-**K****urt Zatloukal** **– Medical University of Graz**
+**Kurt Zatloukal – Medical University of Graz**
 
 ### **May 22nd**
 
