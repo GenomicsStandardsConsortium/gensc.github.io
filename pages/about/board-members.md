@@ -27,6 +27,7 @@ Current Board Members
     <td>Christopher Hunter, GigaScience (May 2018 -)</td>
     <td>Emiley Eloe-Fadrosh, DOE JGI (May 2018 -)</td>
 </tr>
+  <tr>
     <td><img src="../../images/board/Folker_Meyer-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Granger_Sutton400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Lynn_Schriml-400x400.jpg" width="200" height="200" /></td>
@@ -36,6 +37,7 @@ Current Board Members
     <td>Granger Sutton, J. Craig Venter Institute (September 2015 -)</td>
   <td>Lynn Schriml, University of Maryland (Sept 2009) (Treasurer of GSC (April 2010 – May 2015). President (May 2015 –)</td>
   </tr>
+  <tr>
     <td><img src="../../images/board/Maria_Chuvochina-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Neil_Davies-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Nikos_Kyrpides-400x400.jpg" width="200" height="200" /></td>
@@ -52,9 +54,9 @@ Current Board Members
   <tr>
     <td>Philip Hugenholtz, The University of Queensland (September 2015-)</td>
     <td>Pier Buttigier, MPI for Marine Microbiology, Bremen. (2020 -)</td>
-    <td>Ramona Walls, CyVerse, University of Arizona (February 2019 -)</td>
-    
+  <td>Ramona Walls, CyVerse, University of Arizona (February 2019 -)</td>
   </tr>
+  <tr>
     <td><img src="../../images/board/Rob_Finn-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Scott_Tighe-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Susanna_Sansone-400x400.jpg" width="200" height="200" /></td>
