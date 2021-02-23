@@ -21,9 +21,11 @@ Includes the names of our:
 * Alumni Board Members
 * Advisory Board
 
-## [Community](about/community.html)
+## [Community](about/GSC-members.html)
+This page includes a list of people that are or have been active members of the GSC community.
 
 ## [Publications](about/publication-list.html)
+A subset of relevant papers authored by GSC members.
 
 ## [Funding](about/funding.html)
-
+Acknowledgments of the various funding and sponsorships that have enabled the work we do and allowed for the various meetings over the years.
