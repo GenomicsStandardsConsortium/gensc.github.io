@@ -47,6 +47,7 @@ Current Board Members
     <td>Neil Davies, Berkeley (Sept 2011 -)</td>
     <td>Nikos Kyrpides, DOE JGI (April 2009-)</td>
   </tr>
+  <tr>
     <td><img src="../../images/board/Phil_Hugenholtz-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Pier_Buttigier-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Ramona_Walls-400x400.jpg" width="200" height="200" /></td>
