@@ -11,19 +11,19 @@ The mission of the GSC is to work towards:
 *   Making genomic data discoverable
 *   Enabling genomic data integration, discovery and comparison through international community-driven standards
 
-## [Governance and Bylaws](./about/governance.md)
+## [Governance and Bylaws](pages/about/governance.html)
 
 How the GSC is governed and the bylaws of the consortium.
 
-## [Board](./about/board-members.md)
+## [Board](pages/about/board-members.html)
 Includes the names of our:
 * Current Board Members 
 * Alumni Board Members
 * Advisory Board
 
-## [Community](./about/community.md)
+## [Community](pages/about/community.html)
 
-## [Publications](./about/publication-list.md)
+## [Publications](pages/about/publication-list.html)
 
-## [Funding](./about/funding.md)
+## [Funding](pages/about/funding.html)
 
