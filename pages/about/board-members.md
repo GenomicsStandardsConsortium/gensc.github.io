@@ -5,14 +5,14 @@ GSC Board
 
 The GSC Board was established in April 2009 to improve communication within the GSC, build GSC strategy, help move this community towards formalization (long-term sustainability, transparency and vision), improve community-level representation and help foster strategic partnerships with other communities. The Board has quarterly teleconferences and meetings in person at each GSC workshop.
 
-In 2011 (at GSC 11), the Board ratified a set of ByLaws that define how the GSC is governed. A copy of the GSC Bylaws ratified by the Board on April 6, 2011 and amended on September 27, 2011 can be downloaded [here](http://press3.mcs.anl.gov/gensc/files/2015/07/GSCBylaws_Latest.pdf).
+In 2011 (at GSC 11), the Board ratified a set of ByLaws that define how the GSC is governed. A copy of the GSC Bylaws ratified by the Board on April 6, 2011 and amended on September 27, 2011 can be downloaded [here](about/GSCBylaws_Latest.pdf).
 
-[Current Board Members](#current-board)  
-[Institutional Liasons to the GSC Board](#inst-liason)  
-[Advisory Board Members](#advise-board)  
-[Former Board Members](#former-board)  
-[GSC Board Committees](#board-committee)  
-[GSC Committees and Working Groups](#other-committee)
+[Current Board Members](#current-board-members)  
+[Institutional Liasons to the GSC Board](#institutional-liasons-to-the-gsc-board)  
+[Advisory Board Members](#advisory-board-members)  
+[Former Board Members](#former-board-members)  
+[GSC Board Committees](#gsc-board-committees)  
+[GSC Committees and Working Groups](#gsc-committees-and-working-groups)
 
 Current Board Members
 ---------------------
