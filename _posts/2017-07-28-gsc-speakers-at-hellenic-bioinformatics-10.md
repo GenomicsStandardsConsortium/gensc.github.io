@@ -12,9 +12,9 @@ date: 2017-08-28
 GSC Speakers at Hellenic Bioinformatics 10
 ==========================================
 
-Posted on [August 28, 2017](https://gensc.org/meeting/gsc-speakers-at-hellenic-bioinformatics-10/ "8:48 am") by [pyilmaz](https://gensc.org/author/pyilmaz/ "View all posts by pyilmaz")
+Originally Posted on August 28, 2017 8:48 am by Pelin Yilmaz.
 
-GSC colleagues will be speaking during the [Hellenic Bioinformatics conference](https://hscbio.wordpress.com/conferences-when/2017-2/) (September 6-9 2017, Heraklion, Greece):
+GSC colleagues will be speaking during the [Hellenic Bioinformatics conference](https://hscbio.wordpress.com/conferences-when/2017-2/) September 6-9 2017, Heraklion, Greece:
 
 *   Folker Meyer, Argonne National Laboratory, USA
 
@@ -28,10 +28,7 @@ Title: GSC metadata standards in action: MetaSUB and ISD.
 
 Title: What is Life? Conserved Functional Domains in a Hundred Thousand Bacterial Genomes
 
-‹ [Genomic Observatories Metadatabase](https://gensc.org/biodiversity/genomic-observatories-metadatabase/)
 
-[GSC20 Agenda & Logistics](https://gensc.org/uncategorized/gsc20-registration-is-open/) ›
 
-Posted in [Meeting](https://gensc.org/category/meeting/)
 
  
