@@ -2,7 +2,7 @@
 
 # Projects
 
-**The GSC supports a wide range of projects. All are described below and the link under “GSC Project Description” leads to a second page with all relevant information about the project including contacts, overview information, key links and documents like publications and how to get involved. These project descriptions are based on the [GSC Project Description Template](/pages/projects/gsc-project-description-template.html) and are updated on an annual basis (Spring of each year). We welcome the addition of new projects at any time.**
+**The GSC supports a wide range of projects. All are described below and the link under “GSC Project Description” leads to a second page with all relevant information about the project including contacts, overview information, key links and documents like publications and how to get involved. These project descriptions are based on the [GSC Project Description Template](projects/gsc-project-description-template.html) and are updated on an annual basis (Spring of each year). We welcome the addition of new projects at any time.**
 
 ![FAIRsharing Logo](https://fairsharing.org/static/img/home/svg/FAIRsharing-logo.svg) You can also view our standards using FAIRsharing [GSC collection](https://fairsharing.org/collection/GSC)
 
@@ -20,7 +20,7 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="/pages/projects/mixs-gsc-project/"><img style="vertical-align: top" src="../images/MIxSlogo.png" alt="MIxSlogo" width="82" height="83" /></a></td>
+<td><a href="projects/mixs-gsc-project/"><img style="vertical-align: top" src="../images/MIxSlogo.png" alt="MIxSlogo" width="82" height="83" /></a></td>
 <td style="text-align: center;vertical-align: middle">MIxS</td>
 <td style="vertical-align: middle"><span style="line-height: 19px">Minimum Information about any Sequence</span></td>
 <td style="vertical-align: middle"><a href="projects/mixs-gsc-project.html">Core standards of the GSC for describing genomes, metagenomes and gene marker sequences</a></td>
