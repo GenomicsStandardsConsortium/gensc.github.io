@@ -16,3 +16,4 @@ FYI- CIH made the executive decision that the dinky theme was the nicest of thos
 
 8. There are some documents included in the MIxS repo wiki too that we might want to include https://github.com/GenomicsStandardsConsortium/mixs/wiki/1.-Background ?
 
+Changed something.
