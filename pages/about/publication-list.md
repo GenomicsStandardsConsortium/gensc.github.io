@@ -1,25 +1,32 @@
 {% include header.html %}
 
-**Copied directly from the old website. Needs updating with more recent publications.**
+## GSC Publications
+
+The GSC aims to make its activities transparent to the wider community through maintenance of a GSC website and when relevant, publication of GSC led articles. 
+[GSC Projects](pages/projects.html) are an outgrowth of the activities surrounding the creation and implementation of the MIxS standard within the GSC. These efforts cover an ever widening range of standardization activities. 
+Furthermore, two umbrella publications titled [**Genomic standards consortium projects**](http://www.ncbi.nlm.nih.gov/pubmed/25197446) and [**The Genomic Standards Consortium**](http://www.ncbi.nlm.nih.gov/pubmed/21713030) detail how these projects are initiated and integrated within GSC.
+
+The publications in the collection linked below are either directly or indirectly related to these projects.
+
+[**GSC publication collection**](https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/45575934/public/)
+
+If you wish to cite the work of the GSC we recomend you use the most relevant publication from the list above, or for a more general description please refer to:
+
+**which publication do we recomend people cite?**
+
+
 
 # Publications
 
-The GSC aims to make its activities transparent to the wider community through maintenance of a GSC website and when relevant, publication of GSC led articles. To date several roadmap publications have been published along with reports from all GSC workshops.
+To date several roadmap publications have been published along with reports from all GSC workshops. The collection of publications linked below lists many of the publications citing our work:
 
 [**GSC citing references**](https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/59763603/public/)
 
 
-## GSC Project Publications
-
-GSC Projects (http://gensc.org/projects/ "Projects") are an outgrowth of the activities surrounding the creation and implementation of the MIxS standard within the GSC. These efforts cover an ever widening range of standardization activities. 
-Furthermore, two umbrella publications titled [**Genomic standards consortium projects**](http://www.ncbi.nlm.nih.gov/pubmed/25197446) and [**The Genomic Standards Consortium**](http://www.ncbi.nlm.nih.gov/pubmed/21713030) detail how these projects are initiated and integrated within GSC.
-The following publications are either directly or indirectly related to these projects. 
-[**Minimum Information about a Biosynthetic Gene cluster.**](http://www.nature.com/nchembio/journal/v11/n9/full/nchembio.1890.html) Medema MH, Kottmann R, Yilmaz P, Cummings M, Biggins JB, Blin K, de Bruijn I et al. _Nat Chem Biol. 2015 ;11(9):625-631. doi:10.1038/nchembio.1890._
+<!--[**Minimum Information about a Biosynthetic Gene cluster.**](http://www.nature.com/nchembio/journal/v11/n9/full/nchembio.1890.html) Medema MH, Kottmann R, Yilmaz P, Cummings M, Biggins JB, Blin K, de Bruijn I et al. _Nat Chem Biol. 2015 ;11(9):625-631. doi:10.1038/nchembio.1890._
 
 
-[**GSC publication collection**](https://www.ncbi.nlm.nih.gov/sites/myncbi/lynn.schriml.1/collections/45575934/public/)
-
-<!-- [**The ocean sampling day consortium.**](http://www.ncbi.nlm.nih.gov/pubmed/26097697) Kopf A, Bicak M, Kottmann R, Schnetzer J, Kostadinov I et al. _Gigascience. 2015 Jun 19;4:27. doi: 10.1186/s13742-015-0066-5._ 
+ [**The ocean sampling day consortium.**](http://www.ncbi.nlm.nih.gov/pubmed/26097697) Kopf A, Bicak M, Kottmann R, Schnetzer J, Kostadinov I et al. _Gigascience. 2015 Jun 19;4:27. doi: 10.1186/s13742-015-0066-5._ 
 
 [**Genomic Encyclopedia of Bacterial and Archaeal Type Strains, Phase III: the genomes of soil and plant-associated and newly described type strains.**](http://www.standardsingenomics.com/content/10/1/26) Whitman WB, Woyke T, Klenk HP, Zhou Y, Lilburn TG, Beck BJ, De Vos P et al. _Stand Genomic Sci. 2015 May 17; 10:26. doi:10.1186/s40793-015-0017-x._
 
@@ -75,73 +82,72 @@ The following publications are either directly or indirectly related to these pr
 
 This section includes meeting reports published to date from all GSC and RCN4GSC workshops or GSC-led special interest groups. Additionally, reports from satellite meetings following GSC workshops are included here.
 
-[**GSC16**](http://wiki.gensc.org/index.php?title=GSC_16)  
+**GSC16**
 [Meeting report: advancing practical applications of biodiversity ontologies.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4334987/) Walls RL., Guralnick R, Deck J, Buntzman A, Buttigieg PL, Davies N et al. _Stand Genomic Sci. 2014;9(1), 17. doi: 10.1186/1944-3277-9-17_
 
 **GBWG Hackathon May 2013**  
 [Meeting Report: GBIF hackathon-workshop on Darwin Core and sample data (22-24 May 2013).](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148965/) Wieczorek J, Banki O, Blum S, Deck J, Döring M, Dröge G et al. _Stand Genomic Sci._ _2014;9(3), 585. doi: 10.4056/sigs.4898640._
 
-[**GSC15**](http://wiki.gensc.org/index.php?title=GSC_15)  
+**GSC15**
 The 15th Genomic Standards Consortium meeting. Schriml L, Mizrachi I, Sterk P, Field D, Hirschman L , Tatusova T et al. _Stand Genomic Sci._ _2013;__8_(1).
 
-[**GSC14**](http://wiki.gensc.org/index.php?title=GSC_14)  
+**GSC14**
 [Report of the 14th Genomic Standards Consortium Meeting, Oxford, UK, September 17-21, 2012.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148987/) Davies N, Field D, Amaral-Zettler L, et al. _Stand Genomic Sci_. 2014;9(3):1236-1250. doi:10.4056/sigs.4319681.
 
-[**GSC13**](http://wiki.gensc.org/index.php?title=GSC_13)  
+**GSC13**
 [Report of the 13(th) Genomic Standards Consortium Meeting, Shenzhen, China, March 4-7, 2012.](http://www.ncbi.nlm.nih.gov/pubmed/22768370) Gilbert JA, Bao Y, Wang H, Sansone SA, Edmunds SC, Morrison N, Meyer F, Schriml LM, Davies N, Sterk P, Wilkening J, Garrity GM, Field D, Robbins R, Smith DP, Mizrachi I, Moreau C. _Stand Genomic Sci. 2012 May 25;6(2):276-86. doi: 10.4056/sigs.2876184._
 
 **GBWG Hackathon February 2012**  
 [Meeting Report: Hackathon-Workshop on Darwin Core and MIxS Standards Alignment (February 2012).](http://www.ncbi.nlm.nih.gov/pubmed/23451295) Tuama EÓ, Deck J, Dröge G, Döring M, Field D, Kottmann R, Ma J, Mori H, Morrison N, Sterk P, Sugawara H, Wieczorek J, Wu L, Yilmaz P. _Stand Genomic Sci. 2012 Oct 10;7(1):166-70. doi: 10.4056/sigs.3166513._
 
-[**GSC12**](http://wiki.gensc.org/index.php?title=GSC_12)
-
+**GSC12**
 [**GBWG May 2011**](http://wiki.gensc.org/index.php?title=Biodiversity_Working_Group#Meetings_and_Events)  
 [RCN4GSC Meeting Report: Initiating a Testbed for Managing Data at the Interface of Biodiversity and Genomics/Metagenomics, May 2011.](http://www.ncbi.nlm.nih.gov/pubmed/23409219) Robbins RJ, Beach J, Blum S, Dawyndt P, Deck J, Kottmann R, Morrison N, Tuama EÓ, San Gil I, Vieglas D, Wieczorek J, Wooley J. _Stand Genomic Sci. 2012 Oct 10;7(1):171-4. doi: 10.4056/sigs.3176515._
 
-[**GSC11**](http://wiki.gensc.org/index.php?title=GSC_11)  
+**GSC11**
 [RCN4GSC Workshop Report: Modeling a Testbed for Managing Data at the Interface of Biodiversity and (Meta)Genomics, April 2011.](http://www.ncbi.nlm.nih.gov/pubmed/23451293) Robbins RJ, Cochrane G, Davies N, Dawyndt P, Kottmann R, Krishtalka LK, Morrison N, Tuama EÓ, San Gil I, Wooley J. _Stand Genomic Sci. 2012 Oct 10;7(1):153-8. doi: 10.4056/sigs.3146509._
 
-[**GBWG March 2011**](http://wiki.gensc.org/index.php?title=Biodiversity_Working_Group#Meetings_and_Events)  
+**GBWG March 2011**
 [RCN4GSC Workshop Report: Managing Data at the Interface of Biodiversity and (Meta)Genomics, March 2011.](http://www.ncbi.nlm.nih.gov/pubmed/23451294) Robbins RJ, Amaral-Zettler L, Bik H, Blum S, Edwards J, Field D, Garrity G, Gilbert JA, Kottmann R, Krishtalka L, Lapp H, Lawrence C, Morrison N, Tuama EÓ, Parr C, San Gil I, Schindel D, Schriml L, Vieglas D, Wooley J. _Stand Genomic Sci. 2012 Oct 10;7(1):159-65. doi: 10.4056/sigs.3156511._
 
-[**GSC 10**](http://wiki.gensc.org/index.php?title=GSC_10 "GSC 10")  
+**GSC 10**
 [Meeting Report from the Genomic Standards Consortium (GSC) Workshop 10.](http://www.ncbi.nlm.nih.gov/pubmed/21304723) Glass E, Meyer F, Gilbert JA, Field D, Hunter S, Kottmann R, Kyrpides N, Sansone S, Schriml L, Sterk P, White O, Wooley J. _Stand Genomic Sci. 2010 Dec 25;3(3):225-31. doi: 10.4056/sigs.1423520._
 
-[**M5 Roundtable @ ISME13**](http://wiki.gensc.org/index.php?title=M5_ISME13 "M5 ISME13")  
+**M5 Roundtable @ ISME13**
 [Meeting report: GSC M5 roundtable at the 13th International Society for Microbial Ecology meeting in Seattle, WA, USA August 22-27, 2010.](http://www.ncbi.nlm.nih.gov/pubmed/21304725) Gilbert JA, Meyer F, Knight R, Field D, Kyrpides N, Yilmaz P, Wooley J. _Stand Genomic Sci. 2010 Dec 15;3(3):235-9. doi: 10.4056/sigs.1333437._
 
-[**M3 @ ISMB 2010**](http://wiki.gensc.org/index.php?title=M3_%26_BioSharing "M3 & BioSharing")  
+**M3 @ ISMB 2010**
 [Meeting Report: Metagenomics, Metadata and MetaAnalysis (M3) at ISMB 2010.](http://www.ncbi.nlm.nih.gov/pubmed/21304724) Field D, Sansone S, Delong EF, Sterk P, Friedberg I, Kottmann R, Hirschman L, Garrity G, Cochrane G, Wooley J, Meyer F, Hunter S, White O. _Stand Genomic Sci. 2010 Dec 4;3(3):232-4. doi: 10.4056/sigs.1383476._
 
-[**BioSharing @ ISMB 2010**](http://wiki.gensc.org/index.php?title=M3_%26_BioSharing "M3 & BioSharing")  
+**BioSharing @ ISMB 2010**
 [Meeting Report: BioSharing at ISMB 2010.](http://www.ncbi.nlm.nih.gov/pubmed/21304729) Field D, Sansone S, Delong EF, Sterk P, Friedberg I, Gaudet P, Lewis S, Kottmann R, Hirschman L, Garrity G, Cochrane G, Wooley J, Meyer F, Hunter S, White O, Bramlett B, Gregurick S, Lapp H, Orchard S, Rocca-Serra P, Ruttenberg A, Shah N, Taylor C, Thessen A. _Stand Genomic Sci. 2010 Dec 4;3(3):254-8. doi: 10.4056/sigs/1403501._
 
-[**GSC 9**](http://wiki.gensc.org/index.php?title=GSC_9 "GSC 9")  
+**GSC 9**
 [Meeting Report from the Genomic Standards Consortium (GSC) Workshop 9.](http://www.ncbi.nlm.nih.gov/pubmed/21304722) Davidsen T, Madupu R, Sterk P, Field D, Garrity G, Gilbert J, Glöckner FO, Hirschman L, Kolker E, Kottmann R, Kyrpides N, Meyer F, Morrison N, Schriml L, Tatusova T, Wooley J. _Stand Genomic Sci. 2010 Dec 4;3(3):216-24. doi: 10.4056/sigs.1353455._
 
-[**GSC 8**](http://wiki.gensc.org/index.php?title=GSC_8 "GSC 8")  
+**GSC 8**
 [Meeting Report from the Genomic Standards Consortium (GSC) Workshop 8.](http://www.ncbi.nlm.nih.gov/pubmed/21304696) Kyrpides N, Field D, Sterk P, Kottmann R, Glöckner FO, Hirschman L, Garrity GM, Cochrane G, Wooley J. _Stand Genomic Sci. 2010 Aug 20;3(1):93-6. doi: 10.4056/sigs.1022942._
 
-[**M3 @ PSB 2010**](http://wiki.gensc.org/index.php?title=M3_Workshop)  
+**M3 @ PSB 2010**
 [Meeting Report: “Metagenomics, Metadata and Meta-analysis” (M3) Workshop at the Pacific Symposium on Biocomputing 2010.](http://www.ncbi.nlm.nih.gov/pubmed/21304724) Hirschman L, Sterk P, Field D, Wooley J, Cochrane G, Gilbert J, Kolker E, Kyrpides N, Meyer F, Mizrachi I, Nakamura Y, Sansone SA, Schriml L, Tatusova T, White O, Yilmaz P. _Stand Genomic Sci. 2010 Jun 15;2(3):357-60. doi: 10.4056/sigs.802738._
 
-[**M3 @ ISMB 2009**](http://wiki.gensc.org/index.php?title=M3 "M3")  
+**M3 @ ISMB 2009**
 [Meeting Report: “Metagenomics, Metadata and Meta-analysis” (M3) Special Interest Group at ISMB 2009.](http://www.ncbi.nlm.nih.gov/pubmed/21304668) Field D, Friedberg I, Sterk P, Kottmann R, Glöckner FO, Hirschman L, Garrity GM, Cochrane G, Wooley J, Gilbert J. _Stand Genomic Sci. 2009 Dec 29;1(3):278-82. doi: 10.4056/sigs.641096._
 
-[**GSC 6**](http://wiki.gensc.org/index.php?title=GSC_6 "GSC 6") & [**GSC 7**](http://wiki.gensc.org/index.php?title=GSC_7 "GSC 7")  
+**GSC 6** & **GSC 7**
 [Meeting Report from the Genomic Standards Consortium (GSC) Workshops 6 and 7.](http://www.ncbi.nlm.nih.gov/pubmed/21304639) Field D, Sterk P, Kyrpides N, Kottmann R, Glöckner FO, Hirschman L, Garrity GM, Wooley J, Gilna P. _Stand Genomic Sci. 2009 Jul 20;1(1):68-71. doi: 10.4056/sigs.25165._
 
-[**GSC 5**](http://wiki.gensc.org/index.php?title=GSC_5 "GSC 5")  
+**GSC 5**
 [Meeting report: the fifth Genomic Standards Consortium (GSC) workshop.](http://www.ncbi.nlm.nih.gov/pubmed/18564915) Field D, Garrity GM, Sansone SA, Sterk P, Gray T, Kyrpides N, Hirschman L, Glöckner FO, Kottmann R, Angiuoli S, White O, Dawyndt P, Thomson N, Gil IS, Morrison N, Tatusova T, Mizrachi I, Vaughan R, Cochrane G, Kagan L, Murphy S, Schriml L; Genomic Standards Consortium. _OMICS. 2008 Jun;12(2):109-13. doi: 10.1089/omi.2008.A3B3._
 
-[**GSC 4**](http://wiki.gensc.org/index.php?title=GSC_4 "GSC 4")  
+**GSC 4**
 [Meeting report: the fourth Genomic Standards Consortium (GSC) workshop.](http://www.ncbi.nlm.nih.gov/pubmed/18564914) Field D, Glöckner FO, Garrity GM, Gray T, Sterk P, Cochrane G, Vaughan R, Kolker E, Kottmann R, Kyrpides N, Angiuoli S, Dawyndt P, Guralnick R, Goldstein P, Hall N, Hirschman L, Kravitz S, Lister AL, Markowitz V, Thomson N, Whetzel T. _OMICS. 2008 Jun;12(2):101-8. doi: 10.1089/omi.2008.0014._
 
-[**GSC 3**](http://wiki.gensc.org/index.php?title=GSC_3 "GSC 3")  
+**GSC 3**
 [Meeting Report: eGenomics: Cataloguing Our Complete Genome Collection III.](http://www.hindawi.com/journals/ijg/2005/793980/abs/) Dawn Field, George Garrity, Tanya Gray, Jeremy Selengut, Peter Sterk, Nick Thomson, Tatiana Tatusova, Guy Cochrane, Frank Oliver Glöckner, Renzo Kottmann, Allyson L. Lister, Yoshio Tateno, and Robert Vaughan. _Comp Funct Genomics. 2007; doi:10.1155/2007/47304._
 
-[**GSC 2**](http://wiki.gensc.org/index.php?title=GSC_2 "GSC 2")  
+**GSC 2**
 [Meeting report: eGenomics: Cataloguing our Complete Genome Collection II.](http://www.ncbi.nlm.nih.gov/pubmed/16901213) Field D, Morrison N, Selengut J, Sterk P. _OMICS. 2006 Summer;10(2):100-4._
 
-[**GSC 1**](http://wiki.gensc.org/index.php?title=GSC_1 "GSC 1")  
+**GSC 1**
 [eGenomics: Cataloguing our Complete Genome Collection.](http://www.ncbi.nlm.nih.gov/pubmed/18629208) Field D, Garrity G, Morrison N, Selengut J, Sterk P, Tatusova T, Thomson N. _Comp Funct Genomics. 2005;6(7-8):363-8. doi: 10.1002/cfg.494._
