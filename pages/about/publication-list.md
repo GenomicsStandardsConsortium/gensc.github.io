@@ -1,6 +1,6 @@
 {% include header.html %}
 
-## GSC Publications
+# GSC Publications
 
 The GSC aims to make its activities transparent to the wider community through maintenance of a GSC website and when relevant, publication of GSC led articles. 
 [GSC Projects](pages/projects.html) are an outgrowth of the activities surrounding the creation and implementation of the MIxS standard within the GSC. These efforts cover an ever widening range of standardization activities. 
@@ -12,11 +12,11 @@ The publications in the collection linked below are either directly or indirectl
 
 If you wish to cite the work of the GSC we recomend you use the most relevant publication from the list above, or for a more general description please refer to:
 
-**which publication do we recomend people cite?**
+# **-----which publication do we recomend people cite?-----**
 
 
 
-# Publications
+## Publications
 
 To date several roadmap publications have been published along with reports from all GSC workshops. The collection of publications linked below lists many of the publications citing our work:
 
