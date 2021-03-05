@@ -1,5 +1,10 @@
 {% include header.html %}
 
+Join Us
+=======
+The GSC is an open membership community and membership is currently defined by participation. If you would like to join the GSC and receive email updates, invitations to meeting, etc… please contact us using one of the methods below.
+
+
 Contact Us
 ==========
 
