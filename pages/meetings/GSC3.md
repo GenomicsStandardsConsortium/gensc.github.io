@@ -1,33 +1,13 @@
 {% include header.html %}
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
 
-<tbody>
+[egenomics logo](../../images/egenomics_cat_logo.jpg)
 
-<tr>
 
-<td width="1%" height="145" align="left" valign="top"></td>
-
-<td width="50%">
-
-<a><img style="vertical-align: top" src="../../images/egenomics_cat_logo.jpg" alt="eGenomics logo" width="82" height="83" /></a>
-
-</td>
-
-<td width="49%" align="right" valign="middle">
-
-## eGenomics: Cataloguing our complete genome collection  
-
+# eGenomics: Cataloguing our complete genome collection  
+=======================================================
 ### 11 -13th Sept 2006
 
-</td>
 
-</tr>
-
-</tbody>
-
-</table>
-
-* * *
 
 ### General information
 
