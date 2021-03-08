@@ -9,7 +9,7 @@
 
 <td width="50%">
 
-![egenomics_cat_logo.jpg](../../images/egenomics_cat_logo.jpg)
+<a><img style="vertical-align: top" src="../../images/egenomics_cat_logo.jpg" alt="eGenomics logo" width="82" height="83" /></a>
 
 </td>
 
