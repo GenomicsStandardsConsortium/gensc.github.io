@@ -1,6 +1,6 @@
 {% include header.html %}
 
-[egenomics logo](../../images/egenomics_cat_logo.jpg)
+![egenomics logo](../../images/egenomics_cat_logo.jpg)
 
 
 # eGenomics: Cataloguing our complete genome collection  
