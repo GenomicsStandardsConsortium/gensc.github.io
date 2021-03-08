@@ -33,7 +33,8 @@
 *   [2nd EnvO (Environment Ontology) Workshop, Cold Spring Harbor, NY, USA, November 15-16, 2007](http://wiki.gensc.org/index.php?title=GSC_Meetings#2nd_EnvO_.28Environment_Ontology.29_Workshop.2C_Cold_Spring_Harbor.2C_New_York.2C_USA)
 *   [Genomics and Society: Today’s Answers, Tomorrow’s Questions, London, UK, October 25-26, 2007](http://wiki.gensc.org/index.php?title=GSC_Meetings#Genomics_and_Society:_Today.27s_Answers.2C_Tomorrow.27s_Questions)
 *   [Inaugural EnvO (Environment Ontology) Workshop, Oxford, UK, August 29-31, 2007](http://wiki.gensc.org/index.php?title=GSC_Meetings#Inaugural_EnvO_.28Environment_Ontology.29_Workshop)
-*   [GSC Birds of a Feather (BoF) meeting, ISMB 2007, Vienna, Austria, July 23, 2007](http://wiki.gensc.org/index.php?title=GSC_Meetings#GSC_Birds_of_a_Feather_.28BoF.29_meeting.2C_ISMB_2007)
+*   [GSC Birds of a Feather (BoF) meeting, ISMB 2007, Vienna, Austria, July 23, 2007](meetings/GSC-at-ismb-eccb-2007.html)
+original link -http://wiki.gensc.org/index.php?title=GSC_Meetings#GSC_Birds_of_a_Feather_.28BoF.29_meeting.2C_ISMB_2007
 *   [GSC 4, Cambridge, UK, June 6-8, 2007](meetings/GSC4.html)
 original link - http://wiki.gensc.org/index.php?title=GSC_Meetings#4th_Genomics_Standards_Consortium_Workshop
 *   [GSC 3, Cambridge, UK, September 11-13, 2006](meetings/GSC3.html)
