@@ -9,7 +9,7 @@
 
 <td width="50%">
 
-![egenomics_cat_logo.jpg](/images/egenomics_cat_logo.jpg)
+![egenomics_cat_logo.jpg](../../images/egenomics_cat_logo.jpg)
 
 </td>
 
