@@ -9,7 +9,7 @@
 
 <td width="50%">
 
-![egenomics_cat_logo.jpg](/gensc.github.io/images/egenomics_cat_logo.jpg)
+![egenomics_cat_logo.jpg](/images/egenomics_cat_logo.jpg)
 
 </td>
 
@@ -37,7 +37,7 @@ Currently the difficulty of obtaining such metadata in a high quality and easily
 
 This workshop is being organised by Dawn Field of the Centre for Ecology and Hydrology, Oxford and Tatiana Tatusov of the National Centre for Biotechnology Information.
 
-This is the third meeting of the Genomics Standards Consortium. [http://gensc.sf.net](https://web.archive.org/web/20080518174941/http://gensc.sf.net/)
+This is the third meeting of the Genomics Standards Consortium. [http://gensc.org](http://gensc.org/)
 
 ### Aim of the workshop
 
@@ -839,7 +839,7 @@ Departures
 ### Location
 
 The workshop, accommodation, and workshop dinners will all be in [Robinson College](https://web.archive.org/web/20080518174941/http://www.robinson.cam.ac.uk/), Cambridge. Session IV, on Tuesday afternoon will held in Titan 1 computer room.  
-A google map for this event is provided [here](egenomic2006_map.html)
+A google map for this event is provided here.
 
 ### Follow-on
 
