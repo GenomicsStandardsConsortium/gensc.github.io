@@ -1,5 +1,15 @@
 ---
 layout: default
+title: Pre-2021 posts archive 
+category: 
+date: 2021-03-01
+---
+
+The file contains all posts from the previous WordPress version of the website from 2006 through to 2021 in date of posting order, oldest to newest. They are in MarkDown format with a front-matter section between each post. The Front matter includes the original posting date, the original author of the post and its title.
+
+
+---
+layout: default
 title: Natalia Maltsev talk on Grid-based Integrated Bioinformatics Systems for High Throughput
 category: news
 tag: [pyilmaz]
