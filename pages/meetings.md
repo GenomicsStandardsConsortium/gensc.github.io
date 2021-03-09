@@ -2,7 +2,7 @@
 
 # Meetings
 
-<img src="https://only1chunts.github.io/only1chunts-gensc.github.io/images/GSC19-Group-outside-lightened-1024x336.jpg" width="640">
+<img src="meetings/GSC19/images/GSC19-Group-outside-lightened-1024x336.jpg" width="640">
 
 ## **Upcoming meetings:**
 
@@ -10,8 +10,8 @@
 
 ## **Past meetings:**
 
-*   [GSC21, Vienna, Austria, May 20-23, 2019](meetings/GSC21.html)
-*   [GSC20, San Diego, USA, May 2-4, 2018](http://press3.mcs.anl.gov/gensc/meetings/gsc20/)
+*   [GSC21, Vienna, Austria, May 20-23, 2019](meetings/GSC21/GSC21.html)
+*   [GSC20, San Diego, USA, May 2-4, 2018](meetings/GSC20/GSC20.html)
 *   [GSC19, Brisbane, Australia, May 14-17, 2017](http://wiki.gensc.org/index.php?title=GSC_19)
 *   [GSC18, Crete Hellenic Center for Marine Research, Crete, Greece, June 12-15, 2016](http://wiki.gensc.org/index.php?title=GSC_18)
 *   [GSC 17, DOE JGI, Walnut Creek, CA, USA, May 4-6, 2015](http://wiki.gensc.org/index.php?title=GSC_17)
@@ -37,14 +37,9 @@
 *   [2nd EnvO (Environment Ontology) Workshop, Cold Spring Harbor, NY, USA, November 15-16, 2007](http://wiki.gensc.org/index.php?title=GSC_Meetings#2nd_EnvO_.28Environment_Ontology.29_Workshop.2C_Cold_Spring_Harbor.2C_New_York.2C_USA)
 *   [Genomics and Society: Today’s Answers, Tomorrow’s Questions, London, UK, October 25-26, 2007](http://wiki.gensc.org/index.php?title=GSC_Meetings#Genomics_and_Society:_Today.27s_Answers.2C_Tomorrow.27s_Questions)
 *   [Inaugural EnvO (Environment Ontology) Workshop, Oxford, UK, August 29-31, 2007](http://wiki.gensc.org/index.php?title=GSC_Meetings#Inaugural_EnvO_.28Environment_Ontology.29_Workshop)
-*   [GSC Birds of a Feather (BoF) meeting, ISMB 2007, Vienna, Austria, July 23, 2007](meetings/GSC-at-ismb-eccb-2007.html)
-original link -http://wiki.gensc.org/index.php?title=GSC_Meetings#GSC_Birds_of_a_Feather_.28BoF.29_meeting.2C_ISMB_2007
-*   [GSC 4, Cambridge, UK, June 6-8, 2007](meetings/GSC4.html)
-original link - http://wiki.gensc.org/index.php?title=GSC_Meetings#4th_Genomics_Standards_Consortium_Workshop
-*   [GSC 3, Cambridge, UK, September 11-13, 2006](meetings/GSC3.html)
-original link - http://wiki.gensc.org/index.php?title=GSC_Meetings#3rd_Genomics_Standards_Consortium_Workshop
+*   [GSC Birds of a Feather (BoF) meeting, ISMB 2007, Vienna, Austria, July 23, 2007](meetings/GSC-ISMB-BOF-2007/GSC-at-ismb-eccb-2007.html)
+*   [GSC 4, Cambridge, UK, June 6-8, 2007](meetings/GSC4/GSC4.html)
+*   [GSC 3, Cambridge, UK, September 11-13, 2006](meetings/GSC3/GSC3.html)
 *   [1st Technical Implementation Working Group Workshop, Oxford, UK, December 18, 2005](http://wiki.gensc.org/index.php?title=GSC_Meetings#1st_Technical_Implementation_Working_Group_Workshop)
-*   [GSC 2, EBI, Cambridge, UK, November 10-11, 2005](meetings/GSC2.html)
-original link - http://wiki.gensc.org/index.php?title=GSC_Meetings#2nd_Genomics_Standards_Consortium_Workshop
-*   [GSC 1, Cambridge, UK, September 7-9, 2005](meetings/GSC1.html)
-original link - http://wiki.gensc.org/index.php?title=GSC_Meetings#1st_.22Exploratory.22_Genomics_Standards_Consortium_Workshop
+*   [GSC 2, EBI, Cambridge, UK, November 10-11, 2005](meetings/GSC2/GSC2.html)
+*   [GSC 1, Cambridge, UK, September 7-9, 2005](meetings/GSC1/GSC1.html)
