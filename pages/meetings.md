@@ -1,5 +1,9 @@
 {% include header.html %}
 
+# Meetings
+
+<img src="https://only1chunts.github.io/only1chunts-gensc.github.io/images/GSC19-Group-outside-lightened-1024x336.jpg" width="640">
+
 ## **Upcoming meetings:**
 
 *   [GSC22, Bangkok, Thailand, July 13-17, 2020](meetings/current.html)
