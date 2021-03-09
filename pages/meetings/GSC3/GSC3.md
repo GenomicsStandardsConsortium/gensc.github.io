@@ -1,15 +1,16 @@
 {% include header.html %}
 
-![egenomics logo](../../images/egenomics_cat_logo.jpg)
+
+
+![egenomics logo](egenomics_cat_logo.jpg)
 
 
 # eGenomics: Cataloguing our complete genome collection  
-=======================================================
+
 ### 11 -13th Sept 2006
 
 
-
-### General information
+## General information
 
 Our complete genome collection, the result of a significant investment of public funds, is one of our most valuable biological resources and also one of the most complex. The value of these data lies in the ability to view, compare and contrast the entire genetic complement of a wide range of organisms. The complexity of these data stems not only from the vast number of biological features within these genomes (i.e. genes, promoters, binding sites etc) but also from the complexity of the evolutionary relationships and ecological lifestyles - factors that play a major role in shaping genome features and content - of the organisms to whom these genomes belong.  
 The scientific community would benefit significantly from the establishment of a data standard to capture more of this complexity. This standard could provide electronic, machine-readable reports for submission to a public database at the time of publication of each genome (analogous to the submission of genome annotation files). In this way, the experts on each organism would be directly responsible for providing data to the wider community about the detailed features of the organism.  
@@ -17,7 +18,7 @@ Currently the difficulty of obtaining such metadata in a high quality and easily
 
 This workshop is being organised by Dawn Field of the Centre for Ecology and Hydrology, Oxford and Tatiana Tatusov of the National Centre for Biotechnology Information.
 
-This is the third meeting of the Genomics Standards Consortium. [http://gensc.org](http://gensc.org/)
+This is the third meeting of the Genomics Standards Consortium. [http://gensc.sf.net](https://web.archive.org/web/20080518174941/http://gensc.sf.net/)
 
 ### Aim of the workshop
 
@@ -819,7 +820,7 @@ Departures
 ### Location
 
 The workshop, accommodation, and workshop dinners will all be in [Robinson College](https://web.archive.org/web/20080518174941/http://www.robinson.cam.ac.uk/), Cambridge. Session IV, on Tuesday afternoon will held in Titan 1 computer room.  
-A google map for this event is provided here.
+A google map for this event is provided [here](egenomic2006_map.html)
 
 ### Follow-on
 

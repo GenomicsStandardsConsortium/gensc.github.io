@@ -9,16 +9,11 @@ collection: meeting
 {% include header.html %}
 
 
+# GSC at ISMB/ECCB 2007
+
 Towards a richer set of information to describe our complete genome collection
 
-GSC at ISMB/ECCB 2007
-=====================
-
 ### From Genomic Standards Consortium
-
-[GSC Meetings](/web/20080517222136/http://gensc.org/gc_wiki/index.php/GSC_Meetings "GSC Meetings")
-
-* * *
 
 Birds of a Feather meeting for the GSC, to be held during the ISMB/ECCB 2007 meeting.
 
@@ -79,15 +74,15 @@ Agenda
 GSC members who will attend
 ---------------------------
 
-*   [Robert Stevens](/web/20080517222136/http://gensc.org/gc_wiki/index.php/Robert_Stevens "Robert Stevens")
-*   [Susanna-A Sansone](/web/20080517222136/http://gensc.org/gc_wiki/index.php/Susanna-A_Sansone "Susanna-A Sansone")
-*   [Renzo Kottman](/web/20080517222136/http://gensc.org/gc_wiki/index.php/Renzo_Kottman "Renzo Kottman")
-*   [Lynette Hirschman](/web/20080517222136/http://gensc.org/gc_wiki/index.php/Lynette_Hirschman "Lynette Hirschman")
-*   [Peter Dawyndt](/web/20080517222136/http://gensc.org/gc_wiki/index.php/Peter_Dawyndt "Peter Dawyndt")
-*   [Tatiana Tatusov](/web/20080517222136/http://gensc.org/gc_wiki/index.php/Tatiana_Tatusov "Tatiana Tatusov")
-*   [Tanya Gray](/web/20080517222136/http://gensc.org/gc_wiki/index.php/Tanya_Gray "Tanya Gray")
-*   [Dawn Field](/web/20080517222136/http://gensc.org/gc_wiki/index.php/Dawn_Field "Dawn Field")
-*   [Norman Morrison](/web/20080517222136/http://gensc.org/gc_wiki/index.php?title=Norman_Morrison&action=edit "Norman Morrison")
+*   Robert Stevens
+*   Susanna-A Sansone
+*   Renzo Kottman
+*   Lynette Hirschman]
+*   Peter Dawyndt
+*   Tatiana Tatusov
+*   Tanya Gray
+*   Dawn Field
+*   Norman Morrison
 
   
 **Emailed responses:**

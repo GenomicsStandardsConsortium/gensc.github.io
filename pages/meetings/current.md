@@ -1,7 +1,12 @@
+---
+layout: default
+---
+
 {% include header.html %}
+
 # GSC22 \[postponed\]
 
-22nd Genomic Standards Consortium Meeting[![](/images/Full_gsc_logo_small_2010-300x63.png)](/images/Full_gsc_logo_small_2010.png)
+22nd Genomic Standards Consortium Meeting ![](/imges/Full_gsc_logo_small_2010-300x63.png)
 
 
 ## **Genomic Standards for Precision Medicine, Agriculture, Comparative Genomics, and Metabolomics**
@@ -10,13 +15,13 @@ GSC22 sessions will focus on tackling metadata challenges related to the sample
 
 **Local Hosts:** The **[Faculty of Medicine Siriraj Hospital at Mahidol University](https://www2.si.mahidol.ac.th/en/)** and the **[National Center for Genetic Engineering and Biotechnology](http://www.biotec.or.th/en/) (BIOTEC/NSTDA)**
 
-[![](http://press3.mcs.anl.gov/gensc/files/2019/09/Mahidol-300x93.png)](http://press3.mcs.anl.gov/gensc/files/2019/09/Mahidol-e1567791367476.png)[![](http://press3.mcs.anl.gov/gensc/files/2019/09/biotec-300x95.jpeg)](http://press3.mcs.anl.gov/gensc/files/2019/09/biotec.jpeg)
-
-[![](http://press3.mcs.anl.gov/gensc/files/2019/09/nstda-300x98.jpeg)](http://press3.mcs.anl.gov/gensc/files/2019/09/nstda.jpeg)
+![](Mahidol-300x93.png)
+![](biotec-300x95.jpeg)
+![](nstda-300x98.jpeg)
 
 **Dates:** July 13-17, 2020
 
-        [![](http://press3.mcs.anl.gov/gensc/files/2019/09/bangkok.jpeg)](http://press3.mcs.anl.gov/gensc/files/2019/09/bangkok.jpeg)
+        ![](bangkok.jpeg)
 
 **Location**: Srisavarindhira Building, [Siriraj Hospital Mahidol University](https://www2.si.mahidol.ac.th/en/), 2 Thanon Wang Lang, Siriraj, Bangkok Noi, Bangkok 10700, Thailand
 
@@ -30,7 +35,7 @@ GSC22 sessions will focus on tackling metadata challenges related to the sample
 
 Attendees are encouraged to make their hotel booking as early as possible. Here we provide a list of Bangkok (3 star and 4 star) hotels, with estimated per night costs (for the meeting dates, prices were looked up in February, 2020) 
 
-[Hotel List](http://press3.mcs.anl.gov/gensc/files/2020/02/hotels.docx)
+[Hotel List](hotels.docx)
 
 [Translation rates](https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=THB) for Thai Baht (THB) to USD
 
@@ -117,18 +122,9 @@ Parwinder Kaur – DNA Zoo Australia
 
 **Sponsors:**
 
-[Agilent](https://www.agilent.com/), [China National GeneBank](https://db.cngb.org), [Scientific Data](https://www.nature.com/sdata/)
+[![](agilent-logo.png "Agilent")](https://www.agilent.com/) 
 
-[![](http://press3.mcs.anl.gov/gensc/files/2019/09/scientificData.png)](http://press3.mcs.anl.gov/gensc/files/2019/09/scientificData.png)[![](http://press3.mcs.anl.gov/gensc/files/2020/02/LOGO-300x154.png)](http://press3.mcs.anl.gov/gensc/files/2020/02/LOGO.png) 
+[![](scientificData.png "Scientific Data")](https://www.nature.com/sdata/) 
 
- 
-
-Recent Comments
-
-*   [The National Microbiome Initiative: A lucky day for all |](http://www.mostlymicrobes.com/national-microbiome-initiative/) on [MIxS](https://gensc.org/mixs/#comment-19)
-*   [Defining biodiversity genomics | OUPblog](http://blog.oup.com/2016/03/defining-biodiversity-genomics/) on [Biodiversity Genomics Working Group](https://gensc.org/projects/biodiversity-genomics-working-group/#comment-17)
-*   [GigaBlog Follow us (on everything)](http://blogs.biomedcentral.com/gigablog/2012/02/27/follow-us-on-everything/) on [About GSC](https://gensc.org/about-gsc/#comment-5)
-*   [BioMed Central blog GigaScience at the Genomic Standards Consortium meeting – call for papers for a special series](http://bmcblogs.wpengine.com/bmcblog/2012/03/05/gigascience-at-the-genomic-standards-consortium-meeting-call-for-papers-for-a-special-series/) on [About GSC](https://gensc.org/about-gsc/#comment-3)
-*   [eGenomics III GSC Meeting Report Published « the mind wobbles](http://themindwobbles.wordpress.com/2007/07/12/egenomics-iii-gsc-meeting-report-published/) on [eGenomics III – meeting report published](https://gensc.org/migsmims/egenomics-iii-meeting-report-published/#comment-7)
-
+[![](CNGB-LOGO-300x154.png "Chine National GeneBank(CNGB)")](https://db.cngb.org) 
 

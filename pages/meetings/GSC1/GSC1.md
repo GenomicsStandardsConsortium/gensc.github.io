@@ -1,5 +1,5 @@
 {% include header.html %}
-# 1st "Exploratory" Genomics Standards Consortium Workshop==
+# 1st "Exploratory" Genomics Standards Consortium Workshop
 
 **Date:** 7-9 September, 2005
 
@@ -11,7 +11,7 @@ This exploratory workshop was organized by Dawn Field and Tatiana Tatusova to di
 
 Many thanks to NIEeS for funding and hosting the event and to the participants for talks and discussions.
 
-[Program outline](https://web.archive.org/web/20110812224608/http://buffalo.niees.group.cam.ac.uk/archive2.php?event_details=egen_cat)
+## Program outline
 
 |Speaker's name|	Title of presentation|
 |--------------|-----------------------|
