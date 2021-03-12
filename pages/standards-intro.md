@@ -1,31 +1,112 @@
 {% include header.html %}
- 
-# Background
 
-Without specific guidelines, most genomic, metagenomic and marker gene sequences in databases are sparsely annotated with the information required to guide data integration, comparative studies and knowledge generation. Even with complex keyword searches, it is currently impossible to reliably retrieve sequences that have originated from certain environments or particular locations on Earth—for example, all sequences from "soil" or "freshwater lakes" in a certain region of the world. Because public sequence repositories (INSDC, MG-RAST, GOLD...) depend on author-submitted information to enrich the value of sequence data sets, we argue that the only way to change the current practice is to establish a standard of reporting that requires contextual (meta)data to be deposited at the time of sequence submission. The adoption of such a standard would elevate the quality, accessibility and utility of information that can be collected from INSDC or any other data repository.
-
-The GSC has defined a set of core descriptors for genomes and metagenomes in the form of MIGS/MIMS specification. MIGS/MIMS extends the minimum information already captured by the INSDC. More recently introduced MIMARKS captures information about marker genes. Additionally, we also introduced "environmental packages" that standardize sets of measurements and observations describing particular habitats that are applicable across all GSC checklists and beyond. We define ‘environment’ as any location in which a sample or organism is found, e.g., soil, air, water, human-associated, plant-associated or laboratory. The environmental packages are relevant to any sequence of known origin and are designed to be used in combination with MIGS, MIMS and MIMARKS checklists.
 
 # GSC Minimum Information about any Sequence (MIxS)
 
 The GSC family of minimum information standards (checklists) – Minimum Information about any (x) Sequence (MIxS)
 
-MIxS currently consists of three separate checklists; **[MIGS for genomes](https://pubmed.ncbi.nlm.nih.gov/18464787 "MIGS/MIMS")**, **[MIMS for metagenomes](https://pubmed.ncbi.nlm.nih.gov/18479204/ "MIGS/MIMS")**, and [**MIMARKS for marker genes**](https://pubmed.ncbi.nlm.nih.gov/21552244/).
+## Checklists
 
-To create a single entry point to all minimum information checklists from the GSC and to the environmental packages, we created an overarching framework, the MIxS standard (publication in Nature Biotechnology). MIxS includes the technology-specific checklists from the previous MIGS and MIMS standards, provides a way of introducing additional checklists such as MIMARKS, and also allows annotation of sample data using environmental packages.
+As of release 5.0, the following checklists are under the MIxS umbrella:
+- _MIGS: [Minimum information about a genome sequence_](https://pubmed.ncbi.nlm.nih.gov/18464787)
+- _MIMS: [Minimum information about a metagenome sequence_](https://pubmed.ncbi.nlm.nih.gov/18479204/)
+- _MIMARKS: [Minimum information about a marker gene sequence_](https://pubmed.ncbi.nlm.nih.gov/21552244/)
+- _MISAG: [Minimum information about a single amplified genome sequence_]()
+- _MIMAG: [Minimum information about a metagenome-assembled genome sequence_]()
 
-## [The checklists](/gensc.github.io/pages/standards/mixs.html)
-The current versions of the checklists are available [here](/gensc.github.io/pages/standards/mixs.html). 
+MIGS and MIMARKS are further divided into additional subchecklists, based on the genome sequence in question, or the sequencing type.
+- _MIGS-EU: MIGS for eukaryotic genome sequences_
+- _MIGS-BA: MIGS for bacterial and archaeal genome sequences_
+- _MIGS-PL: MIGS for plasmid sequences_
+- _MIGS-VI: MIGS for viral genome sequences_
+- _MIGS-ORG: MIGS for organelle sequences_
+- _MIMARKS-SP: MIMARKS-survey  for marker gene sequences obtained directly from the environment_
+- _MIMARKS-SU: MIMARKS-specimen for marker gene sequences from cultured or voucher-identifiable specimens_
+
+
+## Core and specific descriptors
+All checklists share the same central set of core (Minimum) descriptors, which are:
+- **investigation type**
+- **project name**
+- **geographic location (latitude and longitude)**
+- **geographic location (country and/or sea,region)**
+- **collection date**
+- **environment (biome, feature, and material)**
+- **sequencing method**
+
+Each checklist is then defined by additional type-specific descriptors. These specific descriptors are summarized below for each checklist and subchecklist. Please note that this summary only includes minimum information for each sequence type, meaning that other conditional and optional descriptors are not included. 
+
+MIGS-EU
+- isolation and growth condition
+- assembly quality
+- assembly software
+- number of contigs
+
+MIGS-BA
+- number of replicons
+- reference for biomaterial
+- isolation and growth condition
+- assembly quality
+- assembly software
+- number of contigs
+
+MIGS-PL
+- propagation
+- isolation and growth condition
+- assembly software
+
+MIGS-VI
+- propagation
+- isolation and growth condition
+- assembly software
+
+MIGS-ORG
+- isolation and growth condition
+- assembly software
+
+MIMS
+
+MIMARKS-S
+- target gene
+
+MIMARKS-C
+- isolation and growth condition
+- target gene
+
+MISAG
+- taxonomic identity marker
+- assembly quality
+- assembly software
+- completeness score
+- completeness software
+- contamination score 
+- sorting technology
+- single cell lysis approach
+- WGA amplification approach
+
+MIMAG
+- taxonomic identity marker
+- assembly quality
+- assembly software
+- completeness score
+- completeness software
+- contamination score 
+- binning parameters
+- binning software
+
+## Extensions
+In order to encourage more comprehensive metadata inclusion with sequence data the GSC have encouraged the development of many extensions that can be used in addition to the Minimum Information for each checklist. These extnesions consist of many recomended terms that have been compiled by experts in the relevant field of research. Explore all the ready made checklist extensions that we have [available](/pages/standards/mixs-ext-and-profiles.html).
+If there is not a suitable checklist already available and you are interested in developing your own extention, [this page](/pages/standards/mixs-ext-and-profiles.html) also contains details on Developing Extensions that you may find useful.
+
+
+## [The checklists](standards/mixs.html)
+The current versions of the checklists are available [here](standards/mixs.html). 
 We have a github repository where the next versions are being developed and discussed, please feel free to join the discussion using the github issue tracker.
 In addition there are more techincal speficication available in the [GitHub Wiki](https://github.com/GenomicsStandardsConsortium/mixs/wiki)
 
 You can find all previous versions of the checklistsin our [mixs-legacy GitHub](https://github.com/GenomicsStandardsConsortium/mixs-legacy) repository.
 
-## [Compliance and Implementation](/gensc.github.io/pages/standards/compliance.html)
+## [Compliance and Implementation](standards/compliance.html)
 Details of how to comply with the standard, and which repositories and institutions are currently making use of them
-
-## [Extensions](/gensc.github.io/pages/standards/mixs-ext-and-profiles.html)
-Many of the core packages also have multiple extensions of recomended terms that have been compiled by experts in the relevant field of research. Explore all the ready made checklist extensions that we have available
-If there is not a suitable checklist already available and you are interested in developing your own extention, [this page](/gensc.github.io/pages/standards/mixs-ext-and-profiles.html) also contains details on Developing Extensions that you may find useful.
 
 
