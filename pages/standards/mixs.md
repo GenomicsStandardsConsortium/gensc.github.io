@@ -32,7 +32,7 @@ The core MIxS team have developed a series environmental packages which expand o
 
 # MIxS terms
 
-[Here](standards/all-terms.html) we list all possible terms defined within the GSC MIxS checklists.
+[Here](all-terms.html) we list all possible terms defined within the GSC MIxS checklists.
 
 Below are links to pages with only the terms listed as Mandatory for each of the individual checklists:
 MIGS_EU
