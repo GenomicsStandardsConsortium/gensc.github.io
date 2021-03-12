@@ -8,20 +8,20 @@ The GSC family of minimum information standards (checklists) – Minimum Informa
 ## Checklists
 
 As of release 5.0, the following checklists are under the MIxS umbrella:
-- _MIGS: [Minimum information about a genome sequence_](https://pubmed.ncbi.nlm.nih.gov/18464787)
-- _MIMS: [Minimum information about a metagenome sequence_](https://pubmed.ncbi.nlm.nih.gov/18479204/)
-- _MIMARKS: [Minimum information about a marker gene sequence_](https://pubmed.ncbi.nlm.nih.gov/21552244/)
-- _MISAG: [Minimum information about a single amplified genome sequence_]()
-- _MIMAG: [Minimum information about a metagenome-assembled genome sequence_]()
+- MIGS: [Minimum information about a genome sequence](https://pubmed.ncbi.nlm.nih.gov/18464787)
+- MIMS: [Minimum information about a metagenome sequence](https://pubmed.ncbi.nlm.nih.gov/18479204/)
+- MIMARKS: [Minimum information about a marker gene sequence](https://pubmed.ncbi.nlm.nih.gov/21552244/)
+- MISAG: [Minimum information about a single amplified genome sequence]()
+- MIMAG: [Minimum information about a metagenome-assembled genome sequence]()
 
 MIGS and MIMARKS are further divided into additional subchecklists, based on the genome sequence in question, or the sequencing type.
-- _MIGS-EU: MIGS for eukaryotic genome sequences_
-- _MIGS-BA: MIGS for bacterial and archaeal genome sequences_
-- _MIGS-PL: MIGS for plasmid sequences_
-- _MIGS-VI: MIGS for viral genome sequences_
-- _MIGS-ORG: MIGS for organelle sequences_
-- _MIMARKS-SP: MIMARKS-survey  for marker gene sequences obtained directly from the environment_
-- _MIMARKS-SU: MIMARKS-specimen for marker gene sequences from cultured or voucher-identifiable specimens_
+- MIGS-EU: MIGS for eukaryotic genome sequences
+- MIGS-BA: MIGS for bacterial and archaeal genome sequences
+- MIGS-PL: MIGS for plasmid sequences
+- MIGS-VI: MIGS for viral genome sequences
+- MIGS-ORG: MIGS for organelle sequences
+- MIMARKS-SP: MIMARKS-survey  for marker gene sequences obtained directly from the environment
+- MIMARKS-SU: MIMARKS-specimen for marker gene sequences from cultured or voucher-identifiable specimens
 
 
 ## Core and specific descriptors
