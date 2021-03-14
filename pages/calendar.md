@@ -1,3 +1,5 @@
+{% include header.html %}
+
 layout: page
 title: Calendar
 weight : 98
