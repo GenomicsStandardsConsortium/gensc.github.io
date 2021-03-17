@@ -28,4 +28,4 @@ The GSC Board was established in April 2009 to improve communication within the 
 The current GSC board, Alumni Board Members as well as members of our Advisory Board are all listed on [this](about/board-members.html) page.
 
 ## [Community](about/community.html)
-The GSC has an open membership policy. If you would like to join the GSC, please contact the Secretary by clicking on [Contact](pages/contact.html) on the menubar. We also recommend that you subscribe to the GSC’s general mailing list.
+The GSC has an open membership policy. If you would like to join the GSC, please contact the Secretary by clicking on [Contact](about/contact.html) on the menubar. We also recommend that you subscribe to the GSC’s general mailing list.
