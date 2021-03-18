@@ -8,11 +8,11 @@ The GSC family of minimum information standards (checklists) – Minimum Informa
 ## Checklists
 
 As of release 5.0, the following checklists are under the MIxS umbrella:
-- MIGS: [Minimum information about a genome sequence](https://pubmed.ncbi.nlm.nih.gov/18464787)
-- MIMS: [Minimum information about a metagenome sequence](https://pubmed.ncbi.nlm.nih.gov/18479204/)
-- MIMARKS: [Minimum information about a marker gene sequence](https://pubmed.ncbi.nlm.nih.gov/21552244/)
-- MISAG: [Minimum information about a single amplified genome sequence]()
-- MIMAG: [Minimum information about a metagenome-assembled genome sequence]()
+- MIGS: Minimum information about a genome sequence. see [publication](https://pubmed.ncbi.nlm.nih.gov/18464787)
+- MIMS: Minimum information about a metagenome sequence. see [publication](https://pubmed.ncbi.nlm.nih.gov/18479204/)
+- MIMARKS: Minimum information about a marker gene sequence. see [publication](https://pubmed.ncbi.nlm.nih.gov/21552244/)
+- MISAG: Minimum information about a single amplified genome sequence. see [publication]()
+- MIMAG: Minimum information about a metagenome-assembled genome sequence. see [publication]()
 
 MIGS and MIMARKS are further divided into additional subchecklists, based on the genome sequence in question, or the sequencing type.
 - MIGS-EU: MIGS for eukaryotic genome sequences
@@ -34,7 +34,7 @@ All checklists share the same central set of core (Minimum) descriptors, which a
 - **environment (biome, feature, and material)**
 - **sequencing method**
 
-Each checklist is then defined by additional type-specific descriptors. These specific descriptors are summarized below for each checklist and subchecklist. Please note that this summary only includes minimum information for each sequence type, meaning that other conditional and optional descriptors are not included. 
+Each checklist is then defined by additional type-specific descriptors. These specific descriptors are summarized below for each checklist and subchecklist. Please note that this summary only includes minimum information for each sequence type, meaning that other conditional and optional descriptors are not included here. 
 
 MIGS-EU
 - isolation and growth condition
@@ -95,8 +95,8 @@ MIMAG
 - binning software
 
 ## Extensions
-In order to encourage more comprehensive metadata inclusion with sequence data the GSC have encouraged the development of many extensions that can be used in addition to the Minimum Information for each checklist. These extnesions consist of many recomended terms that have been compiled by experts in the relevant field of research. Explore all the ready made checklist extensions that we have [available](/pages/standards/mixs-ext-and-profiles.html).
-If there is not a suitable checklist already available and you are interested in developing your own extention, [this page](/pages/standards/mixs-ext-and-profiles.html) also contains details on Developing Extensions that you may find useful.
+In order to encourage more comprehensive metadata inclusion with sequence data the GSC have facilitated the development of many extensions that can be used in addition to the Minimum Information for each checklist. These extensions consist of many recomended terms that have been compiled by experts in the relevant field of research. Explore all the ready made checklist extensions that we have [available](standards/mixs-ext-and-profiles.html).
+If there is not a suitable checklist already available and you are interested in developing your own extention, [this page](standards/mixs-ext-and-profiles.html) also contains details on Developing Extensions that you may find useful.
 
 
 ## [The checklists](standards/mixs.html)
