@@ -5,6 +5,44 @@ https://genomicsstandardsconsortium.github.io/gensc.github.io/
 
 This GitHub repo contains all the code and pages requried to generate the above website, its writen almost entirely in MarkDown (MD). Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+## Repo layout
+
+Here we describe the directory structure of the repository.
+
+### pages
+The subdirectory called "pages" contains the directory structure of the html pages generated, only the "index.md" file is not in the "pages" directory.
+
+### images
+The repository has been setup to have a single location for all Image files reagardless of the page in which they appear, this should allow for effective reuse of images and mean if/when any image/logo needs to be updated it can be done in one place. The exception to this are the meetings pages, where there are usually quite a lot of images for each meeting page, so they are grouped together within the relevant meeting page sub-directory.
+
+### other-media
+Similarly, all downloadable files (termed "other media") should also be saved to the common directory regardless of which webpage they appear in. This will include things like PDF files or Powerpoint slides etc.
+
+With both of those directories it is important to check for the existance of the file you are intending to upload first to avoid duplicates. You should also ensure the file names used are both meaningful and unique. When committing file uploads it would be helpful to include a description of the file in the commit comment.
+
+### _posts
+This directory contains the "Notices" listed on the website. To generate a new "Notice" page simply add a file to this directory following the instructions within the directory. The file name must be of the format YYYY-MM-DD-title.md, and the file must contain the front matter:
+"---
+layout: default
+title: New board members
+category: news
+tag: [news]
+date: 2018-05-07
+---"
+
+### _includes
+The "_includes" directory holds the common files that can be added to any sub-page, specifically :
+ * header.html file which provides the GSC header consistently for each page or wherever the \{% include header.html %} flag is added to a webpage.
+ * carousel.html - provides the code to generate the carousel used on the home page. The images to be included in the carousel are listed in the _data/carousel.yml file. 
+ 
+Its possible we might require a footer aswell that can be created here and added to any of the pages that require it.
+
+### _data
+The primary reason for this directory is to hold YAML files with information used by some of the pages. Initially that is just "carousel.yml" to list the images to be included in the carousel on the front page.
+There is potential that it could be used for the MIxS terms in the future to build pages for particular checklist terms, but that is still to be finalised.
+
+
 ## What is Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. Below are the simple text format conventions:
@@ -28,16 +66,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Repo layout
-The repository has been setup to have a single location for all Image files reagardless of the page in which they appear, this should allow for effective reuse of images and mean if/when any image/logo needs to be updated it can be done in one place.
-
-Similarly, all downloadable files (termed "other media") should also be saved to the common directory regardless of which webpage they appear in. This will include things like PDF files or Powerpoint slides etc.
-
-With both of those directories it is important to check for the existance of the file you are intending to upload first to avoid duplicates. You should also ensure the file names used are both meaningful and unique. When committing file uploads it would be helpful to include a description of the file in the commit comment.
-
-The "\_includes" directory holds the common files that can be added to any sub-page, specifically the header.html file which provides the GSC header consistently for each page or wherever the \{% include header.html %} flag is added to a webpage.
-Its possible we might require a footer aswell that can be created here and added to any of the pages that require it.
 
 ### Converting HTML pages to markdown
 
@@ -68,9 +96,6 @@ Check any links within the page are not pointing back to the old website, if you
 To include the GSC header section in a new page just add this line at the top of the .md file
 
 \{% include header.html %}
-
-### When you have the page completed
-If you have been working in your Fork of the repository you will need to make a pull request
 
 ## Jekyll Themes
 
