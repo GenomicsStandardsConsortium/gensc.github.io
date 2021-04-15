@@ -110,3 +110,8 @@ You can find all previous versions of the checklistsin our [mixs-legacy GitHub](
 Details of how to comply with the standard, and which repositories and institutions are currently making use of them
 
 
+## [The Terms](standards/all-terms.html)
+The complete set of terms defined across all of the checklists and packages can be found [here](standards/all-terms.html).
+If you are interested in a specific term or terms, we provide a [simple search](standards/search-terms.html) function to aid you in finding the relevant term(s).
+
+
