@@ -10,8 +10,7 @@
     <h1>Term Search</h1>
 	<div id="header"></div>
 	<div>
-	refresh<br>
-	There are over 600 individual terms that have been defined by GSC over the years during the development of the multiple standards and associatted packages. Finding details of individual terms can be tricky if you do not know the specific name or ID, for this reason we provide a simple search tool here.<br>
+		There are over 600 individual terms that have been defined by GSC over the years during the development of the multiple standards and associatted packages. Finding details of individual terms can be tricky if you do not know the specific name or ID, for this reason we provide a simple search tool here.<br>
 	The term name, ID and, definitions are all indexed for search.<br><br>
 	</div>
 	<form role="form">
