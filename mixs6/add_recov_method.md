@@ -1,0 +1,48 @@
+
+# Slot: add_recov_method
+
+
+Additional (i.e. Secondary, tertiary, etc.) recovery methods deployed for increase of hydrocarbon recovery from resource and start date for each one of them. If "other" is specified, please propose entry in "additional info" field
+
+URI: [mixs.vocab:add_recov_method](https://w3id.org/mixs/vocab/add_recov_method)
+
+
+## Domain and Range
+
+None ->  <sub>OPT</sub> 
+
+## Parents
+
+ *  is_a: [environment field](environment_field.md)
+
+## Children
+
+
+## Used by
+
+ * [HydrocarbonResources-fluidsSwabs](HydrocarbonResources-fluidsSwabs.md)
+ * [HydrocarbonResources-fluidsSwabsMe](HydrocarbonResources-fluidsSwabsMe.md)
+ * [HydrocarbonResources-fluidsSwabsMigsBa](HydrocarbonResources-fluidsSwabsMigsBa.md)
+ * [HydrocarbonResources-fluidsSwabsMigsEu](HydrocarbonResources-fluidsSwabsMigsEu.md)
+ * [HydrocarbonResources-fluidsSwabsMigsOrg](HydrocarbonResources-fluidsSwabsMigsOrg.md)
+ * [HydrocarbonResources-fluidsSwabsMigsPl](HydrocarbonResources-fluidsSwabsMigsPl.md)
+ * [HydrocarbonResources-fluidsSwabsMigsVi](HydrocarbonResources-fluidsSwabsMigsVi.md)
+ * [HydrocarbonResources-fluidsSwabsMimag](HydrocarbonResources-fluidsSwabsMimag.md)
+ * [HydrocarbonResources-fluidsSwabsMimarksC](HydrocarbonResources-fluidsSwabsMimarksC.md)
+ * [HydrocarbonResources-fluidsSwabsMimarksS](HydrocarbonResources-fluidsSwabsMimarksS.md)
+ * [HydrocarbonResources-fluidsSwabsMisag](HydrocarbonResources-fluidsSwabsMisag.md)
+ * [HydrocarbonResources-fluidsSwabsMiuvig](HydrocarbonResources-fluidsSwabsMiuvig.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Aliases:** | | secondary and tertiary recovery methods and start date |
+| **Mappings:** | | MIXS:0001009 |
+| **Comments:** | | Expected value: enumeration;timestamp |
+|  | | Preferred unit:  |
+|  | | Occurrence: 1 |
+|  | | Position: 28 |
+|  | | This field is used uniquely in: hydrocarbon resources-fluids_swabs |
+| **Examples:** | | Example(value='Polymer Addition;2018-06-21T14:30Z', description=None) |
+

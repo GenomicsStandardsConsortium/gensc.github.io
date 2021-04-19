@@ -1,0 +1,317 @@
+
+# Class: Plant-associated
+
+
+plant-associated
+
+URI: [mixs.vocab:Plant-associated](https://w3id.org/mixs/vocab/Plant-associated)
+
+
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[Plant-associatedMiuvig],[Plant-associatedMisag],[Plant-associatedMimarksS],[Plant-associatedMimarksC],[Plant-associatedMimag],[Plant-associatedMigsVi],[Plant-associatedMigsPl],[Plant-associatedMigsOrg],[Plant-associatedMigsEu],[Plant-associatedMigsBa],[Plant-associatedMe],[Plant-associated&#124;air_temp_regm:string%20%3F;ances_data:string%20%3F;antibiotic_regm:string%20%3F;biol_stat:biol_stat_enum%20%3F;biotic_regm:string%20%3F;chem_administration:string%20%3F;chem_mutagen:string%20%3F;climate_environment:string%20%3F;cult_root_med:string%20%3F;fertilizer_regm:string%20%3F;fungicide_regm:string%20%3F;gaseous_environment:string%20%3F;genetic_mod:string%20%3F;gravity:string%20%3F;growth_facil:string%20%3F;growth_habit:growth_habit_enum%20%3F;growth_hormone_regm:string%20%3F;herbicide_regm:string%20%3F;host_age:string%20%3F;host_common_name:string%20%3F;host_disease_stat:string%20%3F;host_dry_mass:string%20%3F;host_genotype:string%20%3F;host_height:string%20%3F;host_infra_specific_name:string%20%3F;host_infra_specific_rank:string%20%3F;host_length:string%20%3F;host_life_stage:string%20%3F;host_phenotype:string%20%3F;host_taxid:string%20%3F;host_tot_mass:string%20%3F;host_wet_mass:string%20%3F;humidity_regm:string%20%3F;light_regm:string%20%3F;mechanical_damage:string%20%3F;mineral_nutr_regm:string%20%3F;misc_param:string%20%3F;non_mineral_nutr_regm:string%20%3F;organism_count:organism_count_enum%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;ph_regm:string%20%3F;perturbation:string%20%3F;pesticide_regm:string%20%3F;plant_growth_med:plant_growth_med_enum%20%3F;plant_product:string%20%3F;plant_sex:plant_sex_enum%20%3F;plant_struc:string%20%3F;radiation_regm:string%20%3F;rainfall_regm:string%20%3F;root_cond:string%20%3F;root_med_carbon:string%20%3F;root_med_macronutr:string%20%3F;root_med_micronutr:string%20%3F;root_med_suppl:string%20%3F;root_med_ph:string%20%3F;root_med_regl:string%20%3F;root_med_solid:string%20%3F;salt_regm:string%20%3F;samp_capt_status:samp_capt_status_enum%20%3F;samp_dis_stage:string%20%3F;samp_salinity:string%20%3F;samp_store_dur:string%20%3F;samp_store_loc:string%20%3F;samp_store_temp:string%20%3F;samp_vol_we_dna_ext:string%20%3F;season_environment:string%20%3F;standing_water_regm:string%20%3F;temp:string%20%3F;tiss_cult_growth_med:string%20%3F;water_temp_regm:string%20%3F;watering_regm:string%20%3F]^-[Plant-associatedMiuvig],[Plant-associated]^-[Plant-associatedMisag],[Plant-associated]^-[Plant-associatedMimarksS],[Plant-associated]^-[Plant-associatedMimarksC],[Plant-associated]^-[Plant-associatedMimag],[Plant-associated]^-[Plant-associatedMigsVi],[Plant-associated]^-[Plant-associatedMigsPl],[Plant-associated]^-[Plant-associatedMigsOrg],[Plant-associated]^-[Plant-associatedMigsEu],[Plant-associated]^-[Plant-associatedMigsBa],[Plant-associated]^-[Plant-associatedMe])
+
+## Children
+
+ * [Plant-associatedMe](Plant-associatedMe.md) - Combinatorial checklist for plant-associated with me
+ * [Plant-associatedMigsBa](Plant-associatedMigsBa.md) - Combinatorial checklist for plant-associated with migs_ba
+ * [Plant-associatedMigsEu](Plant-associatedMigsEu.md) - Combinatorial checklist for plant-associated with migs_eu
+ * [Plant-associatedMigsOrg](Plant-associatedMigsOrg.md) - Combinatorial checklist for plant-associated with migs_org
+ * [Plant-associatedMigsPl](Plant-associatedMigsPl.md) - Combinatorial checklist for plant-associated with migs_pl
+ * [Plant-associatedMigsVi](Plant-associatedMigsVi.md) - Combinatorial checklist for plant-associated with migs_vi
+ * [Plant-associatedMimag](Plant-associatedMimag.md) - Combinatorial checklist for plant-associated with mimag
+ * [Plant-associatedMimarksC](Plant-associatedMimarksC.md) - Combinatorial checklist for plant-associated with mimarks_c
+ * [Plant-associatedMimarksS](Plant-associatedMimarksS.md) - Combinatorial checklist for plant-associated with mimarks_s
+ * [Plant-associatedMisag](Plant-associatedMisag.md) - Combinatorial checklist for plant-associated with misag
+ * [Plant-associatedMiuvig](Plant-associatedMiuvig.md) - Combinatorial checklist for plant-associated with miuvig
+
+## Referenced by class
+
+
+## Attributes
+
+
+### Own
+
+ * [air_temp_regm](air_temp_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving an exposure to varying temperatures; should include the temperature, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include different temperature regimens
+     * range: [String](types/String.md)
+     * Example: 25 degree Celsius;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [ances_data](ances_data.md)  <sub>OPT</sub>
+     * Description: Information about either pedigree or other ancestral information description (e.g. parental variety in case of mutant or selection), e.g. A/3*B (meaning [(A x B) x B] x B)
+     * range: [String](types/String.md)
+     * Example: A/3*B None
+ * [antibiotic_regm](antibiotic_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving antibiotic administration; should include the name of antibiotic, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple antibiotic regimens
+     * range: [String](types/String.md)
+     * Example: penicillin;5 milligram;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [biol_stat](biol_stat.md)  <sub>OPT</sub>
+     * Description: The level of genome modification
+     * range: 
+     * Example: natural None
+ * [biotic_regm](biotic_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment(s) involving use of biotic factors, such as bacteria, viruses or fungi.
+     * range: [String](types/String.md)
+     * Example: sample inoculated with Rhizobium spp. Culture None
+ * [chem_administration](chem_administration.md)  <sub>OPT</sub>
+     * Description: List of chemical compounds administered to the host or site where sampling occurred, and when (e.g. Antibiotics, n fertilizer, air filter); can include multiple compounds. For chemical entities of biological interest ontology (chebi) (v 163), http://purl.bioontology.org/ontology/chebi
+     * range: [String](types/String.md)
+     * Example: agar [CHEBI:2509];2018-05-11T20:00Z None
+ * [chem_mutagen](chem_mutagen.md)  <sub>OPT</sub>
+     * Description: Treatment involving use of mutagens; should include the name of mutagen, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple mutagen regimens
+     * range: [String](types/String.md)
+     * Example: nitrous acid;0.5 milligram per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [climate_environment](climate_environment.md)  <sub>OPT</sub>
+     * Description: Treatment involving an exposure to a particular climate; treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple climates
+     * range: [String](types/String.md)
+     * Example: tropical climate;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [cult_root_med](cult_root_med.md)  <sub>OPT</sub>
+     * Description: Name or reference for the hydroponic or in vitro culture rooting medium; can be the name of a commonly used medium or reference to a specific medium, e.g. Murashige and Skoog medium. If the medium has not been formally published, use the rooting medium descriptors.
+     * range: [String](types/String.md)
+     * Example: http://himedialabs.com/TD/PT158.pdf None
+ * [fertilizer_regm](fertilizer_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving the use of fertilizers; should include the name of fertilizer, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple fertilizer regimens
+     * range: [String](types/String.md)
+     * Example: urea;0.6 milligram per liter;R2/2018-05-11:T14:30/2018-05-11T19:30/P1H30M None
+ * [fungicide_regm](fungicide_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving use of fungicides; should include the name of fungicide, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple fungicide regimens
+     * range: [String](types/String.md)
+     * Example: bifonazole;1 mole per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [gaseous_environment](gaseous_environment.md)  <sub>OPT</sub>
+     * Description: Use of conditions with differing gaseous environments; should include the name of gaseous compound, amount administered, treatment duration, interval and total experimental duration; can include multiple gaseous environment regimens
+     * range: [String](types/String.md)
+     * Example: nitric oxide;0.5 micromole per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [genetic_mod](genetic_mod.md)  <sub>OPT</sub>
+     * Description: Genetic modifications of the genome of an organism, which may occur naturally by spontaneous mutation, or be introduced by some experimental means, e.g. specification of a transgene or the gene knocked-out or details of transient transfection
+     * range: [String](types/String.md)
+     * Example: aox1A transgenic None
+ * [gravity](gravity.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving use of gravity factor to study various types of responses in presence, absence or modified levels of gravity; treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple treatments
+     * range: [String](types/String.md)
+     * Example: 12 g;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [growth_facil](growth_facil.md)  <sub>OPT</sub>
+     * Description: Type of facility where the sampled plant was grown; controlled vocabulary: growth chamber, open top chamber, glasshouse, experimental garden, field. Alternatively use Crop Ontology (CO) terms, see http://www.cropontology.org/ontology/CO_715/Crop%20Research
+     * range: [String](types/String.md)
+     * Example: Growth chamber [CO_715:0000189] None
+ * [growth_habit](growth_habit.md)  <sub>OPT</sub>
+     * Description: Characteristic shape, appearance or growth form of a plant species
+     * range: 
+     * Example: spreading None
+ * [growth_hormone_regm](growth_hormone_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving use of growth hormones; should include the name of growth hormone, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple growth hormone regimens
+     * range: [String](types/String.md)
+     * Example: abscisic acid;0.5 milligram per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [herbicide_regm](herbicide_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving use of herbicides; information about treatment involving use of growth hormones; should include the name of herbicide, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
+     * range: [String](types/String.md)
+     * Example: atrazine;10 milligram per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [host_age](host_age.md)  <sub>OPT</sub>
+     * Description: Age of host at the time of sampling; relevant scale depends on species and study, e.g. Could be seconds for amoebae or centuries for trees
+     * range: [String](types/String.md)
+     * Example: 10 days None
+ * [host_common_name](host_common_name.md)  <sub>OPT</sub>
+     * Description: Common name of the host, e.g. Human
+     * range: [String](types/String.md)
+     * Example: mussel None
+ * [host_disease_stat](host_disease_stat.md)  <sub>OPT</sub>
+     * Description: List of diseases with which the host has been diagnosed; can include multiple diagnoses. The value of the field depends on host; for humans the terms should be chosen from the DO (Human Disease Ontology) at https://www.disease-ontology.org, non-human host diseases are free text
+     * range: [String](types/String.md)
+     * Example: rabies [DOID:11260] None
+ * [host_dry_mass](host_dry_mass.md)  <sub>OPT</sub>
+     * Description: Measurement of dry mass
+     * range: [String](types/String.md)
+     * Example: 500 gram None
+ * [host_genotype](host_genotype.md)  <sub>OPT</sub>
+     * Description: Observed genotype
+     * range: [String](types/String.md)
+     * Example: C57BL/6 None
+ * [host_height](host_height.md)  <sub>OPT</sub>
+     * Description: The height of subject
+     * range: [String](types/String.md)
+     * Example: 0.1 meter None
+ * [host_infra_specific_name](host_infra_specific_name.md)  <sub>OPT</sub>
+     * Description: Taxonomic information about the host below subspecies level
+     * range: [String](types/String.md)
+     * Example: borealis None
+ * [host_infra_specific_rank](host_infra_specific_rank.md)  <sub>OPT</sub>
+     * Description: Taxonomic rank information about the host below subspecies level, such as variety, form, rank etc.
+     * range: [String](types/String.md)
+     * Example: subspecies None
+ * [host_length](host_length.md)  <sub>OPT</sub>
+     * Description: The length of subject
+     * range: [String](types/String.md)
+     * Example: 1 meter None
+ * [host_life_stage](host_life_stage.md)  <sub>OPT</sub>
+     * Description: Description of life stage of host
+     * range: [String](types/String.md)
+     * Example: adult None
+ * [host_phenotype](host_phenotype.md)  <sub>OPT</sub>
+     * Description: Phenotype of human or other host. For phenotypic quality ontology (pato) (v 2018-03-27) terms, please see http://purl.bioontology.org/ontology/pato. For Human Phenotype Ontology (HP) (v 2018-06-13) please see http://purl.bioontology.org/ontology/HP
+     * range: [String](types/String.md)
+     * Example: elongated [PATO:0001154] None
+ * [host_taxid](host_taxid.md)  <sub>OPT</sub>
+     * Description: NCBI taxon id of the host, e.g. 9606
+     * range: [String](types/String.md)
+     * Example: 7955 None
+ * [host_tot_mass](host_tot_mass.md)  <sub>OPT</sub>
+     * Description: Total mass of the host at collection, the unit depends on host
+     * range: [String](types/String.md)
+     * Example: 2500 gram None
+ * [host_wet_mass](host_wet_mass.md)  <sub>OPT</sub>
+     * Description: Measurement of wet mass
+     * range: [String](types/String.md)
+     * Example: 1500 gram None
+ * [humidity_regm](humidity_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving an exposure to varying degree of humidity; information about treatment involving use of growth hormones; should include amount of humidity administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
+     * range: [String](types/String.md)
+     * Example: 25 gram per cubic meter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [light_regm](light_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment(s) involving exposure to light, including both light intensity and quality.
+     * range: [String](types/String.md)
+     * Example: incandescant light;10 lux;450 nanometer None
+ * [mechanical_damage](mechanical_damage.md)  <sub>OPT</sub>
+     * Description: Information about any mechanical damage exerted on the plant; can include multiple damages and sites
+     * range: [String](types/String.md)
+     * Example: pruning;bark None
+ * [mineral_nutr_regm](mineral_nutr_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving the use of mineral supplements; should include the name of mineral nutrient, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple mineral nutrient regimens
+     * range: [String](types/String.md)
+     * Example: potassium;15 gram;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [misc_param](misc_param.md)  <sub>OPT</sub>
+     * Description: Any other measurement performed or parameter collected, that is not listed here
+     * range: [String](types/String.md)
+     * Example: Bicarbonate ion concentration;2075 micromole per kilogram None
+ * [non_mineral_nutr_regm](non_mineral_nutr_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving the exposure of plant to non-mineral nutrient such as oxygen, hydrogen or carbon; should include the name of non-mineral nutrient, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple non-mineral nutrient regimens
+     * range: [String](types/String.md)
+     * Example: carbon dioxide;10 mole per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [organism_count](organism_count.md)  <sub>OPT</sub>
+     * Description: Total cell count of any organism (or group of organisms) per gram, volume or area of sample, should include name of organism followed by count. The method that was used for the enumeration (e.g. qPCR, atp, mpn, etc.) Should also be provided. (example: total prokaryotes; 3.5e7 cells per ml; qpcr)
+     * range: 
+     * Example: total prokaryotes;3.5e7 cells per milliliter;qPCR None
+ * [oxy_stat_samp](oxy_stat_samp.md)  <sub>OPT</sub>
+     * Description: Oxygenation status of sample
+     * range: 
+     * Example: aerobic None
+ * [perturbation](perturbation.md)  <sub>OPT</sub>
+     * Description: Type of perturbation, e.g. chemical administration, physical disturbance, etc., coupled with perturbation regimen including how many times the perturbation was repeated, how long each perturbation lasted, and the start and end time of the entire perturbation period; can include multiple perturbation types
+     * range: [String](types/String.md)
+     * Example: antibiotic addition;R2/2018-05-11T14:30Z/2018-05-11T19:30Z/P1H30M None
+ * [pesticide_regm](pesticide_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving use of insecticides; should include the name of pesticide, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple pesticide regimens
+     * range: [String](types/String.md)
+     * Example: pyrethrum;0.6 milligram per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [ph_regm](ph_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving exposure of plants to varying levels of ph of the growth media, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimen
+     * range: [String](types/String.md)
+     * Example: 7.6;R2/2018-05-11:T14:30/2018-05-11T19:30/P1H30M None
+ * [plant_growth_med](plant_growth_med.md)  <sub>OPT</sub>
+     * Description: Specification of the media for growing the plants or tissue cultured samples, e.g. soil, aeroponic, hydroponic, in vitro solid culture medium, in vitro liquid culture medium. Recommended value is a specific value from EO:plant growth medium (follow this link for terms http://purl.obolibrary.org/obo/EO_0007147) or other controlled vocabulary
+     * range: 
+     * Example: hydroponic plant culture media [EO:0007067] None
+ * [plant_product](plant_product.md)  <sub>OPT</sub>
+     * Description: Substance produced by the plant, where the sample was obtained from
+     * range: [String](types/String.md)
+     * Example: xylem sap [PO:0025539] None
+ * [plant_sex](plant_sex.md)  <sub>OPT</sub>
+     * Description: Sex of the reproductive parts on the whole plant, e.g. pistillate, staminate, monoecieous, hermaphrodite.
+     * range: 
+     * Example: Hermaphroditic None
+ * [plant_struc](plant_struc.md)  <sub>OPT</sub>
+     * Description: Name of plant structure the sample was obtained from; for Plant Ontology (PO) (v releases/2017-12-14) terms, see http://purl.bioontology.org/ontology/PO, e.g. petiole epidermis (PO_0000051). If an individual flower is sampled, the sex of it can be recorded here.
+     * range: [String](types/String.md)
+     * Example: epidermis [PO:0005679] None
+ * [radiation_regm](radiation_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving exposure of plant or a plant part to a particular radiation regimen; should include the radiation type, amount or intensity administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple radiation regimens
+     * range: [String](types/String.md)
+     * Example: gamma radiation;60 gray;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [rainfall_regm](rainfall_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving an exposure to a given amount of rainfall, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
+     * range: [String](types/String.md)
+     * Example: 15 millimeter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [root_cond](root_cond.md)  <sub>OPT</sub>
+     * Description: Relevant rooting conditions such as field plot size, sowing density, container dimensions, number of plants per container.
+     * range: [String](types/String.md)
+     * Example: http://himedialabs.com/TD/PT158.pdf None
+ * [root_med_carbon](root_med_carbon.md)  <sub>OPT</sub>
+     * Description: Source of organic carbon in the culture rooting medium; e.g. sucrose.
+     * range: [String](types/String.md)
+     * Example: sucrose None
+ * [root_med_macronutr](root_med_macronutr.md)  <sub>OPT</sub>
+     * Description: Measurement of the culture rooting medium macronutrients (N,P, K, Ca, Mg, S); e.g. KH2PO4 (170¬†mg/L).
+     * range: [String](types/String.md)
+     * Example: KH2PO4;170¬†milligram per liter None
+ * [root_med_micronutr](root_med_micronutr.md)  <sub>OPT</sub>
+     * Description: Measurement of the culture rooting medium micronutrients (Fe, Mn, Zn, B, Cu, Mo); e.g. H3BO3 (6.2¬†mg/L).
+     * range: [String](types/String.md)
+     * Example: H3BO3;6.2¬†milligram per liter None
+ * [root_med_ph](root_med_ph.md)  <sub>OPT</sub>
+     * Description: pH measurement of the culture rooting medium; e.g. 5.5.
+     * range: [String](types/String.md)
+     * Example: 7.5 None
+ * [root_med_regl](root_med_regl.md)  <sub>OPT</sub>
+     * Description: Growth regulators in the culture rooting medium such as cytokinins, auxins, gybberellins, abscisic acid; e.g. 0.5¬†mg/L NAA.
+     * range: [String](types/String.md)
+     * Example: abscisic acid;0.75 milligram per liter None
+ * [root_med_solid](root_med_solid.md)  <sub>OPT</sub>
+     * Description: Specification of the solidifying agent in the culture rooting medium; e.g. agar.
+     * range: [String](types/String.md)
+     * Example: agar None
+ * [root_med_suppl](root_med_suppl.md)  <sub>OPT</sub>
+     * Description: Organic supplements of the culture rooting medium, such as vitamins, amino acids, organic acids, antibiotics activated charcoal; e.g. nicotinic acid (0.5¬†mg/L).
+     * range: [String](types/String.md)
+     * Example: nicotinic acid;0.5 milligram per liter None
+ * [salt_regm](salt_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving use of salts as supplement to liquid and soil growth media; should include the name of salt, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple salt regimens
+     * range: [String](types/String.md)
+     * Example: NaCl;5 gram per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [samp_capt_status](samp_capt_status.md)  <sub>OPT</sub>
+     * Description: Reason for the sample
+     * range: 
+     * Example: farm sample None
+ * [samp_dis_stage](samp_dis_stage.md)  <sub>OPT</sub>
+     * Description: Stage of the disease at the time of sample collection, e.g. inoculation, penetration, infection, growth and reproduction, dissemination of pathogen.
+     * range: [String](types/String.md)
+     * Example: infection None
+ * [samp_salinity](samp_salinity.md)  <sub>OPT</sub>
+     * Description: Salinity is the total concentration of all dissolved salts in a liquid or solid (in the form of an extract obtained by centrifugation) sample. While salinity can be measured by a complete chemical analysis, this method is difficult and time consuming. More often, it is instead derived from the conductivity measurement. This is known as practical salinity. These derivations compare the specific conductance of the sample to a salinity standard such as seawater
+     * range: [String](types/String.md)
+     * Example: 1 milligram per liter None
+ * [samp_store_dur](samp_store_dur.md)  <sub>OPT</sub>
+     * Description: Duration for which the sample was stored
+     * range: [String](types/String.md)
+     * Example: P1Y6M None
+ * [samp_store_loc](samp_store_loc.md)  <sub>OPT</sub>
+     * Description: Location at which sample was stored, usually name of a specific freezer/room
+     * range: [String](types/String.md)
+     * Example: Freezer no:5 None
+ * [samp_store_temp](samp_store_temp.md)  <sub>OPT</sub>
+     * Description: Temperature at which sample was stored, e.g. -80 degree Celsius
+     * range: [String](types/String.md)
+     * Example: -80 degree Celsius None
+ * [samp_vol_we_dna_ext](samp_vol_we_dna_ext.md)  <sub>OPT</sub>
+     * Description: Volume (ml), weight (g) of processed sample, or surface area swabbed from sample for DNA extraction
+     * range: [String](types/String.md)
+     * Example: 1500 milliliter None
+ * [season_environment](season_environment.md)  <sub>OPT</sub>
+     * Description: Treatment involving an exposure to a particular season (e.g. Winter, summer, rabi, rainy etc.), treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment
+     * range: [String](types/String.md)
+     * Example: rainy;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [standing_water_regm](standing_water_regm.md)  <sub>OPT</sub>
+     * Description: Treatment involving an exposure to standing water during a plant's life span, types can be flood water or standing water, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
+     * range: [String](types/String.md)
+     * Example: standing water;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [temp](temp.md)  <sub>OPT</sub>
+     * Description: Temperature of the sample at the time of sampling
+     * range: [String](types/String.md)
+     * Example: 25 degree Celsius None
+ * [tiss_cult_growth_med](tiss_cult_growth_med.md)  <sub>OPT</sub>
+     * Description: Description of plant tissue culture growth media used
+     * range: [String](types/String.md)
+     * Example: https://link.springer.com/content/pdf/10.1007/BF02796489.pdf None
+ * [water_temp_regm](water_temp_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving an exposure to water with varying degree of temperature, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
+     * range: [String](types/String.md)
+     * Example: 15 degree Celsius;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [watering_regm](watering_regm.md)  <sub>OPT</sub>
+     * Description: Information about treatment involving an exposure to watering frequencies, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
+     * range: [String](types/String.md)
+     * Example: 1 liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
