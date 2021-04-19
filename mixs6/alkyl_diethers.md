@@ -9,7 +9,7 @@ URI: [mixs.vocab:alkyl_diethers](https://w3id.org/mixs/vocab/alkyl_diethers)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

@@ -9,7 +9,7 @@ URI: [mixs.vocab:sludge_retent_time](https://w3id.org/mixs/vocab/sludge_retent_t
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

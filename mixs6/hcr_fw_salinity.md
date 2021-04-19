@@ -9,7 +9,7 @@ URI: [mixs.vocab:hcr_fw_salinity](https://w3id.org/mixs/vocab/hcr_fw_salinity)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

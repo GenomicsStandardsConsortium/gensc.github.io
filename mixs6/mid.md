@@ -17,21 +17,15 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞mid](me_mid.md)
+ *  [mimag➞mid](mimag_mid.md)
+ *  [mimarks_s➞mid](mimarks_s_mid.md)
+ *  [misag➞mid](misag_mid.md)
+ *  [miuvig➞mid](miuvig_mid.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +35,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: multiplex identifier sequence |
 |  | | Preferred unit:  |
 |  | | Position: 47.0 |
-|  | | CHECKLIST migs_eu: - |
-|  | | CHECKLIST migs_ba: - |
-|  | | CHECKLIST migs_pl: - |
-|  | | CHECKLIST migs_vi: - |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='GTGAATAT', description=None) |
 

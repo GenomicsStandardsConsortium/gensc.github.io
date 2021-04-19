@@ -9,7 +9,7 @@ URI: [mixs.vocab:soluble_react_phosp](https://w3id.org/mixs/vocab/soluble_react_
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

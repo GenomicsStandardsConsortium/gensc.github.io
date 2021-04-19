@@ -17,21 +17,21 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
+ *  [me➞investigation_type](me_investigation_type.md)
+ *  [migs_ba➞investigation_type](migs_ba_investigation_type.md)
+ *  [migs_eu➞investigation_type](migs_eu_investigation_type.md)
+ *  [migs_org➞investigation_type](migs_org_investigation_type.md)
+ *  [migs_pl➞investigation_type](migs_pl_investigation_type.md)
+ *  [migs_vi➞investigation_type](migs_vi_investigation_type.md)
+ *  [mimag➞investigation_type](mimag_investigation_type.md)
+ *  [mimarks_c➞investigation_type](mimarks_c_investigation_type.md)
+ *  [mimarks_s➞investigation_type](mimarks_s_investigation_type.md)
+ *  [misag➞investigation_type](misag_investigation_type.md)
+ *  [miuvig➞investigation_type](miuvig_investigation_type.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +41,6 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: eukaryote, bacteria_archaea, plasmid, virus, organelle, metagenome,mimarks-survey, mimarks-specimen, metatranscriptome, single amplified genome, metagenome-assembled genome, or uncultivated viral genomes |
 |  | | Preferred unit:  |
 |  | | Position: 2.0 |
-|  | | CHECKLIST migs_eu: M |
-|  | | CHECKLIST migs_ba: M |
-|  | | CHECKLIST migs_pl: M |
-|  | | CHECKLIST migs_vi: M |
-|  | | CHECKLIST migs_org: M |
-|  | | CHECKLIST me: M |
-|  | | CHECKLIST mimarks_s: M |
-|  | | CHECKLIST mimarks_c: M |
-|  | | CHECKLIST misag: M |
-|  | | CHECKLIST mimag: M |
-|  | | CHECKLIST miuvig: M |
 | **Examples:** | | Example(value='metagenome', description=None) |
+| **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/60 |
 

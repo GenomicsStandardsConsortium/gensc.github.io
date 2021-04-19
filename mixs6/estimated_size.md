@@ -17,21 +17,16 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [migs_ba➞estimated_size](migs_ba_estimated_size.md)
+ *  [migs_eu➞estimated_size](migs_eu_estimated_size.md)
+ *  [migs_org➞estimated_size](migs_org_estimated_size.md)
+ *  [migs_pl➞estimated_size](migs_pl_estimated_size.md)
+ *  [migs_vi➞estimated_size](migs_vi_estimated_size.md)
+ *  [miuvig➞estimated_size](miuvig_estimated_size.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +36,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: number of base pairs |
 |  | | Preferred unit:  |
 |  | | Position: 18.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: X |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: - |
-|  | | CHECKLIST mimag: - |
-|  | | CHECKLIST miuvig: X |
 | **Examples:** | | Example(value='300000 bp', description=None) |
 

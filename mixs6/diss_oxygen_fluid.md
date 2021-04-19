@@ -9,7 +9,7 @@ URI: [mixs.vocab:diss_oxygen_fluid](https://w3id.org/mixs/vocab/diss_oxygen_flui
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

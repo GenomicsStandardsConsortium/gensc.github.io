@@ -17,21 +17,19 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞feat_pred](me_feat_pred.md)
+ *  [migs_ba➞feat_pred](migs_ba_feat_pred.md)
+ *  [migs_eu➞feat_pred](migs_eu_feat_pred.md)
+ *  [migs_org➞feat_pred](migs_org_feat_pred.md)
+ *  [migs_pl➞feat_pred](migs_pl_feat_pred.md)
+ *  [migs_vi➞feat_pred](migs_vi_feat_pred.md)
+ *  [mimag➞feat_pred](mimag_feat_pred.md)
+ *  [misag➞feat_pred](misag_feat_pred.md)
+ *  [miuvig➞feat_pred](miuvig_feat_pred.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +39,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: names and versions of software(s), parameters used |
 |  | | Preferred unit:  |
 |  | | Position: 59.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: X |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: X |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: X |
-|  | | CHECKLIST mimag: X |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='Prodigal;2.6.3;default parameters', description=None) |
 

@@ -9,7 +9,7 @@ URI: [mixs.vocab:solar_irradiance](https://w3id.org/mixs/vocab/solar_irradiance)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

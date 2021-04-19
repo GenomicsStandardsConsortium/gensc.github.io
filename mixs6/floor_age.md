@@ -9,7 +9,7 @@ URI: [mixs.vocab:floor_age](https://w3id.org/mixs/vocab/floor_age)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

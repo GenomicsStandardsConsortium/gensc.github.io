@@ -9,7 +9,7 @@ URI: [mixs.vocab:wall_area](https://w3id.org/mixs/vocab/wall_area)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

@@ -9,7 +9,7 @@ URI: [mixs.vocab:photon_flux](https://w3id.org/mixs/vocab/photon_flux)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

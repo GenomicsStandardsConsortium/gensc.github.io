@@ -17,21 +17,21 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞source_mat_id](me_source_mat_id.md)
+ *  [migs_ba➞source_mat_id](migs_ba_source_mat_id.md)
+ *  [migs_eu➞source_mat_id](migs_eu_source_mat_id.md)
+ *  [migs_org➞source_mat_id](migs_org_source_mat_id.md)
+ *  [migs_pl➞source_mat_id](migs_pl_source_mat_id.md)
+ *  [migs_vi➞source_mat_id](migs_vi_source_mat_id.md)
+ *  [mimag➞source_mat_id](mimag_source_mat_id.md)
+ *  [mimarks_c➞source_mat_id](mimarks_c_source_mat_id.md)
+ *  [mimarks_s➞source_mat_id](mimarks_s_source_mat_id.md)
+ *  [misag➞source_mat_id](misag_source_mat_id.md)
+ *  [miuvig➞source_mat_id](miuvig_source_mat_id.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +41,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: for cultures of microorganisms: identifiers for two culture collections; for other material a unique arbitrary identifer |
 |  | | Preferred unit:  |
 |  | | Position: 20.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: C |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: C |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: C |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='MPI012345', description=None) |
 

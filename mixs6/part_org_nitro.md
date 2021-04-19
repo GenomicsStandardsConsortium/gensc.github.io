@@ -9,7 +9,7 @@ URI: [mixs.vocab:part_org_nitro](https://w3id.org/mixs/vocab/part_org_nitro)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

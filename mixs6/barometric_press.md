@@ -9,7 +9,7 @@ URI: [mixs.vocab:barometric_press](https://w3id.org/mixs/vocab/barometric_press)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

@@ -9,7 +9,7 @@ URI: [mixs.vocab:density](https://w3id.org/mixs/vocab/density)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

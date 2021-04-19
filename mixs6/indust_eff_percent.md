@@ -9,7 +9,7 @@ URI: [mixs.vocab:indust_eff_percent](https://w3id.org/mixs/vocab/indust_eff_perc
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

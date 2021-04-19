@@ -17,21 +17,21 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞samp_mat_process](me_samp_mat_process.md)
+ *  [migs_ba➞samp_mat_process](migs_ba_samp_mat_process.md)
+ *  [migs_eu➞samp_mat_process](migs_eu_samp_mat_process.md)
+ *  [migs_org➞samp_mat_process](migs_org_samp_mat_process.md)
+ *  [migs_pl➞samp_mat_process](migs_pl_samp_mat_process.md)
+ *  [migs_vi➞samp_mat_process](migs_vi_samp_mat_process.md)
+ *  [mimag➞samp_mat_process](mimag_samp_mat_process.md)
+ *  [mimarks_c➞samp_mat_process](mimarks_c_samp_mat_process.md)
+ *  [mimarks_s➞samp_mat_process](mimarks_s_samp_mat_process.md)
+ *  [misag➞samp_mat_process](misag_samp_mat_process.md)
+ *  [miuvig➞samp_mat_process](miuvig_samp_mat_process.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +41,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: text or OBI |
 |  | | Preferred unit:  |
 |  | | Position: 32.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: X |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: C |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='filtering of seawater, storing samples in ethanol', description=None) |
 

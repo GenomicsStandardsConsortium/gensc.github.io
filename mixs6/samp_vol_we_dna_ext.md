@@ -9,7 +9,7 @@ URI: [mixs.vocab:samp_vol_we_dna_ext](https://w3id.org/mixs/vocab/samp_vol_we_dn
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

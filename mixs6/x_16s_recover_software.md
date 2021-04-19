@@ -17,21 +17,12 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [mimag➞x_16s_recover_software](mimag_x_16s_recover_software.md)
+ *  [misag➞x_16s_recover_software](misag_x_16s_recover_software.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +32,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: names and versions of software(s), parameters used |
 |  | | Preferred unit:  |
 |  | | Position: 64.0 |
-|  | | CHECKLIST migs_eu: - |
-|  | | CHECKLIST migs_ba: - |
-|  | | CHECKLIST migs_pl: - |
-|  | | CHECKLIST migs_vi: - |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: X |
-|  | | CHECKLIST mimag: X |
-|  | | CHECKLIST miuvig: - |
 | **Examples:** | | Example(value='rambl;v2;default parameters', description=None) |
 

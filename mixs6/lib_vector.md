@@ -17,21 +17,20 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞lib_vector](me_lib_vector.md)
+ *  [migs_ba➞lib_vector](migs_ba_lib_vector.md)
+ *  [migs_eu➞lib_vector](migs_eu_lib_vector.md)
+ *  [migs_org➞lib_vector](migs_org_lib_vector.md)
+ *  [migs_pl➞lib_vector](migs_pl_lib_vector.md)
+ *  [migs_vi➞lib_vector](migs_vi_lib_vector.md)
+ *  [mimag➞lib_vector](mimag_lib_vector.md)
+ *  [mimarks_s➞lib_vector](mimarks_s_lib_vector.md)
+ *  [misag➞lib_vector](misag_lib_vector.md)
+ *  [miuvig➞lib_vector](miuvig_lib_vector.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +40,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: vector |
 |  | | Preferred unit:  |
 |  | | Position: 42.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: X |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='Bacteriophage P1', description=None) |
 

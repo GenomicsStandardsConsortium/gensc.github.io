@@ -17,21 +17,19 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞annot](me_annot.md)
+ *  [migs_ba➞annot](migs_ba_annot.md)
+ *  [migs_eu➞annot](migs_eu_annot.md)
+ *  [migs_org➞annot](migs_org_annot.md)
+ *  [migs_pl➞annot](migs_pl_annot.md)
+ *  [migs_vi➞annot](migs_vi_annot.md)
+ *  [mimag➞annot](mimag_annot.md)
+ *  [misag➞annot](misag_annot.md)
+ *  [miuvig➞annot](miuvig_annot.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +39,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: name of tool or pipeline used, or annotation source description |
 |  | | Preferred unit:  |
 |  | | Position: 57.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: C |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: C |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: X |
-|  | | CHECKLIST mimag: X |
-|  | | CHECKLIST miuvig: X |
 | **Examples:** | | Example(value='prokka', description=None) |
 

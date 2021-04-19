@@ -9,7 +9,7 @@ URI: [mixs.vocab:temp](https://w3id.org/mixs/vocab/temp)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

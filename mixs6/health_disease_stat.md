@@ -17,21 +17,13 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
+ *  [migs_ba➞health_disease_stat](migs_ba_health_disease_stat.md)
+ *  [migs_eu➞health_disease_stat](migs_eu_health_disease_stat.md)
+ *  [migs_vi➞health_disease_stat](migs_vi_health_disease_stat.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +33,5 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: enumeration |
 |  | | Preferred unit:  |
 |  | | Position: 25.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: - |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: - |
-|  | | CHECKLIST mimag: - |
-|  | | CHECKLIST miuvig: - |
 | **Examples:** | | Example(value='dead', description=None) |
 

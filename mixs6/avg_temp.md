@@ -9,7 +9,7 @@ URI: [mixs.vocab:avg_temp](https://w3id.org/mixs/vocab/avg_temp)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

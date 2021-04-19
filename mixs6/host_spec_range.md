@@ -17,21 +17,15 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [migs_ba➞host_spec_range](migs_ba_host_spec_range.md)
+ *  [migs_eu➞host_spec_range](migs_eu_host_spec_range.md)
+ *  [migs_pl➞host_spec_range](migs_pl_host_spec_range.md)
+ *  [migs_vi➞host_spec_range](migs_vi_host_spec_range.md)
+ *  [miuvig➞host_spec_range](miuvig_host_spec_range.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +35,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: NCBI taxid |
 |  | | Preferred unit:  |
 |  | | Position: 24.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: X |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: - |
-|  | | CHECKLIST mimag: - |
-|  | | CHECKLIST miuvig: X |
 | **Examples:** | | Example(value='9606', description=None) |
+| **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/66 |
 

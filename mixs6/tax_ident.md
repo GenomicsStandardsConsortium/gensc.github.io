@@ -17,21 +17,18 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
+ *  [migs_ba➞tax_ident](migs_ba_tax_ident.md)
+ *  [migs_eu➞tax_ident](migs_eu_tax_ident.md)
+ *  [migs_org➞tax_ident](migs_org_tax_ident.md)
+ *  [migs_pl➞tax_ident](migs_pl_tax_ident.md)
+ *  [migs_vi➞tax_ident](migs_vi_tax_ident.md)
+ *  [mimag➞tax_ident](mimag_tax_ident.md)
+ *  [misag➞tax_ident](misag_tax_ident.md)
+ *  [miuvig➞tax_ident](miuvig_tax_ident.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +38,5 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: enumeration |
 |  | | Preferred unit:  |
 |  | | Position: 53.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: C |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: C |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: M |
-|  | | CHECKLIST mimag: M |
-|  | | CHECKLIST miuvig: X |
 | **Examples:** | | Example(value='other: rpoB gene', description=None) |
 

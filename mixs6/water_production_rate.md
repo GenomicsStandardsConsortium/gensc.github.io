@@ -9,7 +9,7 @@ URI: [mixs.vocab:water_production_rate](https://w3id.org/mixs/vocab/water_produc
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

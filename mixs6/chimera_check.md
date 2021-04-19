@@ -17,21 +17,12 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [mimarks_c➞chimera_check](mimarks_c_chimera_check.md)
+ *  [mimarks_s➞chimera_check](mimarks_s_chimera_check.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +32,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: name and version of software, parameters used |
 |  | | Preferred unit:  |
 |  | | Position: 52.0 |
-|  | | CHECKLIST migs_eu: - |
-|  | | CHECKLIST migs_ba: - |
-|  | | CHECKLIST migs_pl: - |
-|  | | CHECKLIST migs_vi: - |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: C |
-|  | | CHECKLIST misag: - |
-|  | | CHECKLIST mimag: - |
-|  | | CHECKLIST miuvig: - |
 | **Examples:** | | Example(value='uchime;v4.1;default parameters', description=None) |
 

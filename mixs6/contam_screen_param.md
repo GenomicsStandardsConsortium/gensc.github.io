@@ -17,21 +17,12 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
+ *  [mimag➞contam_screen_param](mimag_contam_screen_param.md)
+ *  [misag➞contam_screen_param](misag_contam_screen_param.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +32,5 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: enumeration;value or name |
 |  | | Preferred unit:  |
 |  | | Position: 72.0 |
-|  | | CHECKLIST migs_eu: - |
-|  | | CHECKLIST migs_ba: - |
-|  | | CHECKLIST migs_pl: - |
-|  | | CHECKLIST migs_vi: - |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: X |
-|  | | CHECKLIST mimag: X |
-|  | | CHECKLIST miuvig: - |
 | **Examples:** | | Example(value='kmer', description=None) |
 

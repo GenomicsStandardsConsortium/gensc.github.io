@@ -17,21 +17,21 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞url](me_url.md)
+ *  [migs_ba➞url](migs_ba_url.md)
+ *  [migs_eu➞url](migs_eu_url.md)
+ *  [migs_org➞url](migs_org_url.md)
+ *  [migs_pl➞url](migs_pl_url.md)
+ *  [migs_vi➞url](migs_vi_url.md)
+ *  [mimag➞url](mimag_url.md)
+ *  [mimarks_c➞url](mimarks_c_url.md)
+ *  [mimarks_s➞url](mimarks_s_url.md)
+ *  [misag➞url](misag_url.md)
+ *  [miuvig➞url](miuvig_url.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +41,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: URL |
 |  | | Preferred unit:  |
 |  | | Position: 92.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: C |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: C |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: C |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='http://www.earthmicrobiome.org/', description=None) |
+| **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/67 |
 

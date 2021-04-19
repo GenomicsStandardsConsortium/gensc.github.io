@@ -17,21 +17,12 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [misag➞wga_amp_appr](misag_wga_amp_appr.md)
+ *  [miuvig➞wga_amp_appr](miuvig_wga_amp_appr.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +32,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: enumeration |
 |  | | Preferred unit:  |
 |  | | Position: 77.0 |
-|  | | CHECKLIST migs_eu: - |
-|  | | CHECKLIST migs_ba: - |
-|  | | CHECKLIST migs_pl: - |
-|  | | CHECKLIST migs_vi: - |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: M |
-|  | | CHECKLIST mimag: - |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='mda based', description=None) |
 

@@ -17,21 +17,13 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
+ *  [migs_ba➞trophic_level](migs_ba_trophic_level.md)
+ *  [migs_eu➞trophic_level](migs_eu_trophic_level.md)
+ *  [mimarks_c➞trophic_level](mimarks_c_trophic_level.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +33,5 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: enumeration |
 |  | | Preferred unit:  |
 |  | | Position: 26.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: - |
-|  | | CHECKLIST migs_vi: - |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: C |
-|  | | CHECKLIST misag: - |
-|  | | CHECKLIST mimag: - |
-|  | | CHECKLIST miuvig: - |
 | **Examples:** | | Example(value='heterotroph', description=None) |
 

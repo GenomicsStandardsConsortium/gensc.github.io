@@ -17,21 +17,19 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞sim_search_meth](me_sim_search_meth.md)
+ *  [migs_ba➞sim_search_meth](migs_ba_sim_search_meth.md)
+ *  [migs_eu➞sim_search_meth](migs_eu_sim_search_meth.md)
+ *  [migs_org➞sim_search_meth](migs_org_sim_search_meth.md)
+ *  [migs_pl➞sim_search_meth](migs_pl_sim_search_meth.md)
+ *  [migs_vi➞sim_search_meth](migs_vi_sim_search_meth.md)
+ *  [mimag➞sim_search_meth](mimag_sim_search_meth.md)
+ *  [misag➞sim_search_meth](misag_sim_search_meth.md)
+ *  [miuvig➞sim_search_meth](miuvig_sim_search_meth.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +39,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: names and versions of software(s), parameters used |
 |  | | Preferred unit:  |
 |  | | Position: 61.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: X |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: X |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: X |
-|  | | CHECKLIST mimag: X |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='HMMER3;3.1b2;hmmsearch, cutoff of 50 on score', description=None) |
 

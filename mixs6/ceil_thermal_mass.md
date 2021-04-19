@@ -9,7 +9,7 @@ URI: [mixs.vocab:ceil_thermal_mass](https://w3id.org/mixs/vocab/ceil_thermal_mas
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

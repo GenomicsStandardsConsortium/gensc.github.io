@@ -9,7 +9,7 @@ URI: [mixs.vocab:suspend_part_matter](https://w3id.org/mixs/vocab/suspend_part_m
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

@@ -9,7 +9,7 @@ URI: [mixs.vocab:amount_light](https://w3id.org/mixs/vocab/amount_light)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

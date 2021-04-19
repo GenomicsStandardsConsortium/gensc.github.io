@@ -17,21 +17,19 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞number_contig](me_number_contig.md)
+ *  [migs_ba➞number_contig](migs_ba_number_contig.md)
+ *  [migs_eu➞number_contig](migs_eu_number_contig.md)
+ *  [migs_org➞number_contig](migs_org_number_contig.md)
+ *  [migs_pl➞number_contig](migs_pl_number_contig.md)
+ *  [migs_vi➞number_contig](migs_vi_number_contig.md)
+ *  [mimag➞number_contig](mimag_number_contig.md)
+ *  [misag➞number_contig](misag_number_contig.md)
+ *  [miuvig➞number_contig](miuvig_number_contig.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +39,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: value |
 |  | | Preferred unit:  |
 |  | | Position: 58.0 |
-|  | | CHECKLIST migs_eu: M |
-|  | | CHECKLIST migs_ba: M |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: X |
-|  | | CHECKLIST mimag: X |
-|  | | CHECKLIST miuvig: M |
 | **Examples:** | | Example(value='40', description=None) |
 

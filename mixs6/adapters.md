@@ -17,21 +17,20 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞adapters](me_adapters.md)
+ *  [migs_ba➞adapters](migs_ba_adapters.md)
+ *  [migs_eu➞adapters](migs_eu_adapters.md)
+ *  [migs_org➞adapters](migs_org_adapters.md)
+ *  [migs_pl➞adapters](migs_pl_adapters.md)
+ *  [migs_vi➞adapters](migs_vi_adapters.md)
+ *  [mimag➞adapters](mimag_adapters.md)
+ *  [mimarks_s➞adapters](mimarks_s_adapters.md)
+ *  [misag➞adapters](misag_adapters.md)
+ *  [miuvig➞adapters](miuvig_adapters.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +40,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: adapter A and B sequence |
 |  | | Preferred unit:  |
 |  | | Position: 48.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: C |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: C |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='AATGATACGGCGACCACCGAGATCTACACGCT;CAAGCAGAAGACGGCATACGAGAT', description=None) |
 

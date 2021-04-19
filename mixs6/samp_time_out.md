@@ -9,7 +9,7 @@ URI: [mixs.vocab:samp_time_out](https://w3id.org/mixs/vocab/samp_time_out)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [Double](types/Double.md)
 
 ## Parents
 

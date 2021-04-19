@@ -17,21 +17,12 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
+ *  [migs_vi➞virus_enrich_appr](migs_vi_virus_enrich_appr.md)
+ *  [miuvig➞virus_enrich_appr](miuvig_virus_enrich_appr.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +32,5 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: enumeration |
 |  | | Preferred unit:  |
 |  | | Position: 36.0 |
-|  | | CHECKLIST migs_eu: - |
-|  | | CHECKLIST migs_ba: - |
-|  | | CHECKLIST migs_pl: - |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: - |
-|  | | CHECKLIST mimag: - |
-|  | | CHECKLIST miuvig: M |
 | **Examples:** | | Example(value='filtration + FeCl Precipitation + ultracentrifugation + DNAse', description=None) |
 

@@ -9,7 +9,7 @@ URI: [mixs.vocab:mean_frict_vel](https://w3id.org/mixs/vocab/mean_frict_vel)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

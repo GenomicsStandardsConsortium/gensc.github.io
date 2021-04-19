@@ -9,7 +9,7 @@ URI: [mixs.vocab:org_matter](https://w3id.org/mixs/vocab/org_matter)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

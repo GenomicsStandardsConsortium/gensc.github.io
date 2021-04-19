@@ -17,21 +17,21 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞samp_collect_device](me_samp_collect_device.md)
+ *  [migs_ba➞samp_collect_device](migs_ba_samp_collect_device.md)
+ *  [migs_eu➞samp_collect_device](migs_eu_samp_collect_device.md)
+ *  [migs_org➞samp_collect_device](migs_org_samp_collect_device.md)
+ *  [migs_pl➞samp_collect_device](migs_pl_samp_collect_device.md)
+ *  [migs_vi➞samp_collect_device](migs_vi_samp_collect_device.md)
+ *  [mimag➞samp_collect_device](mimag_samp_collect_device.md)
+ *  [mimarks_c➞samp_collect_device](mimarks_c_samp_collect_device.md)
+ *  [mimarks_s➞samp_collect_device](mimarks_s_samp_collect_device.md)
+ *  [misag➞samp_collect_device](misag_samp_collect_device.md)
+ *  [miuvig➞samp_collect_device](miuvig_samp_collect_device.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +41,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: type name |
 |  | | Preferred unit:  |
 |  | | Position: 31.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: X |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: X |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='environmental swab sampling, biopsy, niskin bottle, push core', description=None) |
 

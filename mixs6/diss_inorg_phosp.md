@@ -9,7 +9,7 @@ URI: [mixs.vocab:diss_inorg_phosp](https://w3id.org/mixs/vocab/diss_inorg_phosp)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

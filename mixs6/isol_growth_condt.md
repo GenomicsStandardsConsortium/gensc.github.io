@@ -17,21 +17,16 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [migs_ba➞isol_growth_condt](migs_ba_isol_growth_condt.md)
+ *  [migs_eu➞isol_growth_condt](migs_eu_isol_growth_condt.md)
+ *  [migs_org➞isol_growth_condt](migs_org_isol_growth_condt.md)
+ *  [migs_pl➞isol_growth_condt](migs_pl_isol_growth_condt.md)
+ *  [migs_vi➞isol_growth_condt](migs_vi_isol_growth_condt.md)
+ *  [mimarks_c➞isol_growth_condt](mimarks_c_isol_growth_condt.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +36,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: PMID,DOI or URL |
 |  | | Preferred unit:  |
 |  | | Position: 30.0 |
-|  | | CHECKLIST migs_eu: M |
-|  | | CHECKLIST migs_ba: M |
-|  | | CHECKLIST migs_pl: M |
-|  | | CHECKLIST migs_vi: M |
-|  | | CHECKLIST migs_org: M |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: M |
-|  | | CHECKLIST misag: - |
-|  | | CHECKLIST mimag: - |
-|  | | CHECKLIST miuvig: - |
 | **Examples:** | | Example(value='doi: 10.1016/j.syapm.2018.01.009', description=None) |
 

@@ -17,21 +17,18 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
+ *  [migs_ba➞compl_score](migs_ba_compl_score.md)
+ *  [migs_eu➞compl_score](migs_eu_compl_score.md)
+ *  [migs_org➞compl_score](migs_org_compl_score.md)
+ *  [migs_pl➞compl_score](migs_pl_compl_score.md)
+ *  [migs_vi➞compl_score](migs_vi_compl_score.md)
+ *  [mimag➞compl_score](mimag_compl_score.md)
+ *  [misag➞compl_score](misag_compl_score.md)
+ *  [miuvig➞compl_score](miuvig_compl_score.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +38,5 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: quality;percent completeness |
 |  | | Preferred unit:  |
 |  | | Position: 67.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: X |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: M |
-|  | | CHECKLIST mimag: M |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='med;60%', description=None) |
 

@@ -17,21 +17,21 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞sample_name](me_sample_name.md)
+ *  [migs_ba➞sample_name](migs_ba_sample_name.md)
+ *  [migs_eu➞sample_name](migs_eu_sample_name.md)
+ *  [migs_org➞sample_name](migs_org_sample_name.md)
+ *  [migs_pl➞sample_name](migs_pl_sample_name.md)
+ *  [migs_vi➞sample_name](migs_vi_sample_name.md)
+ *  [mimag➞sample_name](mimag_sample_name.md)
+ *  [mimarks_c➞sample_name](mimarks_c_sample_name.md)
+ *  [mimarks_s➞sample_name](mimarks_s_sample_name.md)
+ *  [misag➞sample_name](misag_sample_name.md)
+ *  [miuvig➞sample_name](miuvig_sample_name.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +41,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value:  |
 |  | | Preferred unit:  |
 |  | | Position:  |
-|  | | CHECKLIST migs_eu:  |
-|  | | CHECKLIST migs_ba:  |
-|  | | CHECKLIST migs_pl:  |
-|  | | CHECKLIST migs_vi:  |
-|  | | CHECKLIST migs_org:  |
-|  | | CHECKLIST me:  |
-|  | | CHECKLIST mimarks_s:  |
-|  | | CHECKLIST mimarks_c:  |
-|  | | CHECKLIST misag:  |
-|  | | CHECKLIST mimag:  |
-|  | | CHECKLIST miuvig:  |
 | **Examples:** | | Example(value='', description=None) |
+| **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/78 |
 

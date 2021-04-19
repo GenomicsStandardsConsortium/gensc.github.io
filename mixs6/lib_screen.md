@@ -17,21 +17,20 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞lib_screen](me_lib_screen.md)
+ *  [migs_ba➞lib_screen](migs_ba_lib_screen.md)
+ *  [migs_eu➞lib_screen](migs_eu_lib_screen.md)
+ *  [migs_org➞lib_screen](migs_org_lib_screen.md)
+ *  [migs_pl➞lib_screen](migs_pl_lib_screen.md)
+ *  [migs_vi➞lib_screen](migs_vi_lib_screen.md)
+ *  [mimag➞lib_screen](mimag_lib_screen.md)
+ *  [mimarks_s➞lib_screen](mimarks_s_lib_screen.md)
+ *  [misag➞lib_screen](misag_lib_screen.md)
+ *  [miuvig➞lib_screen](miuvig_lib_screen.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +40,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: screening strategy name |
 |  | | Preferred unit:  |
 |  | | Position: 43.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: X |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='enriched, screened, normalized', description=None) |
 

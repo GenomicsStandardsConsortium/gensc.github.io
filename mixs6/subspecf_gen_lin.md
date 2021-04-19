@@ -17,21 +17,16 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [migs_ba➞subspecf_gen_lin](migs_ba_subspecf_gen_lin.md)
+ *  [migs_eu➞subspecf_gen_lin](migs_eu_subspecf_gen_lin.md)
+ *  [migs_org➞subspecf_gen_lin](migs_org_subspecf_gen_lin.md)
+ *  [migs_pl➞subspecf_gen_lin](migs_pl_subspecf_gen_lin.md)
+ *  [migs_vi➞subspecf_gen_lin](migs_vi_subspecf_gen_lin.md)
+ *  [mimarks_c➞subspecf_gen_lin](mimarks_c_subspecf_gen_lin.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +36,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: genetic lineage below lowest rank of NCBI taxonomy, which is subspecies, e.g. serovar, biotype, ecotype |
 |  | | Preferred unit:  |
 |  | | Position: 14.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: C |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: C |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: C |
-|  | | CHECKLIST misag: - |
-|  | | CHECKLIST mimag: - |
-|  | | CHECKLIST miuvig: - |
 | **Examples:** | | Example(value='serovar:Newport', description=None) |
 

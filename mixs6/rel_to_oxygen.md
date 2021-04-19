@@ -17,21 +17,16 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
+ *  [me➞rel_to_oxygen](me_rel_to_oxygen.md)
+ *  [migs_ba➞rel_to_oxygen](migs_ba_rel_to_oxygen.md)
+ *  [mimag➞rel_to_oxygen](mimag_rel_to_oxygen.md)
+ *  [mimarks_c➞rel_to_oxygen](mimarks_c_rel_to_oxygen.md)
+ *  [mimarks_s➞rel_to_oxygen](mimarks_s_rel_to_oxygen.md)
+ *  [misag➞rel_to_oxygen](misag_rel_to_oxygen.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +36,5 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: enumeration |
 |  | | Preferred unit:  |
 |  | | Position: 29.0 |
-|  | | CHECKLIST migs_eu: - |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: - |
-|  | | CHECKLIST migs_vi: - |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: X |
-|  | | CHECKLIST mimarks_s: X |
-|  | | CHECKLIST mimarks_c: C |
-|  | | CHECKLIST misag: X |
-|  | | CHECKLIST mimag: X |
-|  | | CHECKLIST miuvig: - |
 | **Examples:** | | Example(value='aerobe', description=None) |
 

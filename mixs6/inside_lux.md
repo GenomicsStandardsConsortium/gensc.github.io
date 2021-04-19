@@ -9,7 +9,7 @@ URI: [mixs.vocab:inside_lux](https://w3id.org/mixs/vocab/inside_lux)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

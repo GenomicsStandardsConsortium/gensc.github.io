@@ -9,7 +9,7 @@ URI: [mixs.vocab:exp_duct](https://w3id.org/mixs/vocab/exp_duct)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

@@ -17,21 +17,19 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞assembly_name](me_assembly_name.md)
+ *  [migs_ba➞assembly_name](migs_ba_assembly_name.md)
+ *  [migs_eu➞assembly_name](migs_eu_assembly_name.md)
+ *  [migs_org➞assembly_name](migs_org_assembly_name.md)
+ *  [migs_pl➞assembly_name](migs_pl_assembly_name.md)
+ *  [migs_vi➞assembly_name](migs_vi_assembly_name.md)
+ *  [mimag➞assembly_name](mimag_assembly_name.md)
+ *  [misag➞assembly_name](misag_assembly_name.md)
+ *  [miuvig➞assembly_name](miuvig_assembly_name.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +39,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: name and version of assembly |
 |  | | Preferred unit:  |
 |  | | Position: 55.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: C |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: C |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='HuRef, JCVI_ISG_i3_1.0', description=None) |
 

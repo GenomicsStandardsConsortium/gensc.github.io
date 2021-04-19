@@ -17,21 +17,13 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [migs_eu➞propagation](migs_eu_propagation.md)
+ *  [migs_pl➞propagation](migs_pl_propagation.md)
+ *  [migs_vi➞propagation](migs_vi_propagation.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +33,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: for virus: lytic, lysogenic, temperate, obligately lytic; for plasmid: incompatibility group; for eukaryote: asexual, sexual |
 |  | | Preferred unit:  |
 |  | | Position: 27.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: - |
-|  | | CHECKLIST migs_pl: M |
-|  | | CHECKLIST migs_vi: M |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: - |
-|  | | CHECKLIST mimag: - |
-|  | | CHECKLIST miuvig: - |
 | **Examples:** | | Example(value='lytic', description=None) |
+| **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/88 |
 

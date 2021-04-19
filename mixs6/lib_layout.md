@@ -17,21 +17,20 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
+ *  [me➞lib_layout](me_lib_layout.md)
+ *  [migs_ba➞lib_layout](migs_ba_lib_layout.md)
+ *  [migs_eu➞lib_layout](migs_eu_lib_layout.md)
+ *  [migs_org➞lib_layout](migs_org_lib_layout.md)
+ *  [migs_pl➞lib_layout](migs_pl_lib_layout.md)
+ *  [migs_vi➞lib_layout](migs_vi_lib_layout.md)
+ *  [mimag➞lib_layout](mimag_lib_layout.md)
+ *  [mimarks_s➞lib_layout](mimarks_s_lib_layout.md)
+ *  [misag➞lib_layout](misag_lib_layout.md)
+ *  [miuvig➞lib_layout](miuvig_lib_layout.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +40,5 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: enumeration |
 |  | | Preferred unit:  |
 |  | | Position: 41.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: X |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='paired', description=None) |
 

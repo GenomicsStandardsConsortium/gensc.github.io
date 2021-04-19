@@ -9,7 +9,7 @@ URI: [mixs.vocab:surf_moisture_ph](https://w3id.org/mixs/vocab/surf_moisture_ph)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [Double](types/Double.md)
 
 ## Parents
 

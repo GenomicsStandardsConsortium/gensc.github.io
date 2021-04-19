@@ -17,21 +17,19 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
+ *  [me➞assembly_qual](me_assembly_qual.md)
+ *  [migs_ba➞assembly_qual](migs_ba_assembly_qual.md)
+ *  [migs_eu➞assembly_qual](migs_eu_assembly_qual.md)
+ *  [migs_org➞assembly_qual](migs_org_assembly_qual.md)
+ *  [migs_pl➞assembly_qual](migs_pl_assembly_qual.md)
+ *  [migs_vi➞assembly_qual](migs_vi_assembly_qual.md)
+ *  [mimag➞assembly_qual](mimag_assembly_qual.md)
+ *  [misag➞assembly_qual](misag_assembly_qual.md)
+ *  [miuvig➞assembly_qual](miuvig_assembly_qual.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +39,5 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: enumeration |
 |  | | Preferred unit:  |
 |  | | Position: 54.0 |
-|  | | CHECKLIST migs_eu: M |
-|  | | CHECKLIST migs_ba: M |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: M |
-|  | | CHECKLIST mimag: M |
-|  | | CHECKLIST miuvig: M |
 | **Examples:** | | Example(value='High-quality draft genome', description=None) |
 

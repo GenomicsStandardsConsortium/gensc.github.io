@@ -9,7 +9,7 @@ URI: [mixs.vocab:host_pulse](https://w3id.org/mixs/vocab/host_pulse)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

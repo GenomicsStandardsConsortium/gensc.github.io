@@ -9,7 +9,7 @@ URI: [mixs.vocab:typ_occup_density](https://w3id.org/mixs/vocab/typ_occup_densit
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [Double](types/Double.md)
 
 ## Parents
 

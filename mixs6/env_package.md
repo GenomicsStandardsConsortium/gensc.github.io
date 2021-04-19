@@ -17,21 +17,21 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
+ *  [me➞env_package](me_env_package.md)
+ *  [migs_ba➞env_package](migs_ba_env_package.md)
+ *  [migs_eu➞env_package](migs_eu_env_package.md)
+ *  [migs_org➞env_package](migs_org_env_package.md)
+ *  [migs_pl➞env_package](migs_pl_env_package.md)
+ *  [migs_vi➞env_package](migs_vi_env_package.md)
+ *  [mimag➞env_package](mimag_env_package.md)
+ *  [mimarks_c➞env_package](mimarks_c_env_package.md)
+ *  [mimarks_s➞env_package](mimarks_s_env_package.md)
+ *  [misag➞env_package](misag_env_package.md)
+ *  [miuvig➞env_package](miuvig_env_package.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +41,6 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: enumeration |
 |  | | Preferred unit:  |
 |  | | Position: 13.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: C |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: C |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: C |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='soil', description=None) |
+| **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/64 |
 

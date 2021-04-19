@@ -17,21 +17,19 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞ref_biomaterial](me_ref_biomaterial.md)
+ *  [migs_ba➞ref_biomaterial](migs_ba_ref_biomaterial.md)
+ *  [migs_eu➞ref_biomaterial](migs_eu_ref_biomaterial.md)
+ *  [migs_org➞ref_biomaterial](migs_org_ref_biomaterial.md)
+ *  [migs_pl➞ref_biomaterial](migs_pl_ref_biomaterial.md)
+ *  [migs_vi➞ref_biomaterial](migs_vi_ref_biomaterial.md)
+ *  [mimag➞ref_biomaterial](mimag_ref_biomaterial.md)
+ *  [misag➞ref_biomaterial](misag_ref_biomaterial.md)
+ *  [miuvig➞ref_biomaterial](miuvig_ref_biomaterial.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +39,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: PMID, DOI or URL |
 |  | | Preferred unit:  |
 |  | | Position: 19.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: M |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: X |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: X |
-|  | | CHECKLIST mimag: X |
-|  | | CHECKLIST miuvig: X |
 | **Examples:** | | Example(value='doi:10.1016/j.syapm.2018.01.009', description=None) |
 

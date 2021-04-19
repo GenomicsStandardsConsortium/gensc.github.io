@@ -9,7 +9,7 @@ URI: [mixs.vocab:primary_prod](https://w3id.org/mixs/vocab/primary_prod)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

@@ -9,7 +9,7 @@ URI: [mixs.vocab:alkalinity](https://w3id.org/mixs/vocab/alkalinity)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

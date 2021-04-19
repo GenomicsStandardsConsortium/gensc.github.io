@@ -17,21 +17,21 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞nucl_acid_amp](me_nucl_acid_amp.md)
+ *  [migs_ba➞nucl_acid_amp](migs_ba_nucl_acid_amp.md)
+ *  [migs_eu➞nucl_acid_amp](migs_eu_nucl_acid_amp.md)
+ *  [migs_org➞nucl_acid_amp](migs_org_nucl_acid_amp.md)
+ *  [migs_pl➞nucl_acid_amp](migs_pl_nucl_acid_amp.md)
+ *  [migs_vi➞nucl_acid_amp](migs_vi_nucl_acid_amp.md)
+ *  [mimag➞nucl_acid_amp](mimag_nucl_acid_amp.md)
+ *  [mimarks_c➞nucl_acid_amp](mimarks_c_nucl_acid_amp.md)
+ *  [mimarks_s➞nucl_acid_amp](mimarks_s_nucl_acid_amp.md)
+ *  [misag➞nucl_acid_amp](misag_nucl_acid_amp.md)
+ *  [miuvig➞nucl_acid_amp](miuvig_nucl_acid_amp.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +41,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: PMID, DOI or URL |
 |  | | Preferred unit:  |
 |  | | Position: 38.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: C |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: C |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: C |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='https://phylogenomics.me/protocols/16s-pcr-protocol/', description=None) |
 

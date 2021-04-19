@@ -17,21 +17,21 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞submitted_to_insdc](me_submitted_to_insdc.md)
+ *  [migs_ba➞submitted_to_insdc](migs_ba_submitted_to_insdc.md)
+ *  [migs_eu➞submitted_to_insdc](migs_eu_submitted_to_insdc.md)
+ *  [migs_org➞submitted_to_insdc](migs_org_submitted_to_insdc.md)
+ *  [migs_pl➞submitted_to_insdc](migs_pl_submitted_to_insdc.md)
+ *  [migs_vi➞submitted_to_insdc](migs_vi_submitted_to_insdc.md)
+ *  [mimag➞submitted_to_insdc](mimag_submitted_to_insdc.md)
+ *  [mimarks_c➞submitted_to_insdc](mimarks_c_submitted_to_insdc.md)
+ *  [mimarks_s➞submitted_to_insdc](mimarks_s_submitted_to_insdc.md)
+ *  [misag➞submitted_to_insdc](misag_submitted_to_insdc.md)
+ *  [miuvig➞submitted_to_insdc](miuvig_submitted_to_insdc.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +41,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: boolean |
 |  | | Preferred unit:  |
 |  | | Position: 1.0 |
-|  | | CHECKLIST migs_eu: M |
-|  | | CHECKLIST migs_ba: M |
-|  | | CHECKLIST migs_pl: M |
-|  | | CHECKLIST migs_vi: M |
-|  | | CHECKLIST migs_org: M |
-|  | | CHECKLIST me: M |
-|  | | CHECKLIST mimarks_s: M |
-|  | | CHECKLIST mimarks_c: M |
-|  | | CHECKLIST misag: M |
-|  | | CHECKLIST mimag: M |
-|  | | CHECKLIST miuvig: M |
 | **Examples:** | | Example(value='yes', description=None) |
 

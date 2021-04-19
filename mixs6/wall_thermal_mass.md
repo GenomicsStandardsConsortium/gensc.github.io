@@ -9,7 +9,7 @@ URI: [mixs.vocab:wall_thermal_mass](https://w3id.org/mixs/vocab/wall_thermal_mas
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

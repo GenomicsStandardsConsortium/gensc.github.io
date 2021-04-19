@@ -9,7 +9,7 @@ URI: [mixs.vocab:light_intensity](https://w3id.org/mixs/vocab/light_intensity)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

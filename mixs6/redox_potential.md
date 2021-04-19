@@ -9,7 +9,7 @@ URI: [mixs.vocab:redox_potential](https://w3id.org/mixs/vocab/redox_potential)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

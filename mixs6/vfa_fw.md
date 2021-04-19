@@ -9,7 +9,7 @@ URI: [mixs.vocab:vfa_fw](https://w3id.org/mixs/vocab/vfa_fw)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

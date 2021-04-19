@@ -17,21 +17,21 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞nucl_acid_ext](me_nucl_acid_ext.md)
+ *  [migs_ba➞nucl_acid_ext](migs_ba_nucl_acid_ext.md)
+ *  [migs_eu➞nucl_acid_ext](migs_eu_nucl_acid_ext.md)
+ *  [migs_org➞nucl_acid_ext](migs_org_nucl_acid_ext.md)
+ *  [migs_pl➞nucl_acid_ext](migs_pl_nucl_acid_ext.md)
+ *  [migs_vi➞nucl_acid_ext](migs_vi_nucl_acid_ext.md)
+ *  [mimag➞nucl_acid_ext](mimag_nucl_acid_ext.md)
+ *  [mimarks_c➞nucl_acid_ext](mimarks_c_nucl_acid_ext.md)
+ *  [mimarks_s➞nucl_acid_ext](mimarks_s_nucl_acid_ext.md)
+ *  [misag➞nucl_acid_ext](misag_nucl_acid_ext.md)
+ *  [miuvig➞nucl_acid_ext](miuvig_nucl_acid_ext.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +41,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: PMID, DOI or URL |
 |  | | Preferred unit:  |
 |  | | Position: 37.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: C |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: C |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: C |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='https://mobio.com/media/wysiwyg/pdfs/protocols/12888.pdf', description=None) |
 

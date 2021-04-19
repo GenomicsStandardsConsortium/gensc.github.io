@@ -31,18 +31,7 @@ MIxS 6 linkml rendering
      * [BuiltEnvironmentMimarksS](BuiltEnvironmentMimarksS.md) - Combinatorial checklist for built environment with mimarks_s
      * [BuiltEnvironmentMisag](BuiltEnvironmentMisag.md) - Combinatorial checklist for built environment with misag
      * [BuiltEnvironmentMiuvig](BuiltEnvironmentMiuvig.md) - Combinatorial checklist for built environment with miuvig
- * [Core](Core.md) - core package
-     * [CoreMe](CoreMe.md) - Combinatorial checklist for core with me
-     * [CoreMigsBa](CoreMigsBa.md) - Combinatorial checklist for core with migs_ba
-     * [CoreMigsEu](CoreMigsEu.md) - Combinatorial checklist for core with migs_eu
-     * [CoreMigsOrg](CoreMigsOrg.md) - Combinatorial checklist for core with migs_org
-     * [CoreMigsPl](CoreMigsPl.md) - Combinatorial checklist for core with migs_pl
-     * [CoreMigsVi](CoreMigsVi.md) - Combinatorial checklist for core with migs_vi
-     * [CoreMimag](CoreMimag.md) - Combinatorial checklist for core with mimag
-     * [CoreMimarksC](CoreMimarksC.md) - Combinatorial checklist for core with mimarks_c
-     * [CoreMimarksS](CoreMimarksS.md) - Combinatorial checklist for core with mimarks_s
-     * [CoreMisag](CoreMisag.md) - Combinatorial checklist for core with misag
-     * [CoreMiuvig](CoreMiuvig.md) - Combinatorial checklist for core with miuvig
+ * [Core](Core.md) - Core package. Do not use this directly, this is used to build other packages
  * [Host-associated](Host-associated.md) - host-associated
      * [Host-associatedMe](Host-associatedMe.md) - Combinatorial checklist for host-associated with me
      * [Host-associatedMigsBa](Host-associatedMigsBa.md) - Combinatorial checklist for host-associated with migs_ba
@@ -175,6 +164,7 @@ MIxS 6 linkml rendering
      * [Plant-associatedMimarksS](Plant-associatedMimarksS.md) - Combinatorial checklist for plant-associated with mimarks_s
      * [Plant-associatedMisag](Plant-associatedMisag.md) - Combinatorial checklist for plant-associated with misag
      * [Plant-associatedMiuvig](Plant-associatedMiuvig.md) - Combinatorial checklist for plant-associated with miuvig
+ * [QuantityValue](QuantityValue.md) - used to record a measurement
  * [Sediment](Sediment.md) - sediment
      * [SedimentMe](SedimentMe.md) - Combinatorial checklist for sediment with me
      * [SedimentMigsBa](SedimentMigsBa.md) - Combinatorial checklist for sediment with migs_ba
@@ -242,6 +232,17 @@ MIxS 6 linkml rendering
 
  * [core field](core_field.md) - basic fields
      * [sample_name](sample_name.md) - Sample Name is a name that you choose for the sample. It can have any format, but we suggest that you make it concise, unique and consistent within your lab, and as informative as possible. Every Sample Name from a single Submitter must be unique. 
+         * [me➞sample_name](me_sample_name.md)
+         * [migs_ba➞sample_name](migs_ba_sample_name.md)
+         * [migs_eu➞sample_name](migs_eu_sample_name.md)
+         * [migs_org➞sample_name](migs_org_sample_name.md)
+         * [migs_pl➞sample_name](migs_pl_sample_name.md)
+         * [migs_vi➞sample_name](migs_vi_sample_name.md)
+         * [mimag➞sample_name](mimag_sample_name.md)
+         * [mimarks_c➞sample_name](mimarks_c_sample_name.md)
+         * [mimarks_s➞sample_name](mimarks_s_sample_name.md)
+         * [misag➞sample_name](misag_sample_name.md)
+         * [miuvig➞sample_name](miuvig_sample_name.md)
  * [environment field](environment_field.md) - field describing environmental aspect of a sample
      * [abs_air_humidity](abs_air_humidity.md) - Actual mass of water vapor - mh20 - present in the air water vapor mixture
      * [add_recov_method](add_recov_method.md) - Additional (i.e. Secondary, tertiary, etc.) recovery methods deployed for increase of hydrocarbon recovery from resource and start date for each one of them. If "other" is specified, please propose entry in "additional info" field
@@ -319,6 +320,17 @@ MIxS 6 linkml rendering
      * [chlorophyll](chlorophyll.md) - Concentration of chlorophyll
      * [climate_environment](climate_environment.md) - Treatment involving an exposure to a particular climate; treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple climates
      * [collection_date](collection_date.md) - The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
+         * [me➞collection_date](me_collection_date.md)
+         * [migs_ba➞collection_date](migs_ba_collection_date.md)
+         * [migs_eu➞collection_date](migs_eu_collection_date.md)
+         * [migs_org➞collection_date](migs_org_collection_date.md)
+         * [migs_pl➞collection_date](migs_pl_collection_date.md)
+         * [migs_vi➞collection_date](migs_vi_collection_date.md)
+         * [mimag➞collection_date](mimag_collection_date.md)
+         * [mimarks_c➞collection_date](mimarks_c_collection_date.md)
+         * [mimarks_s➞collection_date](mimarks_s_collection_date.md)
+         * [misag➞collection_date](misag_collection_date.md)
+         * [miuvig➞collection_date](miuvig_collection_date.md)
      * [conduc](conduc.md) - Electrical conductivity of water
      * [cool_syst_id](cool_syst_id.md) - The cooling system identifier
      * [crop_rotation](crop_rotation.md) - Whether or not crop is rotated, and if yes, rotation schedule
@@ -366,8 +378,41 @@ MIxS 6 linkml rendering
      * [elevator](elevator.md) - The number of elevators within the built structure
      * [emulsions](emulsions.md) - Amount or concentration of substances such as paints, adhesives, mayonnaise, hair colorants, emulsified oils, etc.; can include multiple emulsion types
      * [env_broad_scale](env_broad_scale.md) - In this field, report which major environmental system your sample or specimen came from. The systems identified should have a coarse spatial grain, to provide the general environmental context of where the sampling was done (e.g. were you in the desert or a rainforest?). We recommend using subclasses of ENVO’s biome class: http://purl.obolibrary.org/obo/ENVO_00000428. Format (one term): termLabel [termID], Format (multiple terms): termLabel [termID]|termLabel [termID]|termLabel [termID]. Example: Annotating a water sample from the photic zone in middle of the Atlantic Ocean, consider: oceanic epipelagic zone biome [ENVO:01000033]. Example: Annotating a sample from the Amazon rainforest consider: tropical moist broadleaf forest biome [ENVO:01000228]. If needed, request new terms on the ENVO tracker, identified here: http://www.obofoundry.org/ontology/envo.html
+         * [me➞env_broad_scale](me_env_broad_scale.md)
+         * [migs_ba➞env_broad_scale](migs_ba_env_broad_scale.md)
+         * [migs_eu➞env_broad_scale](migs_eu_env_broad_scale.md)
+         * [migs_org➞env_broad_scale](migs_org_env_broad_scale.md)
+         * [migs_pl➞env_broad_scale](migs_pl_env_broad_scale.md)
+         * [migs_vi➞env_broad_scale](migs_vi_env_broad_scale.md)
+         * [mimag➞env_broad_scale](mimag_env_broad_scale.md)
+         * [mimarks_c➞env_broad_scale](mimarks_c_env_broad_scale.md)
+         * [mimarks_s➞env_broad_scale](mimarks_s_env_broad_scale.md)
+         * [misag➞env_broad_scale](misag_env_broad_scale.md)
+         * [miuvig➞env_broad_scale](miuvig_env_broad_scale.md)
      * [env_local_scale](env_local_scale.md) - In this field, report the entity or entities which are in your sample or specimen’s local vicinity and which you believe have significant causal influences on your sample or specimen. Please use terms that are present in ENVO and which are of smaller spatial grain than your entry for env_broad_scale. Format (one term): termLabel [termID]; Format (multiple terms): termLabel [termID]|termLabel [termID]|termLabel [termID]. Example: Annotating a pooled sample taken from various vegetation layers in a forest consider: canopy [ENVO:00000047]|herb and fern layer [ENVO:01000337]|litter layer [ENVO:01000338]|understory [01000335]|shrub layer [ENVO:01000336]. If needed, request new terms on the ENVO tracker, identified here: http://www.obofoundry.org/ontology/envo.html
+         * [me➞env_local_scale](me_env_local_scale.md)
+         * [migs_ba➞env_local_scale](migs_ba_env_local_scale.md)
+         * [migs_eu➞env_local_scale](migs_eu_env_local_scale.md)
+         * [migs_org➞env_local_scale](migs_org_env_local_scale.md)
+         * [migs_pl➞env_local_scale](migs_pl_env_local_scale.md)
+         * [migs_vi➞env_local_scale](migs_vi_env_local_scale.md)
+         * [mimag➞env_local_scale](mimag_env_local_scale.md)
+         * [mimarks_c➞env_local_scale](mimarks_c_env_local_scale.md)
+         * [mimarks_s➞env_local_scale](mimarks_s_env_local_scale.md)
+         * [misag➞env_local_scale](misag_env_local_scale.md)
+         * [miuvig➞env_local_scale](miuvig_env_local_scale.md)
      * [env_medium](env_medium.md) - In this field, report which environmental material or materials (pipe separated) immediately surrounded your sample or specimen prior to sampling, using one or more subclasses of ENVO’s environmental material class: http://purl.obolibrary.org/obo/ENVO_00010483. Format (one term): termLabel [termID]; Format (multiple terms): termLabel [termID]|termLabel [termID]|termLabel [termID]. Example: Annotating a fish swimming in the upper 100 m of the Atlantic Ocean, consider: ocean water [ENVO:00002151]. Example: Annotating a duck on a pond consider: pond water [ENVO:00002228]|air ENVO_00002005. If needed, request new terms on the ENVO tracker, identified here: http://www.obofoundry.org/ontology/envo.html
+         * [me➞env_medium](me_env_medium.md)
+         * [migs_ba➞env_medium](migs_ba_env_medium.md)
+         * [migs_eu➞env_medium](migs_eu_env_medium.md)
+         * [migs_org➞env_medium](migs_org_env_medium.md)
+         * [migs_pl➞env_medium](migs_pl_env_medium.md)
+         * [migs_vi➞env_medium](migs_vi_env_medium.md)
+         * [mimag➞env_medium](mimag_env_medium.md)
+         * [mimarks_c➞env_medium](mimarks_c_env_medium.md)
+         * [mimarks_s➞env_medium](mimarks_s_env_medium.md)
+         * [misag➞env_medium](misag_env_medium.md)
+         * [miuvig➞env_medium](miuvig_env_medium.md)
      * [escalator](escalator.md) - The number of escalators within the built structure
      * [ethylbenzene](ethylbenzene.md) - Concentration of ethylbenzene in the sample
      * [exp_duct](exp_duct.md) - The amount of exposed ductwork in the room
@@ -404,6 +449,17 @@ MIxS 6 linkml rendering
      * [gender_restroom](gender_restroom.md) - The gender type of the restroom
      * [genetic_mod](genetic_mod.md) - Genetic modifications of the genome of an organism, which may occur naturally by spontaneous mutation, or be introduced by some experimental means, e.g. specification of a transgene or the gene knocked-out or details of transient transfection
      * [geo_loc_name](geo_loc_name.md) - The geographical origin of the sample as defined by the country or sea name followed by specific region name. Country or sea names should be chosen from the INSDC country list (http://insdc.org/country.html), or the GAZ ontology (v 1.512) (http://purl.bioontology.org/ontology/GAZ)
+         * [me➞geo_loc_name](me_geo_loc_name.md)
+         * [migs_ba➞geo_loc_name](migs_ba_geo_loc_name.md)
+         * [migs_eu➞geo_loc_name](migs_eu_geo_loc_name.md)
+         * [migs_org➞geo_loc_name](migs_org_geo_loc_name.md)
+         * [migs_pl➞geo_loc_name](migs_pl_geo_loc_name.md)
+         * [migs_vi➞geo_loc_name](migs_vi_geo_loc_name.md)
+         * [mimag➞geo_loc_name](mimag_geo_loc_name.md)
+         * [mimarks_c➞geo_loc_name](mimarks_c_geo_loc_name.md)
+         * [mimarks_s➞geo_loc_name](mimarks_s_geo_loc_name.md)
+         * [misag➞geo_loc_name](misag_geo_loc_name.md)
+         * [miuvig➞geo_loc_name](miuvig_geo_loc_name.md)
      * [gestation_state](gestation_state.md) - Specification of the gestation state
      * [glucosidase_act](glucosidase_act.md) - Measurement of glucosidase activity
      * [gravidity](gravidity.md) - Whether or not subject is gravid, and if yes date due or date post-conception, specifying which is used
@@ -479,6 +535,17 @@ MIxS 6 linkml rendering
      * [iwf](iwf.md) - Proportion of the produced fluids derived from injected water at the time of sampling. (e.g. 87%)
      * [last_clean](last_clean.md) - The last time the floor was cleaned (swept, mopped, vacuumed)
      * [lat_lon](lat_lon.md) - The geographical origin of the sample as defined by latitude and longitude. The values should be reported in decimal degrees and in WGS84 system
+         * [me➞lat_lon](me_lat_lon.md)
+         * [migs_ba➞lat_lon](migs_ba_lat_lon.md)
+         * [migs_eu➞lat_lon](migs_eu_lat_lon.md)
+         * [migs_org➞lat_lon](migs_org_lat_lon.md)
+         * [migs_pl➞lat_lon](migs_pl_lat_lon.md)
+         * [migs_vi➞lat_lon](migs_vi_lat_lon.md)
+         * [mimag➞lat_lon](mimag_lat_lon.md)
+         * [mimarks_c➞lat_lon](mimarks_c_lat_lon.md)
+         * [mimarks_s➞lat_lon](mimarks_s_lat_lon.md)
+         * [misag➞lat_lon](misag_lat_lon.md)
+         * [miuvig➞lat_lon](miuvig_lat_lon.md)
      * [light_intensity](light_intensity.md) - Measurement of light intensity
      * [light_regm](light_regm.md) - Information about treatment(s) involving exposure to light, including both light intensity and quality.
      * [light_type](light_type.md) - Application of light to achieve some practical or aesthetic effect. Lighting includes the use of both artificial light sources such as lamps and light fixtures, as well as natural illumination by capturing daylight. Can also include absence of light
@@ -759,93 +826,561 @@ MIxS 6 linkml rendering
      * [xylene](xylene.md) - Concentration of xylene in the sample
  * [investigation field](investigation_field.md) - field describing aspect of the investigation/study to which the sample belongs
      * [experimental_factor](experimental_factor.md) - Experimental factors are essentially the variable aspects of an experiment design which can be used to describe an experiment, or set of experiments, in an increasingly detailed manner. This field accepts ontology terms from Experimental Factor Ontology (EFO) and/or Ontology for Biomedical Investigations (OBI). For a browser of EFO (v 2.95) terms, please see http://purl.bioontology.org/ontology/EFO; for a browser of OBI (v 2018-02-12) terms please see http://purl.bioontology.org/ontology/OBI
+         * [me➞experimental_factor](me_experimental_factor.md)
+         * [migs_ba➞experimental_factor](migs_ba_experimental_factor.md)
+         * [migs_eu➞experimental_factor](migs_eu_experimental_factor.md)
+         * [migs_org➞experimental_factor](migs_org_experimental_factor.md)
+         * [migs_pl➞experimental_factor](migs_pl_experimental_factor.md)
+         * [migs_vi➞experimental_factor](migs_vi_experimental_factor.md)
+         * [mimag➞experimental_factor](mimag_experimental_factor.md)
+         * [mimarks_c➞experimental_factor](mimarks_c_experimental_factor.md)
+         * [mimarks_s➞experimental_factor](mimarks_s_experimental_factor.md)
+         * [misag➞experimental_factor](misag_experimental_factor.md)
+         * [miuvig➞experimental_factor](miuvig_experimental_factor.md)
      * [investigation_type](investigation_type.md) - Nucleic Acid Sequence Report is the root element of all MIGS/MIMS compliant reports as standardized by Genomic Standards Consortium. This field is either eukaryote,bacteria,virus,plasmid,organelle, metagenome,mimarks-survey, mimarks-specimen, metatranscriptome, single amplified genome, metagenome-assembled genome, or uncultivated viral genome
+         * [me➞investigation_type](me_investigation_type.md)
+         * [migs_ba➞investigation_type](migs_ba_investigation_type.md)
+         * [migs_eu➞investigation_type](migs_eu_investigation_type.md)
+         * [migs_org➞investigation_type](migs_org_investigation_type.md)
+         * [migs_pl➞investigation_type](migs_pl_investigation_type.md)
+         * [migs_vi➞investigation_type](migs_vi_investigation_type.md)
+         * [mimag➞investigation_type](mimag_investigation_type.md)
+         * [mimarks_c➞investigation_type](mimarks_c_investigation_type.md)
+         * [mimarks_s➞investigation_type](mimarks_s_investigation_type.md)
+         * [misag➞investigation_type](misag_investigation_type.md)
+         * [miuvig➞investigation_type](miuvig_investigation_type.md)
      * [project_name](project_name.md) - Name of the project within which the sequencing was organized
+         * [me➞project_name](me_project_name.md)
+         * [migs_ba➞project_name](migs_ba_project_name.md)
+         * [migs_eu➞project_name](migs_eu_project_name.md)
+         * [migs_org➞project_name](migs_org_project_name.md)
+         * [migs_pl➞project_name](migs_pl_project_name.md)
+         * [migs_vi➞project_name](migs_vi_project_name.md)
+         * [mimag➞project_name](mimag_project_name.md)
+         * [mimarks_c➞project_name](mimarks_c_project_name.md)
+         * [mimarks_s➞project_name](mimarks_s_project_name.md)
+         * [misag➞project_name](misag_project_name.md)
+         * [miuvig➞project_name](miuvig_project_name.md)
      * [submitted_to_insdc](submitted_to_insdc.md) - Depending on the study (large-scale e.g. done with next generation sequencing technology, or small-scale) sequences have to be submitted to SRA (Sequence Read Archive), DRA (DDBJ Read Archive) or via the classical Webin/Sequin systems to Genbank, ENA and DDBJ. Although this field is mandatory, it is meant as a self-test field, therefore it is not necessary to include this field in contextual data submitted to databases
+         * [me➞submitted_to_insdc](me_submitted_to_insdc.md)
+         * [migs_ba➞submitted_to_insdc](migs_ba_submitted_to_insdc.md)
+         * [migs_eu➞submitted_to_insdc](migs_eu_submitted_to_insdc.md)
+         * [migs_org➞submitted_to_insdc](migs_org_submitted_to_insdc.md)
+         * [migs_pl➞submitted_to_insdc](migs_pl_submitted_to_insdc.md)
+         * [migs_vi➞submitted_to_insdc](migs_vi_submitted_to_insdc.md)
+         * [mimag➞submitted_to_insdc](mimag_submitted_to_insdc.md)
+         * [mimarks_c➞submitted_to_insdc](mimarks_c_submitted_to_insdc.md)
+         * [mimarks_s➞submitted_to_insdc](mimarks_s_submitted_to_insdc.md)
+         * [misag➞submitted_to_insdc](misag_submitted_to_insdc.md)
+         * [miuvig➞submitted_to_insdc](miuvig_submitted_to_insdc.md)
  * [mixs extension field](mixs_extension_field.md)
      * [env_package](env_package.md) - MIxS extension for reporting of measurements and observations obtained from one or more of the environments where the sample was obtained. All environmental packages listed here are further defined in separate subtables. By giving the name of the environmental package, a selection of fields can be made from the subtables and can be reported
+         * [me➞env_package](me_env_package.md)
+         * [migs_ba➞env_package](migs_ba_env_package.md)
+         * [migs_eu➞env_package](migs_eu_env_package.md)
+         * [migs_org➞env_package](migs_org_env_package.md)
+         * [migs_pl➞env_package](migs_pl_env_package.md)
+         * [migs_vi➞env_package](migs_vi_env_package.md)
+         * [mimag➞env_package](mimag_env_package.md)
+         * [mimarks_c➞env_package](mimarks_c_env_package.md)
+         * [mimarks_s➞env_package](mimarks_s_env_package.md)
+         * [misag➞env_package](misag_env_package.md)
+         * [miuvig➞env_package](miuvig_env_package.md)
  * [nucleic acid sequence source field](nucleic_acid_sequence_source_field.md)
      * [biotic_relationship](biotic_relationship.md) - Description of relationship(s) between the subject organism and other organism(s) it is associated with. E.g., parasite on species X; mutualist with species Y. The target organism is the subject of the relationship, and the other organism(s) is the object
+         * [migs_ba➞biotic_relationship](migs_ba_biotic_relationship.md)
+         * [migs_eu➞biotic_relationship](migs_eu_biotic_relationship.md)
+         * [migs_vi➞biotic_relationship](migs_vi_biotic_relationship.md)
+         * [mimarks_c➞biotic_relationship](mimarks_c_biotic_relationship.md)
+         * [miuvig➞biotic_relationship](miuvig_biotic_relationship.md)
      * [encoded_traits](encoded_traits.md) - Should include key traits like antibiotic resistance or xenobiotic degradation phenotypes for plasmids, converting genes for phage
+         * [migs_ba➞encoded_traits](migs_ba_encoded_traits.md)
+         * [migs_pl➞encoded_traits](migs_pl_encoded_traits.md)
+         * [migs_vi➞encoded_traits](migs_vi_encoded_traits.md)
      * [estimated_size](estimated_size.md) - The estimated size of the genome prior to sequencing. Of particular importance in the sequencing of (eukaryotic) genome which could remain in draft form for a long or unspecified period.
+         * [migs_ba➞estimated_size](migs_ba_estimated_size.md)
+         * [migs_eu➞estimated_size](migs_eu_estimated_size.md)
+         * [migs_org➞estimated_size](migs_org_estimated_size.md)
+         * [migs_pl➞estimated_size](migs_pl_estimated_size.md)
+         * [migs_vi➞estimated_size](migs_vi_estimated_size.md)
+         * [miuvig➞estimated_size](miuvig_estimated_size.md)
      * [extrachrom_elements](extrachrom_elements.md) - Do plasmids exist of significant phenotypic consequence (e.g. ones that determine virulence or antibiotic resistance). Megaplasmids? Other plasmids (borrelia has 15+ plasmids)
+         * [migs_ba➞extrachrom_elements](migs_ba_extrachrom_elements.md)
+         * [migs_eu➞extrachrom_elements](migs_eu_extrachrom_elements.md)
+         * [migs_org➞extrachrom_elements](migs_org_extrachrom_elements.md)
+         * [mimarks_c➞extrachrom_elements](mimarks_c_extrachrom_elements.md)
      * [health_disease_stat](health_disease_stat.md) - Health or disease status of specific host at time of collection
+         * [migs_ba➞health_disease_stat](migs_ba_health_disease_stat.md)
+         * [migs_eu➞health_disease_stat](migs_eu_health_disease_stat.md)
+         * [migs_vi➞health_disease_stat](migs_vi_health_disease_stat.md)
      * [host_spec_range](host_spec_range.md) - The NCBI taxonomy identifier of the specific host if it is known
+         * [migs_ba➞host_spec_range](migs_ba_host_spec_range.md)
+         * [migs_eu➞host_spec_range](migs_eu_host_spec_range.md)
+         * [migs_pl➞host_spec_range](migs_pl_host_spec_range.md)
+         * [migs_vi➞host_spec_range](migs_vi_host_spec_range.md)
+         * [miuvig➞host_spec_range](miuvig_host_spec_range.md)
      * [isol_growth_condt](isol_growth_condt.md) - Publication reference in the form of pubmed ID (pmid), digital object identifier (doi) or url for isolation and growth condition specifications of the organism/material
+         * [migs_ba➞isol_growth_condt](migs_ba_isol_growth_condt.md)
+         * [migs_eu➞isol_growth_condt](migs_eu_isol_growth_condt.md)
+         * [migs_org➞isol_growth_condt](migs_org_isol_growth_condt.md)
+         * [migs_pl➞isol_growth_condt](migs_pl_isol_growth_condt.md)
+         * [migs_vi➞isol_growth_condt](migs_vi_isol_growth_condt.md)
+         * [mimarks_c➞isol_growth_condt](mimarks_c_isol_growth_condt.md)
      * [num_replicons](num_replicons.md) - Reports the number of replicons in a nuclear genome of eukaryotes, in the genome of a bacterium or archaea or the number of segments in a segmented virus. Always applied to the haploid chromosome count of a eukaryote
+         * [migs_ba➞num_replicons](migs_ba_num_replicons.md)
+         * [migs_eu➞num_replicons](migs_eu_num_replicons.md)
+         * [migs_vi➞num_replicons](migs_vi_num_replicons.md)
      * [pathogenicity](pathogenicity.md) - To what is the entity pathogenic
+         * [migs_ba➞pathogenicity](migs_ba_pathogenicity.md)
+         * [migs_eu➞pathogenicity](migs_eu_pathogenicity.md)
+         * [migs_vi➞pathogenicity](migs_vi_pathogenicity.md)
+         * [miuvig➞pathogenicity](miuvig_pathogenicity.md)
      * [ploidy](ploidy.md) - The ploidy level of the genome (e.g. allopolyploid, haploid, diploid, triploid, tetraploid). It has implications for the downstream study of duplicated gene and regions of the genomes (and perhaps for difficulties in assembly). For terms, please select terms listed under class ploidy (PATO:001374) of Phenotypic Quality Ontology (PATO), and for a browser of PATO (v 2018-03-27) please refer to http://purl.bioontology.org/ontology/PATO
+         * [migs_eu➞ploidy](migs_eu_ploidy.md)
      * [propagation](propagation.md) - This field is specific to different taxa. For phages: lytic/lysogenic, for plasmids: incompatibility group, for eukaryotes: sexual/asexual (Note: there is the strong opinion to name phage propagation obligately lytic or temperate, therefore we also give this choice
+         * [migs_eu➞propagation](migs_eu_propagation.md)
+         * [migs_pl➞propagation](migs_pl_propagation.md)
+         * [migs_vi➞propagation](migs_vi_propagation.md)
      * [ref_biomaterial](ref_biomaterial.md) - Primary publication if isolated before genome publication; otherwise, primary genome report
+         * [me➞ref_biomaterial](me_ref_biomaterial.md)
+         * [migs_ba➞ref_biomaterial](migs_ba_ref_biomaterial.md)
+         * [migs_eu➞ref_biomaterial](migs_eu_ref_biomaterial.md)
+         * [migs_org➞ref_biomaterial](migs_org_ref_biomaterial.md)
+         * [migs_pl➞ref_biomaterial](migs_pl_ref_biomaterial.md)
+         * [migs_vi➞ref_biomaterial](migs_vi_ref_biomaterial.md)
+         * [mimag➞ref_biomaterial](mimag_ref_biomaterial.md)
+         * [misag➞ref_biomaterial](misag_ref_biomaterial.md)
+         * [miuvig➞ref_biomaterial](miuvig_ref_biomaterial.md)
      * [rel_to_oxygen](rel_to_oxygen.md) - Is this organism an aerobe, anaerobe? Please note that aerobic and anaerobic are valid descriptors for microbial environments
+         * [me➞rel_to_oxygen](me_rel_to_oxygen.md)
+         * [migs_ba➞rel_to_oxygen](migs_ba_rel_to_oxygen.md)
+         * [mimag➞rel_to_oxygen](mimag_rel_to_oxygen.md)
+         * [mimarks_c➞rel_to_oxygen](mimarks_c_rel_to_oxygen.md)
+         * [mimarks_s➞rel_to_oxygen](mimarks_s_rel_to_oxygen.md)
+         * [misag➞rel_to_oxygen](misag_rel_to_oxygen.md)
      * [samp_collect_device](samp_collect_device.md) - The method or device employed for collecting the sample
+         * [me➞samp_collect_device](me_samp_collect_device.md)
+         * [migs_ba➞samp_collect_device](migs_ba_samp_collect_device.md)
+         * [migs_eu➞samp_collect_device](migs_eu_samp_collect_device.md)
+         * [migs_org➞samp_collect_device](migs_org_samp_collect_device.md)
+         * [migs_pl➞samp_collect_device](migs_pl_samp_collect_device.md)
+         * [migs_vi➞samp_collect_device](migs_vi_samp_collect_device.md)
+         * [mimag➞samp_collect_device](mimag_samp_collect_device.md)
+         * [mimarks_c➞samp_collect_device](mimarks_c_samp_collect_device.md)
+         * [mimarks_s➞samp_collect_device](mimarks_s_samp_collect_device.md)
+         * [misag➞samp_collect_device](misag_samp_collect_device.md)
+         * [miuvig➞samp_collect_device](miuvig_samp_collect_device.md)
      * [samp_mat_process](samp_mat_process.md) - Any processing applied to the sample during or after retrieving the sample from environment. This field accepts OBI, for a browser of OBI (v 2018-02-12) terms please see http://purl.bioontology.org/ontology/OBI
+         * [me➞samp_mat_process](me_samp_mat_process.md)
+         * [migs_ba➞samp_mat_process](migs_ba_samp_mat_process.md)
+         * [migs_eu➞samp_mat_process](migs_eu_samp_mat_process.md)
+         * [migs_org➞samp_mat_process](migs_org_samp_mat_process.md)
+         * [migs_pl➞samp_mat_process](migs_pl_samp_mat_process.md)
+         * [migs_vi➞samp_mat_process](migs_vi_samp_mat_process.md)
+         * [mimag➞samp_mat_process](mimag_samp_mat_process.md)
+         * [mimarks_c➞samp_mat_process](mimarks_c_samp_mat_process.md)
+         * [mimarks_s➞samp_mat_process](mimarks_s_samp_mat_process.md)
+         * [misag➞samp_mat_process](misag_samp_mat_process.md)
+         * [miuvig➞samp_mat_process](miuvig_samp_mat_process.md)
      * [samp_size](samp_size.md) - Amount or size of sample (volume, mass or area) that was collected
+         * [me➞samp_size](me_samp_size.md)
+         * [migs_ba➞samp_size](migs_ba_samp_size.md)
+         * [migs_eu➞samp_size](migs_eu_samp_size.md)
+         * [migs_org➞samp_size](migs_org_samp_size.md)
+         * [migs_pl➞samp_size](migs_pl_samp_size.md)
+         * [migs_vi➞samp_size](migs_vi_samp_size.md)
+         * [mimag➞samp_size](mimag_samp_size.md)
+         * [mimarks_c➞samp_size](mimarks_c_samp_size.md)
+         * [mimarks_s➞samp_size](mimarks_s_samp_size.md)
+         * [misag➞samp_size](misag_samp_size.md)
+         * [miuvig➞samp_size](miuvig_samp_size.md)
      * [size_frac](size_frac.md) - Filtering pore size used in sample preparation
+         * [me➞size_frac](me_size_frac.md)
+         * [mimag➞size_frac](mimag_size_frac.md)
+         * [mimarks_s➞size_frac](mimarks_s_size_frac.md)
+         * [misag➞size_frac](misag_size_frac.md)
+         * [miuvig➞size_frac](miuvig_size_frac.md)
      * [source_mat_id](source_mat_id.md) - A unique identifier assigned to a material sample (as defined by http://rs.tdwg.org/dwc/terms/materialSampleID, and as opposed to a particular digital record of a material sample) used for extracting nucleic acids, and subsequent sequencing. The identifier can refer either to the original material collected or to any derived sub-samples. The INSDC qualifiers /specimen_voucher, /bio_material, or /culture_collection may or may not share the same value as the source_mat_id field. For instance, the /specimen_voucher qualifier and source_mat_id may both contain 'UAM:Herps:14' , referring to both the specimen voucher and sampled tissue with the same identifier. However, the /culture_collection qualifier may refer to a value from an initial culture (e.g. ATCC:11775) while source_mat_id would refer to an identifier from some derived culture from which the nucleic acids were extracted (e.g. xatc123 or ark:/2154/R2).
+         * [me➞source_mat_id](me_source_mat_id.md)
+         * [migs_ba➞source_mat_id](migs_ba_source_mat_id.md)
+         * [migs_eu➞source_mat_id](migs_eu_source_mat_id.md)
+         * [migs_org➞source_mat_id](migs_org_source_mat_id.md)
+         * [migs_pl➞source_mat_id](migs_pl_source_mat_id.md)
+         * [migs_vi➞source_mat_id](migs_vi_source_mat_id.md)
+         * [mimag➞source_mat_id](mimag_source_mat_id.md)
+         * [mimarks_c➞source_mat_id](mimarks_c_source_mat_id.md)
+         * [mimarks_s➞source_mat_id](mimarks_s_source_mat_id.md)
+         * [misag➞source_mat_id](misag_source_mat_id.md)
+         * [miuvig➞source_mat_id](miuvig_source_mat_id.md)
      * [source_uvig](source_uvig.md) - Type of dataset from which the UViG was obtained
+         * [miuvig➞source_uvig](miuvig_source_uvig.md)
      * [specific_host](specific_host.md) - If there is a host involved, please provide its taxid (or environmental if not actually isolated from the dead or alive host - i.e. a pathogen could be isolated from a swipe of a bench etc) and report whether it is a laboratory or natural host)
+         * [migs_ba➞specific_host](migs_ba_specific_host.md)
+         * [migs_eu➞specific_host](migs_eu_specific_host.md)
+         * [migs_pl➞specific_host](migs_pl_specific_host.md)
+         * [migs_vi➞specific_host](migs_vi_specific_host.md)
+         * [miuvig➞specific_host](miuvig_specific_host.md)
      * [subspecf_gen_lin](subspecf_gen_lin.md) - This should provide further information about the genetic distinctness of the sequenced organism by recording additional information e.g. serovar, serotype, biotype, ecotype, or any relevant genetic typing schemes like Group I plasmid. It can also contain alternative taxonomic information. It should contain both the lineage name, and the lineage rank, i.e. biovar:abc123
+         * [migs_ba➞subspecf_gen_lin](migs_ba_subspecf_gen_lin.md)
+         * [migs_eu➞subspecf_gen_lin](migs_eu_subspecf_gen_lin.md)
+         * [migs_org➞subspecf_gen_lin](migs_org_subspecf_gen_lin.md)
+         * [migs_pl➞subspecf_gen_lin](migs_pl_subspecf_gen_lin.md)
+         * [migs_vi➞subspecf_gen_lin](migs_vi_subspecf_gen_lin.md)
+         * [mimarks_c➞subspecf_gen_lin](mimarks_c_subspecf_gen_lin.md)
      * [trophic_level](trophic_level.md) - Trophic levels are the feeding position in a food chain. Microbes can be a range of producers (e.g. chemolithotroph)
+         * [migs_ba➞trophic_level](migs_ba_trophic_level.md)
+         * [migs_eu➞trophic_level](migs_eu_trophic_level.md)
+         * [mimarks_c➞trophic_level](mimarks_c_trophic_level.md)
      * [virus_enrich_appr](virus_enrich_appr.md) - List of approaches used to enrich the sample for viruses, if any
+         * [migs_vi➞virus_enrich_appr](migs_vi_virus_enrich_appr.md)
+         * [miuvig➞virus_enrich_appr](miuvig_virus_enrich_appr.md)
+ * [➞has numeric value](quantityValue__has_numeric_value.md)
+ * [➞has raw value](quantityValue__has_raw_value.md)
+ * [➞has unit](quantityValue__has_unit.md) - Example "m"
  * [sequencing field](sequencing_field.md)
      * [adapters](adapters.md) - Adapters provide priming sequences for both amplification and sequencing of the sample-library fragments. Both adapters should be reported; in uppercase letters
+         * [me➞adapters](me_adapters.md)
+         * [migs_ba➞adapters](migs_ba_adapters.md)
+         * [migs_eu➞adapters](migs_eu_adapters.md)
+         * [migs_org➞adapters](migs_org_adapters.md)
+         * [migs_pl➞adapters](migs_pl_adapters.md)
+         * [migs_vi➞adapters](migs_vi_adapters.md)
+         * [mimag➞adapters](mimag_adapters.md)
+         * [mimarks_s➞adapters](mimarks_s_adapters.md)
+         * [misag➞adapters](misag_adapters.md)
+         * [miuvig➞adapters](miuvig_adapters.md)
      * [annot](annot.md) - Tool used for annotation, or for cases where annotation was provided by a community jamboree or model organism database rather than by a specific submitter
+         * [me➞annot](me_annot.md)
+         * [migs_ba➞annot](migs_ba_annot.md)
+         * [migs_eu➞annot](migs_eu_annot.md)
+         * [migs_org➞annot](migs_org_annot.md)
+         * [migs_pl➞annot](migs_pl_annot.md)
+         * [migs_vi➞annot](migs_vi_annot.md)
+         * [mimag➞annot](mimag_annot.md)
+         * [misag➞annot](misag_annot.md)
+         * [miuvig➞annot](miuvig_annot.md)
      * [assembly_name](assembly_name.md) - Name/version of the assembly provided by the submitter that is used in the genome browsers and in the community
+         * [me➞assembly_name](me_assembly_name.md)
+         * [migs_ba➞assembly_name](migs_ba_assembly_name.md)
+         * [migs_eu➞assembly_name](migs_eu_assembly_name.md)
+         * [migs_org➞assembly_name](migs_org_assembly_name.md)
+         * [migs_pl➞assembly_name](migs_pl_assembly_name.md)
+         * [migs_vi➞assembly_name](migs_vi_assembly_name.md)
+         * [mimag➞assembly_name](mimag_assembly_name.md)
+         * [misag➞assembly_name](misag_assembly_name.md)
+         * [miuvig➞assembly_name](miuvig_assembly_name.md)
      * [assembly_qual](assembly_qual.md) - The assembly quality category is based on sets of criteria outlined for each assembly quality category. For MISAG/MIMAG; Finished: Single, validated, contiguous sequence per replicon without gaps or ambiguities with a consensus error rate equivalent to Q50 or better. High Quality Draft:Multiple fragments where gaps span repetitive regions. Presence of the 23S, 16S and 5S rRNA genes and at least 18 tRNAs. Medium Quality Draft:Many fragments with little to no review of assembly other than reporting of standard assembly statistics. Low Quality Draft:Many fragments with little to no review of assembly other than reporting of standard assembly statistics. Assembly statistics include, but are not limited to total assembly size, number of contigs, contig N50/L50, and maximum contig length. For MIUVIG; Finished: Single, validated, contiguous sequence per replicon without gaps or ambiguities, with extensive manual review and editing to annotate putative gene functions and transcriptional units. High-quality draft genome: One or multiple fragments, totaling ≥ 90% of the expected genome or replicon sequence or predicted complete. Genome fragment(s): One or multiple fragments, totalling < 90% of the expected genome or replicon sequence, or for which no genome size could be estimated
+         * [me➞assembly_qual](me_assembly_qual.md)
+         * [migs_ba➞assembly_qual](migs_ba_assembly_qual.md)
+         * [migs_eu➞assembly_qual](migs_eu_assembly_qual.md)
+         * [migs_org➞assembly_qual](migs_org_assembly_qual.md)
+         * [migs_pl➞assembly_qual](migs_pl_assembly_qual.md)
+         * [migs_vi➞assembly_qual](migs_vi_assembly_qual.md)
+         * [mimag➞assembly_qual](mimag_assembly_qual.md)
+         * [misag➞assembly_qual](misag_assembly_qual.md)
+         * [miuvig➞assembly_qual](miuvig_assembly_qual.md)
      * [assembly_software](assembly_software.md) - Tool(s) used for assembly, including version number and parameters
+         * [me➞assembly_software](me_assembly_software.md)
+         * [migs_ba➞assembly_software](migs_ba_assembly_software.md)
+         * [migs_eu➞assembly_software](migs_eu_assembly_software.md)
+         * [migs_org➞assembly_software](migs_org_assembly_software.md)
+         * [migs_pl➞assembly_software](migs_pl_assembly_software.md)
+         * [migs_vi➞assembly_software](migs_vi_assembly_software.md)
+         * [mimag➞assembly_software](mimag_assembly_software.md)
+         * [mimarks_s➞assembly_software](mimarks_s_assembly_software.md)
+         * [misag➞assembly_software](misag_assembly_software.md)
+         * [miuvig➞assembly_software](miuvig_assembly_software.md)
      * [bin_param](bin_param.md) - The parameters that have been applied during the extraction of genomes from metagenomic datasets
+         * [mimag➞bin_param](mimag_bin_param.md)
+         * [miuvig➞bin_param](miuvig_bin_param.md)
      * [bin_software](bin_software.md) - Tool(s) used for the extraction of genomes from metagenomic datasets
+         * [mimag➞bin_software](mimag_bin_software.md)
+         * [miuvig➞bin_software](miuvig_bin_software.md)
      * [chimera_check](chimera_check.md) - A chimeric sequence, or chimera for short, is a sequence comprised of two or more phylogenetically distinct parent sequences. Chimeras are usually PCR artifacts thought to occur when a prematurely terminated amplicon reanneals to a foreign DNA strand and is copied to completion in the following PCR cycles. The point at which the chimeric sequence changes from one parent to the next is called the breakpoint or conversion point
+         * [mimarks_c➞chimera_check](mimarks_c_chimera_check.md)
+         * [mimarks_s➞chimera_check](mimarks_s_chimera_check.md)
      * [compl_appr](compl_appr.md) - The approach used to determine the completeness of a given SAG or MAG, which would typically make use of a set of conserved marker genes or a closely related reference genome. For UViG completeness, include reference genome or group used, and contig feature suggesting a complete genome
+         * [mimag➞compl_appr](mimag_compl_appr.md)
+         * [misag➞compl_appr](misag_compl_appr.md)
+         * [miuvig➞compl_appr](miuvig_compl_appr.md)
      * [compl_score](compl_score.md) - Completeness score is typically based on either the fraction of markers found as compared to a database or the percent of a genome found as compared to a closely related reference genome. High Quality Draft: >90%, Medium Quality Draft: >50%, and Low Quality Draft: < 50% should have the indicated completeness scores
+         * [migs_ba➞compl_score](migs_ba_compl_score.md)
+         * [migs_eu➞compl_score](migs_eu_compl_score.md)
+         * [migs_org➞compl_score](migs_org_compl_score.md)
+         * [migs_pl➞compl_score](migs_pl_compl_score.md)
+         * [migs_vi➞compl_score](migs_vi_compl_score.md)
+         * [mimag➞compl_score](mimag_compl_score.md)
+         * [misag➞compl_score](misag_compl_score.md)
+         * [miuvig➞compl_score](miuvig_compl_score.md)
      * [compl_software](compl_software.md) - Tools used for completion estimate, i.e. checkm, anvi'o, busco
+         * [migs_ba➞compl_software](migs_ba_compl_software.md)
+         * [migs_eu➞compl_software](migs_eu_compl_software.md)
+         * [migs_org➞compl_software](migs_org_compl_software.md)
+         * [migs_pl➞compl_software](migs_pl_compl_software.md)
+         * [migs_vi➞compl_software](migs_vi_compl_software.md)
+         * [mimag➞compl_software](mimag_compl_software.md)
+         * [misag➞compl_software](misag_compl_software.md)
+         * [miuvig➞compl_software](miuvig_compl_software.md)
      * [contam_score](contam_score.md) - The contamination score is based on the fraction of single-copy genes that are observed more than once in a query genome. The following scores are acceptable for; High Quality Draft: < 5%, Medium Quality Draft: < 10%, Low Quality Draft: < 10%. Contamination must be below 5% for a SAG or MAG to be deposited into any of the public databases
+         * [mimag➞contam_score](mimag_contam_score.md)
+         * [misag➞contam_score](misag_contam_score.md)
      * [contam_screen_input](contam_screen_input.md) - The type of sequence data used as input
+         * [mimag➞contam_screen_input](mimag_contam_screen_input.md)
+         * [misag➞contam_screen_input](misag_contam_screen_input.md)
      * [contam_screen_param](contam_screen_param.md) - Specific parameters used in the decontamination sofware, such as reference database, coverage, and kmers. Combinations of these parameters may also be used, i.e. kmer and coverage, or reference database and kmer
+         * [mimag➞contam_screen_param](mimag_contam_screen_param.md)
+         * [misag➞contam_screen_param](misag_contam_screen_param.md)
      * [decontam_software](decontam_software.md) - Tool(s) used in contamination screening
+         * [mimag➞decontam_software](mimag_decontam_software.md)
+         * [misag➞decontam_software](misag_decontam_software.md)
      * [detec_type](detec_type.md) - Type of UViG detection
+         * [miuvig➞detec_type](miuvig_detec_type.md)
      * [feat_pred](feat_pred.md) - Method used to predict UViGs features such as ORFs, integration site, etc.
+         * [me➞feat_pred](me_feat_pred.md)
+         * [migs_ba➞feat_pred](migs_ba_feat_pred.md)
+         * [migs_eu➞feat_pred](migs_eu_feat_pred.md)
+         * [migs_org➞feat_pred](migs_org_feat_pred.md)
+         * [migs_pl➞feat_pred](migs_pl_feat_pred.md)
+         * [migs_vi➞feat_pred](migs_vi_feat_pred.md)
+         * [mimag➞feat_pred](mimag_feat_pred.md)
+         * [misag➞feat_pred](misag_feat_pred.md)
+         * [miuvig➞feat_pred](miuvig_feat_pred.md)
      * [host_pred_appr](host_pred_appr.md) - Tool or approach used for host prediction
+         * [miuvig➞host_pred_appr](miuvig_host_pred_appr.md)
      * [host_pred_est_acc](host_pred_est_acc.md) - For each tool or approach used for host prediction, estimated false discovery rates should be included, either computed de novo or from the literature
+         * [miuvig➞host_pred_est_acc](miuvig_host_pred_est_acc.md)
      * [lib_layout](lib_layout.md) - Specify whether to expect single, paired, or other configuration of reads
+         * [me➞lib_layout](me_lib_layout.md)
+         * [migs_ba➞lib_layout](migs_ba_lib_layout.md)
+         * [migs_eu➞lib_layout](migs_eu_lib_layout.md)
+         * [migs_org➞lib_layout](migs_org_lib_layout.md)
+         * [migs_pl➞lib_layout](migs_pl_lib_layout.md)
+         * [migs_vi➞lib_layout](migs_vi_lib_layout.md)
+         * [mimag➞lib_layout](mimag_lib_layout.md)
+         * [mimarks_s➞lib_layout](mimarks_s_lib_layout.md)
+         * [misag➞lib_layout](misag_lib_layout.md)
+         * [miuvig➞lib_layout](miuvig_lib_layout.md)
      * [lib_reads_seqd](lib_reads_seqd.md) - Total number of clones sequenced from the library
+         * [me➞lib_reads_seqd](me_lib_reads_seqd.md)
+         * [migs_ba➞lib_reads_seqd](migs_ba_lib_reads_seqd.md)
+         * [migs_eu➞lib_reads_seqd](migs_eu_lib_reads_seqd.md)
+         * [migs_org➞lib_reads_seqd](migs_org_lib_reads_seqd.md)
+         * [migs_pl➞lib_reads_seqd](migs_pl_lib_reads_seqd.md)
+         * [migs_vi➞lib_reads_seqd](migs_vi_lib_reads_seqd.md)
+         * [mimag➞lib_reads_seqd](mimag_lib_reads_seqd.md)
+         * [mimarks_s➞lib_reads_seqd](mimarks_s_lib_reads_seqd.md)
+         * [misag➞lib_reads_seqd](misag_lib_reads_seqd.md)
+         * [miuvig➞lib_reads_seqd](miuvig_lib_reads_seqd.md)
      * [lib_screen](lib_screen.md) - Specific enrichment or screening methods applied before and/or after creating libraries
+         * [me➞lib_screen](me_lib_screen.md)
+         * [migs_ba➞lib_screen](migs_ba_lib_screen.md)
+         * [migs_eu➞lib_screen](migs_eu_lib_screen.md)
+         * [migs_org➞lib_screen](migs_org_lib_screen.md)
+         * [migs_pl➞lib_screen](migs_pl_lib_screen.md)
+         * [migs_vi➞lib_screen](migs_vi_lib_screen.md)
+         * [mimag➞lib_screen](mimag_lib_screen.md)
+         * [mimarks_s➞lib_screen](mimarks_s_lib_screen.md)
+         * [misag➞lib_screen](misag_lib_screen.md)
+         * [miuvig➞lib_screen](miuvig_lib_screen.md)
      * [lib_size](lib_size.md) - Total number of clones in the library prepared for the project
+         * [me➞lib_size](me_lib_size.md)
+         * [migs_ba➞lib_size](migs_ba_lib_size.md)
+         * [migs_eu➞lib_size](migs_eu_lib_size.md)
+         * [migs_org➞lib_size](migs_org_lib_size.md)
+         * [migs_pl➞lib_size](migs_pl_lib_size.md)
+         * [migs_vi➞lib_size](migs_vi_lib_size.md)
+         * [mimag➞lib_size](mimag_lib_size.md)
+         * [mimarks_s➞lib_size](mimarks_s_lib_size.md)
+         * [misag➞lib_size](misag_lib_size.md)
+         * [miuvig➞lib_size](miuvig_lib_size.md)
      * [lib_vector](lib_vector.md) - Cloning vector type(s) used in construction of libraries
+         * [me➞lib_vector](me_lib_vector.md)
+         * [migs_ba➞lib_vector](migs_ba_lib_vector.md)
+         * [migs_eu➞lib_vector](migs_eu_lib_vector.md)
+         * [migs_org➞lib_vector](migs_org_lib_vector.md)
+         * [migs_pl➞lib_vector](migs_pl_lib_vector.md)
+         * [migs_vi➞lib_vector](migs_vi_lib_vector.md)
+         * [mimag➞lib_vector](mimag_lib_vector.md)
+         * [mimarks_s➞lib_vector](mimarks_s_lib_vector.md)
+         * [misag➞lib_vector](misag_lib_vector.md)
+         * [miuvig➞lib_vector](miuvig_lib_vector.md)
      * [mag_cov_software](mag_cov_software.md) - Tool(s) used to determine the genome coverage if coverage is used as a binning parameter in the extraction of genomes from metagenomic datasets
+         * [mimag➞mag_cov_software](mimag_mag_cov_software.md)
+         * [miuvig➞mag_cov_software](miuvig_mag_cov_software.md)
      * [mid](mid.md) - Molecular barcodes, called Multiplex Identifiers (MIDs), that are used to specifically tag unique samples in a sequencing run. Sequence should be reported in uppercase letters
+         * [me➞mid](me_mid.md)
+         * [mimag➞mid](mimag_mid.md)
+         * [mimarks_s➞mid](mimarks_s_mid.md)
+         * [misag➞mid](misag_mid.md)
+         * [miuvig➞mid](miuvig_mid.md)
      * [nucl_acid_amp](nucl_acid_amp.md) - A link to a literature reference, electronic resource or a standard operating procedure (SOP), that describes the enzymatic amplification (PCR, TMA, NASBA) of specific nucleic acids
+         * [me➞nucl_acid_amp](me_nucl_acid_amp.md)
+         * [migs_ba➞nucl_acid_amp](migs_ba_nucl_acid_amp.md)
+         * [migs_eu➞nucl_acid_amp](migs_eu_nucl_acid_amp.md)
+         * [migs_org➞nucl_acid_amp](migs_org_nucl_acid_amp.md)
+         * [migs_pl➞nucl_acid_amp](migs_pl_nucl_acid_amp.md)
+         * [migs_vi➞nucl_acid_amp](migs_vi_nucl_acid_amp.md)
+         * [mimag➞nucl_acid_amp](mimag_nucl_acid_amp.md)
+         * [mimarks_c➞nucl_acid_amp](mimarks_c_nucl_acid_amp.md)
+         * [mimarks_s➞nucl_acid_amp](mimarks_s_nucl_acid_amp.md)
+         * [misag➞nucl_acid_amp](misag_nucl_acid_amp.md)
+         * [miuvig➞nucl_acid_amp](miuvig_nucl_acid_amp.md)
      * [nucl_acid_ext](nucl_acid_ext.md) - A link to a literature reference, electronic resource or a standard operating procedure (SOP), that describes the material separation to recover the nucleic acid fraction from a sample
+         * [me➞nucl_acid_ext](me_nucl_acid_ext.md)
+         * [migs_ba➞nucl_acid_ext](migs_ba_nucl_acid_ext.md)
+         * [migs_eu➞nucl_acid_ext](migs_eu_nucl_acid_ext.md)
+         * [migs_org➞nucl_acid_ext](migs_org_nucl_acid_ext.md)
+         * [migs_pl➞nucl_acid_ext](migs_pl_nucl_acid_ext.md)
+         * [migs_vi➞nucl_acid_ext](migs_vi_nucl_acid_ext.md)
+         * [mimag➞nucl_acid_ext](mimag_nucl_acid_ext.md)
+         * [mimarks_c➞nucl_acid_ext](mimarks_c_nucl_acid_ext.md)
+         * [mimarks_s➞nucl_acid_ext](mimarks_s_nucl_acid_ext.md)
+         * [misag➞nucl_acid_ext](misag_nucl_acid_ext.md)
+         * [miuvig➞nucl_acid_ext](miuvig_nucl_acid_ext.md)
      * [number_contig](number_contig.md) - Total number of contigs in the cleaned/submitted assembly that makes up a given genome, SAG, MAG, or UViG
+         * [me➞number_contig](me_number_contig.md)
+         * [migs_ba➞number_contig](migs_ba_number_contig.md)
+         * [migs_eu➞number_contig](migs_eu_number_contig.md)
+         * [migs_org➞number_contig](migs_org_number_contig.md)
+         * [migs_pl➞number_contig](migs_pl_number_contig.md)
+         * [migs_vi➞number_contig](migs_vi_number_contig.md)
+         * [mimag➞number_contig](mimag_number_contig.md)
+         * [misag➞number_contig](misag_number_contig.md)
+         * [miuvig➞number_contig](miuvig_number_contig.md)
      * [pcr_cond](pcr_cond.md) - Description of reaction conditions and components of PCR in the form of 'initial denaturation:94degC_1.5min; annealing=...'
+         * [mimarks_c➞pcr_cond](mimarks_c_pcr_cond.md)
+         * [mimarks_s➞pcr_cond](mimarks_s_pcr_cond.md)
      * [pcr_primers](pcr_primers.md) - PCR primers that were used to amplify the sequence of the targeted gene, locus or subfragment. This field should contain all the primers used for a single PCR reaction if multiple forward or reverse primers are present in a single PCR reaction. The primer sequence should be reported in uppercase letters
+         * [mimarks_c➞pcr_primers](mimarks_c_pcr_primers.md)
+         * [mimarks_s➞pcr_primers](mimarks_s_pcr_primers.md)
      * [pred_genome_struc](pred_genome_struc.md) - Expected structure of the viral genome
+         * [miuvig➞pred_genome_struc](miuvig_pred_genome_struc.md)
      * [pred_genome_type](pred_genome_type.md) - Type of genome predicted for the UViG
+         * [miuvig➞pred_genome_type](miuvig_pred_genome_type.md)
      * [reassembly_bin](reassembly_bin.md) - Has an assembly been performed on a genome bin extracted from a metagenomic assembly?
+         * [mimag➞reassembly_bin](mimag_reassembly_bin.md)
+         * [miuvig➞reassembly_bin](miuvig_reassembly_bin.md)
      * [ref_db](ref_db.md) - List of database(s) used for ORF annotation, along with version number and reference to website or publication
+         * [me➞ref_db](me_ref_db.md)
+         * [migs_ba➞ref_db](migs_ba_ref_db.md)
+         * [migs_eu➞ref_db](migs_eu_ref_db.md)
+         * [migs_org➞ref_db](migs_org_ref_db.md)
+         * [migs_pl➞ref_db](migs_pl_ref_db.md)
+         * [migs_vi➞ref_db](migs_vi_ref_db.md)
+         * [mimag➞ref_db](mimag_ref_db.md)
+         * [misag➞ref_db](misag_ref_db.md)
+         * [miuvig➞ref_db](miuvig_ref_db.md)
      * [seq_meth](seq_meth.md) - Sequencing method used; e.g. Sanger, ABI-solid
+         * [me➞seq_meth](me_seq_meth.md)
+         * [migs_ba➞seq_meth](migs_ba_seq_meth.md)
+         * [migs_eu➞seq_meth](migs_eu_seq_meth.md)
+         * [migs_org➞seq_meth](migs_org_seq_meth.md)
+         * [migs_pl➞seq_meth](migs_pl_seq_meth.md)
+         * [migs_vi➞seq_meth](migs_vi_seq_meth.md)
+         * [mimag➞seq_meth](mimag_seq_meth.md)
+         * [mimarks_c➞seq_meth](mimarks_c_seq_meth.md)
+         * [mimarks_s➞seq_meth](mimarks_s_seq_meth.md)
+         * [misag➞seq_meth](misag_seq_meth.md)
+         * [miuvig➞seq_meth](miuvig_seq_meth.md)
      * [seq_quality_check](seq_quality_check.md) - Indicate if the sequence has been called by automatic systems (none) or undergone a manual editing procedure (e.g. by inspecting the raw data or chromatograms). Applied only for sequences that are not submitted to SRA,ENA or DRA
+         * [mimarks_c➞seq_quality_check](mimarks_c_seq_quality_check.md)
+         * [mimarks_s➞seq_quality_check](mimarks_s_seq_quality_check.md)
      * [sim_search_meth](sim_search_meth.md) - Tool used to compare ORFs with database, along with version and cutoffs used
+         * [me➞sim_search_meth](me_sim_search_meth.md)
+         * [migs_ba➞sim_search_meth](migs_ba_sim_search_meth.md)
+         * [migs_eu➞sim_search_meth](migs_eu_sim_search_meth.md)
+         * [migs_org➞sim_search_meth](migs_org_sim_search_meth.md)
+         * [migs_pl➞sim_search_meth](migs_pl_sim_search_meth.md)
+         * [migs_vi➞sim_search_meth](migs_vi_sim_search_meth.md)
+         * [mimag➞sim_search_meth](mimag_sim_search_meth.md)
+         * [misag➞sim_search_meth](misag_sim_search_meth.md)
+         * [miuvig➞sim_search_meth](miuvig_sim_search_meth.md)
      * [single_cell_lysis_appr](single_cell_lysis_appr.md) - Method used to free DNA from interior of the cell(s) or particle(s)
+         * [misag➞single_cell_lysis_appr](misag_single_cell_lysis_appr.md)
+         * [miuvig➞single_cell_lysis_appr](miuvig_single_cell_lysis_appr.md)
      * [single_cell_lysis_prot](single_cell_lysis_prot.md) - Name of the kit or standard protocol used for cell(s) or particle(s) lysis
+         * [misag➞single_cell_lysis_prot](misag_single_cell_lysis_prot.md)
+         * [miuvig➞single_cell_lysis_prot](miuvig_single_cell_lysis_prot.md)
      * [sop](sop.md) - Standard operating procedures used in assembly and/or annotation of genomes, metagenomes or environmental sequences
+         * [me➞sop](me_sop.md)
+         * [migs_ba➞sop](migs_ba_sop.md)
+         * [migs_eu➞sop](migs_eu_sop.md)
+         * [migs_org➞sop](migs_org_sop.md)
+         * [migs_pl➞sop](migs_pl_sop.md)
+         * [migs_vi➞sop](migs_vi_sop.md)
+         * [mimag➞sop](mimag_sop.md)
+         * [mimarks_c➞sop](mimarks_c_sop.md)
+         * [mimarks_s➞sop](mimarks_s_sop.md)
+         * [misag➞sop](misag_sop.md)
+         * [miuvig➞sop](miuvig_sop.md)
      * [sort_tech](sort_tech.md) - Method used to sort/isolate cells or particles of interest
+         * [misag➞sort_tech](misag_sort_tech.md)
+         * [miuvig➞sort_tech](miuvig_sort_tech.md)
      * [target_gene](target_gene.md) - Targeted gene or locus name for marker gene studies
+         * [mimarks_c➞target_gene](mimarks_c_target_gene.md)
+         * [mimarks_s➞target_gene](mimarks_s_target_gene.md)
      * [target_subfragment](target_subfragment.md) - Name of subfragment of a gene or locus. Important to e.g. identify special regions on marker genes like V6 on 16S rRNA
+         * [mimarks_c➞target_subfragment](mimarks_c_target_subfragment.md)
+         * [mimarks_s➞target_subfragment](mimarks_s_target_subfragment.md)
      * [tax_class](tax_class.md) - Method used for taxonomic classification, along with reference database used, classification rank, and thresholds used to classify new genomes
+         * [me➞tax_class](me_tax_class.md)
+         * [migs_ba➞tax_class](migs_ba_tax_class.md)
+         * [migs_eu➞tax_class](migs_eu_tax_class.md)
+         * [migs_org➞tax_class](migs_org_tax_class.md)
+         * [migs_pl➞tax_class](migs_pl_tax_class.md)
+         * [migs_vi➞tax_class](migs_vi_tax_class.md)
+         * [mimag➞tax_class](mimag_tax_class.md)
+         * [misag➞tax_class](misag_tax_class.md)
+         * [miuvig➞tax_class](miuvig_tax_class.md)
      * [tax_ident](tax_ident.md) - The phylogenetic marker(s) used to assign an organism name to the SAG or MAG
+         * [migs_ba➞tax_ident](migs_ba_tax_ident.md)
+         * [migs_eu➞tax_ident](migs_eu_tax_ident.md)
+         * [migs_org➞tax_ident](migs_org_tax_ident.md)
+         * [migs_pl➞tax_ident](migs_pl_tax_ident.md)
+         * [migs_vi➞tax_ident](migs_vi_tax_ident.md)
+         * [mimag➞tax_ident](mimag_tax_ident.md)
+         * [misag➞tax_ident](misag_tax_ident.md)
+         * [miuvig➞tax_ident](miuvig_tax_ident.md)
      * [trna_ext_software](trna_ext_software.md) - Tools used for tRNA identification
+         * [mimag➞trna_ext_software](mimag_trna_ext_software.md)
+         * [misag➞trna_ext_software](misag_trna_ext_software.md)
+         * [miuvig➞trna_ext_software](miuvig_trna_ext_software.md)
      * [trnas](trnas.md) - The total number of tRNAs identified from the SAG or MAG
+         * [mimag➞trnas](mimag_trnas.md)
+         * [misag➞trnas](misag_trnas.md)
+         * [miuvig➞trnas](miuvig_trnas.md)
      * [url](url.md)
+         * [me➞url](me_url.md)
+         * [migs_ba➞url](migs_ba_url.md)
+         * [migs_eu➞url](migs_eu_url.md)
+         * [migs_org➞url](migs_org_url.md)
+         * [migs_pl➞url](migs_pl_url.md)
+         * [migs_vi➞url](migs_vi_url.md)
+         * [mimag➞url](mimag_url.md)
+         * [mimarks_c➞url](mimarks_c_url.md)
+         * [mimarks_s➞url](mimarks_s_url.md)
+         * [misag➞url](misag_url.md)
+         * [miuvig➞url](miuvig_url.md)
      * [vir_ident_software](vir_ident_software.md) - Tool(s) used for the identification of UViG as a viral genome, software or protocol name including version number, parameters, and cutoffs used
+         * [miuvig➞vir_ident_software](miuvig_vir_ident_software.md)
      * [votu_class_appr](votu_class_appr.md) - Cutoffs and approach used when clustering new UViGs in “species-level” vOTUs. Note that results from standard 95% ANI / 85% AF clustering should be provided alongside vOTUS defined from another set of thresholds, even if the latter are the ones primarily used during the analysis
+         * [miuvig➞votu_class_appr](miuvig_votu_class_appr.md)
      * [votu_db](votu_db.md) - Reference database (i.e. sequences not generated as part of the current study) used to cluster new genomes in "species-level" vOTUs, if any
+         * [miuvig➞votu_db](miuvig_votu_db.md)
      * [votu_seq_comp_appr](votu_seq_comp_appr.md) - Tool and thresholds used to compare sequences when computing "species-level" vOTUs
+         * [miuvig➞votu_seq_comp_appr](miuvig_votu_seq_comp_appr.md)
      * [wga_amp_appr](wga_amp_appr.md) - Method used to amplify genomic DNA in preparation for sequencing
+         * [misag➞wga_amp_appr](misag_wga_amp_appr.md)
+         * [miuvig➞wga_amp_appr](miuvig_wga_amp_appr.md)
      * [wga_amp_kit](wga_amp_kit.md) - Kit used to amplify genomic DNA in preparation for sequencing
+         * [misag➞wga_amp_kit](misag_wga_amp_kit.md)
+         * [miuvig➞wga_amp_kit](miuvig_wga_amp_kit.md)
      * [x_16s_recover](x_16s_recover.md) - Can a 16S gene be recovered from the submitted SAG or MAG?
+         * [mimag➞x_16s_recover](mimag_x_16s_recover.md)
+         * [misag➞x_16s_recover](misag_x_16s_recover.md)
      * [x_16s_recover_software](x_16s_recover_software.md) - Tools used for 16S rRNA gene extraction
+         * [mimag➞x_16s_recover_software](mimag_x_16s_recover_software.md)
+         * [misag➞x_16s_recover_software](misag_x_16s_recover_software.md)
 
 ### Types
 

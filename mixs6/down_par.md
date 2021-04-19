@@ -9,7 +9,7 @@ URI: [mixs.vocab:down_par](https://w3id.org/mixs/vocab/down_par)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

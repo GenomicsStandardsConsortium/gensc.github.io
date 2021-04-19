@@ -17,21 +17,15 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
+ *  [migs_ba➞biotic_relationship](migs_ba_biotic_relationship.md)
+ *  [migs_eu➞biotic_relationship](migs_eu_biotic_relationship.md)
+ *  [migs_vi➞biotic_relationship](migs_vi_biotic_relationship.md)
+ *  [mimarks_c➞biotic_relationship](mimarks_c_biotic_relationship.md)
+ *  [miuvig➞biotic_relationship](miuvig_biotic_relationship.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +35,5 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: enumeration |
 |  | | Preferred unit:  |
 |  | | Position: 22.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: - |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: C |
-|  | | CHECKLIST misag: - |
-|  | | CHECKLIST mimag: - |
-|  | | CHECKLIST miuvig: X |
 | **Examples:** | | Example(value='free living', description=None) |
 

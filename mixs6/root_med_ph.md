@@ -9,7 +9,7 @@ URI: [mixs.vocab:root_med_ph](https://w3id.org/mixs/vocab/root_med_ph)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [Double](types/Double.md)
 
 ## Parents
 

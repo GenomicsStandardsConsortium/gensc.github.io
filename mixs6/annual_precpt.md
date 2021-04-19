@@ -9,7 +9,7 @@ URI: [mixs.vocab:annual_precpt](https://w3id.org/mixs/vocab/annual_precpt)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

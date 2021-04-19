@@ -9,7 +9,7 @@ URI: [mixs.vocab:diss_inorg_carb](https://w3id.org/mixs/vocab/diss_inorg_carb)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

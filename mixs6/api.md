@@ -9,7 +9,7 @@ URI: [mixs.vocab:api](https://w3id.org/mixs/vocab/api)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

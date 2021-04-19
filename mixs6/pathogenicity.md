@@ -17,21 +17,14 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [migs_ba➞pathogenicity](migs_ba_pathogenicity.md)
+ *  [migs_eu➞pathogenicity](migs_eu_pathogenicity.md)
+ *  [migs_vi➞pathogenicity](migs_vi_pathogenicity.md)
+ *  [miuvig➞pathogenicity](miuvig_pathogenicity.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +34,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: names of organisms that the entity is pathogenic to |
 |  | | Preferred unit:  |
 |  | | Position: 21.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: - |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: - |
-|  | | CHECKLIST me: - |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: - |
-|  | | CHECKLIST mimag: - |
-|  | | CHECKLIST miuvig: X |
 | **Examples:** | | Example(value='human, animal, plant, fungi, bacteria', description=None) |
+| **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/65 |
 

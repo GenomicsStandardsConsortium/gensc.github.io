@@ -9,7 +9,7 @@ URI: [mixs.vocab:water_content](https://w3id.org/mixs/vocab/water_content)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

@@ -17,21 +17,21 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞sop](me_sop.md)
+ *  [migs_ba➞sop](migs_ba_sop.md)
+ *  [migs_eu➞sop](migs_eu_sop.md)
+ *  [migs_org➞sop](migs_org_sop.md)
+ *  [migs_pl➞sop](migs_pl_sop.md)
+ *  [migs_vi➞sop](migs_vi_sop.md)
+ *  [mimag➞sop](mimag_sop.md)
+ *  [mimarks_c➞sop](mimarks_c_sop.md)
+ *  [mimarks_s➞sop](mimarks_s_sop.md)
+ *  [misag➞sop](misag_sop.md)
+ *  [miuvig➞sop](miuvig_sop.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +41,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: reference to SOP |
 |  | | Preferred unit:  |
 |  | | Position: 93.0 |
-|  | | CHECKLIST migs_eu: C |
-|  | | CHECKLIST migs_ba: C |
-|  | | CHECKLIST migs_pl: C |
-|  | | CHECKLIST migs_vi: C |
-|  | | CHECKLIST migs_org: C |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: C |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='http://press.igsb.anl.gov/earthmicrobiome/protocols-and-standards/its/', description=None) |
 

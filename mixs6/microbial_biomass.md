@@ -9,7 +9,7 @@ URI: [mixs.vocab:microbial_biomass](https://w3id.org/mixs/vocab/microbial_biomas
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

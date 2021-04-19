@@ -7,7 +7,7 @@ Combinatorial checklist for built environment with migs_org
 URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvironmentMigsOrg)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[MigsOrg],[BuiltEnvironmentMigsOrg&#124;surf_material(i):surf_material_enum%20%3F;surf_air_cont(i):surf_air_cont_enum%20%3F;rel_air_humidity(i):string%20%3F;abs_air_humidity(i):string%20%3F;surf_humidity(i):string%20%3F;air_temp(i):string%20%3F;surf_temp(i):string%20%3F;surf_moisture_ph(i):string%20%3F;build_occup_type(i):build_occup_type_enum%20%3F;surf_moisture(i):string%20%3F;dew_point(i):string%20%3F;carb_dioxide(i):string%20%3F;ventilation_type(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;indoor_space(i):indoor_space_enum%20%3F;indoor_surf(i):indoor_surf_enum%20%3F;filter_type(i):filter_type_enum%20%3F;heat_cool_type(i):heat_cool_type_enum%20%3F;substructure_type(i):substructure_type_enum%20%3F;building_setting(i):building_setting_enum%20%3F;light_type(i):light_type_enum%20%3F;samp_sort_meth(i):string%20%3F;space_typ_state(i):string%20%3F;typ_occup_density(i):string%20%3F;occup_samp(i):string%20%3F;occup_density_samp(i):string%20%3F;address(i):string%20%3F;adj_room(i):string%20%3F;aero_struc(i):string%20%3F;amount_light(i):string%20%3F;arch_struc(i):arch_struc_enum%20%3F;avg_occup(i):string%20%3F;avg_dew_point(i):string%20%3F;avg_temp(i):string%20%3F;bathroom_count(i):string%20%3F;bedroom_count(i):string%20%3F;built_struc_age(i):string%20%3F;built_struc_set(i):string%20%3F;built_struc_type(i):string%20%3F;ceil_area(i):string%20%3F;ceil_cond(i):ceil_cond_enum%20%3F;ceil_finish_mat(i):ceil_finish_mat_enum%20%3F;ceil_water_mold(i):string%20%3F;ceil_struc(i):string%20%3F;ceil_texture(i):ceil_texture_enum%20%3F;ceil_thermal_mass(i):string%20%3F;ceil_type(i):ceil_type_enum%20%3F;cool_syst_id(i):string%20%3F;date_last_rain(i):string%20%3F;build_docs(i):build_docs_enum%20%3F;door_size(i):string%20%3F;door_cond(i):door_cond_enum%20%3F;door_direct(i):door_direct_enum%20%3F;door_loc(i):door_loc_enum%20%3F;door_mat(i):door_mat_enum%20%3F;door_move(i):door_move_enum%20%3F;door_water_mold(i):string%20%3F;door_type(i):door_type_enum%20%3F;door_comp_type(i):door_comp_type_enum%20%3F;door_type_metal(i):door_type_metal_enum%20%3F;door_type_wood(i):door_type_wood_enum%20%3F;drawings(i):drawings_enum%20%3F;elevator(i):string%20%3F;escalator(i):string%20%3F;exp_duct(i):string%20%3F;exp_pipe(i):string%20%3F;ext_door(i):string%20%3F;fireplace_type(i):string%20%3F;floor_age(i):string%20%3F;floor_area(i):string%20%3F;floor_cond(i):floor_cond_enum%20%3F;floor_count(i):string%20%3F;floor_finish_mat(i):floor_finish_mat_enum%20%3F;floor_water_mold(i):floor_water_mold_enum%20%3F;floor_struc(i):floor_struc_enum%20%3F;floor_thermal_mass(i):string%20%3F;freq_clean(i):string%20%3F;freq_cook(i):string%20%3F;furniture(i):furniture_enum%20%3F;gender_restroom(i):string%20%3F;hall_count(i):string%20%3F;handidness(i):handidness_enum%20%3F;heat_deliv_loc(i):heat_deliv_loc_enum%20%3F;heat_system_deliv_meth(i):string%20%3F;heat_system_id(i):string%20%3F;height_carper_fiber(i):string%20%3F;inside_lux(i):string%20%3F;int_wall_cond(i):int_wall_cond_enum%20%3F;last_clean(i):string%20%3F;max_occup(i):string%20%3F;mech_struc(i):mech_struc_enum%20%3F;number_plants(i):string%20%3F;number_pets(i):string%20%3F;number_resident(i):string%20%3F;occup_document(i):occup_document_enum%20%3F;ext_wall_orient(i):ext_wall_orient_enum%20%3F;ext_window_orient(i):ext_window_orient_enum%20%3F;rel_humidity_out(i):string%20%3F;pres_animal(i):pres_animal_enum%20%3F;quad_pos(i):quad_pos_enum%20%3F;rel_samp_loc(i):rel_samp_loc_enum%20%3F;room_air_exch_rate(i):string%20%3F;room_architec_element(i):string%20%3F;room_condt(i):room_condt_enum%20%3F;room_count(i):string%20%3F;room_dim(i):string%20%3F;room_door_dist(i):string%20%3F;room_loc(i):room_loc_enum%20%3F;room_moist_damage_hist(i):string%20%3F;room_net_area(i):string%20%3F;room_occup(i):string%20%3F;room_samp_pos(i):room_samp_pos_enum%20%3F;room_type(i):room_type_enum%20%3F;room_vol(i):string%20%3F;room_window_count(i):string%20%3F;room_connected(i):room_connected_enum%20%3F;room_hallway(i):string%20%3F;room_door_share(i):string%20%3F;room_wall_share(i):string%20%3F;samp_weather(i):samp_weather_enum%20%3F;samp_floor(i):samp_floor_enum%20%3F;samp_room_id(i):string%20%3F;samp_time_out(i):string%20%3F;season(i):string%20%3F;season_use(i):season_use_enum%20%3F;shading_device_cond(i):shading_device_cond_enum%20%3F;shading_device_loc(i):string%20%3F;shading_device_mat(i):string%20%3F;shading_device_water_mold(i):string%20%3F;shading_device_type(i):shading_device_type_enum%20%3F;specific_humidity(i):string%20%3F;specific(i):specific_enum%20%3F;temp_out(i):string%20%3F;train_line(i):train_line_enum%20%3F;train_stat_loc(i):train_stat_loc_enum%20%3F;train_stop_loc(i):train_stop_loc_enum%20%3F;vis_media(i):vis_media_enum%20%3F;wall_area(i):string%20%3F;wall_const_type(i):wall_const_type_enum%20%3F;wall_finish_mat(i):wall_finish_mat_enum%20%3F;wall_height(i):string%20%3F;wall_loc(i):wall_loc_enum%20%3F;wall_water_mold(i):string%20%3F;wall_surf_treatment(i):wall_surf_treatment_enum%20%3F;wall_texture(i):wall_texture_enum%20%3F;wall_thermal_mass(i):string%20%3F;water_feat_size(i):string%20%3F;water_feat_type(i):water_feat_type_enum%20%3F;weekday(i):weekday_enum%20%3F;window_size(i):string%20%3F;window_cond(i):window_cond_enum%20%3F;window_cover(i):window_cover_enum%20%3F;window_horiz_pos(i):window_horiz_pos_enum%20%3F;window_loc(i):window_loc_enum%20%3F;window_mat(i):window_mat_enum%20%3F;window_open_freq(i):string%20%3F;window_water_mold(i):string%20%3F;window_status(i):string%20%3F;window_type(i):window_type_enum%20%3F;window_vert_pos(i):window_vert_pos_enum%20%3F]uses%20-.->[MigsOrg],[BuiltEnvironment]^-[BuiltEnvironmentMigsOrg],[BuiltEnvironment])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[MigsOrg],[BuiltEnvironmentMigsOrg&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;extrachrom_elements:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;isol_growth_condt:string;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;surf_material(i):surf_material_enum%20%3F;surf_air_cont(i):surf_air_cont_enum%20%3F;surf_moisture_ph(i):double%20%3F;build_occup_type(i):build_occup_type_enum%20%3F;ventilation_type(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;indoor_space(i):indoor_space_enum%20%3F;indoor_surf(i):indoor_surf_enum%20%3F;filter_type(i):filter_type_enum%20%3F;heat_cool_type(i):heat_cool_type_enum%20%3F;substructure_type(i):substructure_type_enum%20%3F;building_setting(i):building_setting_enum%20%3F;light_type(i):light_type_enum%20%3F;samp_sort_meth(i):string%20%3F;space_typ_state(i):string%20%3F;typ_occup_density(i):double%20%3F;occup_samp(i):string%20%3F;occup_density_samp(i):double%20%3F;address(i):string%20%3F;adj_room(i):string%20%3F;aero_struc(i):string%20%3F;arch_struc(i):arch_struc_enum%20%3F;avg_occup(i):double%20%3F;bathroom_count(i):string%20%3F;bedroom_count(i):string%20%3F;built_struc_set(i):string%20%3F;built_struc_type(i):string%20%3F;ceil_cond(i):ceil_cond_enum%20%3F;ceil_finish_mat(i):ceil_finish_mat_enum%20%3F;ceil_water_mold(i):string%20%3F;ceil_struc(i):string%20%3F;ceil_texture(i):ceil_texture_enum%20%3F;ceil_type(i):ceil_type_enum%20%3F;cool_syst_id(i):string%20%3F;date_last_rain(i):string%20%3F;build_docs(i):build_docs_enum%20%3F;door_cond(i):door_cond_enum%20%3F;door_direct(i):door_direct_enum%20%3F;door_loc(i):door_loc_enum%20%3F;door_mat(i):door_mat_enum%20%3F;door_move(i):door_move_enum%20%3F;door_water_mold(i):string%20%3F;door_type(i):door_type_enum%20%3F;door_comp_type(i):door_comp_type_enum%20%3F;door_type_metal(i):door_type_metal_enum%20%3F;door_type_wood(i):door_type_wood_enum%20%3F;drawings(i):drawings_enum%20%3F;elevator(i):string%20%3F;escalator(i):string%20%3F;exp_pipe(i):string%20%3F;ext_door(i):string%20%3F;fireplace_type(i):string%20%3F;floor_cond(i):floor_cond_enum%20%3F;floor_count(i):string%20%3F;floor_finish_mat(i):floor_finish_mat_enum%20%3F;floor_water_mold(i):floor_water_mold_enum%20%3F;floor_struc(i):floor_struc_enum%20%3F;freq_clean(i):string%20%3F;freq_cook(i):string%20%3F;furniture(i):furniture_enum%20%3F;gender_restroom(i):string%20%3F;hall_count(i):string%20%3F;handidness(i):handidness_enum%20%3F;heat_deliv_loc(i):heat_deliv_loc_enum%20%3F;heat_system_deliv_meth(i):string%20%3F;heat_system_id(i):string%20%3F;int_wall_cond(i):int_wall_cond_enum%20%3F;last_clean(i):string%20%3F;max_occup(i):string%20%3F;mech_struc(i):mech_struc_enum%20%3F;number_plants(i):string%20%3F;number_pets(i):string%20%3F;number_resident(i):string%20%3F;occup_document(i):occup_document_enum%20%3F;ext_wall_orient(i):ext_wall_orient_enum%20%3F;ext_window_orient(i):ext_window_orient_enum%20%3F;pres_animal(i):pres_animal_enum%20%3F;quad_pos(i):quad_pos_enum%20%3F;rel_samp_loc(i):rel_samp_loc_enum%20%3F;room_architec_element(i):string%20%3F;room_condt(i):room_condt_enum%20%3F;room_count(i):string%20%3F;room_dim(i):string%20%3F;room_door_dist(i):string%20%3F;room_loc(i):room_loc_enum%20%3F;room_moist_damage_hist(i):string%20%3F;room_net_area(i):string%20%3F;room_occup(i):string%20%3F;room_samp_pos(i):room_samp_pos_enum%20%3F;room_type(i):room_type_enum%20%3F;room_vol(i):string%20%3F;room_window_count(i):string%20%3F;room_connected(i):room_connected_enum%20%3F;room_hallway(i):string%20%3F;room_door_share(i):string%20%3F;room_wall_share(i):string%20%3F;samp_weather(i):samp_weather_enum%20%3F;samp_floor(i):samp_floor_enum%20%3F;samp_room_id(i):string%20%3F;samp_time_out(i):double%20%3F;season(i):string%20%3F;season_use(i):season_use_enum%20%3F;shading_device_cond(i):shading_device_cond_enum%20%3F;shading_device_loc(i):string%20%3F;shading_device_mat(i):string%20%3F;shading_device_water_mold(i):string%20%3F;shading_device_type(i):shading_device_type_enum%20%3F;specific(i):specific_enum%20%3F;train_line(i):train_line_enum%20%3F;train_stat_loc(i):train_stat_loc_enum%20%3F;train_stop_loc(i):train_stop_loc_enum%20%3F;vis_media(i):vis_media_enum%20%3F;wall_const_type(i):wall_const_type_enum%20%3F;wall_finish_mat(i):wall_finish_mat_enum%20%3F;wall_loc(i):wall_loc_enum%20%3F;wall_water_mold(i):string%20%3F;wall_surf_treatment(i):wall_surf_treatment_enum%20%3F;wall_texture(i):wall_texture_enum%20%3F;water_feat_type(i):water_feat_type_enum%20%3F;weekday(i):weekday_enum%20%3F;window_size(i):string%20%3F;window_cond(i):window_cond_enum%20%3F;window_cover(i):window_cover_enum%20%3F;window_horiz_pos(i):window_horiz_pos_enum%20%3F;window_loc(i):window_loc_enum%20%3F;window_mat(i):window_mat_enum%20%3F;window_open_freq(i):string%20%3F;window_water_mold(i):string%20%3F;window_status(i):string%20%3F;window_type(i):window_type_enum%20%3F;window_vert_pos(i):window_vert_pos_enum%20%3F]uses%20-.->[MigsOrg],[BuiltEnvironment]^-[BuiltEnvironmentMigsOrg],[BuiltEnvironment])
 
 ## Parents
 
@@ -24,7 +24,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
 
  * [abs_air_humidity](abs_air_humidity.md)  <sub>OPT</sub>
      * Description: Actual mass of water vapor - mh20 - present in the air water vapor mixture
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 9 gram per gram None
  * [address](address.md)  <sub>OPT</sub>
      * Description: The street name and building number where the sampling occurred.
@@ -40,11 +40,15 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: plane None
  * [air_temp](air_temp.md)  <sub>OPT</sub>
      * Description: Temperature of the air at the time of sampling
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 20 degree Celsius None
+ * [alt](alt.md)  <sub>OPT</sub>
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * range: [QuantityValue](QuantityValue.md)
+     * Example: 100 meter None
  * [amount_light](amount_light.md)  <sub>OPT</sub>
      * Description: The unit of illuminance and luminous emittance, measuring luminous flux per unit area
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [arch_struc](arch_struc.md)  <sub>OPT</sub>
      * Description: An architectural structure is a human-made, free-standing, immobile outdoor construction
@@ -52,15 +56,15 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: shed None
  * [avg_dew_point](avg_dew_point.md)  <sub>OPT</sub>
      * Description: The average of dew point measures taken at the beginning of every hour over a 24 hour period on the sampling day
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 25.5 degree Celsius None
  * [avg_occup](avg_occup.md)  <sub>OPT</sub>
      * Description: Daily average occupancy of room
-     * range: [String](types/String.md)
+     * range: [Double](types/Double.md)
      * Example: 2 None
  * [avg_temp](avg_temp.md)  <sub>OPT</sub>
      * Description: The average of temperatures taken at the beginning of every hour over a 24 hour period on the sampling day
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 12.5 degree Celsius None
  * [bathroom_count](bathroom_count.md)  <sub>OPT</sub>
      * Description: The number of bathrooms in the building
@@ -84,7 +88,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: rural None
  * [built_struc_age](built_struc_age.md)  <sub>OPT</sub>
      * Description: The age of the built structure since construction
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 15 None
  * [built_struc_set](built_struc_set.md)  <sub>OPT</sub>
      * Description: The characterization of the location of the built structure as high or low human density
@@ -96,11 +100,11 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example:  None
  * [carb_dioxide](carb_dioxide.md)  <sub>OPT</sub>
      * Description: Carbon dioxide (gas) amount or concentration at the time of sampling
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 410 parts per million None
  * [ceil_area](ceil_area.md)  <sub>OPT</sub>
      * Description: The area of the ceiling space within the room
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 25 square meter None
  * [ceil_cond](ceil_cond.md)  <sub>OPT</sub>
      * Description: The physical condition of the ceiling at the time of sampling; photos or video preferred; use drawings to indicate location of damaged areas
@@ -120,7 +124,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: popcorn None
  * [ceil_thermal_mass](ceil_thermal_mass.md)  <sub>OPT</sub>
      * Description: The ability of the ceiling to provide inertia against temperature fluctuations. Generally this means concrete that is exposed. A metal deck that supports a concrete slab will act thermally as long as it is exposed to room air flow
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [ceil_type](ceil_type.md)  <sub>OPT</sub>
      * Description: The type of ceiling according to the ceiling's appearance or construction
@@ -130,6 +134,10 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Description: Signs of the presence of mold or mildew on the ceiling
      * range: [String](types/String.md)
      * Example: presence of mold visible None
+ * [collection_date](collection_date.md)  <sub>OPT</sub>
+     * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
+     * range: [String](types/String.md)
+     * Example: 2018-05-11T10:00:00+01:00 None
  * [cool_syst_id](cool_syst_id.md)  <sub>OPT</sub>
      * Description: The cooling system identifier
      * range: [String](types/String.md)
@@ -138,9 +146,13 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Description: The date of the last time it rained
      * range: [String](types/String.md)
      * Example: 2018-05-11:T14:30Z None
+ * [depth](depth.md)  <sub>OPT</sub>
+     * Description: Please refer to the definitions of depth in the environmental packages
+     * range: [String](types/String.md)
+     * Example:  None
  * [dew_point](dew_point.md)  <sub>OPT</sub>
      * Description: The temperature to which a given parcel of humid air must be cooled, at constant barometric pressure, for water vapor to condense into water.
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 22 degree Celsius None
  * [door_comp_type](door_comp_type.md)  <sub>OPT</sub>
      * Description: The composite type of the door
@@ -168,7 +180,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: swinging None
  * [door_size](door_size.md)  <sub>OPT</sub>
      * Description: The size of the door
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 2.5 square meter None
  * [door_type](door_type.md)  <sub>OPT</sub>
      * Description: The type of door material
@@ -190,17 +202,33 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Description: The buildings architectural drawings; if design is chosen, indicate phase-conceptual, schematic, design development, and construction documents
      * range: 
      * Example: sketch None
+ * [elev](elev.md)  <sub>OPT</sub>
+     * Description: Elevation of the sampling site is its height above a fixed reference point, most commonly the mean sea level. Elevation is mainly used when referring to points on the earth's surface, while altitude is used for points above the surface, such as an aircraft in flight or a spacecraft in orbit
+     * range: [QuantityValue](QuantityValue.md)
+     * Example: 100 meter None
  * [elevator](elevator.md)  <sub>OPT</sub>
      * Description: The number of elevators within the built structure
      * range: [String](types/String.md)
      * Example: 2 None
+ * [env_broad_scale](env_broad_scale.md)  <sub>OPT</sub>
+     * Description: In this field, report which major environmental system your sample or specimen came from. The systems identified should have a coarse spatial grain, to provide the general environmental context of where the sampling was done (e.g. were you in the desert or a rainforest?). We recommend using subclasses of ENVO’s biome class: http://purl.obolibrary.org/obo/ENVO_00000428. Format (one term): termLabel [termID], Format (multiple terms): termLabel [termID]|termLabel [termID]|termLabel [termID]. Example: Annotating a water sample from the photic zone in middle of the Atlantic Ocean, consider: oceanic epipelagic zone biome [ENVO:01000033]. Example: Annotating a sample from the Amazon rainforest consider: tropical moist broadleaf forest biome [ENVO:01000228]. If needed, request new terms on the ENVO tracker, identified here: http://www.obofoundry.org/ontology/envo.html
+     * range: [String](types/String.md)
+     * Example: forest biome [ENVO:01000174] None
+ * [env_local_scale](env_local_scale.md)  <sub>OPT</sub>
+     * Description: In this field, report the entity or entities which are in your sample or specimen’s local vicinity and which you believe have significant causal influences on your sample or specimen. Please use terms that are present in ENVO and which are of smaller spatial grain than your entry for env_broad_scale. Format (one term): termLabel [termID]; Format (multiple terms): termLabel [termID]|termLabel [termID]|termLabel [termID]. Example: Annotating a pooled sample taken from various vegetation layers in a forest consider: canopy [ENVO:00000047]|herb and fern layer [ENVO:01000337]|litter layer [ENVO:01000338]|understory [01000335]|shrub layer [ENVO:01000336]. If needed, request new terms on the ENVO tracker, identified here: http://www.obofoundry.org/ontology/envo.html
+     * range: [String](types/String.md)
+     * Example: litter layer [ENVO:01000338] None
+ * [env_medium](env_medium.md)  <sub>OPT</sub>
+     * Description: In this field, report which environmental material or materials (pipe separated) immediately surrounded your sample or specimen prior to sampling, using one or more subclasses of ENVO’s environmental material class: http://purl.obolibrary.org/obo/ENVO_00010483. Format (one term): termLabel [termID]; Format (multiple terms): termLabel [termID]|termLabel [termID]|termLabel [termID]. Example: Annotating a fish swimming in the upper 100 m of the Atlantic Ocean, consider: ocean water [ENVO:00002151]. Example: Annotating a duck on a pond consider: pond water [ENVO:00002228]|air ENVO_00002005. If needed, request new terms on the ENVO tracker, identified here: http://www.obofoundry.org/ontology/envo.html
+     * range: [String](types/String.md)
+     * Example: soil [ENVO:00001998] None
  * [escalator](escalator.md)  <sub>OPT</sub>
      * Description: The number of escalators within the built structure
      * range: [String](types/String.md)
      * Example: 4 None
  * [exp_duct](exp_duct.md)  <sub>OPT</sub>
      * Description: The amount of exposed ductwork in the room
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [exp_pipe](exp_pipe.md)  <sub>OPT</sub>
      * Description: The number of exposed pipes in the room
@@ -228,11 +256,11 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: wood burning None
  * [floor_age](floor_age.md)  <sub>OPT</sub>
      * Description: The time period since installment of the carpet or flooring
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [floor_area](floor_area.md)  <sub>OPT</sub>
      * Description: The area of the floor space within the room
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [floor_cond](floor_cond.md)  <sub>OPT</sub>
      * Description: The physical condition of the floor at the time of sampling; photos or video preferred; use drawings to indicate location of damaged areas
@@ -252,7 +280,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: concrete None
  * [floor_thermal_mass](floor_thermal_mass.md)  <sub>OPT</sub>
      * Description: The ability of the floor to provide inertia against temperature fluctuations
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [floor_water_mold](floor_water_mold.md)  <sub>OPT</sub>
      * Description: Signs of the presence of mold or mildew in a room
@@ -274,6 +302,10 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Description: The gender type of the restroom
      * range: [String](types/String.md)
      * Example: male None
+ * [geo_loc_name](geo_loc_name.md)  <sub>OPT</sub>
+     * Description: The geographical origin of the sample as defined by the country or sea name followed by specific region name. Country or sea names should be chosen from the INSDC country list (http://insdc.org/country.html), or the GAZ ontology (v 1.512) (http://purl.bioontology.org/ontology/GAZ)
+     * range: [String](types/String.md)
+     * Example: Germany;North Rhine-Westphalia;Eifel National Park None
  * [hall_count](hall_count.md)  <sub>OPT</sub>
      * Description: The total count of hallways and cooridors in the built structure
      * range: [String](types/String.md)
@@ -300,7 +332,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example:  None
  * [height_carper_fiber](height_carper_fiber.md)  <sub>OPT</sub>
      * Description: The average carpet fiber height in the indoor environment
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [indoor_space](indoor_space.md)  <sub>OPT</sub>
      * Description: A distinguishable space within a structure, the purpose for which discrete areas of a building is used
@@ -312,7 +344,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: wall None
  * [inside_lux](inside_lux.md)  <sub>OPT</sub>
      * Description: The recorded value at sampling time (power density)
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [int_wall_cond](int_wall_cond.md)  <sub>OPT</sub>
      * Description: The physical condition of the wall at the time of sampling; photos or video preferred; use drawings to indicate location of damaged areas
@@ -322,6 +354,10 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Description: The last time the floor was cleaned (swept, mopped, vacuumed)
      * range: [String](types/String.md)
      * Example: 2018-05-11:T14:30Z None
+ * [lat_lon](lat_lon.md)  <sub>OPT</sub>
+     * Description: The geographical origin of the sample as defined by latitude and longitude. The values should be reported in decimal degrees and in WGS84 system
+     * range: [String](types/String.md)
+     * Example: 50.586825 6.408977 None
  * [light_type](light_type.md)  <sub>OPT</sub>
      * Description: Application of light to achieve some practical or aesthetic effect. Lighting includes the use of both artificial light sources such as lamps and light fixtures, as well as natural illumination by capturing daylight. Can also include absence of light
      * range: 
@@ -348,7 +384,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example:  None
  * [occup_density_samp](occup_density_samp.md)  <sub>OPT</sub>
      * Description: Average number of occupants at time of sampling per square footage
-     * range: [String](types/String.md)
+     * range: [Double](types/Double.md)
      * Example:  None
  * [occup_document](occup_document.md)  <sub>OPT</sub>
      * Description: The type of documentation of occupancy
@@ -372,11 +408,11 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: West side None
  * [rel_air_humidity](rel_air_humidity.md)  <sub>OPT</sub>
      * Description: Partial vapor and air pressure, density of the vapor and air, or by the actual mass of the vapor and air
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 80% None
  * [rel_humidity_out](rel_humidity_out.md)  <sub>OPT</sub>
      * Description: The recorded outside relative humidity value at the time of sampling
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 12 per kilogram of air None
  * [rel_samp_loc](rel_samp_loc.md)  <sub>OPT</sub>
      * Description: The sampling location within the train car
@@ -384,7 +420,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: center of car None
  * [room_air_exch_rate](room_air_exch_rate.md)  <sub>OPT</sub>
      * Description: The rate at which outside air replaces indoor air in a given space
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [room_architec_element](room_architec_element.md)  <sub>OPT</sub>
      * Description: The unique details and component parts that, together, form the architecture of a distinguisahable space within a built structure
@@ -468,7 +504,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example:  None
  * [samp_time_out](samp_time_out.md)  <sub>OPT</sub>
      * Description: The recent and long term history of outside sampling
-     * range: [String](types/String.md)
+     * range: [Double](types/Double.md)
      * Example:  None
  * [samp_weather](samp_weather.md)  <sub>OPT</sub>
      * Description: The weather on the sampling day
@@ -512,7 +548,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: construction None
  * [specific_humidity](specific_humidity.md)  <sub>OPT</sub>
      * Description: The mass of water vapour in a unit mass of moist air, usually expressed as grams of vapour per kilogram of air, or, in air conditioning, as grains per pound.
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 15 per kilogram of air None
  * [substructure_type](substructure_type.md)  <sub>OPT</sub>
      * Description: The substructure or under building is that largely hidden section of the building which is built off the foundations to the ground floor level
@@ -524,7 +560,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: radon None
  * [surf_humidity](surf_humidity.md)  <sub>OPT</sub>
      * Description: Surfaces: water activity as a function of air and material moisture
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 10% None
  * [surf_material](surf_material.md)  <sub>OPT</sub>
      * Description: Surface materials at the point of sampling
@@ -532,19 +568,19 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: wood None
  * [surf_moisture](surf_moisture.md)  <sub>OPT</sub>
      * Description: Water held on a surface
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 0.01 gram per square meter None
  * [surf_moisture_ph](surf_moisture_ph.md)  <sub>OPT</sub>
      * Description: ph measurement of surface
-     * range: [String](types/String.md)
+     * range: [Double](types/Double.md)
      * Example: 7 None
  * [surf_temp](surf_temp.md)  <sub>OPT</sub>
      * Description: Temperature of the surface at the time of sampling
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 15 degree Celsius None
  * [temp_out](temp_out.md)  <sub>OPT</sub>
      * Description: The recorded temperature value at sampling time outside
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 5 degree Celsius None
  * [train_line](train_line.md)  <sub>OPT</sub>
      * Description: The subway line name
@@ -560,7 +596,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: end None
  * [typ_occup_density](typ_occup_density.md)  <sub>OPT</sub>
      * Description: Customary or normal density of occupants
-     * range: [String](types/String.md)
+     * range: [Double](types/Double.md)
      * Example: 25 None
  * [ventilation_type](ventilation_type.md)  <sub>OPT</sub>
      * Description: Ventilation system used in the sampled premises
@@ -572,7 +608,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: 3D scans None
  * [wall_area](wall_area.md)  <sub>OPT</sub>
      * Description: The total area of the sampled room's walls
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [wall_const_type](wall_const_type.md)  <sub>OPT</sub>
      * Description: The building class of the wall defined by the composition of the building elements and fire-resistance rating.
@@ -584,7 +620,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: wood None
  * [wall_height](wall_height.md)  <sub>OPT</sub>
      * Description: The average height of the walls in the sampled room
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [wall_loc](wall_loc.md)  <sub>OPT</sub>
      * Description: The relative location of the wall within the room
@@ -600,7 +636,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: popcorn None
  * [wall_thermal_mass](wall_thermal_mass.md)  <sub>OPT</sub>
      * Description: The ability of the wall to provide inertia against temperature fluctuations. Generally this means concrete or concrete block that is either exposed or covered only with paint
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [wall_water_mold](wall_water_mold.md)  <sub>OPT</sub>
      * Description: Signs of the presence of mold or mildew on a wall
@@ -608,7 +644,7 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Example: no presence of mold visible None
  * [water_feat_size](water_feat_size.md)  <sub>OPT</sub>
      * Description: The size of the water feature
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [water_feat_type](water_feat_type.md)  <sub>OPT</sub>
      * Description: The type of water feature present within the building being sampled
@@ -662,3 +698,193 @@ URI: [mixs.vocab:BuiltEnvironmentMigsOrg](https://w3id.org/mixs/vocab/BuiltEnvir
      * Description: Signs of the presence of mold or mildew on the window.
      * range: [String](types/String.md)
      * Example: no presence of mold visible None
+
+### Mixed in from migs_org:
+
+ * [migs_org➞adapters](migs_org_adapters.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞annot](migs_org_annot.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞assembly_name](migs_org_assembly_name.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞assembly_qual](migs_org_assembly_qual.md)  <sub>OPT</sub>
+     * range: 
+
+### Mixed in from migs_org:
+
+ * [migs_org➞assembly_software](migs_org_assembly_software.md)  <sub>REQ</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞compl_score](migs_org_compl_score.md)  <sub>OPT</sub>
+     * range: 
+
+### Mixed in from migs_org:
+
+ * [migs_org➞compl_software](migs_org_compl_software.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞env_package](migs_org_env_package.md)  <sub>OPT</sub>
+     * range: 
+
+### Mixed in from migs_org:
+
+ * [migs_org➞estimated_size](migs_org_estimated_size.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞experimental_factor](migs_org_experimental_factor.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞extrachrom_elements](migs_org_extrachrom_elements.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞feat_pred](migs_org_feat_pred.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞investigation_type](migs_org_investigation_type.md)  <sub>REQ</sub>
+     * range: 
+
+### Mixed in from migs_org:
+
+ * [migs_org➞isol_growth_condt](migs_org_isol_growth_condt.md)  <sub>REQ</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞lib_layout](migs_org_lib_layout.md)  <sub>OPT</sub>
+     * range: 
+
+### Mixed in from migs_org:
+
+ * [migs_org➞lib_reads_seqd](migs_org_lib_reads_seqd.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞lib_screen](migs_org_lib_screen.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞lib_size](migs_org_lib_size.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞lib_vector](migs_org_lib_vector.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞nucl_acid_amp](migs_org_nucl_acid_amp.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞nucl_acid_ext](migs_org_nucl_acid_ext.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞number_contig](migs_org_number_contig.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞project_name](migs_org_project_name.md)  <sub>REQ</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞ref_biomaterial](migs_org_ref_biomaterial.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞ref_db](migs_org_ref_db.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞samp_collect_device](migs_org_samp_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞samp_mat_process](migs_org_samp_mat_process.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞samp_size](migs_org_samp_size.md)  <sub>OPT</sub>
+     * range: [QuantityValue](QuantityValue.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞sample_name](migs_org_sample_name.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞seq_meth](migs_org_seq_meth.md)  <sub>REQ</sub>
+     * range: 
+
+### Mixed in from migs_org:
+
+ * [migs_org➞sim_search_meth](migs_org_sim_search_meth.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞sop](migs_org_sop.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞source_mat_id](migs_org_source_mat_id.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞submitted_to_insdc](migs_org_submitted_to_insdc.md)  <sub>REQ</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞subspecf_gen_lin](migs_org_subspecf_gen_lin.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞tax_class](migs_org_tax_class.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from migs_org:
+
+ * [migs_org➞tax_ident](migs_org_tax_ident.md)  <sub>OPT</sub>
+     * range: 
+
+### Mixed in from migs_org:
+
+ * [migs_org➞url](migs_org_url.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)

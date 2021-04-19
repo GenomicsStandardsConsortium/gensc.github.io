@@ -9,7 +9,7 @@ URI: [mixs.vocab:rel_air_humidity](https://w3id.org/mixs/vocab/rel_air_humidity)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

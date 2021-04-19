@@ -17,21 +17,19 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞tax_class](me_tax_class.md)
+ *  [migs_ba➞tax_class](migs_ba_tax_class.md)
+ *  [migs_eu➞tax_class](migs_eu_tax_class.md)
+ *  [migs_org➞tax_class](migs_org_tax_class.md)
+ *  [migs_pl➞tax_class](migs_pl_tax_class.md)
+ *  [migs_vi➞tax_class](migs_vi_tax_class.md)
+ *  [mimag➞tax_class](mimag_tax_class.md)
+ *  [misag➞tax_class](misag_tax_class.md)
+ *  [miuvig➞tax_class](miuvig_tax_class.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +39,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: classification method, database name, and other parameters |
 |  | | Preferred unit:  |
 |  | | Position: 62.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: X |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: X |
-|  | | CHECKLIST mimarks_s: - |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: X |
-|  | | CHECKLIST mimag: X |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='vConTACT vContact2 (references from NCBI RefSeq v83, genus rank classification, default parameters)', description=None) |
 

@@ -7,7 +7,7 @@ Combinatorial checklist for plant-associated with misag
 URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associatedMisag)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[Plant-associatedMisag&#124;air_temp_regm(i):string%20%3F;ances_data(i):string%20%3F;antibiotic_regm(i):string%20%3F;biol_stat(i):biol_stat_enum%20%3F;biotic_regm(i):string%20%3F;chem_administration(i):string%20%3F;chem_mutagen(i):string%20%3F;climate_environment(i):string%20%3F;cult_root_med(i):string%20%3F;fertilizer_regm(i):string%20%3F;fungicide_regm(i):string%20%3F;gaseous_environment(i):string%20%3F;genetic_mod(i):string%20%3F;gravity(i):string%20%3F;growth_facil(i):string%20%3F;growth_habit(i):growth_habit_enum%20%3F;growth_hormone_regm(i):string%20%3F;herbicide_regm(i):string%20%3F;host_age(i):string%20%3F;host_common_name(i):string%20%3F;host_disease_stat(i):string%20%3F;host_dry_mass(i):string%20%3F;host_genotype(i):string%20%3F;host_height(i):string%20%3F;host_infra_specific_name(i):string%20%3F;host_infra_specific_rank(i):string%20%3F;host_length(i):string%20%3F;host_life_stage(i):string%20%3F;host_phenotype(i):string%20%3F;host_taxid(i):string%20%3F;host_tot_mass(i):string%20%3F;host_wet_mass(i):string%20%3F;humidity_regm(i):string%20%3F;light_regm(i):string%20%3F;mechanical_damage(i):string%20%3F;mineral_nutr_regm(i):string%20%3F;misc_param(i):string%20%3F;non_mineral_nutr_regm(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;ph_regm(i):string%20%3F;perturbation(i):string%20%3F;pesticide_regm(i):string%20%3F;plant_growth_med(i):plant_growth_med_enum%20%3F;plant_product(i):string%20%3F;plant_sex(i):plant_sex_enum%20%3F;plant_struc(i):string%20%3F;radiation_regm(i):string%20%3F;rainfall_regm(i):string%20%3F;root_cond(i):string%20%3F;root_med_carbon(i):string%20%3F;root_med_macronutr(i):string%20%3F;root_med_micronutr(i):string%20%3F;root_med_suppl(i):string%20%3F;root_med_ph(i):string%20%3F;root_med_regl(i):string%20%3F;root_med_solid(i):string%20%3F;salt_regm(i):string%20%3F;samp_capt_status(i):samp_capt_status_enum%20%3F;samp_dis_stage(i):string%20%3F;samp_salinity(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;samp_store_temp(i):string%20%3F;samp_vol_we_dna_ext(i):string%20%3F;season_environment(i):string%20%3F;standing_water_regm(i):string%20%3F;temp(i):string%20%3F;tiss_cult_growth_med(i):string%20%3F;water_temp_regm(i):string%20%3F;watering_regm(i):string%20%3F]uses%20-.->[Misag],[Plant-associated]^-[Plant-associatedMisag],[Plant-associated],[Misag])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Plant-associatedMisag&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;x_16s_recover_software:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum;compl_software:string;compl_appr:compl_appr_enum%20%3F;contam_score:string;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;sort_tech:sort_tech_enum;single_cell_lysis_appr:single_cell_lysis_appr_enum;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string;wga_amp_kit:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;air_temp_regm(i):string%20%3F;ances_data(i):string%20%3F;antibiotic_regm(i):string%20%3F;biol_stat(i):biol_stat_enum%20%3F;biotic_regm(i):string%20%3F;chem_administration(i):string%20%3F;chem_mutagen(i):string%20%3F;climate_environment(i):string%20%3F;cult_root_med(i):string%20%3F;fertilizer_regm(i):string%20%3F;fungicide_regm(i):string%20%3F;gaseous_environment(i):string%20%3F;genetic_mod(i):string%20%3F;gravity(i):string%20%3F;growth_facil(i):string%20%3F;growth_habit(i):growth_habit_enum%20%3F;growth_hormone_regm(i):string%20%3F;herbicide_regm(i):string%20%3F;host_common_name(i):string%20%3F;host_disease_stat(i):string%20%3F;host_genotype(i):string%20%3F;host_infra_specific_name(i):string%20%3F;host_infra_specific_rank(i):string%20%3F;host_life_stage(i):string%20%3F;host_phenotype(i):string%20%3F;host_taxid(i):string%20%3F;humidity_regm(i):string%20%3F;light_regm(i):string%20%3F;mechanical_damage(i):string%20%3F;mineral_nutr_regm(i):string%20%3F;misc_param(i):string%20%3F;non_mineral_nutr_regm(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;ph_regm(i):string%20%3F;perturbation(i):string%20%3F;pesticide_regm(i):string%20%3F;plant_growth_med(i):plant_growth_med_enum%20%3F;plant_product(i):string%20%3F;plant_sex(i):plant_sex_enum%20%3F;plant_struc(i):string%20%3F;radiation_regm(i):string%20%3F;rainfall_regm(i):string%20%3F;root_cond(i):string%20%3F;root_med_carbon(i):string%20%3F;root_med_macronutr(i):string%20%3F;root_med_micronutr(i):string%20%3F;root_med_suppl(i):string%20%3F;root_med_ph(i):double%20%3F;root_med_regl(i):string%20%3F;root_med_solid(i):string%20%3F;salt_regm(i):string%20%3F;samp_capt_status(i):samp_capt_status_enum%20%3F;samp_dis_stage(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;season_environment(i):string%20%3F;standing_water_regm(i):string%20%3F;tiss_cult_growth_med(i):string%20%3F;water_temp_regm(i):string%20%3F;watering_regm(i):string%20%3F]uses%20-.->[Misag],[Plant-associated]^-[Plant-associatedMisag],[Plant-associated],[Misag])
 
 ## Parents
 
@@ -26,6 +26,10 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Description: Information about treatment involving an exposure to varying temperatures; should include the temperature, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include different temperature regimens
      * range: [String](types/String.md)
      * Example: 25 degree Celsius;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [alt](alt.md)  <sub>OPT</sub>
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * range: [QuantityValue](QuantityValue.md)
+     * Example: 100 meter None
  * [ances_data](ances_data.md)  <sub>OPT</sub>
      * Description: Information about either pedigree or other ancestral information description (e.g. parental variety in case of mutant or selection), e.g. A/3*B (meaning [(A x B) x B] x B)
      * range: [String](types/String.md)
@@ -54,10 +58,34 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Description: Treatment involving an exposure to a particular climate; treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple climates
      * range: [String](types/String.md)
      * Example: tropical climate;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [collection_date](collection_date.md)  <sub>OPT</sub>
+     * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
+     * range: [String](types/String.md)
+     * Example: 2018-05-11T10:00:00+01:00 None
  * [cult_root_med](cult_root_med.md)  <sub>OPT</sub>
      * Description: Name or reference for the hydroponic or in vitro culture rooting medium; can be the name of a commonly used medium or reference to a specific medium, e.g. Murashige and Skoog medium. If the medium has not been formally published, use the rooting medium descriptors.
      * range: [String](types/String.md)
      * Example: http://himedialabs.com/TD/PT158.pdf None
+ * [depth](depth.md)  <sub>OPT</sub>
+     * Description: Please refer to the definitions of depth in the environmental packages
+     * range: [String](types/String.md)
+     * Example:  None
+ * [elev](elev.md)  <sub>OPT</sub>
+     * Description: Elevation of the sampling site is its height above a fixed reference point, most commonly the mean sea level. Elevation is mainly used when referring to points on the earth's surface, while altitude is used for points above the surface, such as an aircraft in flight or a spacecraft in orbit
+     * range: [QuantityValue](QuantityValue.md)
+     * Example: 100 meter None
+ * [env_broad_scale](env_broad_scale.md)  <sub>OPT</sub>
+     * Description: In this field, report which major environmental system your sample or specimen came from. The systems identified should have a coarse spatial grain, to provide the general environmental context of where the sampling was done (e.g. were you in the desert or a rainforest?). We recommend using subclasses of ENVO’s biome class: http://purl.obolibrary.org/obo/ENVO_00000428. Format (one term): termLabel [termID], Format (multiple terms): termLabel [termID]|termLabel [termID]|termLabel [termID]. Example: Annotating a water sample from the photic zone in middle of the Atlantic Ocean, consider: oceanic epipelagic zone biome [ENVO:01000033]. Example: Annotating a sample from the Amazon rainforest consider: tropical moist broadleaf forest biome [ENVO:01000228]. If needed, request new terms on the ENVO tracker, identified here: http://www.obofoundry.org/ontology/envo.html
+     * range: [String](types/String.md)
+     * Example: forest biome [ENVO:01000174] None
+ * [env_local_scale](env_local_scale.md)  <sub>OPT</sub>
+     * Description: In this field, report the entity or entities which are in your sample or specimen’s local vicinity and which you believe have significant causal influences on your sample or specimen. Please use terms that are present in ENVO and which are of smaller spatial grain than your entry for env_broad_scale. Format (one term): termLabel [termID]; Format (multiple terms): termLabel [termID]|termLabel [termID]|termLabel [termID]. Example: Annotating a pooled sample taken from various vegetation layers in a forest consider: canopy [ENVO:00000047]|herb and fern layer [ENVO:01000337]|litter layer [ENVO:01000338]|understory [01000335]|shrub layer [ENVO:01000336]. If needed, request new terms on the ENVO tracker, identified here: http://www.obofoundry.org/ontology/envo.html
+     * range: [String](types/String.md)
+     * Example: litter layer [ENVO:01000338] None
+ * [env_medium](env_medium.md)  <sub>OPT</sub>
+     * Description: In this field, report which environmental material or materials (pipe separated) immediately surrounded your sample or specimen prior to sampling, using one or more subclasses of ENVO’s environmental material class: http://purl.obolibrary.org/obo/ENVO_00010483. Format (one term): termLabel [termID]; Format (multiple terms): termLabel [termID]|termLabel [termID]|termLabel [termID]. Example: Annotating a fish swimming in the upper 100 m of the Atlantic Ocean, consider: ocean water [ENVO:00002151]. Example: Annotating a duck on a pond consider: pond water [ENVO:00002228]|air ENVO_00002005. If needed, request new terms on the ENVO tracker, identified here: http://www.obofoundry.org/ontology/envo.html
+     * range: [String](types/String.md)
+     * Example: soil [ENVO:00001998] None
  * [fertilizer_regm](fertilizer_regm.md)  <sub>OPT</sub>
      * Description: Information about treatment involving the use of fertilizers; should include the name of fertilizer, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple fertilizer regimens
      * range: [String](types/String.md)
@@ -74,6 +102,10 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Description: Genetic modifications of the genome of an organism, which may occur naturally by spontaneous mutation, or be introduced by some experimental means, e.g. specification of a transgene or the gene knocked-out or details of transient transfection
      * range: [String](types/String.md)
      * Example: aox1A transgenic None
+ * [geo_loc_name](geo_loc_name.md)  <sub>OPT</sub>
+     * Description: The geographical origin of the sample as defined by the country or sea name followed by specific region name. Country or sea names should be chosen from the INSDC country list (http://insdc.org/country.html), or the GAZ ontology (v 1.512) (http://purl.bioontology.org/ontology/GAZ)
+     * range: [String](types/String.md)
+     * Example: Germany;North Rhine-Westphalia;Eifel National Park None
  * [gravity](gravity.md)  <sub>OPT</sub>
      * Description: Information about treatment involving use of gravity factor to study various types of responses in presence, absence or modified levels of gravity; treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple treatments
      * range: [String](types/String.md)
@@ -96,7 +128,7 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Example: atrazine;10 milligram per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
  * [host_age](host_age.md)  <sub>OPT</sub>
      * Description: Age of host at the time of sampling; relevant scale depends on species and study, e.g. Could be seconds for amoebae or centuries for trees
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 10 days None
  * [host_common_name](host_common_name.md)  <sub>OPT</sub>
      * Description: Common name of the host, e.g. Human
@@ -108,7 +140,7 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Example: rabies [DOID:11260] None
  * [host_dry_mass](host_dry_mass.md)  <sub>OPT</sub>
      * Description: Measurement of dry mass
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 500 gram None
  * [host_genotype](host_genotype.md)  <sub>OPT</sub>
      * Description: Observed genotype
@@ -116,7 +148,7 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Example: C57BL/6 None
  * [host_height](host_height.md)  <sub>OPT</sub>
      * Description: The height of subject
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 0.1 meter None
  * [host_infra_specific_name](host_infra_specific_name.md)  <sub>OPT</sub>
      * Description: Taxonomic information about the host below subspecies level
@@ -128,7 +160,7 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Example: subspecies None
  * [host_length](host_length.md)  <sub>OPT</sub>
      * Description: The length of subject
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 1 meter None
  * [host_life_stage](host_life_stage.md)  <sub>OPT</sub>
      * Description: Description of life stage of host
@@ -144,16 +176,20 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Example: 7955 None
  * [host_tot_mass](host_tot_mass.md)  <sub>OPT</sub>
      * Description: Total mass of the host at collection, the unit depends on host
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 2500 gram None
  * [host_wet_mass](host_wet_mass.md)  <sub>OPT</sub>
      * Description: Measurement of wet mass
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 1500 gram None
  * [humidity_regm](humidity_regm.md)  <sub>OPT</sub>
      * Description: Information about treatment involving an exposure to varying degree of humidity; information about treatment involving use of growth hormones; should include amount of humidity administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
      * range: [String](types/String.md)
      * Example: 25 gram per cubic meter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [lat_lon](lat_lon.md)  <sub>OPT</sub>
+     * Description: The geographical origin of the sample as defined by latitude and longitude. The values should be reported in decimal degrees and in WGS84 system
+     * range: [String](types/String.md)
+     * Example: 50.586825 6.408977 None
  * [light_regm](light_regm.md)  <sub>OPT</sub>
      * Description: Information about treatment(s) involving exposure to light, including both light intensity and quality.
      * range: [String](types/String.md)
@@ -236,7 +272,7 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Example: H3BO3;6.2¬†milligram per liter None
  * [root_med_ph](root_med_ph.md)  <sub>OPT</sub>
      * Description: pH measurement of the culture rooting medium; e.g. 5.5.
-     * range: [String](types/String.md)
+     * range: [Double](types/Double.md)
      * Example: 7.5 None
  * [root_med_regl](root_med_regl.md)  <sub>OPT</sub>
      * Description: Growth regulators in the culture rooting medium such as cytokinins, auxins, gybberellins, abscisic acid; e.g. 0.5¬†mg/L NAA.
@@ -264,7 +300,7 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Example: infection None
  * [samp_salinity](samp_salinity.md)  <sub>OPT</sub>
      * Description: Salinity is the total concentration of all dissolved salts in a liquid or solid (in the form of an extract obtained by centrifugation) sample. While salinity can be measured by a complete chemical analysis, this method is difficult and time consuming. More often, it is instead derived from the conductivity measurement. This is known as practical salinity. These derivations compare the specific conductance of the sample to a salinity standard such as seawater
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 1 milligram per liter None
  * [samp_store_dur](samp_store_dur.md)  <sub>OPT</sub>
      * Description: Duration for which the sample was stored
@@ -276,11 +312,11 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Example: Freezer no:5 None
  * [samp_store_temp](samp_store_temp.md)  <sub>OPT</sub>
      * Description: Temperature at which sample was stored, e.g. -80 degree Celsius
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: -80 degree Celsius None
  * [samp_vol_we_dna_ext](samp_vol_we_dna_ext.md)  <sub>OPT</sub>
      * Description: Volume (ml), weight (g) of processed sample, or surface area swabbed from sample for DNA extraction
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 1500 milliliter None
  * [season_environment](season_environment.md)  <sub>OPT</sub>
      * Description: Treatment involving an exposure to a particular season (e.g. Winter, summer, rabi, rainy etc.), treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment
@@ -292,7 +328,7 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Example: standing water;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
  * [temp](temp.md)  <sub>OPT</sub>
      * Description: Temperature of the sample at the time of sampling
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 25 degree Celsius None
  * [tiss_cult_growth_med](tiss_cult_growth_med.md)  <sub>OPT</sub>
      * Description: Description of plant tissue culture growth media used
@@ -306,3 +342,258 @@ URI: [mixs.vocab:Plant-associatedMisag](https://w3id.org/mixs/vocab/Plant-associ
      * Description: Information about treatment involving an exposure to watering frequencies, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
      * range: [String](types/String.md)
      * Example: 1 liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+
+### Mixed in from misag:
+
+ * [misag➞adapters](misag_adapters.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞annot](misag_annot.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞assembly_name](misag_assembly_name.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞assembly_qual](misag_assembly_qual.md)  <sub>REQ</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞assembly_software](misag_assembly_software.md)  <sub>REQ</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞compl_appr](misag_compl_appr.md)  <sub>OPT</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞compl_score](misag_compl_score.md)  <sub>REQ</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞compl_software](misag_compl_software.md)  <sub>REQ</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞contam_score](misag_contam_score.md)  <sub>REQ</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞contam_screen_input](misag_contam_screen_input.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞contam_screen_param](misag_contam_screen_param.md)  <sub>OPT</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞decontam_software](misag_decontam_software.md)  <sub>OPT</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞env_package](misag_env_package.md)  <sub>OPT</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞experimental_factor](misag_experimental_factor.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞feat_pred](misag_feat_pred.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞investigation_type](misag_investigation_type.md)  <sub>REQ</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞lib_layout](misag_lib_layout.md)  <sub>OPT</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞lib_reads_seqd](misag_lib_reads_seqd.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞lib_screen](misag_lib_screen.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞lib_size](misag_lib_size.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞lib_vector](misag_lib_vector.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞mid](misag_mid.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞nucl_acid_amp](misag_nucl_acid_amp.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞nucl_acid_ext](misag_nucl_acid_ext.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞number_contig](misag_number_contig.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞project_name](misag_project_name.md)  <sub>REQ</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞ref_biomaterial](misag_ref_biomaterial.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞ref_db](misag_ref_db.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞rel_to_oxygen](misag_rel_to_oxygen.md)  <sub>OPT</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞samp_collect_device](misag_samp_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞samp_mat_process](misag_samp_mat_process.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞samp_size](misag_samp_size.md)  <sub>OPT</sub>
+     * range: [QuantityValue](QuantityValue.md)
+
+### Mixed in from misag:
+
+ * [misag➞sample_name](misag_sample_name.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞seq_meth](misag_seq_meth.md)  <sub>REQ</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞sim_search_meth](misag_sim_search_meth.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞single_cell_lysis_appr](misag_single_cell_lysis_appr.md)  <sub>REQ</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞single_cell_lysis_prot](misag_single_cell_lysis_prot.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞size_frac](misag_size_frac.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞sop](misag_sop.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞sort_tech](misag_sort_tech.md)  <sub>REQ</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞source_mat_id](misag_source_mat_id.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞submitted_to_insdc](misag_submitted_to_insdc.md)  <sub>REQ</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞tax_class](misag_tax_class.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞tax_ident](misag_tax_ident.md)  <sub>REQ</sub>
+     * range: 
+
+### Mixed in from misag:
+
+ * [misag➞trna_ext_software](misag_trna_ext_software.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞trnas](misag_trnas.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞url](misag_url.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞wga_amp_appr](misag_wga_amp_appr.md)  <sub>REQ</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞wga_amp_kit](misag_wga_amp_kit.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞x_16s_recover](misag_x_16s_recover.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from misag:
+
+ * [misag➞x_16s_recover_software](misag_x_16s_recover_software.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)

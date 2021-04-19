@@ -17,21 +17,20 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
+ *  [me➞lib_size](me_lib_size.md)
+ *  [migs_ba➞lib_size](migs_ba_lib_size.md)
+ *  [migs_eu➞lib_size](migs_eu_lib_size.md)
+ *  [migs_org➞lib_size](migs_org_lib_size.md)
+ *  [migs_pl➞lib_size](migs_pl_lib_size.md)
+ *  [migs_vi➞lib_size](migs_vi_lib_size.md)
+ *  [mimag➞lib_size](mimag_lib_size.md)
+ *  [mimarks_s➞lib_size](mimarks_s_lib_size.md)
+ *  [misag➞lib_size](misag_lib_size.md)
+ *  [miuvig➞lib_size](miuvig_lib_size.md)
 
 ## Used by
 
  * [Core](Core.md)
- * [CoreMe](CoreMe.md)
- * [CoreMigsBa](CoreMigsBa.md)
- * [CoreMigsEu](CoreMigsEu.md)
- * [CoreMigsOrg](CoreMigsOrg.md)
- * [CoreMigsPl](CoreMigsPl.md)
- * [CoreMigsVi](CoreMigsVi.md)
- * [CoreMimag](CoreMimag.md)
- * [CoreMimarksC](CoreMimarksC.md)
- * [CoreMimarksS](CoreMimarksS.md)
- * [CoreMisag](CoreMisag.md)
- * [CoreMiuvig](CoreMiuvig.md)
 
 ## Other properties
 
@@ -41,16 +40,5 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: number of clones |
 |  | | Preferred unit:  |
 |  | | Position: 39.0 |
-|  | | CHECKLIST migs_eu: X |
-|  | | CHECKLIST migs_ba: X |
-|  | | CHECKLIST migs_pl: X |
-|  | | CHECKLIST migs_vi: X |
-|  | | CHECKLIST migs_org: X |
-|  | | CHECKLIST me: C |
-|  | | CHECKLIST mimarks_s: C |
-|  | | CHECKLIST mimarks_c: - |
-|  | | CHECKLIST misag: C |
-|  | | CHECKLIST mimag: C |
-|  | | CHECKLIST miuvig: C |
 | **Examples:** | | Example(value='50', description=None) |
 

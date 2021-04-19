@@ -2,29 +2,12 @@
 # Class: Core
 
 
-core package
+Core package. Do not use this directly, this is used to build other packages
 
 URI: [mixs.vocab:Core](https://w3id.org/mixs/vocab/Core)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[CoreMiuvig],[CoreMisag],[CoreMimarksS],[CoreMimarksC],[CoreMimag],[CoreMigsVi],[CoreMigsPl],[CoreMigsOrg],[CoreMigsEu],[CoreMigsBa],[CoreMe],[Core&#124;submitted_to_insdc:string%20%3F;investigation_type:investigation_type_enum%20%3F;sample_name:string%20%3F;project_name:string%20%3F;experimental_factor:string%20%3F;lat_lon:string%20%3F;depth:string%20%3F;alt:string%20%3F;elev:string%20%3F;geo_loc_name:string%20%3F;collection_date:string%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;ploidy:string%20%3F;num_replicons:string%20%3F;extrachrom_elements:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;health_disease_stat:health_disease_stat_enum%20%3F;trophic_level:trophic_level_enum%20%3F;propagation:string%20%3F;encoded_traits:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;isol_growth_condt:string%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;samp_size:string%20%3F;source_uvig:source_uvig_enum%20%3F;virus_enrich_appr:virus_enrich_appr_enum%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;target_gene:string%20%3F;target_subfragment:string%20%3F;pcr_primers:string%20%3F;mid:string%20%3F;adapters:string%20%3F;pcr_cond:string%20%3F;seq_meth:seq_meth_enum%20%3F;seq_quality_check:string%20%3F;chimera_check:string%20%3F;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string%20%3F;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;x_16s_recover_software:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;compl_appr:compl_appr_enum%20%3F;contam_score:string%20%3F;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;sort_tech:sort_tech_enum%20%3F;single_cell_lysis_appr:single_cell_lysis_appr_enum%20%3F;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string%20%3F;wga_amp_kit:string%20%3F;bin_param:bin_param_enum%20%3F;bin_software:bin_software_enum%20%3F;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;vir_ident_software:string%20%3F;pred_genome_type:pred_genome_type_enum%20%3F;pred_genome_struc:pred_genome_struc_enum%20%3F;detec_type:string%20%3F;votu_class_appr:string%20%3F;votu_seq_comp_appr:string%20%3F;votu_db:string%20%3F;host_pred_appr:host_pred_appr_enum%20%3F;host_pred_est_acc:string%20%3F;url:string%20%3F;sop:string%20%3F]^-[CoreMiuvig],[Core]^-[CoreMisag],[Core]^-[CoreMimarksS],[Core]^-[CoreMimarksC],[Core]^-[CoreMimag],[Core]^-[CoreMigsVi],[Core]^-[CoreMigsPl],[Core]^-[CoreMigsOrg],[Core]^-[CoreMigsEu],[Core]^-[CoreMigsBa],[Core]^-[CoreMe])
-
-## Children
-
- * [CoreMe](CoreMe.md) - Combinatorial checklist for core with me
- * [CoreMigsBa](CoreMigsBa.md) - Combinatorial checklist for core with migs_ba
- * [CoreMigsEu](CoreMigsEu.md) - Combinatorial checklist for core with migs_eu
- * [CoreMigsOrg](CoreMigsOrg.md) - Combinatorial checklist for core with migs_org
- * [CoreMigsPl](CoreMigsPl.md) - Combinatorial checklist for core with migs_pl
- * [CoreMigsVi](CoreMigsVi.md) - Combinatorial checklist for core with migs_vi
- * [CoreMimag](CoreMimag.md) - Combinatorial checklist for core with mimag
- * [CoreMimarksC](CoreMimarksC.md) - Combinatorial checklist for core with mimarks_c
- * [CoreMimarksS](CoreMimarksS.md) - Combinatorial checklist for core with mimarks_s
- * [CoreMisag](CoreMisag.md) - Combinatorial checklist for core with misag
- * [CoreMiuvig](CoreMiuvig.md) - Combinatorial checklist for core with miuvig
-
-## Referenced by class
-
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[QuantityValue]<samp_size%200..1-++[Core&#124;submitted_to_insdc:string%20%3F;investigation_type:investigation_type_enum%20%3F;sample_name:string%20%3F;project_name:string%20%3F;experimental_factor:string%20%3F;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:string%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;ploidy:string%20%3F;num_replicons:string%20%3F;extrachrom_elements:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;health_disease_stat:health_disease_stat_enum%20%3F;trophic_level:trophic_level_enum%20%3F;propagation:string%20%3F;encoded_traits:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;isol_growth_condt:string%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;source_uvig:source_uvig_enum%20%3F;virus_enrich_appr:virus_enrich_appr_enum%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;target_gene:string%20%3F;target_subfragment:string%20%3F;pcr_primers:string%20%3F;mid:string%20%3F;adapters:string%20%3F;pcr_cond:string%20%3F;seq_meth:seq_meth_enum%20%3F;seq_quality_check:string%20%3F;chimera_check:string%20%3F;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string%20%3F;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;x_16s_recover_software:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;compl_appr:compl_appr_enum%20%3F;contam_score:string%20%3F;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;sort_tech:sort_tech_enum%20%3F;single_cell_lysis_appr:single_cell_lysis_appr_enum%20%3F;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string%20%3F;wga_amp_kit:string%20%3F;bin_param:bin_param_enum%20%3F;bin_software:bin_software_enum%20%3F;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;vir_ident_software:string%20%3F;pred_genome_type:pred_genome_type_enum%20%3F;pred_genome_struc:pred_genome_struc_enum%20%3F;detec_type:string%20%3F;votu_class_appr:string%20%3F;votu_seq_comp_appr:string%20%3F;votu_db:string%20%3F;host_pred_appr:host_pred_appr_enum%20%3F;host_pred_est_acc:string%20%3F;url:string%20%3F;sop:string%20%3F],[QuantityValue]<elev%200..1-++[Core],[QuantityValue]<alt%200..1-++[Core])
 
 ## Attributes
 
@@ -37,7 +20,7 @@ URI: [mixs.vocab:Core](https://w3id.org/mixs/vocab/Core)
      * Example: AATGATACGGCGACCACCGAGATCTACACGCT;CAAGCAGAAGACGGCATACGAGAT None
  * [alt](alt.md)  <sub>OPT</sub>
      * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [annot](annot.md)  <sub>OPT</sub>
      * Description: Tool used for annotation, or for cases where annotation was provided by a community jamboree or model organism database rather than by a specific submitter
@@ -113,7 +96,7 @@ URI: [mixs.vocab:Core](https://w3id.org/mixs/vocab/Core)
      * Example: independent sequence (UViG) None
  * [elev](elev.md)  <sub>OPT</sub>
      * Description: Elevation of the sampling site is its height above a fixed reference point, most commonly the mean sea level. Elevation is mainly used when referring to points on the earth's surface, while altitude is used for points above the surface, such as an aircraft in flight or a spacecraft in orbit
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [encoded_traits](encoded_traits.md)  <sub>OPT</sub>
      * Description: Should include key traits like antibiotic resistance or xenobiotic degradation phenotypes for plasmids, converting genes for phage
@@ -285,7 +268,7 @@ URI: [mixs.vocab:Core](https://w3id.org/mixs/vocab/Core)
      * Example: filtering of seawater, storing samples in ethanol None
  * [samp_size](samp_size.md)  <sub>OPT</sub>
      * Description: Amount or size of sample (volume, mass or area) that was collected
-     * range: [String](types/String.md)
+     * range: [QuantityValue](QuantityValue.md)
      * Example: 5 liter None
  * [sample_name](sample_name.md)  <sub>OPT</sub>
      * Description: Sample Name is a name that you choose for the sample. It can have any format, but we suggest that you make it concise, unique and consistent within your lab, and as informative as possible. Every Sample Name from a single Submitter must be unique. 

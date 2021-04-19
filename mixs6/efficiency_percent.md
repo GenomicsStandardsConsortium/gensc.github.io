@@ -9,7 +9,7 @@ URI: [mixs.vocab:efficiency_percent](https://w3id.org/mixs/vocab/efficiency_perc
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

@@ -9,7 +9,7 @@ URI: [mixs.vocab:season_temp](https://w3id.org/mixs/vocab/season_temp)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

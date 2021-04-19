@@ -9,7 +9,7 @@ URI: [mixs.vocab:tot_phosp](https://w3id.org/mixs/vocab/tot_phosp)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

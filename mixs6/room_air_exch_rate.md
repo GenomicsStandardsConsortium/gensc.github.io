@@ -9,7 +9,7 @@ URI: [mixs.vocab:room_air_exch_rate](https://w3id.org/mixs/vocab/room_air_exch_r
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 

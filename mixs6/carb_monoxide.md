@@ -9,7 +9,7 @@ URI: [mixs.vocab:carb_monoxide](https://w3id.org/mixs/vocab/carb_monoxide)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Parents
 
