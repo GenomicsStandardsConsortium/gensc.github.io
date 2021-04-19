@@ -17,10 +17,10 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [migs_ba➞pathogenicity](migs_ba_pathogenicity.md)
- *  [migs_eu➞pathogenicity](migs_eu_pathogenicity.md)
- *  [migs_vi➞pathogenicity](migs_vi_pathogenicity.md)
- *  [miuvig➞pathogenicity](miuvig_pathogenicity.md)
+ *  [MIGS bacteria➞pathogenicity](MIGS_bacteria_pathogenicity.md)
+ *  [MIGS eukaryote➞pathogenicity](MIGS_eukaryote_pathogenicity.md)
+ *  [MIGS virus➞pathogenicity](MIGS_virus_pathogenicity.md)
+ *  [MIUVIG➞pathogenicity](MIUVIG_pathogenicity.md)
 
 ## Used by
 

@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [mimag➞x_16s_recover](mimag_x_16s_recover.md)
- *  [misag➞x_16s_recover](misag_x_16s_recover.md)
+ *  [MIMAG➞x_16s_recover](MIMAG_x_16s_recover.md)
+ *  [MISAG➞x_16s_recover](MISAG_x_16s_recover.md)
 
 ## Used by
 

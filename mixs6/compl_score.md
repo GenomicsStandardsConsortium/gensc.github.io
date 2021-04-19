@@ -17,14 +17,14 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [migs_ba➞compl_score](migs_ba_compl_score.md)
- *  [migs_eu➞compl_score](migs_eu_compl_score.md)
- *  [migs_org➞compl_score](migs_org_compl_score.md)
- *  [migs_pl➞compl_score](migs_pl_compl_score.md)
- *  [migs_vi➞compl_score](migs_vi_compl_score.md)
- *  [mimag➞compl_score](mimag_compl_score.md)
- *  [misag➞compl_score](misag_compl_score.md)
- *  [miuvig➞compl_score](miuvig_compl_score.md)
+ *  [MIGS bacteria➞compl_score](MIGS_bacteria_compl_score.md)
+ *  [MIGS eukaryote➞compl_score](MIGS_eukaryote_compl_score.md)
+ *  [MIGS org➞compl_score](MIGS_org_compl_score.md)
+ *  [MIGS plant➞compl_score](MIGS_plant_compl_score.md)
+ *  [MIGS virus➞compl_score](MIGS_virus_compl_score.md)
+ *  [MIMAG➞compl_score](MIMAG_compl_score.md)
+ *  [MISAG➞compl_score](MISAG_compl_score.md)
+ *  [MIUVIG➞compl_score](MIUVIG_compl_score.md)
 
 ## Used by
 

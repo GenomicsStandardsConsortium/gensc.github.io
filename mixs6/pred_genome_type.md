@@ -17,7 +17,7 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [miuvig➞pred_genome_type](miuvig_pred_genome_type.md)
+ *  [MIUVIG➞pred_genome_type](MIUVIG_pred_genome_type.md)
 
 ## Used by
 

@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 ## Used by
 
  * [Human-vaginal](Human-vaginal.md)
- * [Human-vaginalMe](Human-vaginalMe.md)
- * [Human-vaginalMigsBa](Human-vaginalMigsBa.md)
- * [Human-vaginalMigsEu](Human-vaginalMigsEu.md)
- * [Human-vaginalMigsOrg](Human-vaginalMigsOrg.md)
- * [Human-vaginalMigsPl](Human-vaginalMigsPl.md)
- * [Human-vaginalMigsVi](Human-vaginalMigsVi.md)
- * [Human-vaginalMimag](Human-vaginalMimag.md)
- * [Human-vaginalMimarksC](Human-vaginalMimarksC.md)
- * [Human-vaginalMimarksS](Human-vaginalMimarksS.md)
- * [Human-vaginalMisag](Human-vaginalMisag.md)
- * [Human-vaginalMiuvig](Human-vaginalMiuvig.md)
+ * [Human-vaginalME](Human-vaginalME.md)
+ * [Human-vaginalMIGSBacteria](Human-vaginalMIGSBacteria.md)
+ * [Human-vaginalMIGSEukaryote](Human-vaginalMIGSEukaryote.md)
+ * [Human-vaginalMIGSOrg](Human-vaginalMIGSOrg.md)
+ * [Human-vaginalMIGSPlant](Human-vaginalMIGSPlant.md)
+ * [Human-vaginalMIGSVirus](Human-vaginalMIGSVirus.md)
+ * [Human-vaginalMIMAG](Human-vaginalMIMAG.md)
+ * [Human-vaginalMIMARKSSpecimen](Human-vaginalMIMARKSSpecimen.md)
+ * [Human-vaginalMIMARKSSurvey](Human-vaginalMIMARKSSurvey.md)
+ * [Human-vaginalMISAG](Human-vaginalMISAG.md)
+ * [Human-vaginalMIUVIG](Human-vaginalMIUVIG.md)
 
 ## Other properties
 

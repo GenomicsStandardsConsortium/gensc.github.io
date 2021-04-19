@@ -17,17 +17,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞samp_collect_device](me_samp_collect_device.md)
- *  [migs_ba➞samp_collect_device](migs_ba_samp_collect_device.md)
- *  [migs_eu➞samp_collect_device](migs_eu_samp_collect_device.md)
- *  [migs_org➞samp_collect_device](migs_org_samp_collect_device.md)
- *  [migs_pl➞samp_collect_device](migs_pl_samp_collect_device.md)
- *  [migs_vi➞samp_collect_device](migs_vi_samp_collect_device.md)
- *  [mimag➞samp_collect_device](mimag_samp_collect_device.md)
- *  [mimarks_c➞samp_collect_device](mimarks_c_samp_collect_device.md)
- *  [mimarks_s➞samp_collect_device](mimarks_s_samp_collect_device.md)
- *  [misag➞samp_collect_device](misag_samp_collect_device.md)
- *  [miuvig➞samp_collect_device](miuvig_samp_collect_device.md)
+ *  [ME➞samp_collect_device](ME_samp_collect_device.md)
+ *  [MIGS bacteria➞samp_collect_device](MIGS_bacteria_samp_collect_device.md)
+ *  [MIGS eukaryote➞samp_collect_device](MIGS_eukaryote_samp_collect_device.md)
+ *  [MIGS org➞samp_collect_device](MIGS_org_samp_collect_device.md)
+ *  [MIGS plant➞samp_collect_device](MIGS_plant_samp_collect_device.md)
+ *  [MIGS virus➞samp_collect_device](MIGS_virus_samp_collect_device.md)
+ *  [MIMAG➞samp_collect_device](MIMAG_samp_collect_device.md)
+ *  [MIMARKS specimen➞samp_collect_device](MIMARKS_specimen_samp_collect_device.md)
+ *  [MIMARKS survey➞samp_collect_device](MIMARKS_survey_samp_collect_device.md)
+ *  [MISAG➞samp_collect_device](MISAG_samp_collect_device.md)
+ *  [MIUVIG➞samp_collect_device](MIUVIG_samp_collect_device.md)
 
 ## Used by
 

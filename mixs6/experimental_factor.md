@@ -17,17 +17,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞experimental_factor](me_experimental_factor.md)
- *  [migs_ba➞experimental_factor](migs_ba_experimental_factor.md)
- *  [migs_eu➞experimental_factor](migs_eu_experimental_factor.md)
- *  [migs_org➞experimental_factor](migs_org_experimental_factor.md)
- *  [migs_pl➞experimental_factor](migs_pl_experimental_factor.md)
- *  [migs_vi➞experimental_factor](migs_vi_experimental_factor.md)
- *  [mimag➞experimental_factor](mimag_experimental_factor.md)
- *  [mimarks_c➞experimental_factor](mimarks_c_experimental_factor.md)
- *  [mimarks_s➞experimental_factor](mimarks_s_experimental_factor.md)
- *  [misag➞experimental_factor](misag_experimental_factor.md)
- *  [miuvig➞experimental_factor](miuvig_experimental_factor.md)
+ *  [ME➞experimental_factor](ME_experimental_factor.md)
+ *  [MIGS bacteria➞experimental_factor](MIGS_bacteria_experimental_factor.md)
+ *  [MIGS eukaryote➞experimental_factor](MIGS_eukaryote_experimental_factor.md)
+ *  [MIGS org➞experimental_factor](MIGS_org_experimental_factor.md)
+ *  [MIGS plant➞experimental_factor](MIGS_plant_experimental_factor.md)
+ *  [MIGS virus➞experimental_factor](MIGS_virus_experimental_factor.md)
+ *  [MIMAG➞experimental_factor](MIMAG_experimental_factor.md)
+ *  [MIMARKS specimen➞experimental_factor](MIMARKS_specimen_experimental_factor.md)
+ *  [MIMARKS survey➞experimental_factor](MIMARKS_survey_experimental_factor.md)
+ *  [MISAG➞experimental_factor](MISAG_experimental_factor.md)
+ *  [MIUVIG➞experimental_factor](MIUVIG_experimental_factor.md)
 
 ## Used by
 

@@ -17,11 +17,11 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [migs_ba➞specific_host](migs_ba_specific_host.md)
- *  [migs_eu➞specific_host](migs_eu_specific_host.md)
- *  [migs_pl➞specific_host](migs_pl_specific_host.md)
- *  [migs_vi➞specific_host](migs_vi_specific_host.md)
- *  [miuvig➞specific_host](miuvig_specific_host.md)
+ *  [MIGS bacteria➞specific_host](MIGS_bacteria_specific_host.md)
+ *  [MIGS eukaryote➞specific_host](MIGS_eukaryote_specific_host.md)
+ *  [MIGS plant➞specific_host](MIGS_plant_specific_host.md)
+ *  [MIGS virus➞specific_host](MIGS_virus_specific_host.md)
+ *  [MIUVIG➞specific_host](MIUVIG_specific_host.md)
 
 ## Used by
 

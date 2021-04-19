@@ -17,12 +17,12 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [migs_ba➞subspecf_gen_lin](migs_ba_subspecf_gen_lin.md)
- *  [migs_eu➞subspecf_gen_lin](migs_eu_subspecf_gen_lin.md)
- *  [migs_org➞subspecf_gen_lin](migs_org_subspecf_gen_lin.md)
- *  [migs_pl➞subspecf_gen_lin](migs_pl_subspecf_gen_lin.md)
- *  [migs_vi➞subspecf_gen_lin](migs_vi_subspecf_gen_lin.md)
- *  [mimarks_c➞subspecf_gen_lin](mimarks_c_subspecf_gen_lin.md)
+ *  [MIGS bacteria➞subspecf_gen_lin](MIGS_bacteria_subspecf_gen_lin.md)
+ *  [MIGS eukaryote➞subspecf_gen_lin](MIGS_eukaryote_subspecf_gen_lin.md)
+ *  [MIGS org➞subspecf_gen_lin](MIGS_org_subspecf_gen_lin.md)
+ *  [MIGS plant➞subspecf_gen_lin](MIGS_plant_subspecf_gen_lin.md)
+ *  [MIGS virus➞subspecf_gen_lin](MIGS_virus_subspecf_gen_lin.md)
+ *  [MIMARKS survey➞subspecf_gen_lin](MIMARKS_survey_subspecf_gen_lin.md)
 
 ## Used by
 

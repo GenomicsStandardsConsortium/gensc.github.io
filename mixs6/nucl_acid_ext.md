@@ -17,17 +17,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞nucl_acid_ext](me_nucl_acid_ext.md)
- *  [migs_ba➞nucl_acid_ext](migs_ba_nucl_acid_ext.md)
- *  [migs_eu➞nucl_acid_ext](migs_eu_nucl_acid_ext.md)
- *  [migs_org➞nucl_acid_ext](migs_org_nucl_acid_ext.md)
- *  [migs_pl➞nucl_acid_ext](migs_pl_nucl_acid_ext.md)
- *  [migs_vi➞nucl_acid_ext](migs_vi_nucl_acid_ext.md)
- *  [mimag➞nucl_acid_ext](mimag_nucl_acid_ext.md)
- *  [mimarks_c➞nucl_acid_ext](mimarks_c_nucl_acid_ext.md)
- *  [mimarks_s➞nucl_acid_ext](mimarks_s_nucl_acid_ext.md)
- *  [misag➞nucl_acid_ext](misag_nucl_acid_ext.md)
- *  [miuvig➞nucl_acid_ext](miuvig_nucl_acid_ext.md)
+ *  [ME➞nucl_acid_ext](ME_nucl_acid_ext.md)
+ *  [MIGS bacteria➞nucl_acid_ext](MIGS_bacteria_nucl_acid_ext.md)
+ *  [MIGS eukaryote➞nucl_acid_ext](MIGS_eukaryote_nucl_acid_ext.md)
+ *  [MIGS org➞nucl_acid_ext](MIGS_org_nucl_acid_ext.md)
+ *  [MIGS plant➞nucl_acid_ext](MIGS_plant_nucl_acid_ext.md)
+ *  [MIGS virus➞nucl_acid_ext](MIGS_virus_nucl_acid_ext.md)
+ *  [MIMAG➞nucl_acid_ext](MIMAG_nucl_acid_ext.md)
+ *  [MIMARKS specimen➞nucl_acid_ext](MIMARKS_specimen_nucl_acid_ext.md)
+ *  [MIMARKS survey➞nucl_acid_ext](MIMARKS_survey_nucl_acid_ext.md)
+ *  [MISAG➞nucl_acid_ext](MISAG_nucl_acid_ext.md)
+ *  [MIUVIG➞nucl_acid_ext](MIUVIG_nucl_acid_ext.md)
 
 ## Used by
 

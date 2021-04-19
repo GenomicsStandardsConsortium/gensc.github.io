@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub>
 ## Used by
 
  * [Sediment](Sediment.md)
- * [SedimentMe](SedimentMe.md)
- * [SedimentMigsBa](SedimentMigsBa.md)
- * [SedimentMigsEu](SedimentMigsEu.md)
- * [SedimentMigsOrg](SedimentMigsOrg.md)
- * [SedimentMigsPl](SedimentMigsPl.md)
- * [SedimentMigsVi](SedimentMigsVi.md)
- * [SedimentMimag](SedimentMimag.md)
- * [SedimentMimarksC](SedimentMimarksC.md)
- * [SedimentMimarksS](SedimentMimarksS.md)
- * [SedimentMisag](SedimentMisag.md)
- * [SedimentMiuvig](SedimentMiuvig.md)
+ * [SedimentME](SedimentME.md)
+ * [SedimentMIGSBacteria](SedimentMIGSBacteria.md)
+ * [SedimentMIGSEukaryote](SedimentMIGSEukaryote.md)
+ * [SedimentMIGSOrg](SedimentMIGSOrg.md)
+ * [SedimentMIGSPlant](SedimentMIGSPlant.md)
+ * [SedimentMIGSVirus](SedimentMIGSVirus.md)
+ * [SedimentMIMAG](SedimentMIMAG.md)
+ * [SedimentMIMARKSSpecimen](SedimentMIMARKSSpecimen.md)
+ * [SedimentMIMARKSSurvey](SedimentMIMARKSSurvey.md)
+ * [SedimentMISAG](SedimentMISAG.md)
+ * [SedimentMIUVIG](SedimentMIUVIG.md)
 
 ## Other properties
 

@@ -17,11 +17,11 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞size_frac](me_size_frac.md)
- *  [mimag➞size_frac](mimag_size_frac.md)
- *  [mimarks_s➞size_frac](mimarks_s_size_frac.md)
- *  [misag➞size_frac](misag_size_frac.md)
- *  [miuvig➞size_frac](miuvig_size_frac.md)
+ *  [ME➞size_frac](ME_size_frac.md)
+ *  [MIMAG➞size_frac](MIMAG_size_frac.md)
+ *  [MIMARKS specimen➞size_frac](MIMARKS_specimen_size_frac.md)
+ *  [MISAG➞size_frac](MISAG_size_frac.md)
+ *  [MIUVIG➞size_frac](MIUVIG_size_frac.md)
 
 ## Used by
 

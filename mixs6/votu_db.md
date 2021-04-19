@@ -17,7 +17,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [miuvig➞votu_db](miuvig_votu_db.md)
+ *  [MIUVIG➞votu_db](MIUVIG_votu_db.md)
 
 ## Used by
 

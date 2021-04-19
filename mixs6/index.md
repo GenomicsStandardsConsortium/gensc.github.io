@@ -8,241 +8,241 @@ MIxS 6 linkml rendering
 ### Classes
 
  * [Air](Air.md) - air
-     * [AirMe](AirMe.md) - Combinatorial checklist for air with me
-     * [AirMigsBa](AirMigsBa.md) - Combinatorial checklist for air with migs_ba
-     * [AirMigsEu](AirMigsEu.md) - Combinatorial checklist for air with migs_eu
-     * [AirMigsOrg](AirMigsOrg.md) - Combinatorial checklist for air with migs_org
-     * [AirMigsPl](AirMigsPl.md) - Combinatorial checklist for air with migs_pl
-     * [AirMigsVi](AirMigsVi.md) - Combinatorial checklist for air with migs_vi
-     * [AirMimag](AirMimag.md) - Combinatorial checklist for air with mimag
-     * [AirMimarksC](AirMimarksC.md) - Combinatorial checklist for air with mimarks_c
-     * [AirMimarksS](AirMimarksS.md) - Combinatorial checklist for air with mimarks_s
-     * [AirMisag](AirMisag.md) - Combinatorial checklist for air with misag
-     * [AirMiuvig](AirMiuvig.md) - Combinatorial checklist for air with miuvig
+     * [AirME](AirME.md) - Combinatorial checklist Metagenome or Environmental with environmental package air
+     * [AirMIGSBacteria](AirMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package air
+     * [AirMIGSEukaryote](AirMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package air
+     * [AirMIGSOrg](AirMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package air
+     * [AirMIGSPlant](AirMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package air
+     * [AirMIGSVirus](AirMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package air
+     * [AirMIMAG](AirMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package air
+     * [AirMIMARKSSpecimen](AirMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package air
+     * [AirMIMARKSSurvey](AirMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package air
+     * [AirMISAG](AirMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package air
+     * [AirMIUVIG](AirMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package air
  * [BuiltEnvironment](BuiltEnvironment.md) - built environment
-     * [BuiltEnvironmentMe](BuiltEnvironmentMe.md) - Combinatorial checklist for built environment with me
-     * [BuiltEnvironmentMigsBa](BuiltEnvironmentMigsBa.md) - Combinatorial checklist for built environment with migs_ba
-     * [BuiltEnvironmentMigsEu](BuiltEnvironmentMigsEu.md) - Combinatorial checklist for built environment with migs_eu
-     * [BuiltEnvironmentMigsOrg](BuiltEnvironmentMigsOrg.md) - Combinatorial checklist for built environment with migs_org
-     * [BuiltEnvironmentMigsPl](BuiltEnvironmentMigsPl.md) - Combinatorial checklist for built environment with migs_pl
-     * [BuiltEnvironmentMigsVi](BuiltEnvironmentMigsVi.md) - Combinatorial checklist for built environment with migs_vi
-     * [BuiltEnvironmentMimag](BuiltEnvironmentMimag.md) - Combinatorial checklist for built environment with mimag
-     * [BuiltEnvironmentMimarksC](BuiltEnvironmentMimarksC.md) - Combinatorial checklist for built environment with mimarks_c
-     * [BuiltEnvironmentMimarksS](BuiltEnvironmentMimarksS.md) - Combinatorial checklist for built environment with mimarks_s
-     * [BuiltEnvironmentMisag](BuiltEnvironmentMisag.md) - Combinatorial checklist for built environment with misag
-     * [BuiltEnvironmentMiuvig](BuiltEnvironmentMiuvig.md) - Combinatorial checklist for built environment with miuvig
+     * [BuiltEnvironmentME](BuiltEnvironmentME.md) - Combinatorial checklist Metagenome or Environmental with environmental package built environment
+     * [BuiltEnvironmentMIGSBacteria](BuiltEnvironmentMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package built environment
+     * [BuiltEnvironmentMIGSEukaryote](BuiltEnvironmentMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package built environment
+     * [BuiltEnvironmentMIGSOrg](BuiltEnvironmentMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package built environment
+     * [BuiltEnvironmentMIGSPlant](BuiltEnvironmentMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package built environment
+     * [BuiltEnvironmentMIGSVirus](BuiltEnvironmentMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package built environment
+     * [BuiltEnvironmentMIMAG](BuiltEnvironmentMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package built environment
+     * [BuiltEnvironmentMIMARKSSpecimen](BuiltEnvironmentMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package built environment
+     * [BuiltEnvironmentMIMARKSSurvey](BuiltEnvironmentMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package built environment
+     * [BuiltEnvironmentMISAG](BuiltEnvironmentMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package built environment
+     * [BuiltEnvironmentMIUVIG](BuiltEnvironmentMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package built environment
  * [Core](Core.md) - Core package. Do not use this directly, this is used to build other packages
  * [Host-associated](Host-associated.md) - host-associated
-     * [Host-associatedMe](Host-associatedMe.md) - Combinatorial checklist for host-associated with me
-     * [Host-associatedMigsBa](Host-associatedMigsBa.md) - Combinatorial checklist for host-associated with migs_ba
-     * [Host-associatedMigsEu](Host-associatedMigsEu.md) - Combinatorial checklist for host-associated with migs_eu
-     * [Host-associatedMigsOrg](Host-associatedMigsOrg.md) - Combinatorial checklist for host-associated with migs_org
-     * [Host-associatedMigsPl](Host-associatedMigsPl.md) - Combinatorial checklist for host-associated with migs_pl
-     * [Host-associatedMigsVi](Host-associatedMigsVi.md) - Combinatorial checklist for host-associated with migs_vi
-     * [Host-associatedMimag](Host-associatedMimag.md) - Combinatorial checklist for host-associated with mimag
-     * [Host-associatedMimarksC](Host-associatedMimarksC.md) - Combinatorial checklist for host-associated with mimarks_c
-     * [Host-associatedMimarksS](Host-associatedMimarksS.md) - Combinatorial checklist for host-associated with mimarks_s
-     * [Host-associatedMisag](Host-associatedMisag.md) - Combinatorial checklist for host-associated with misag
-     * [Host-associatedMiuvig](Host-associatedMiuvig.md) - Combinatorial checklist for host-associated with miuvig
+     * [Host-associatedME](Host-associatedME.md) - Combinatorial checklist Metagenome or Environmental with environmental package host-associated
+     * [Host-associatedMIGSBacteria](Host-associatedMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package host-associated
+     * [Host-associatedMIGSEukaryote](Host-associatedMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package host-associated
+     * [Host-associatedMIGSOrg](Host-associatedMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package host-associated
+     * [Host-associatedMIGSPlant](Host-associatedMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package host-associated
+     * [Host-associatedMIGSVirus](Host-associatedMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package host-associated
+     * [Host-associatedMIMAG](Host-associatedMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package host-associated
+     * [Host-associatedMIMARKSSpecimen](Host-associatedMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package host-associated
+     * [Host-associatedMIMARKSSurvey](Host-associatedMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package host-associated
+     * [Host-associatedMISAG](Host-associatedMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package host-associated
+     * [Host-associatedMIUVIG](Host-associatedMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package host-associated
  * [Human-associated](Human-associated.md) - human-associated
-     * [Human-associatedMe](Human-associatedMe.md) - Combinatorial checklist for human-associated with me
-     * [Human-associatedMigsBa](Human-associatedMigsBa.md) - Combinatorial checklist for human-associated with migs_ba
-     * [Human-associatedMigsEu](Human-associatedMigsEu.md) - Combinatorial checklist for human-associated with migs_eu
-     * [Human-associatedMigsOrg](Human-associatedMigsOrg.md) - Combinatorial checklist for human-associated with migs_org
-     * [Human-associatedMigsPl](Human-associatedMigsPl.md) - Combinatorial checklist for human-associated with migs_pl
-     * [Human-associatedMigsVi](Human-associatedMigsVi.md) - Combinatorial checklist for human-associated with migs_vi
-     * [Human-associatedMimag](Human-associatedMimag.md) - Combinatorial checklist for human-associated with mimag
-     * [Human-associatedMimarksC](Human-associatedMimarksC.md) - Combinatorial checklist for human-associated with mimarks_c
-     * [Human-associatedMimarksS](Human-associatedMimarksS.md) - Combinatorial checklist for human-associated with mimarks_s
-     * [Human-associatedMisag](Human-associatedMisag.md) - Combinatorial checklist for human-associated with misag
-     * [Human-associatedMiuvig](Human-associatedMiuvig.md) - Combinatorial checklist for human-associated with miuvig
+     * [Human-associatedME](Human-associatedME.md) - Combinatorial checklist Metagenome or Environmental with environmental package human-associated
+     * [Human-associatedMIGSBacteria](Human-associatedMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package human-associated
+     * [Human-associatedMIGSEukaryote](Human-associatedMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package human-associated
+     * [Human-associatedMIGSOrg](Human-associatedMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package human-associated
+     * [Human-associatedMIGSPlant](Human-associatedMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package human-associated
+     * [Human-associatedMIGSVirus](Human-associatedMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package human-associated
+     * [Human-associatedMIMAG](Human-associatedMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package human-associated
+     * [Human-associatedMIMARKSSpecimen](Human-associatedMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package human-associated
+     * [Human-associatedMIMARKSSurvey](Human-associatedMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package human-associated
+     * [Human-associatedMISAG](Human-associatedMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package human-associated
+     * [Human-associatedMIUVIG](Human-associatedMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package human-associated
  * [Human-gut](Human-gut.md) - human-gut
-     * [Human-gutMe](Human-gutMe.md) - Combinatorial checklist for human-gut with me
-     * [Human-gutMigsBa](Human-gutMigsBa.md) - Combinatorial checklist for human-gut with migs_ba
-     * [Human-gutMigsEu](Human-gutMigsEu.md) - Combinatorial checklist for human-gut with migs_eu
-     * [Human-gutMigsOrg](Human-gutMigsOrg.md) - Combinatorial checklist for human-gut with migs_org
-     * [Human-gutMigsPl](Human-gutMigsPl.md) - Combinatorial checklist for human-gut with migs_pl
-     * [Human-gutMigsVi](Human-gutMigsVi.md) - Combinatorial checklist for human-gut with migs_vi
-     * [Human-gutMimag](Human-gutMimag.md) - Combinatorial checklist for human-gut with mimag
-     * [Human-gutMimarksC](Human-gutMimarksC.md) - Combinatorial checklist for human-gut with mimarks_c
-     * [Human-gutMimarksS](Human-gutMimarksS.md) - Combinatorial checklist for human-gut with mimarks_s
-     * [Human-gutMisag](Human-gutMisag.md) - Combinatorial checklist for human-gut with misag
-     * [Human-gutMiuvig](Human-gutMiuvig.md) - Combinatorial checklist for human-gut with miuvig
+     * [Human-gutME](Human-gutME.md) - Combinatorial checklist Metagenome or Environmental with environmental package human-gut
+     * [Human-gutMIGSBacteria](Human-gutMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package human-gut
+     * [Human-gutMIGSEukaryote](Human-gutMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package human-gut
+     * [Human-gutMIGSOrg](Human-gutMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package human-gut
+     * [Human-gutMIGSPlant](Human-gutMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package human-gut
+     * [Human-gutMIGSVirus](Human-gutMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package human-gut
+     * [Human-gutMIMAG](Human-gutMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package human-gut
+     * [Human-gutMIMARKSSpecimen](Human-gutMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package human-gut
+     * [Human-gutMIMARKSSurvey](Human-gutMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package human-gut
+     * [Human-gutMISAG](Human-gutMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package human-gut
+     * [Human-gutMIUVIG](Human-gutMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package human-gut
  * [Human-oral](Human-oral.md) - human-oral
-     * [Human-oralMe](Human-oralMe.md) - Combinatorial checklist for human-oral with me
-     * [Human-oralMigsBa](Human-oralMigsBa.md) - Combinatorial checklist for human-oral with migs_ba
-     * [Human-oralMigsEu](Human-oralMigsEu.md) - Combinatorial checklist for human-oral with migs_eu
-     * [Human-oralMigsOrg](Human-oralMigsOrg.md) - Combinatorial checklist for human-oral with migs_org
-     * [Human-oralMigsPl](Human-oralMigsPl.md) - Combinatorial checklist for human-oral with migs_pl
-     * [Human-oralMigsVi](Human-oralMigsVi.md) - Combinatorial checklist for human-oral with migs_vi
-     * [Human-oralMimag](Human-oralMimag.md) - Combinatorial checklist for human-oral with mimag
-     * [Human-oralMimarksC](Human-oralMimarksC.md) - Combinatorial checklist for human-oral with mimarks_c
-     * [Human-oralMimarksS](Human-oralMimarksS.md) - Combinatorial checklist for human-oral with mimarks_s
-     * [Human-oralMisag](Human-oralMisag.md) - Combinatorial checklist for human-oral with misag
-     * [Human-oralMiuvig](Human-oralMiuvig.md) - Combinatorial checklist for human-oral with miuvig
+     * [Human-oralME](Human-oralME.md) - Combinatorial checklist Metagenome or Environmental with environmental package human-oral
+     * [Human-oralMIGSBacteria](Human-oralMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package human-oral
+     * [Human-oralMIGSEukaryote](Human-oralMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package human-oral
+     * [Human-oralMIGSOrg](Human-oralMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package human-oral
+     * [Human-oralMIGSPlant](Human-oralMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package human-oral
+     * [Human-oralMIGSVirus](Human-oralMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package human-oral
+     * [Human-oralMIMAG](Human-oralMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package human-oral
+     * [Human-oralMIMARKSSpecimen](Human-oralMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package human-oral
+     * [Human-oralMIMARKSSurvey](Human-oralMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package human-oral
+     * [Human-oralMISAG](Human-oralMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package human-oral
+     * [Human-oralMIUVIG](Human-oralMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package human-oral
  * [Human-skin](Human-skin.md) - human-skin
-     * [Human-skinMe](Human-skinMe.md) - Combinatorial checklist for human-skin with me
-     * [Human-skinMigsBa](Human-skinMigsBa.md) - Combinatorial checklist for human-skin with migs_ba
-     * [Human-skinMigsEu](Human-skinMigsEu.md) - Combinatorial checklist for human-skin with migs_eu
-     * [Human-skinMigsOrg](Human-skinMigsOrg.md) - Combinatorial checklist for human-skin with migs_org
-     * [Human-skinMigsPl](Human-skinMigsPl.md) - Combinatorial checklist for human-skin with migs_pl
-     * [Human-skinMigsVi](Human-skinMigsVi.md) - Combinatorial checklist for human-skin with migs_vi
-     * [Human-skinMimag](Human-skinMimag.md) - Combinatorial checklist for human-skin with mimag
-     * [Human-skinMimarksC](Human-skinMimarksC.md) - Combinatorial checklist for human-skin with mimarks_c
-     * [Human-skinMimarksS](Human-skinMimarksS.md) - Combinatorial checklist for human-skin with mimarks_s
-     * [Human-skinMisag](Human-skinMisag.md) - Combinatorial checklist for human-skin with misag
-     * [Human-skinMiuvig](Human-skinMiuvig.md) - Combinatorial checklist for human-skin with miuvig
+     * [Human-skinME](Human-skinME.md) - Combinatorial checklist Metagenome or Environmental with environmental package human-skin
+     * [Human-skinMIGSBacteria](Human-skinMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package human-skin
+     * [Human-skinMIGSEukaryote](Human-skinMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package human-skin
+     * [Human-skinMIGSOrg](Human-skinMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package human-skin
+     * [Human-skinMIGSPlant](Human-skinMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package human-skin
+     * [Human-skinMIGSVirus](Human-skinMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package human-skin
+     * [Human-skinMIMAG](Human-skinMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package human-skin
+     * [Human-skinMIMARKSSpecimen](Human-skinMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package human-skin
+     * [Human-skinMIMARKSSurvey](Human-skinMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package human-skin
+     * [Human-skinMISAG](Human-skinMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package human-skin
+     * [Human-skinMIUVIG](Human-skinMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package human-skin
  * [Human-vaginal](Human-vaginal.md) - human-vaginal
-     * [Human-vaginalMe](Human-vaginalMe.md) - Combinatorial checklist for human-vaginal with me
-     * [Human-vaginalMigsBa](Human-vaginalMigsBa.md) - Combinatorial checklist for human-vaginal with migs_ba
-     * [Human-vaginalMigsEu](Human-vaginalMigsEu.md) - Combinatorial checklist for human-vaginal with migs_eu
-     * [Human-vaginalMigsOrg](Human-vaginalMigsOrg.md) - Combinatorial checklist for human-vaginal with migs_org
-     * [Human-vaginalMigsPl](Human-vaginalMigsPl.md) - Combinatorial checklist for human-vaginal with migs_pl
-     * [Human-vaginalMigsVi](Human-vaginalMigsVi.md) - Combinatorial checklist for human-vaginal with migs_vi
-     * [Human-vaginalMimag](Human-vaginalMimag.md) - Combinatorial checklist for human-vaginal with mimag
-     * [Human-vaginalMimarksC](Human-vaginalMimarksC.md) - Combinatorial checklist for human-vaginal with mimarks_c
-     * [Human-vaginalMimarksS](Human-vaginalMimarksS.md) - Combinatorial checklist for human-vaginal with mimarks_s
-     * [Human-vaginalMisag](Human-vaginalMisag.md) - Combinatorial checklist for human-vaginal with misag
-     * [Human-vaginalMiuvig](Human-vaginalMiuvig.md) - Combinatorial checklist for human-vaginal with miuvig
+     * [Human-vaginalME](Human-vaginalME.md) - Combinatorial checklist Metagenome or Environmental with environmental package human-vaginal
+     * [Human-vaginalMIGSBacteria](Human-vaginalMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package human-vaginal
+     * [Human-vaginalMIGSEukaryote](Human-vaginalMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package human-vaginal
+     * [Human-vaginalMIGSOrg](Human-vaginalMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package human-vaginal
+     * [Human-vaginalMIGSPlant](Human-vaginalMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package human-vaginal
+     * [Human-vaginalMIGSVirus](Human-vaginalMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package human-vaginal
+     * [Human-vaginalMIMAG](Human-vaginalMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package human-vaginal
+     * [Human-vaginalMIMARKSSpecimen](Human-vaginalMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package human-vaginal
+     * [Human-vaginalMIMARKSSurvey](Human-vaginalMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package human-vaginal
+     * [Human-vaginalMISAG](Human-vaginalMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package human-vaginal
+     * [Human-vaginalMIUVIG](Human-vaginalMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package human-vaginal
  * [HydrocarbonResources-cores](HydrocarbonResources-cores.md) - hydrocarbon resources-cores
-     * [HydrocarbonResources-coresMe](HydrocarbonResources-coresMe.md) - Combinatorial checklist for hydrocarbon resources-cores with me
-     * [HydrocarbonResources-coresMigsBa](HydrocarbonResources-coresMigsBa.md) - Combinatorial checklist for hydrocarbon resources-cores with migs_ba
-     * [HydrocarbonResources-coresMigsEu](HydrocarbonResources-coresMigsEu.md) - Combinatorial checklist for hydrocarbon resources-cores with migs_eu
-     * [HydrocarbonResources-coresMigsOrg](HydrocarbonResources-coresMigsOrg.md) - Combinatorial checklist for hydrocarbon resources-cores with migs_org
-     * [HydrocarbonResources-coresMigsPl](HydrocarbonResources-coresMigsPl.md) - Combinatorial checklist for hydrocarbon resources-cores with migs_pl
-     * [HydrocarbonResources-coresMigsVi](HydrocarbonResources-coresMigsVi.md) - Combinatorial checklist for hydrocarbon resources-cores with migs_vi
-     * [HydrocarbonResources-coresMimag](HydrocarbonResources-coresMimag.md) - Combinatorial checklist for hydrocarbon resources-cores with mimag
-     * [HydrocarbonResources-coresMimarksC](HydrocarbonResources-coresMimarksC.md) - Combinatorial checklist for hydrocarbon resources-cores with mimarks_c
-     * [HydrocarbonResources-coresMimarksS](HydrocarbonResources-coresMimarksS.md) - Combinatorial checklist for hydrocarbon resources-cores with mimarks_s
-     * [HydrocarbonResources-coresMisag](HydrocarbonResources-coresMisag.md) - Combinatorial checklist for hydrocarbon resources-cores with misag
-     * [HydrocarbonResources-coresMiuvig](HydrocarbonResources-coresMiuvig.md) - Combinatorial checklist for hydrocarbon resources-cores with miuvig
+     * [HydrocarbonResources-coresME](HydrocarbonResources-coresME.md) - Combinatorial checklist Metagenome or Environmental with environmental package hydrocarbon resources-cores
+     * [HydrocarbonResources-coresMIGSBacteria](HydrocarbonResources-coresMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package hydrocarbon resources-cores
+     * [HydrocarbonResources-coresMIGSEukaryote](HydrocarbonResources-coresMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package hydrocarbon resources-cores
+     * [HydrocarbonResources-coresMIGSOrg](HydrocarbonResources-coresMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package hydrocarbon resources-cores
+     * [HydrocarbonResources-coresMIGSPlant](HydrocarbonResources-coresMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package hydrocarbon resources-cores
+     * [HydrocarbonResources-coresMIGSVirus](HydrocarbonResources-coresMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package hydrocarbon resources-cores
+     * [HydrocarbonResources-coresMIMAG](HydrocarbonResources-coresMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package hydrocarbon resources-cores
+     * [HydrocarbonResources-coresMIMARKSSpecimen](HydrocarbonResources-coresMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package hydrocarbon resources-cores
+     * [HydrocarbonResources-coresMIMARKSSurvey](HydrocarbonResources-coresMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package hydrocarbon resources-cores
+     * [HydrocarbonResources-coresMISAG](HydrocarbonResources-coresMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package hydrocarbon resources-cores
+     * [HydrocarbonResources-coresMIUVIG](HydrocarbonResources-coresMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package hydrocarbon resources-cores
  * [HydrocarbonResources-fluidsSwabs](HydrocarbonResources-fluidsSwabs.md) - hydrocarbon resources-fluids/swabs
-     * [HydrocarbonResources-fluidsSwabsMe](HydrocarbonResources-fluidsSwabsMe.md) - Combinatorial checklist for hydrocarbon resources-fluids_swabs with me
-     * [HydrocarbonResources-fluidsSwabsMigsBa](HydrocarbonResources-fluidsSwabsMigsBa.md) - Combinatorial checklist for hydrocarbon resources-fluids_swabs with migs_ba
-     * [HydrocarbonResources-fluidsSwabsMigsEu](HydrocarbonResources-fluidsSwabsMigsEu.md) - Combinatorial checklist for hydrocarbon resources-fluids_swabs with migs_eu
-     * [HydrocarbonResources-fluidsSwabsMigsOrg](HydrocarbonResources-fluidsSwabsMigsOrg.md) - Combinatorial checklist for hydrocarbon resources-fluids_swabs with migs_org
-     * [HydrocarbonResources-fluidsSwabsMigsPl](HydrocarbonResources-fluidsSwabsMigsPl.md) - Combinatorial checklist for hydrocarbon resources-fluids_swabs with migs_pl
-     * [HydrocarbonResources-fluidsSwabsMigsVi](HydrocarbonResources-fluidsSwabsMigsVi.md) - Combinatorial checklist for hydrocarbon resources-fluids_swabs with migs_vi
-     * [HydrocarbonResources-fluidsSwabsMimag](HydrocarbonResources-fluidsSwabsMimag.md) - Combinatorial checklist for hydrocarbon resources-fluids_swabs with mimag
-     * [HydrocarbonResources-fluidsSwabsMimarksC](HydrocarbonResources-fluidsSwabsMimarksC.md) - Combinatorial checklist for hydrocarbon resources-fluids_swabs with mimarks_c
-     * [HydrocarbonResources-fluidsSwabsMimarksS](HydrocarbonResources-fluidsSwabsMimarksS.md) - Combinatorial checklist for hydrocarbon resources-fluids_swabs with mimarks_s
-     * [HydrocarbonResources-fluidsSwabsMisag](HydrocarbonResources-fluidsSwabsMisag.md) - Combinatorial checklist for hydrocarbon resources-fluids_swabs with misag
-     * [HydrocarbonResources-fluidsSwabsMiuvig](HydrocarbonResources-fluidsSwabsMiuvig.md) - Combinatorial checklist for hydrocarbon resources-fluids_swabs with miuvig
+     * [HydrocarbonResources-fluidsSwabsME](HydrocarbonResources-fluidsSwabsME.md) - Combinatorial checklist Metagenome or Environmental with environmental package hydrocarbon resources-fluids_swabs
+     * [HydrocarbonResources-fluidsSwabsMIGSBacteria](HydrocarbonResources-fluidsSwabsMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package hydrocarbon resources-fluids_swabs
+     * [HydrocarbonResources-fluidsSwabsMIGSEukaryote](HydrocarbonResources-fluidsSwabsMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package hydrocarbon resources-fluids_swabs
+     * [HydrocarbonResources-fluidsSwabsMIGSOrg](HydrocarbonResources-fluidsSwabsMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package hydrocarbon resources-fluids_swabs
+     * [HydrocarbonResources-fluidsSwabsMIGSPlant](HydrocarbonResources-fluidsSwabsMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package hydrocarbon resources-fluids_swabs
+     * [HydrocarbonResources-fluidsSwabsMIGSVirus](HydrocarbonResources-fluidsSwabsMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package hydrocarbon resources-fluids_swabs
+     * [HydrocarbonResources-fluidsSwabsMIMAG](HydrocarbonResources-fluidsSwabsMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package hydrocarbon resources-fluids_swabs
+     * [HydrocarbonResources-fluidsSwabsMIMARKSSpecimen](HydrocarbonResources-fluidsSwabsMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package hydrocarbon resources-fluids_swabs
+     * [HydrocarbonResources-fluidsSwabsMIMARKSSurvey](HydrocarbonResources-fluidsSwabsMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package hydrocarbon resources-fluids_swabs
+     * [HydrocarbonResources-fluidsSwabsMISAG](HydrocarbonResources-fluidsSwabsMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package hydrocarbon resources-fluids_swabs
+     * [HydrocarbonResources-fluidsSwabsMIUVIG](HydrocarbonResources-fluidsSwabsMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package hydrocarbon resources-fluids_swabs
  * [MicrobialMatBiofilm](MicrobialMatBiofilm.md) - microbial mat/biofilm
-     * [MicrobialMatBiofilmMe](MicrobialMatBiofilmMe.md) - Combinatorial checklist for microbial mat_biofilm with me
-     * [MicrobialMatBiofilmMigsBa](MicrobialMatBiofilmMigsBa.md) - Combinatorial checklist for microbial mat_biofilm with migs_ba
-     * [MicrobialMatBiofilmMigsEu](MicrobialMatBiofilmMigsEu.md) - Combinatorial checklist for microbial mat_biofilm with migs_eu
-     * [MicrobialMatBiofilmMigsOrg](MicrobialMatBiofilmMigsOrg.md) - Combinatorial checklist for microbial mat_biofilm with migs_org
-     * [MicrobialMatBiofilmMigsPl](MicrobialMatBiofilmMigsPl.md) - Combinatorial checklist for microbial mat_biofilm with migs_pl
-     * [MicrobialMatBiofilmMigsVi](MicrobialMatBiofilmMigsVi.md) - Combinatorial checklist for microbial mat_biofilm with migs_vi
-     * [MicrobialMatBiofilmMimag](MicrobialMatBiofilmMimag.md) - Combinatorial checklist for microbial mat_biofilm with mimag
-     * [MicrobialMatBiofilmMimarksC](MicrobialMatBiofilmMimarksC.md) - Combinatorial checklist for microbial mat_biofilm with mimarks_c
-     * [MicrobialMatBiofilmMimarksS](MicrobialMatBiofilmMimarksS.md) - Combinatorial checklist for microbial mat_biofilm with mimarks_s
-     * [MicrobialMatBiofilmMisag](MicrobialMatBiofilmMisag.md) - Combinatorial checklist for microbial mat_biofilm with misag
-     * [MicrobialMatBiofilmMiuvig](MicrobialMatBiofilmMiuvig.md) - Combinatorial checklist for microbial mat_biofilm with miuvig
+     * [MicrobialMatBiofilmME](MicrobialMatBiofilmME.md) - Combinatorial checklist Metagenome or Environmental with environmental package microbial mat_biofilm
+     * [MicrobialMatBiofilmMIGSBacteria](MicrobialMatBiofilmMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package microbial mat_biofilm
+     * [MicrobialMatBiofilmMIGSEukaryote](MicrobialMatBiofilmMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package microbial mat_biofilm
+     * [MicrobialMatBiofilmMIGSOrg](MicrobialMatBiofilmMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package microbial mat_biofilm
+     * [MicrobialMatBiofilmMIGSPlant](MicrobialMatBiofilmMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package microbial mat_biofilm
+     * [MicrobialMatBiofilmMIGSVirus](MicrobialMatBiofilmMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package microbial mat_biofilm
+     * [MicrobialMatBiofilmMIMAG](MicrobialMatBiofilmMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package microbial mat_biofilm
+     * [MicrobialMatBiofilmMIMARKSSpecimen](MicrobialMatBiofilmMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package microbial mat_biofilm
+     * [MicrobialMatBiofilmMIMARKSSurvey](MicrobialMatBiofilmMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package microbial mat_biofilm
+     * [MicrobialMatBiofilmMISAG](MicrobialMatBiofilmMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package microbial mat_biofilm
+     * [MicrobialMatBiofilmMIUVIG](MicrobialMatBiofilmMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package microbial mat_biofilm
  * [MiscellaneousNaturalOrArtificialEnvironment](MiscellaneousNaturalOrArtificialEnvironment.md) - miscellaneous natural or artificial environment
-     * [MiscellaneousNaturalOrArtificialEnvironmentMe](MiscellaneousNaturalOrArtificialEnvironmentMe.md) - Combinatorial checklist for miscellaneous natural or artificial environment with me
-     * [MiscellaneousNaturalOrArtificialEnvironmentMigsBa](MiscellaneousNaturalOrArtificialEnvironmentMigsBa.md) - Combinatorial checklist for miscellaneous natural or artificial environment with migs_ba
-     * [MiscellaneousNaturalOrArtificialEnvironmentMigsEu](MiscellaneousNaturalOrArtificialEnvironmentMigsEu.md) - Combinatorial checklist for miscellaneous natural or artificial environment with migs_eu
-     * [MiscellaneousNaturalOrArtificialEnvironmentMigsOrg](MiscellaneousNaturalOrArtificialEnvironmentMigsOrg.md) - Combinatorial checklist for miscellaneous natural or artificial environment with migs_org
-     * [MiscellaneousNaturalOrArtificialEnvironmentMigsPl](MiscellaneousNaturalOrArtificialEnvironmentMigsPl.md) - Combinatorial checklist for miscellaneous natural or artificial environment with migs_pl
-     * [MiscellaneousNaturalOrArtificialEnvironmentMigsVi](MiscellaneousNaturalOrArtificialEnvironmentMigsVi.md) - Combinatorial checklist for miscellaneous natural or artificial environment with migs_vi
-     * [MiscellaneousNaturalOrArtificialEnvironmentMimag](MiscellaneousNaturalOrArtificialEnvironmentMimag.md) - Combinatorial checklist for miscellaneous natural or artificial environment with mimag
-     * [MiscellaneousNaturalOrArtificialEnvironmentMimarksC](MiscellaneousNaturalOrArtificialEnvironmentMimarksC.md) - Combinatorial checklist for miscellaneous natural or artificial environment with mimarks_c
-     * [MiscellaneousNaturalOrArtificialEnvironmentMimarksS](MiscellaneousNaturalOrArtificialEnvironmentMimarksS.md) - Combinatorial checklist for miscellaneous natural or artificial environment with mimarks_s
-     * [MiscellaneousNaturalOrArtificialEnvironmentMisag](MiscellaneousNaturalOrArtificialEnvironmentMisag.md) - Combinatorial checklist for miscellaneous natural or artificial environment with misag
-     * [MiscellaneousNaturalOrArtificialEnvironmentMiuvig](MiscellaneousNaturalOrArtificialEnvironmentMiuvig.md) - Combinatorial checklist for miscellaneous natural or artificial environment with miuvig
+     * [MiscellaneousNaturalOrArtificialEnvironmentME](MiscellaneousNaturalOrArtificialEnvironmentME.md) - Combinatorial checklist Metagenome or Environmental with environmental package miscellaneous natural or artificial environment
+     * [MiscellaneousNaturalOrArtificialEnvironmentMIGSBacteria](MiscellaneousNaturalOrArtificialEnvironmentMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package miscellaneous natural or artificial environment
+     * [MiscellaneousNaturalOrArtificialEnvironmentMIGSEukaryote](MiscellaneousNaturalOrArtificialEnvironmentMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package miscellaneous natural or artificial environment
+     * [MiscellaneousNaturalOrArtificialEnvironmentMIGSOrg](MiscellaneousNaturalOrArtificialEnvironmentMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package miscellaneous natural or artificial environment
+     * [MiscellaneousNaturalOrArtificialEnvironmentMIGSPlant](MiscellaneousNaturalOrArtificialEnvironmentMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package miscellaneous natural or artificial environment
+     * [MiscellaneousNaturalOrArtificialEnvironmentMIGSVirus](MiscellaneousNaturalOrArtificialEnvironmentMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package miscellaneous natural or artificial environment
+     * [MiscellaneousNaturalOrArtificialEnvironmentMIMAG](MiscellaneousNaturalOrArtificialEnvironmentMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package miscellaneous natural or artificial environment
+     * [MiscellaneousNaturalOrArtificialEnvironmentMIMARKSSpecimen](MiscellaneousNaturalOrArtificialEnvironmentMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package miscellaneous natural or artificial environment
+     * [MiscellaneousNaturalOrArtificialEnvironmentMIMARKSSurvey](MiscellaneousNaturalOrArtificialEnvironmentMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package miscellaneous natural or artificial environment
+     * [MiscellaneousNaturalOrArtificialEnvironmentMISAG](MiscellaneousNaturalOrArtificialEnvironmentMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package miscellaneous natural or artificial environment
+     * [MiscellaneousNaturalOrArtificialEnvironmentMIUVIG](MiscellaneousNaturalOrArtificialEnvironmentMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package miscellaneous natural or artificial environment
  * [Plant-associated](Plant-associated.md) - plant-associated
-     * [Plant-associatedMe](Plant-associatedMe.md) - Combinatorial checklist for plant-associated with me
-     * [Plant-associatedMigsBa](Plant-associatedMigsBa.md) - Combinatorial checklist for plant-associated with migs_ba
-     * [Plant-associatedMigsEu](Plant-associatedMigsEu.md) - Combinatorial checklist for plant-associated with migs_eu
-     * [Plant-associatedMigsOrg](Plant-associatedMigsOrg.md) - Combinatorial checklist for plant-associated with migs_org
-     * [Plant-associatedMigsPl](Plant-associatedMigsPl.md) - Combinatorial checklist for plant-associated with migs_pl
-     * [Plant-associatedMigsVi](Plant-associatedMigsVi.md) - Combinatorial checklist for plant-associated with migs_vi
-     * [Plant-associatedMimag](Plant-associatedMimag.md) - Combinatorial checklist for plant-associated with mimag
-     * [Plant-associatedMimarksC](Plant-associatedMimarksC.md) - Combinatorial checklist for plant-associated with mimarks_c
-     * [Plant-associatedMimarksS](Plant-associatedMimarksS.md) - Combinatorial checklist for plant-associated with mimarks_s
-     * [Plant-associatedMisag](Plant-associatedMisag.md) - Combinatorial checklist for plant-associated with misag
-     * [Plant-associatedMiuvig](Plant-associatedMiuvig.md) - Combinatorial checklist for plant-associated with miuvig
+     * [Plant-associatedME](Plant-associatedME.md) - Combinatorial checklist Metagenome or Environmental with environmental package plant-associated
+     * [Plant-associatedMIGSBacteria](Plant-associatedMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package plant-associated
+     * [Plant-associatedMIGSEukaryote](Plant-associatedMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package plant-associated
+     * [Plant-associatedMIGSOrg](Plant-associatedMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package plant-associated
+     * [Plant-associatedMIGSPlant](Plant-associatedMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package plant-associated
+     * [Plant-associatedMIGSVirus](Plant-associatedMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package plant-associated
+     * [Plant-associatedMIMAG](Plant-associatedMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package plant-associated
+     * [Plant-associatedMIMARKSSpecimen](Plant-associatedMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package plant-associated
+     * [Plant-associatedMIMARKSSurvey](Plant-associatedMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package plant-associated
+     * [Plant-associatedMISAG](Plant-associatedMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package plant-associated
+     * [Plant-associatedMIUVIG](Plant-associatedMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package plant-associated
  * [QuantityValue](QuantityValue.md) - used to record a measurement
  * [Sediment](Sediment.md) - sediment
-     * [SedimentMe](SedimentMe.md) - Combinatorial checklist for sediment with me
-     * [SedimentMigsBa](SedimentMigsBa.md) - Combinatorial checklist for sediment with migs_ba
-     * [SedimentMigsEu](SedimentMigsEu.md) - Combinatorial checklist for sediment with migs_eu
-     * [SedimentMigsOrg](SedimentMigsOrg.md) - Combinatorial checklist for sediment with migs_org
-     * [SedimentMigsPl](SedimentMigsPl.md) - Combinatorial checklist for sediment with migs_pl
-     * [SedimentMigsVi](SedimentMigsVi.md) - Combinatorial checklist for sediment with migs_vi
-     * [SedimentMimag](SedimentMimag.md) - Combinatorial checklist for sediment with mimag
-     * [SedimentMimarksC](SedimentMimarksC.md) - Combinatorial checklist for sediment with mimarks_c
-     * [SedimentMimarksS](SedimentMimarksS.md) - Combinatorial checklist for sediment with mimarks_s
-     * [SedimentMisag](SedimentMisag.md) - Combinatorial checklist for sediment with misag
-     * [SedimentMiuvig](SedimentMiuvig.md) - Combinatorial checklist for sediment with miuvig
+     * [SedimentME](SedimentME.md) - Combinatorial checklist Metagenome or Environmental with environmental package sediment
+     * [SedimentMIGSBacteria](SedimentMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package sediment
+     * [SedimentMIGSEukaryote](SedimentMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package sediment
+     * [SedimentMIGSOrg](SedimentMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package sediment
+     * [SedimentMIGSPlant](SedimentMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package sediment
+     * [SedimentMIGSVirus](SedimentMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package sediment
+     * [SedimentMIMAG](SedimentMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package sediment
+     * [SedimentMIMARKSSpecimen](SedimentMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package sediment
+     * [SedimentMIMARKSSurvey](SedimentMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package sediment
+     * [SedimentMISAG](SedimentMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package sediment
+     * [SedimentMIUVIG](SedimentMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package sediment
  * [Soil](Soil.md) - soil
-     * [SoilMe](SoilMe.md) - Combinatorial checklist for soil with me
-     * [SoilMigsBa](SoilMigsBa.md) - Combinatorial checklist for soil with migs_ba
-     * [SoilMigsEu](SoilMigsEu.md) - Combinatorial checklist for soil with migs_eu
-     * [SoilMigsOrg](SoilMigsOrg.md) - Combinatorial checklist for soil with migs_org
-     * [SoilMigsPl](SoilMigsPl.md) - Combinatorial checklist for soil with migs_pl
-     * [SoilMigsVi](SoilMigsVi.md) - Combinatorial checklist for soil with migs_vi
-     * [SoilMimag](SoilMimag.md) - Combinatorial checklist for soil with mimag
-     * [SoilMimarksC](SoilMimarksC.md) - Combinatorial checklist for soil with mimarks_c
-     * [SoilMimarksS](SoilMimarksS.md) - Combinatorial checklist for soil with mimarks_s
-     * [SoilMisag](SoilMisag.md) - Combinatorial checklist for soil with misag
-     * [SoilMiuvig](SoilMiuvig.md) - Combinatorial checklist for soil with miuvig
+     * [SoilME](SoilME.md) - Combinatorial checklist Metagenome or Environmental with environmental package soil
+     * [SoilMIGSBacteria](SoilMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package soil
+     * [SoilMIGSEukaryote](SoilMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package soil
+     * [SoilMIGSOrg](SoilMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package soil
+     * [SoilMIGSPlant](SoilMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package soil
+     * [SoilMIGSVirus](SoilMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package soil
+     * [SoilMIMAG](SoilMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package soil
+     * [SoilMIMARKSSpecimen](SoilMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package soil
+     * [SoilMIMARKSSurvey](SoilMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package soil
+     * [SoilMISAG](SoilMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package soil
+     * [SoilMIUVIG](SoilMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package soil
  * [WastewaterSludge](WastewaterSludge.md) - wastewater/sludge
-     * [WastewaterSludgeMe](WastewaterSludgeMe.md) - Combinatorial checklist for wastewater_sludge with me
-     * [WastewaterSludgeMigsBa](WastewaterSludgeMigsBa.md) - Combinatorial checklist for wastewater_sludge with migs_ba
-     * [WastewaterSludgeMigsEu](WastewaterSludgeMigsEu.md) - Combinatorial checklist for wastewater_sludge with migs_eu
-     * [WastewaterSludgeMigsOrg](WastewaterSludgeMigsOrg.md) - Combinatorial checklist for wastewater_sludge with migs_org
-     * [WastewaterSludgeMigsPl](WastewaterSludgeMigsPl.md) - Combinatorial checklist for wastewater_sludge with migs_pl
-     * [WastewaterSludgeMigsVi](WastewaterSludgeMigsVi.md) - Combinatorial checklist for wastewater_sludge with migs_vi
-     * [WastewaterSludgeMimag](WastewaterSludgeMimag.md) - Combinatorial checklist for wastewater_sludge with mimag
-     * [WastewaterSludgeMimarksC](WastewaterSludgeMimarksC.md) - Combinatorial checklist for wastewater_sludge with mimarks_c
-     * [WastewaterSludgeMimarksS](WastewaterSludgeMimarksS.md) - Combinatorial checklist for wastewater_sludge with mimarks_s
-     * [WastewaterSludgeMisag](WastewaterSludgeMisag.md) - Combinatorial checklist for wastewater_sludge with misag
-     * [WastewaterSludgeMiuvig](WastewaterSludgeMiuvig.md) - Combinatorial checklist for wastewater_sludge with miuvig
+     * [WastewaterSludgeME](WastewaterSludgeME.md) - Combinatorial checklist Metagenome or Environmental with environmental package wastewater_sludge
+     * [WastewaterSludgeMIGSBacteria](WastewaterSludgeMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package wastewater_sludge
+     * [WastewaterSludgeMIGSEukaryote](WastewaterSludgeMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package wastewater_sludge
+     * [WastewaterSludgeMIGSOrg](WastewaterSludgeMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package wastewater_sludge
+     * [WastewaterSludgeMIGSPlant](WastewaterSludgeMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package wastewater_sludge
+     * [WastewaterSludgeMIGSVirus](WastewaterSludgeMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package wastewater_sludge
+     * [WastewaterSludgeMIMAG](WastewaterSludgeMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package wastewater_sludge
+     * [WastewaterSludgeMIMARKSSpecimen](WastewaterSludgeMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package wastewater_sludge
+     * [WastewaterSludgeMIMARKSSurvey](WastewaterSludgeMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package wastewater_sludge
+     * [WastewaterSludgeMISAG](WastewaterSludgeMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package wastewater_sludge
+     * [WastewaterSludgeMIUVIG](WastewaterSludgeMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package wastewater_sludge
  * [Water](Water.md) - water
-     * [WaterMe](WaterMe.md) - Combinatorial checklist for water with me
-     * [WaterMigsBa](WaterMigsBa.md) - Combinatorial checklist for water with migs_ba
-     * [WaterMigsEu](WaterMigsEu.md) - Combinatorial checklist for water with migs_eu
-     * [WaterMigsOrg](WaterMigsOrg.md) - Combinatorial checklist for water with migs_org
-     * [WaterMigsPl](WaterMigsPl.md) - Combinatorial checklist for water with migs_pl
-     * [WaterMigsVi](WaterMigsVi.md) - Combinatorial checklist for water with migs_vi
-     * [WaterMimag](WaterMimag.md) - Combinatorial checklist for water with mimag
-     * [WaterMimarksC](WaterMimarksC.md) - Combinatorial checklist for water with mimarks_c
-     * [WaterMimarksS](WaterMimarksS.md) - Combinatorial checklist for water with mimarks_s
-     * [WaterMisag](WaterMisag.md) - Combinatorial checklist for water with misag
-     * [WaterMiuvig](WaterMiuvig.md) - Combinatorial checklist for water with miuvig
+     * [WaterME](WaterME.md) - Combinatorial checklist Metagenome or Environmental with environmental package water
+     * [WaterMIGSBacteria](WaterMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package water
+     * [WaterMIGSEukaryote](WaterMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package water
+     * [WaterMIGSOrg](WaterMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package water
+     * [WaterMIGSPlant](WaterMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package water
+     * [WaterMIGSVirus](WaterMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package water
+     * [WaterMIMAG](WaterMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package water
+     * [WaterMIMARKSSpecimen](WaterMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package water
+     * [WaterMIMARKSSurvey](WaterMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package water
+     * [WaterMISAG](WaterMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package water
+     * [WaterMIUVIG](WaterMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package water
 
 ### Mixins
 
- * [Me](Me.md) - me Checklist
- * [MigsBa](MigsBa.md) - migs_ba Checklist
- * [MigsEu](MigsEu.md) - migs_eu Checklist
- * [MigsOrg](MigsOrg.md) - migs_org Checklist
- * [MigsPl](MigsPl.md) - migs_pl Checklist
- * [MigsVi](MigsVi.md) - migs_vi Checklist
- * [Mimag](Mimag.md) - mimag Checklist
- * [MimarksC](MimarksC.md) - mimarks_c Checklist
- * [MimarksS](MimarksS.md) - mimarks_s Checklist
- * [Misag](Misag.md) - misag Checklist
- * [Miuvig](Miuvig.md) - miuvig Checklist
+ * [ME](ME.md) - Metagenome or Environmental
+ * [MIGSBacteria](MIGSBacteria.md) - Minimal Information about a Genome Sequence: cultured bacteria/archaea
+ * [MIGSEukaryote](MIGSEukaryote.md) - Minimal Information about a Genome Sequence: eukaryote
+ * [MIGSOrg](MIGSOrg.md) - Minimal Information about a Genome Sequence: org
+ * [MIGSPlant](MIGSPlant.md) - Minimal Information about a Genome Sequence: plant
+ * [MIGSVirus](MIGSVirus.md) - Minimal Information about a Genome Sequence: cultured bacteria/archaea
+ * [MIMAG](MIMAG.md) - Minimum Information About a Metagenome-Assembled Genome
+ * [MIMARKSSpecimen](MIMARKSSpecimen.md) - Minimal Information about a Marker Specimen: specimen
+ * [MIMARKSSurvey](MIMARKSSurvey.md) - Minimal Information about a Marker Specimen: survey
+ * [MISAG](MISAG.md) - Minimum Information About a Single Amplified Genome
+ * [MIUVIG](MIUVIG.md) - Minimum Information About an Uncultivated Virus Genome
 
 ### Slots
 
  * [core field](core_field.md) - basic fields
      * [sample_name](sample_name.md) - Sample Name is a name that you choose for the sample. It can have any format, but we suggest that you make it concise, unique and consistent within your lab, and as informative as possible. Every Sample Name from a single Submitter must be unique. 
-         * [me➞sample_name](me_sample_name.md)
-         * [migs_ba➞sample_name](migs_ba_sample_name.md)
-         * [migs_eu➞sample_name](migs_eu_sample_name.md)
-         * [migs_org➞sample_name](migs_org_sample_name.md)
-         * [migs_pl➞sample_name](migs_pl_sample_name.md)
-         * [migs_vi➞sample_name](migs_vi_sample_name.md)
-         * [mimag➞sample_name](mimag_sample_name.md)
-         * [mimarks_c➞sample_name](mimarks_c_sample_name.md)
-         * [mimarks_s➞sample_name](mimarks_s_sample_name.md)
-         * [misag➞sample_name](misag_sample_name.md)
-         * [miuvig➞sample_name](miuvig_sample_name.md)
+         * [ME➞sample_name](ME_sample_name.md)
+         * [MIGS bacteria➞sample_name](MIGS_bacteria_sample_name.md)
+         * [MIGS eukaryote➞sample_name](MIGS_eukaryote_sample_name.md)
+         * [MIGS org➞sample_name](MIGS_org_sample_name.md)
+         * [MIGS plant➞sample_name](MIGS_plant_sample_name.md)
+         * [MIGS virus➞sample_name](MIGS_virus_sample_name.md)
+         * [MIMAG➞sample_name](MIMAG_sample_name.md)
+         * [MIMARKS specimen➞sample_name](MIMARKS_specimen_sample_name.md)
+         * [MIMARKS survey➞sample_name](MIMARKS_survey_sample_name.md)
+         * [MISAG➞sample_name](MISAG_sample_name.md)
+         * [MIUVIG➞sample_name](MIUVIG_sample_name.md)
  * [environment field](environment_field.md) - field describing environmental aspect of a sample
      * [abs_air_humidity](abs_air_humidity.md) - Actual mass of water vapor - mh20 - present in the air water vapor mixture
      * [add_recov_method](add_recov_method.md) - Additional (i.e. Secondary, tertiary, etc.) recovery methods deployed for increase of hydrocarbon recovery from resource and start date for each one of them. If "other" is specified, please propose entry in "additional info" field
@@ -320,17 +320,17 @@ MIxS 6 linkml rendering
      * [chlorophyll](chlorophyll.md) - Concentration of chlorophyll
      * [climate_environment](climate_environment.md) - Treatment involving an exposure to a particular climate; treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple climates
      * [collection_date](collection_date.md) - The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-         * [me➞collection_date](me_collection_date.md)
-         * [migs_ba➞collection_date](migs_ba_collection_date.md)
-         * [migs_eu➞collection_date](migs_eu_collection_date.md)
-         * [migs_org➞collection_date](migs_org_collection_date.md)
-         * [migs_pl➞collection_date](migs_pl_collection_date.md)
-         * [migs_vi➞collection_date](migs_vi_collection_date.md)
-         * [mimag➞collection_date](mimag_collection_date.md)
-         * [mimarks_c➞collection_date](mimarks_c_collection_date.md)
-         * [mimarks_s➞collection_date](mimarks_s_collection_date.md)
-         * [misag➞collection_date](misag_collection_date.md)
-         * [miuvig➞collection_date](miuvig_collection_date.md)
+         * [ME➞collection_date](ME_collection_date.md)
+         * [MIGS bacteria➞collection_date](MIGS_bacteria_collection_date.md)
+         * [MIGS eukaryote➞collection_date](MIGS_eukaryote_collection_date.md)
+         * [MIGS org➞collection_date](MIGS_org_collection_date.md)
+         * [MIGS plant➞collection_date](MIGS_plant_collection_date.md)
+         * [MIGS virus➞collection_date](MIGS_virus_collection_date.md)
+         * [MIMAG➞collection_date](MIMAG_collection_date.md)
+         * [MIMARKS specimen➞collection_date](MIMARKS_specimen_collection_date.md)
+         * [MIMARKS survey➞collection_date](MIMARKS_survey_collection_date.md)
+         * [MISAG➞collection_date](MISAG_collection_date.md)
+         * [MIUVIG➞collection_date](MIUVIG_collection_date.md)
      * [conduc](conduc.md) - Electrical conductivity of water
      * [cool_syst_id](cool_syst_id.md) - The cooling system identifier
      * [crop_rotation](crop_rotation.md) - Whether or not crop is rotated, and if yes, rotation schedule
@@ -378,41 +378,41 @@ MIxS 6 linkml rendering
      * [elevator](elevator.md) - The number of elevators within the built structure
      * [emulsions](emulsions.md) - Amount or concentration of substances such as paints, adhesives, mayonnaise, hair colorants, emulsified oils, etc.; can include multiple emulsion types
      * [env_broad_scale](env_broad_scale.md) - In this field, report which major environmental system your sample or specimen came from. The systems identified should have a coarse spatial grain, to provide the general environmental context of where the sampling was done (e.g. were you in the desert or a rainforest?). We recommend using subclasses of ENVO’s biome class: http://purl.obolibrary.org/obo/ENVO_00000428. Format (one term): termLabel [termID], Format (multiple terms): termLabel [termID]|termLabel [termID]|termLabel [termID]. Example: Annotating a water sample from the photic zone in middle of the Atlantic Ocean, consider: oceanic epipelagic zone biome [ENVO:01000033]. Example: Annotating a sample from the Amazon rainforest consider: tropical moist broadleaf forest biome [ENVO:01000228]. If needed, request new terms on the ENVO tracker, identified here: http://www.obofoundry.org/ontology/envo.html
-         * [me➞env_broad_scale](me_env_broad_scale.md)
-         * [migs_ba➞env_broad_scale](migs_ba_env_broad_scale.md)
-         * [migs_eu➞env_broad_scale](migs_eu_env_broad_scale.md)
-         * [migs_org➞env_broad_scale](migs_org_env_broad_scale.md)
-         * [migs_pl➞env_broad_scale](migs_pl_env_broad_scale.md)
-         * [migs_vi➞env_broad_scale](migs_vi_env_broad_scale.md)
-         * [mimag➞env_broad_scale](mimag_env_broad_scale.md)
-         * [mimarks_c➞env_broad_scale](mimarks_c_env_broad_scale.md)
-         * [mimarks_s➞env_broad_scale](mimarks_s_env_broad_scale.md)
-         * [misag➞env_broad_scale](misag_env_broad_scale.md)
-         * [miuvig➞env_broad_scale](miuvig_env_broad_scale.md)
+         * [ME➞env_broad_scale](ME_env_broad_scale.md)
+         * [MIGS bacteria➞env_broad_scale](MIGS_bacteria_env_broad_scale.md)
+         * [MIGS eukaryote➞env_broad_scale](MIGS_eukaryote_env_broad_scale.md)
+         * [MIGS org➞env_broad_scale](MIGS_org_env_broad_scale.md)
+         * [MIGS plant➞env_broad_scale](MIGS_plant_env_broad_scale.md)
+         * [MIGS virus➞env_broad_scale](MIGS_virus_env_broad_scale.md)
+         * [MIMAG➞env_broad_scale](MIMAG_env_broad_scale.md)
+         * [MIMARKS specimen➞env_broad_scale](MIMARKS_specimen_env_broad_scale.md)
+         * [MIMARKS survey➞env_broad_scale](MIMARKS_survey_env_broad_scale.md)
+         * [MISAG➞env_broad_scale](MISAG_env_broad_scale.md)
+         * [MIUVIG➞env_broad_scale](MIUVIG_env_broad_scale.md)
      * [env_local_scale](env_local_scale.md) - In this field, report the entity or entities which are in your sample or specimen’s local vicinity and which you believe have significant causal influences on your sample or specimen. Please use terms that are present in ENVO and which are of smaller spatial grain than your entry for env_broad_scale. Format (one term): termLabel [termID]; Format (multiple terms): termLabel [termID]|termLabel [termID]|termLabel [termID]. Example: Annotating a pooled sample taken from various vegetation layers in a forest consider: canopy [ENVO:00000047]|herb and fern layer [ENVO:01000337]|litter layer [ENVO:01000338]|understory [01000335]|shrub layer [ENVO:01000336]. If needed, request new terms on the ENVO tracker, identified here: http://www.obofoundry.org/ontology/envo.html
-         * [me➞env_local_scale](me_env_local_scale.md)
-         * [migs_ba➞env_local_scale](migs_ba_env_local_scale.md)
-         * [migs_eu➞env_local_scale](migs_eu_env_local_scale.md)
-         * [migs_org➞env_local_scale](migs_org_env_local_scale.md)
-         * [migs_pl➞env_local_scale](migs_pl_env_local_scale.md)
-         * [migs_vi➞env_local_scale](migs_vi_env_local_scale.md)
-         * [mimag➞env_local_scale](mimag_env_local_scale.md)
-         * [mimarks_c➞env_local_scale](mimarks_c_env_local_scale.md)
-         * [mimarks_s➞env_local_scale](mimarks_s_env_local_scale.md)
-         * [misag➞env_local_scale](misag_env_local_scale.md)
-         * [miuvig➞env_local_scale](miuvig_env_local_scale.md)
+         * [ME➞env_local_scale](ME_env_local_scale.md)
+         * [MIGS bacteria➞env_local_scale](MIGS_bacteria_env_local_scale.md)
+         * [MIGS eukaryote➞env_local_scale](MIGS_eukaryote_env_local_scale.md)
+         * [MIGS org➞env_local_scale](MIGS_org_env_local_scale.md)
+         * [MIGS plant➞env_local_scale](MIGS_plant_env_local_scale.md)
+         * [MIGS virus➞env_local_scale](MIGS_virus_env_local_scale.md)
+         * [MIMAG➞env_local_scale](MIMAG_env_local_scale.md)
+         * [MIMARKS specimen➞env_local_scale](MIMARKS_specimen_env_local_scale.md)
+         * [MIMARKS survey➞env_local_scale](MIMARKS_survey_env_local_scale.md)
+         * [MISAG➞env_local_scale](MISAG_env_local_scale.md)
+         * [MIUVIG➞env_local_scale](MIUVIG_env_local_scale.md)
      * [env_medium](env_medium.md) - In this field, report which environmental material or materials (pipe separated) immediately surrounded your sample or specimen prior to sampling, using one or more subclasses of ENVO’s environmental material class: http://purl.obolibrary.org/obo/ENVO_00010483. Format (one term): termLabel [termID]; Format (multiple terms): termLabel [termID]|termLabel [termID]|termLabel [termID]. Example: Annotating a fish swimming in the upper 100 m of the Atlantic Ocean, consider: ocean water [ENVO:00002151]. Example: Annotating a duck on a pond consider: pond water [ENVO:00002228]|air ENVO_00002005. If needed, request new terms on the ENVO tracker, identified here: http://www.obofoundry.org/ontology/envo.html
-         * [me➞env_medium](me_env_medium.md)
-         * [migs_ba➞env_medium](migs_ba_env_medium.md)
-         * [migs_eu➞env_medium](migs_eu_env_medium.md)
-         * [migs_org➞env_medium](migs_org_env_medium.md)
-         * [migs_pl➞env_medium](migs_pl_env_medium.md)
-         * [migs_vi➞env_medium](migs_vi_env_medium.md)
-         * [mimag➞env_medium](mimag_env_medium.md)
-         * [mimarks_c➞env_medium](mimarks_c_env_medium.md)
-         * [mimarks_s➞env_medium](mimarks_s_env_medium.md)
-         * [misag➞env_medium](misag_env_medium.md)
-         * [miuvig➞env_medium](miuvig_env_medium.md)
+         * [ME➞env_medium](ME_env_medium.md)
+         * [MIGS bacteria➞env_medium](MIGS_bacteria_env_medium.md)
+         * [MIGS eukaryote➞env_medium](MIGS_eukaryote_env_medium.md)
+         * [MIGS org➞env_medium](MIGS_org_env_medium.md)
+         * [MIGS plant➞env_medium](MIGS_plant_env_medium.md)
+         * [MIGS virus➞env_medium](MIGS_virus_env_medium.md)
+         * [MIMAG➞env_medium](MIMAG_env_medium.md)
+         * [MIMARKS specimen➞env_medium](MIMARKS_specimen_env_medium.md)
+         * [MIMARKS survey➞env_medium](MIMARKS_survey_env_medium.md)
+         * [MISAG➞env_medium](MISAG_env_medium.md)
+         * [MIUVIG➞env_medium](MIUVIG_env_medium.md)
      * [escalator](escalator.md) - The number of escalators within the built structure
      * [ethylbenzene](ethylbenzene.md) - Concentration of ethylbenzene in the sample
      * [exp_duct](exp_duct.md) - The amount of exposed ductwork in the room
@@ -449,17 +449,17 @@ MIxS 6 linkml rendering
      * [gender_restroom](gender_restroom.md) - The gender type of the restroom
      * [genetic_mod](genetic_mod.md) - Genetic modifications of the genome of an organism, which may occur naturally by spontaneous mutation, or be introduced by some experimental means, e.g. specification of a transgene or the gene knocked-out or details of transient transfection
      * [geo_loc_name](geo_loc_name.md) - The geographical origin of the sample as defined by the country or sea name followed by specific region name. Country or sea names should be chosen from the INSDC country list (http://insdc.org/country.html), or the GAZ ontology (v 1.512) (http://purl.bioontology.org/ontology/GAZ)
-         * [me➞geo_loc_name](me_geo_loc_name.md)
-         * [migs_ba➞geo_loc_name](migs_ba_geo_loc_name.md)
-         * [migs_eu➞geo_loc_name](migs_eu_geo_loc_name.md)
-         * [migs_org➞geo_loc_name](migs_org_geo_loc_name.md)
-         * [migs_pl➞geo_loc_name](migs_pl_geo_loc_name.md)
-         * [migs_vi➞geo_loc_name](migs_vi_geo_loc_name.md)
-         * [mimag➞geo_loc_name](mimag_geo_loc_name.md)
-         * [mimarks_c➞geo_loc_name](mimarks_c_geo_loc_name.md)
-         * [mimarks_s➞geo_loc_name](mimarks_s_geo_loc_name.md)
-         * [misag➞geo_loc_name](misag_geo_loc_name.md)
-         * [miuvig➞geo_loc_name](miuvig_geo_loc_name.md)
+         * [ME➞geo_loc_name](ME_geo_loc_name.md)
+         * [MIGS bacteria➞geo_loc_name](MIGS_bacteria_geo_loc_name.md)
+         * [MIGS eukaryote➞geo_loc_name](MIGS_eukaryote_geo_loc_name.md)
+         * [MIGS org➞geo_loc_name](MIGS_org_geo_loc_name.md)
+         * [MIGS plant➞geo_loc_name](MIGS_plant_geo_loc_name.md)
+         * [MIGS virus➞geo_loc_name](MIGS_virus_geo_loc_name.md)
+         * [MIMAG➞geo_loc_name](MIMAG_geo_loc_name.md)
+         * [MIMARKS specimen➞geo_loc_name](MIMARKS_specimen_geo_loc_name.md)
+         * [MIMARKS survey➞geo_loc_name](MIMARKS_survey_geo_loc_name.md)
+         * [MISAG➞geo_loc_name](MISAG_geo_loc_name.md)
+         * [MIUVIG➞geo_loc_name](MIUVIG_geo_loc_name.md)
      * [gestation_state](gestation_state.md) - Specification of the gestation state
      * [glucosidase_act](glucosidase_act.md) - Measurement of glucosidase activity
      * [gravidity](gravidity.md) - Whether or not subject is gravid, and if yes date due or date post-conception, specifying which is used
@@ -535,17 +535,17 @@ MIxS 6 linkml rendering
      * [iwf](iwf.md) - Proportion of the produced fluids derived from injected water at the time of sampling. (e.g. 87%)
      * [last_clean](last_clean.md) - The last time the floor was cleaned (swept, mopped, vacuumed)
      * [lat_lon](lat_lon.md) - The geographical origin of the sample as defined by latitude and longitude. The values should be reported in decimal degrees and in WGS84 system
-         * [me➞lat_lon](me_lat_lon.md)
-         * [migs_ba➞lat_lon](migs_ba_lat_lon.md)
-         * [migs_eu➞lat_lon](migs_eu_lat_lon.md)
-         * [migs_org➞lat_lon](migs_org_lat_lon.md)
-         * [migs_pl➞lat_lon](migs_pl_lat_lon.md)
-         * [migs_vi➞lat_lon](migs_vi_lat_lon.md)
-         * [mimag➞lat_lon](mimag_lat_lon.md)
-         * [mimarks_c➞lat_lon](mimarks_c_lat_lon.md)
-         * [mimarks_s➞lat_lon](mimarks_s_lat_lon.md)
-         * [misag➞lat_lon](misag_lat_lon.md)
-         * [miuvig➞lat_lon](miuvig_lat_lon.md)
+         * [ME➞lat_lon](ME_lat_lon.md)
+         * [MIGS bacteria➞lat_lon](MIGS_bacteria_lat_lon.md)
+         * [MIGS eukaryote➞lat_lon](MIGS_eukaryote_lat_lon.md)
+         * [MIGS org➞lat_lon](MIGS_org_lat_lon.md)
+         * [MIGS plant➞lat_lon](MIGS_plant_lat_lon.md)
+         * [MIGS virus➞lat_lon](MIGS_virus_lat_lon.md)
+         * [MIMAG➞lat_lon](MIMAG_lat_lon.md)
+         * [MIMARKS specimen➞lat_lon](MIMARKS_specimen_lat_lon.md)
+         * [MIMARKS survey➞lat_lon](MIMARKS_survey_lat_lon.md)
+         * [MISAG➞lat_lon](MISAG_lat_lon.md)
+         * [MIUVIG➞lat_lon](MIUVIG_lat_lon.md)
      * [light_intensity](light_intensity.md) - Measurement of light intensity
      * [light_regm](light_regm.md) - Information about treatment(s) involving exposure to light, including both light intensity and quality.
      * [light_type](light_type.md) - Application of light to achieve some practical or aesthetic effect. Lighting includes the use of both artificial light sources such as lamps and light fixtures, as well as natural illumination by capturing daylight. Can also include absence of light
@@ -826,561 +826,561 @@ MIxS 6 linkml rendering
      * [xylene](xylene.md) - Concentration of xylene in the sample
  * [investigation field](investigation_field.md) - field describing aspect of the investigation/study to which the sample belongs
      * [experimental_factor](experimental_factor.md) - Experimental factors are essentially the variable aspects of an experiment design which can be used to describe an experiment, or set of experiments, in an increasingly detailed manner. This field accepts ontology terms from Experimental Factor Ontology (EFO) and/or Ontology for Biomedical Investigations (OBI). For a browser of EFO (v 2.95) terms, please see http://purl.bioontology.org/ontology/EFO; for a browser of OBI (v 2018-02-12) terms please see http://purl.bioontology.org/ontology/OBI
-         * [me➞experimental_factor](me_experimental_factor.md)
-         * [migs_ba➞experimental_factor](migs_ba_experimental_factor.md)
-         * [migs_eu➞experimental_factor](migs_eu_experimental_factor.md)
-         * [migs_org➞experimental_factor](migs_org_experimental_factor.md)
-         * [migs_pl➞experimental_factor](migs_pl_experimental_factor.md)
-         * [migs_vi➞experimental_factor](migs_vi_experimental_factor.md)
-         * [mimag➞experimental_factor](mimag_experimental_factor.md)
-         * [mimarks_c➞experimental_factor](mimarks_c_experimental_factor.md)
-         * [mimarks_s➞experimental_factor](mimarks_s_experimental_factor.md)
-         * [misag➞experimental_factor](misag_experimental_factor.md)
-         * [miuvig➞experimental_factor](miuvig_experimental_factor.md)
+         * [ME➞experimental_factor](ME_experimental_factor.md)
+         * [MIGS bacteria➞experimental_factor](MIGS_bacteria_experimental_factor.md)
+         * [MIGS eukaryote➞experimental_factor](MIGS_eukaryote_experimental_factor.md)
+         * [MIGS org➞experimental_factor](MIGS_org_experimental_factor.md)
+         * [MIGS plant➞experimental_factor](MIGS_plant_experimental_factor.md)
+         * [MIGS virus➞experimental_factor](MIGS_virus_experimental_factor.md)
+         * [MIMAG➞experimental_factor](MIMAG_experimental_factor.md)
+         * [MIMARKS specimen➞experimental_factor](MIMARKS_specimen_experimental_factor.md)
+         * [MIMARKS survey➞experimental_factor](MIMARKS_survey_experimental_factor.md)
+         * [MISAG➞experimental_factor](MISAG_experimental_factor.md)
+         * [MIUVIG➞experimental_factor](MIUVIG_experimental_factor.md)
      * [investigation_type](investigation_type.md) - Nucleic Acid Sequence Report is the root element of all MIGS/MIMS compliant reports as standardized by Genomic Standards Consortium. This field is either eukaryote,bacteria,virus,plasmid,organelle, metagenome,mimarks-survey, mimarks-specimen, metatranscriptome, single amplified genome, metagenome-assembled genome, or uncultivated viral genome
-         * [me➞investigation_type](me_investigation_type.md)
-         * [migs_ba➞investigation_type](migs_ba_investigation_type.md)
-         * [migs_eu➞investigation_type](migs_eu_investigation_type.md)
-         * [migs_org➞investigation_type](migs_org_investigation_type.md)
-         * [migs_pl➞investigation_type](migs_pl_investigation_type.md)
-         * [migs_vi➞investigation_type](migs_vi_investigation_type.md)
-         * [mimag➞investigation_type](mimag_investigation_type.md)
-         * [mimarks_c➞investigation_type](mimarks_c_investigation_type.md)
-         * [mimarks_s➞investigation_type](mimarks_s_investigation_type.md)
-         * [misag➞investigation_type](misag_investigation_type.md)
-         * [miuvig➞investigation_type](miuvig_investigation_type.md)
+         * [ME➞investigation_type](ME_investigation_type.md)
+         * [MIGS bacteria➞investigation_type](MIGS_bacteria_investigation_type.md)
+         * [MIGS eukaryote➞investigation_type](MIGS_eukaryote_investigation_type.md)
+         * [MIGS org➞investigation_type](MIGS_org_investigation_type.md)
+         * [MIGS plant➞investigation_type](MIGS_plant_investigation_type.md)
+         * [MIGS virus➞investigation_type](MIGS_virus_investigation_type.md)
+         * [MIMAG➞investigation_type](MIMAG_investigation_type.md)
+         * [MIMARKS specimen➞investigation_type](MIMARKS_specimen_investigation_type.md)
+         * [MIMARKS survey➞investigation_type](MIMARKS_survey_investigation_type.md)
+         * [MISAG➞investigation_type](MISAG_investigation_type.md)
+         * [MIUVIG➞investigation_type](MIUVIG_investigation_type.md)
      * [project_name](project_name.md) - Name of the project within which the sequencing was organized
-         * [me➞project_name](me_project_name.md)
-         * [migs_ba➞project_name](migs_ba_project_name.md)
-         * [migs_eu➞project_name](migs_eu_project_name.md)
-         * [migs_org➞project_name](migs_org_project_name.md)
-         * [migs_pl➞project_name](migs_pl_project_name.md)
-         * [migs_vi➞project_name](migs_vi_project_name.md)
-         * [mimag➞project_name](mimag_project_name.md)
-         * [mimarks_c➞project_name](mimarks_c_project_name.md)
-         * [mimarks_s➞project_name](mimarks_s_project_name.md)
-         * [misag➞project_name](misag_project_name.md)
-         * [miuvig➞project_name](miuvig_project_name.md)
+         * [ME➞project_name](ME_project_name.md)
+         * [MIGS bacteria➞project_name](MIGS_bacteria_project_name.md)
+         * [MIGS eukaryote➞project_name](MIGS_eukaryote_project_name.md)
+         * [MIGS org➞project_name](MIGS_org_project_name.md)
+         * [MIGS plant➞project_name](MIGS_plant_project_name.md)
+         * [MIGS virus➞project_name](MIGS_virus_project_name.md)
+         * [MIMAG➞project_name](MIMAG_project_name.md)
+         * [MIMARKS specimen➞project_name](MIMARKS_specimen_project_name.md)
+         * [MIMARKS survey➞project_name](MIMARKS_survey_project_name.md)
+         * [MISAG➞project_name](MISAG_project_name.md)
+         * [MIUVIG➞project_name](MIUVIG_project_name.md)
      * [submitted_to_insdc](submitted_to_insdc.md) - Depending on the study (large-scale e.g. done with next generation sequencing technology, or small-scale) sequences have to be submitted to SRA (Sequence Read Archive), DRA (DDBJ Read Archive) or via the classical Webin/Sequin systems to Genbank, ENA and DDBJ. Although this field is mandatory, it is meant as a self-test field, therefore it is not necessary to include this field in contextual data submitted to databases
-         * [me➞submitted_to_insdc](me_submitted_to_insdc.md)
-         * [migs_ba➞submitted_to_insdc](migs_ba_submitted_to_insdc.md)
-         * [migs_eu➞submitted_to_insdc](migs_eu_submitted_to_insdc.md)
-         * [migs_org➞submitted_to_insdc](migs_org_submitted_to_insdc.md)
-         * [migs_pl➞submitted_to_insdc](migs_pl_submitted_to_insdc.md)
-         * [migs_vi➞submitted_to_insdc](migs_vi_submitted_to_insdc.md)
-         * [mimag➞submitted_to_insdc](mimag_submitted_to_insdc.md)
-         * [mimarks_c➞submitted_to_insdc](mimarks_c_submitted_to_insdc.md)
-         * [mimarks_s➞submitted_to_insdc](mimarks_s_submitted_to_insdc.md)
-         * [misag➞submitted_to_insdc](misag_submitted_to_insdc.md)
-         * [miuvig➞submitted_to_insdc](miuvig_submitted_to_insdc.md)
+         * [ME➞submitted_to_insdc](ME_submitted_to_insdc.md)
+         * [MIGS bacteria➞submitted_to_insdc](MIGS_bacteria_submitted_to_insdc.md)
+         * [MIGS eukaryote➞submitted_to_insdc](MIGS_eukaryote_submitted_to_insdc.md)
+         * [MIGS org➞submitted_to_insdc](MIGS_org_submitted_to_insdc.md)
+         * [MIGS plant➞submitted_to_insdc](MIGS_plant_submitted_to_insdc.md)
+         * [MIGS virus➞submitted_to_insdc](MIGS_virus_submitted_to_insdc.md)
+         * [MIMAG➞submitted_to_insdc](MIMAG_submitted_to_insdc.md)
+         * [MIMARKS specimen➞submitted_to_insdc](MIMARKS_specimen_submitted_to_insdc.md)
+         * [MIMARKS survey➞submitted_to_insdc](MIMARKS_survey_submitted_to_insdc.md)
+         * [MISAG➞submitted_to_insdc](MISAG_submitted_to_insdc.md)
+         * [MIUVIG➞submitted_to_insdc](MIUVIG_submitted_to_insdc.md)
  * [mixs extension field](mixs_extension_field.md)
      * [env_package](env_package.md) - MIxS extension for reporting of measurements and observations obtained from one or more of the environments where the sample was obtained. All environmental packages listed here are further defined in separate subtables. By giving the name of the environmental package, a selection of fields can be made from the subtables and can be reported
-         * [me➞env_package](me_env_package.md)
-         * [migs_ba➞env_package](migs_ba_env_package.md)
-         * [migs_eu➞env_package](migs_eu_env_package.md)
-         * [migs_org➞env_package](migs_org_env_package.md)
-         * [migs_pl➞env_package](migs_pl_env_package.md)
-         * [migs_vi➞env_package](migs_vi_env_package.md)
-         * [mimag➞env_package](mimag_env_package.md)
-         * [mimarks_c➞env_package](mimarks_c_env_package.md)
-         * [mimarks_s➞env_package](mimarks_s_env_package.md)
-         * [misag➞env_package](misag_env_package.md)
-         * [miuvig➞env_package](miuvig_env_package.md)
+         * [ME➞env_package](ME_env_package.md)
+         * [MIGS bacteria➞env_package](MIGS_bacteria_env_package.md)
+         * [MIGS eukaryote➞env_package](MIGS_eukaryote_env_package.md)
+         * [MIGS org➞env_package](MIGS_org_env_package.md)
+         * [MIGS plant➞env_package](MIGS_plant_env_package.md)
+         * [MIGS virus➞env_package](MIGS_virus_env_package.md)
+         * [MIMAG➞env_package](MIMAG_env_package.md)
+         * [MIMARKS specimen➞env_package](MIMARKS_specimen_env_package.md)
+         * [MIMARKS survey➞env_package](MIMARKS_survey_env_package.md)
+         * [MISAG➞env_package](MISAG_env_package.md)
+         * [MIUVIG➞env_package](MIUVIG_env_package.md)
  * [nucleic acid sequence source field](nucleic_acid_sequence_source_field.md)
      * [biotic_relationship](biotic_relationship.md) - Description of relationship(s) between the subject organism and other organism(s) it is associated with. E.g., parasite on species X; mutualist with species Y. The target organism is the subject of the relationship, and the other organism(s) is the object
-         * [migs_ba➞biotic_relationship](migs_ba_biotic_relationship.md)
-         * [migs_eu➞biotic_relationship](migs_eu_biotic_relationship.md)
-         * [migs_vi➞biotic_relationship](migs_vi_biotic_relationship.md)
-         * [mimarks_c➞biotic_relationship](mimarks_c_biotic_relationship.md)
-         * [miuvig➞biotic_relationship](miuvig_biotic_relationship.md)
+         * [MIGS bacteria➞biotic_relationship](MIGS_bacteria_biotic_relationship.md)
+         * [MIGS eukaryote➞biotic_relationship](MIGS_eukaryote_biotic_relationship.md)
+         * [MIGS virus➞biotic_relationship](MIGS_virus_biotic_relationship.md)
+         * [MIMARKS survey➞biotic_relationship](MIMARKS_survey_biotic_relationship.md)
+         * [MIUVIG➞biotic_relationship](MIUVIG_biotic_relationship.md)
      * [encoded_traits](encoded_traits.md) - Should include key traits like antibiotic resistance or xenobiotic degradation phenotypes for plasmids, converting genes for phage
-         * [migs_ba➞encoded_traits](migs_ba_encoded_traits.md)
-         * [migs_pl➞encoded_traits](migs_pl_encoded_traits.md)
-         * [migs_vi➞encoded_traits](migs_vi_encoded_traits.md)
+         * [MIGS bacteria➞encoded_traits](MIGS_bacteria_encoded_traits.md)
+         * [MIGS plant➞encoded_traits](MIGS_plant_encoded_traits.md)
+         * [MIGS virus➞encoded_traits](MIGS_virus_encoded_traits.md)
      * [estimated_size](estimated_size.md) - The estimated size of the genome prior to sequencing. Of particular importance in the sequencing of (eukaryotic) genome which could remain in draft form for a long or unspecified period.
-         * [migs_ba➞estimated_size](migs_ba_estimated_size.md)
-         * [migs_eu➞estimated_size](migs_eu_estimated_size.md)
-         * [migs_org➞estimated_size](migs_org_estimated_size.md)
-         * [migs_pl➞estimated_size](migs_pl_estimated_size.md)
-         * [migs_vi➞estimated_size](migs_vi_estimated_size.md)
-         * [miuvig➞estimated_size](miuvig_estimated_size.md)
+         * [MIGS bacteria➞estimated_size](MIGS_bacteria_estimated_size.md)
+         * [MIGS eukaryote➞estimated_size](MIGS_eukaryote_estimated_size.md)
+         * [MIGS org➞estimated_size](MIGS_org_estimated_size.md)
+         * [MIGS plant➞estimated_size](MIGS_plant_estimated_size.md)
+         * [MIGS virus➞estimated_size](MIGS_virus_estimated_size.md)
+         * [MIUVIG➞estimated_size](MIUVIG_estimated_size.md)
      * [extrachrom_elements](extrachrom_elements.md) - Do plasmids exist of significant phenotypic consequence (e.g. ones that determine virulence or antibiotic resistance). Megaplasmids? Other plasmids (borrelia has 15+ plasmids)
-         * [migs_ba➞extrachrom_elements](migs_ba_extrachrom_elements.md)
-         * [migs_eu➞extrachrom_elements](migs_eu_extrachrom_elements.md)
-         * [migs_org➞extrachrom_elements](migs_org_extrachrom_elements.md)
-         * [mimarks_c➞extrachrom_elements](mimarks_c_extrachrom_elements.md)
+         * [MIGS bacteria➞extrachrom_elements](MIGS_bacteria_extrachrom_elements.md)
+         * [MIGS eukaryote➞extrachrom_elements](MIGS_eukaryote_extrachrom_elements.md)
+         * [MIGS org➞extrachrom_elements](MIGS_org_extrachrom_elements.md)
+         * [MIMARKS survey➞extrachrom_elements](MIMARKS_survey_extrachrom_elements.md)
      * [health_disease_stat](health_disease_stat.md) - Health or disease status of specific host at time of collection
-         * [migs_ba➞health_disease_stat](migs_ba_health_disease_stat.md)
-         * [migs_eu➞health_disease_stat](migs_eu_health_disease_stat.md)
-         * [migs_vi➞health_disease_stat](migs_vi_health_disease_stat.md)
+         * [MIGS bacteria➞health_disease_stat](MIGS_bacteria_health_disease_stat.md)
+         * [MIGS eukaryote➞health_disease_stat](MIGS_eukaryote_health_disease_stat.md)
+         * [MIGS virus➞health_disease_stat](MIGS_virus_health_disease_stat.md)
      * [host_spec_range](host_spec_range.md) - The NCBI taxonomy identifier of the specific host if it is known
-         * [migs_ba➞host_spec_range](migs_ba_host_spec_range.md)
-         * [migs_eu➞host_spec_range](migs_eu_host_spec_range.md)
-         * [migs_pl➞host_spec_range](migs_pl_host_spec_range.md)
-         * [migs_vi➞host_spec_range](migs_vi_host_spec_range.md)
-         * [miuvig➞host_spec_range](miuvig_host_spec_range.md)
+         * [MIGS bacteria➞host_spec_range](MIGS_bacteria_host_spec_range.md)
+         * [MIGS eukaryote➞host_spec_range](MIGS_eukaryote_host_spec_range.md)
+         * [MIGS plant➞host_spec_range](MIGS_plant_host_spec_range.md)
+         * [MIGS virus➞host_spec_range](MIGS_virus_host_spec_range.md)
+         * [MIUVIG➞host_spec_range](MIUVIG_host_spec_range.md)
      * [isol_growth_condt](isol_growth_condt.md) - Publication reference in the form of pubmed ID (pmid), digital object identifier (doi) or url for isolation and growth condition specifications of the organism/material
-         * [migs_ba➞isol_growth_condt](migs_ba_isol_growth_condt.md)
-         * [migs_eu➞isol_growth_condt](migs_eu_isol_growth_condt.md)
-         * [migs_org➞isol_growth_condt](migs_org_isol_growth_condt.md)
-         * [migs_pl➞isol_growth_condt](migs_pl_isol_growth_condt.md)
-         * [migs_vi➞isol_growth_condt](migs_vi_isol_growth_condt.md)
-         * [mimarks_c➞isol_growth_condt](mimarks_c_isol_growth_condt.md)
+         * [MIGS bacteria➞isol_growth_condt](MIGS_bacteria_isol_growth_condt.md)
+         * [MIGS eukaryote➞isol_growth_condt](MIGS_eukaryote_isol_growth_condt.md)
+         * [MIGS org➞isol_growth_condt](MIGS_org_isol_growth_condt.md)
+         * [MIGS plant➞isol_growth_condt](MIGS_plant_isol_growth_condt.md)
+         * [MIGS virus➞isol_growth_condt](MIGS_virus_isol_growth_condt.md)
+         * [MIMARKS survey➞isol_growth_condt](MIMARKS_survey_isol_growth_condt.md)
      * [num_replicons](num_replicons.md) - Reports the number of replicons in a nuclear genome of eukaryotes, in the genome of a bacterium or archaea or the number of segments in a segmented virus. Always applied to the haploid chromosome count of a eukaryote
-         * [migs_ba➞num_replicons](migs_ba_num_replicons.md)
-         * [migs_eu➞num_replicons](migs_eu_num_replicons.md)
-         * [migs_vi➞num_replicons](migs_vi_num_replicons.md)
+         * [MIGS bacteria➞num_replicons](MIGS_bacteria_num_replicons.md)
+         * [MIGS eukaryote➞num_replicons](MIGS_eukaryote_num_replicons.md)
+         * [MIGS virus➞num_replicons](MIGS_virus_num_replicons.md)
      * [pathogenicity](pathogenicity.md) - To what is the entity pathogenic
-         * [migs_ba➞pathogenicity](migs_ba_pathogenicity.md)
-         * [migs_eu➞pathogenicity](migs_eu_pathogenicity.md)
-         * [migs_vi➞pathogenicity](migs_vi_pathogenicity.md)
-         * [miuvig➞pathogenicity](miuvig_pathogenicity.md)
+         * [MIGS bacteria➞pathogenicity](MIGS_bacteria_pathogenicity.md)
+         * [MIGS eukaryote➞pathogenicity](MIGS_eukaryote_pathogenicity.md)
+         * [MIGS virus➞pathogenicity](MIGS_virus_pathogenicity.md)
+         * [MIUVIG➞pathogenicity](MIUVIG_pathogenicity.md)
      * [ploidy](ploidy.md) - The ploidy level of the genome (e.g. allopolyploid, haploid, diploid, triploid, tetraploid). It has implications for the downstream study of duplicated gene and regions of the genomes (and perhaps for difficulties in assembly). For terms, please select terms listed under class ploidy (PATO:001374) of Phenotypic Quality Ontology (PATO), and for a browser of PATO (v 2018-03-27) please refer to http://purl.bioontology.org/ontology/PATO
-         * [migs_eu➞ploidy](migs_eu_ploidy.md)
+         * [MIGS eukaryote➞ploidy](MIGS_eukaryote_ploidy.md)
      * [propagation](propagation.md) - This field is specific to different taxa. For phages: lytic/lysogenic, for plasmids: incompatibility group, for eukaryotes: sexual/asexual (Note: there is the strong opinion to name phage propagation obligately lytic or temperate, therefore we also give this choice
-         * [migs_eu➞propagation](migs_eu_propagation.md)
-         * [migs_pl➞propagation](migs_pl_propagation.md)
-         * [migs_vi➞propagation](migs_vi_propagation.md)
+         * [MIGS eukaryote➞propagation](MIGS_eukaryote_propagation.md)
+         * [MIGS plant➞propagation](MIGS_plant_propagation.md)
+         * [MIGS virus➞propagation](MIGS_virus_propagation.md)
      * [ref_biomaterial](ref_biomaterial.md) - Primary publication if isolated before genome publication; otherwise, primary genome report
-         * [me➞ref_biomaterial](me_ref_biomaterial.md)
-         * [migs_ba➞ref_biomaterial](migs_ba_ref_biomaterial.md)
-         * [migs_eu➞ref_biomaterial](migs_eu_ref_biomaterial.md)
-         * [migs_org➞ref_biomaterial](migs_org_ref_biomaterial.md)
-         * [migs_pl➞ref_biomaterial](migs_pl_ref_biomaterial.md)
-         * [migs_vi➞ref_biomaterial](migs_vi_ref_biomaterial.md)
-         * [mimag➞ref_biomaterial](mimag_ref_biomaterial.md)
-         * [misag➞ref_biomaterial](misag_ref_biomaterial.md)
-         * [miuvig➞ref_biomaterial](miuvig_ref_biomaterial.md)
+         * [ME➞ref_biomaterial](ME_ref_biomaterial.md)
+         * [MIGS bacteria➞ref_biomaterial](MIGS_bacteria_ref_biomaterial.md)
+         * [MIGS eukaryote➞ref_biomaterial](MIGS_eukaryote_ref_biomaterial.md)
+         * [MIGS org➞ref_biomaterial](MIGS_org_ref_biomaterial.md)
+         * [MIGS plant➞ref_biomaterial](MIGS_plant_ref_biomaterial.md)
+         * [MIGS virus➞ref_biomaterial](MIGS_virus_ref_biomaterial.md)
+         * [MIMAG➞ref_biomaterial](MIMAG_ref_biomaterial.md)
+         * [MISAG➞ref_biomaterial](MISAG_ref_biomaterial.md)
+         * [MIUVIG➞ref_biomaterial](MIUVIG_ref_biomaterial.md)
      * [rel_to_oxygen](rel_to_oxygen.md) - Is this organism an aerobe, anaerobe? Please note that aerobic and anaerobic are valid descriptors for microbial environments
-         * [me➞rel_to_oxygen](me_rel_to_oxygen.md)
-         * [migs_ba➞rel_to_oxygen](migs_ba_rel_to_oxygen.md)
-         * [mimag➞rel_to_oxygen](mimag_rel_to_oxygen.md)
-         * [mimarks_c➞rel_to_oxygen](mimarks_c_rel_to_oxygen.md)
-         * [mimarks_s➞rel_to_oxygen](mimarks_s_rel_to_oxygen.md)
-         * [misag➞rel_to_oxygen](misag_rel_to_oxygen.md)
+         * [ME➞rel_to_oxygen](ME_rel_to_oxygen.md)
+         * [MIGS bacteria➞rel_to_oxygen](MIGS_bacteria_rel_to_oxygen.md)
+         * [MIMAG➞rel_to_oxygen](MIMAG_rel_to_oxygen.md)
+         * [MIMARKS specimen➞rel_to_oxygen](MIMARKS_specimen_rel_to_oxygen.md)
+         * [MIMARKS survey➞rel_to_oxygen](MIMARKS_survey_rel_to_oxygen.md)
+         * [MISAG➞rel_to_oxygen](MISAG_rel_to_oxygen.md)
      * [samp_collect_device](samp_collect_device.md) - The method or device employed for collecting the sample
-         * [me➞samp_collect_device](me_samp_collect_device.md)
-         * [migs_ba➞samp_collect_device](migs_ba_samp_collect_device.md)
-         * [migs_eu➞samp_collect_device](migs_eu_samp_collect_device.md)
-         * [migs_org➞samp_collect_device](migs_org_samp_collect_device.md)
-         * [migs_pl➞samp_collect_device](migs_pl_samp_collect_device.md)
-         * [migs_vi➞samp_collect_device](migs_vi_samp_collect_device.md)
-         * [mimag➞samp_collect_device](mimag_samp_collect_device.md)
-         * [mimarks_c➞samp_collect_device](mimarks_c_samp_collect_device.md)
-         * [mimarks_s➞samp_collect_device](mimarks_s_samp_collect_device.md)
-         * [misag➞samp_collect_device](misag_samp_collect_device.md)
-         * [miuvig➞samp_collect_device](miuvig_samp_collect_device.md)
+         * [ME➞samp_collect_device](ME_samp_collect_device.md)
+         * [MIGS bacteria➞samp_collect_device](MIGS_bacteria_samp_collect_device.md)
+         * [MIGS eukaryote➞samp_collect_device](MIGS_eukaryote_samp_collect_device.md)
+         * [MIGS org➞samp_collect_device](MIGS_org_samp_collect_device.md)
+         * [MIGS plant➞samp_collect_device](MIGS_plant_samp_collect_device.md)
+         * [MIGS virus➞samp_collect_device](MIGS_virus_samp_collect_device.md)
+         * [MIMAG➞samp_collect_device](MIMAG_samp_collect_device.md)
+         * [MIMARKS specimen➞samp_collect_device](MIMARKS_specimen_samp_collect_device.md)
+         * [MIMARKS survey➞samp_collect_device](MIMARKS_survey_samp_collect_device.md)
+         * [MISAG➞samp_collect_device](MISAG_samp_collect_device.md)
+         * [MIUVIG➞samp_collect_device](MIUVIG_samp_collect_device.md)
      * [samp_mat_process](samp_mat_process.md) - Any processing applied to the sample during or after retrieving the sample from environment. This field accepts OBI, for a browser of OBI (v 2018-02-12) terms please see http://purl.bioontology.org/ontology/OBI
-         * [me➞samp_mat_process](me_samp_mat_process.md)
-         * [migs_ba➞samp_mat_process](migs_ba_samp_mat_process.md)
-         * [migs_eu➞samp_mat_process](migs_eu_samp_mat_process.md)
-         * [migs_org➞samp_mat_process](migs_org_samp_mat_process.md)
-         * [migs_pl➞samp_mat_process](migs_pl_samp_mat_process.md)
-         * [migs_vi➞samp_mat_process](migs_vi_samp_mat_process.md)
-         * [mimag➞samp_mat_process](mimag_samp_mat_process.md)
-         * [mimarks_c➞samp_mat_process](mimarks_c_samp_mat_process.md)
-         * [mimarks_s➞samp_mat_process](mimarks_s_samp_mat_process.md)
-         * [misag➞samp_mat_process](misag_samp_mat_process.md)
-         * [miuvig➞samp_mat_process](miuvig_samp_mat_process.md)
+         * [ME➞samp_mat_process](ME_samp_mat_process.md)
+         * [MIGS bacteria➞samp_mat_process](MIGS_bacteria_samp_mat_process.md)
+         * [MIGS eukaryote➞samp_mat_process](MIGS_eukaryote_samp_mat_process.md)
+         * [MIGS org➞samp_mat_process](MIGS_org_samp_mat_process.md)
+         * [MIGS plant➞samp_mat_process](MIGS_plant_samp_mat_process.md)
+         * [MIGS virus➞samp_mat_process](MIGS_virus_samp_mat_process.md)
+         * [MIMAG➞samp_mat_process](MIMAG_samp_mat_process.md)
+         * [MIMARKS specimen➞samp_mat_process](MIMARKS_specimen_samp_mat_process.md)
+         * [MIMARKS survey➞samp_mat_process](MIMARKS_survey_samp_mat_process.md)
+         * [MISAG➞samp_mat_process](MISAG_samp_mat_process.md)
+         * [MIUVIG➞samp_mat_process](MIUVIG_samp_mat_process.md)
      * [samp_size](samp_size.md) - Amount or size of sample (volume, mass or area) that was collected
-         * [me➞samp_size](me_samp_size.md)
-         * [migs_ba➞samp_size](migs_ba_samp_size.md)
-         * [migs_eu➞samp_size](migs_eu_samp_size.md)
-         * [migs_org➞samp_size](migs_org_samp_size.md)
-         * [migs_pl➞samp_size](migs_pl_samp_size.md)
-         * [migs_vi➞samp_size](migs_vi_samp_size.md)
-         * [mimag➞samp_size](mimag_samp_size.md)
-         * [mimarks_c➞samp_size](mimarks_c_samp_size.md)
-         * [mimarks_s➞samp_size](mimarks_s_samp_size.md)
-         * [misag➞samp_size](misag_samp_size.md)
-         * [miuvig➞samp_size](miuvig_samp_size.md)
+         * [ME➞samp_size](ME_samp_size.md)
+         * [MIGS bacteria➞samp_size](MIGS_bacteria_samp_size.md)
+         * [MIGS eukaryote➞samp_size](MIGS_eukaryote_samp_size.md)
+         * [MIGS org➞samp_size](MIGS_org_samp_size.md)
+         * [MIGS plant➞samp_size](MIGS_plant_samp_size.md)
+         * [MIGS virus➞samp_size](MIGS_virus_samp_size.md)
+         * [MIMAG➞samp_size](MIMAG_samp_size.md)
+         * [MIMARKS specimen➞samp_size](MIMARKS_specimen_samp_size.md)
+         * [MIMARKS survey➞samp_size](MIMARKS_survey_samp_size.md)
+         * [MISAG➞samp_size](MISAG_samp_size.md)
+         * [MIUVIG➞samp_size](MIUVIG_samp_size.md)
      * [size_frac](size_frac.md) - Filtering pore size used in sample preparation
-         * [me➞size_frac](me_size_frac.md)
-         * [mimag➞size_frac](mimag_size_frac.md)
-         * [mimarks_s➞size_frac](mimarks_s_size_frac.md)
-         * [misag➞size_frac](misag_size_frac.md)
-         * [miuvig➞size_frac](miuvig_size_frac.md)
+         * [ME➞size_frac](ME_size_frac.md)
+         * [MIMAG➞size_frac](MIMAG_size_frac.md)
+         * [MIMARKS specimen➞size_frac](MIMARKS_specimen_size_frac.md)
+         * [MISAG➞size_frac](MISAG_size_frac.md)
+         * [MIUVIG➞size_frac](MIUVIG_size_frac.md)
      * [source_mat_id](source_mat_id.md) - A unique identifier assigned to a material sample (as defined by http://rs.tdwg.org/dwc/terms/materialSampleID, and as opposed to a particular digital record of a material sample) used for extracting nucleic acids, and subsequent sequencing. The identifier can refer either to the original material collected or to any derived sub-samples. The INSDC qualifiers /specimen_voucher, /bio_material, or /culture_collection may or may not share the same value as the source_mat_id field. For instance, the /specimen_voucher qualifier and source_mat_id may both contain 'UAM:Herps:14' , referring to both the specimen voucher and sampled tissue with the same identifier. However, the /culture_collection qualifier may refer to a value from an initial culture (e.g. ATCC:11775) while source_mat_id would refer to an identifier from some derived culture from which the nucleic acids were extracted (e.g. xatc123 or ark:/2154/R2).
-         * [me➞source_mat_id](me_source_mat_id.md)
-         * [migs_ba➞source_mat_id](migs_ba_source_mat_id.md)
-         * [migs_eu➞source_mat_id](migs_eu_source_mat_id.md)
-         * [migs_org➞source_mat_id](migs_org_source_mat_id.md)
-         * [migs_pl➞source_mat_id](migs_pl_source_mat_id.md)
-         * [migs_vi➞source_mat_id](migs_vi_source_mat_id.md)
-         * [mimag➞source_mat_id](mimag_source_mat_id.md)
-         * [mimarks_c➞source_mat_id](mimarks_c_source_mat_id.md)
-         * [mimarks_s➞source_mat_id](mimarks_s_source_mat_id.md)
-         * [misag➞source_mat_id](misag_source_mat_id.md)
-         * [miuvig➞source_mat_id](miuvig_source_mat_id.md)
+         * [ME➞source_mat_id](ME_source_mat_id.md)
+         * [MIGS bacteria➞source_mat_id](MIGS_bacteria_source_mat_id.md)
+         * [MIGS eukaryote➞source_mat_id](MIGS_eukaryote_source_mat_id.md)
+         * [MIGS org➞source_mat_id](MIGS_org_source_mat_id.md)
+         * [MIGS plant➞source_mat_id](MIGS_plant_source_mat_id.md)
+         * [MIGS virus➞source_mat_id](MIGS_virus_source_mat_id.md)
+         * [MIMAG➞source_mat_id](MIMAG_source_mat_id.md)
+         * [MIMARKS specimen➞source_mat_id](MIMARKS_specimen_source_mat_id.md)
+         * [MIMARKS survey➞source_mat_id](MIMARKS_survey_source_mat_id.md)
+         * [MISAG➞source_mat_id](MISAG_source_mat_id.md)
+         * [MIUVIG➞source_mat_id](MIUVIG_source_mat_id.md)
      * [source_uvig](source_uvig.md) - Type of dataset from which the UViG was obtained
-         * [miuvig➞source_uvig](miuvig_source_uvig.md)
+         * [MIUVIG➞source_uvig](MIUVIG_source_uvig.md)
      * [specific_host](specific_host.md) - If there is a host involved, please provide its taxid (or environmental if not actually isolated from the dead or alive host - i.e. a pathogen could be isolated from a swipe of a bench etc) and report whether it is a laboratory or natural host)
-         * [migs_ba➞specific_host](migs_ba_specific_host.md)
-         * [migs_eu➞specific_host](migs_eu_specific_host.md)
-         * [migs_pl➞specific_host](migs_pl_specific_host.md)
-         * [migs_vi➞specific_host](migs_vi_specific_host.md)
-         * [miuvig➞specific_host](miuvig_specific_host.md)
+         * [MIGS bacteria➞specific_host](MIGS_bacteria_specific_host.md)
+         * [MIGS eukaryote➞specific_host](MIGS_eukaryote_specific_host.md)
+         * [MIGS plant➞specific_host](MIGS_plant_specific_host.md)
+         * [MIGS virus➞specific_host](MIGS_virus_specific_host.md)
+         * [MIUVIG➞specific_host](MIUVIG_specific_host.md)
      * [subspecf_gen_lin](subspecf_gen_lin.md) - This should provide further information about the genetic distinctness of the sequenced organism by recording additional information e.g. serovar, serotype, biotype, ecotype, or any relevant genetic typing schemes like Group I plasmid. It can also contain alternative taxonomic information. It should contain both the lineage name, and the lineage rank, i.e. biovar:abc123
-         * [migs_ba➞subspecf_gen_lin](migs_ba_subspecf_gen_lin.md)
-         * [migs_eu➞subspecf_gen_lin](migs_eu_subspecf_gen_lin.md)
-         * [migs_org➞subspecf_gen_lin](migs_org_subspecf_gen_lin.md)
-         * [migs_pl➞subspecf_gen_lin](migs_pl_subspecf_gen_lin.md)
-         * [migs_vi➞subspecf_gen_lin](migs_vi_subspecf_gen_lin.md)
-         * [mimarks_c➞subspecf_gen_lin](mimarks_c_subspecf_gen_lin.md)
+         * [MIGS bacteria➞subspecf_gen_lin](MIGS_bacteria_subspecf_gen_lin.md)
+         * [MIGS eukaryote➞subspecf_gen_lin](MIGS_eukaryote_subspecf_gen_lin.md)
+         * [MIGS org➞subspecf_gen_lin](MIGS_org_subspecf_gen_lin.md)
+         * [MIGS plant➞subspecf_gen_lin](MIGS_plant_subspecf_gen_lin.md)
+         * [MIGS virus➞subspecf_gen_lin](MIGS_virus_subspecf_gen_lin.md)
+         * [MIMARKS survey➞subspecf_gen_lin](MIMARKS_survey_subspecf_gen_lin.md)
      * [trophic_level](trophic_level.md) - Trophic levels are the feeding position in a food chain. Microbes can be a range of producers (e.g. chemolithotroph)
-         * [migs_ba➞trophic_level](migs_ba_trophic_level.md)
-         * [migs_eu➞trophic_level](migs_eu_trophic_level.md)
-         * [mimarks_c➞trophic_level](mimarks_c_trophic_level.md)
+         * [MIGS bacteria➞trophic_level](MIGS_bacteria_trophic_level.md)
+         * [MIGS eukaryote➞trophic_level](MIGS_eukaryote_trophic_level.md)
+         * [MIMARKS survey➞trophic_level](MIMARKS_survey_trophic_level.md)
      * [virus_enrich_appr](virus_enrich_appr.md) - List of approaches used to enrich the sample for viruses, if any
-         * [migs_vi➞virus_enrich_appr](migs_vi_virus_enrich_appr.md)
-         * [miuvig➞virus_enrich_appr](miuvig_virus_enrich_appr.md)
+         * [MIGS virus➞virus_enrich_appr](MIGS_virus_virus_enrich_appr.md)
+         * [MIUVIG➞virus_enrich_appr](MIUVIG_virus_enrich_appr.md)
  * [➞has numeric value](quantityValue__has_numeric_value.md)
  * [➞has raw value](quantityValue__has_raw_value.md)
  * [➞has unit](quantityValue__has_unit.md) - Example "m"
  * [sequencing field](sequencing_field.md)
      * [adapters](adapters.md) - Adapters provide priming sequences for both amplification and sequencing of the sample-library fragments. Both adapters should be reported; in uppercase letters
-         * [me➞adapters](me_adapters.md)
-         * [migs_ba➞adapters](migs_ba_adapters.md)
-         * [migs_eu➞adapters](migs_eu_adapters.md)
-         * [migs_org➞adapters](migs_org_adapters.md)
-         * [migs_pl➞adapters](migs_pl_adapters.md)
-         * [migs_vi➞adapters](migs_vi_adapters.md)
-         * [mimag➞adapters](mimag_adapters.md)
-         * [mimarks_s➞adapters](mimarks_s_adapters.md)
-         * [misag➞adapters](misag_adapters.md)
-         * [miuvig➞adapters](miuvig_adapters.md)
+         * [ME➞adapters](ME_adapters.md)
+         * [MIGS bacteria➞adapters](MIGS_bacteria_adapters.md)
+         * [MIGS eukaryote➞adapters](MIGS_eukaryote_adapters.md)
+         * [MIGS org➞adapters](MIGS_org_adapters.md)
+         * [MIGS plant➞adapters](MIGS_plant_adapters.md)
+         * [MIGS virus➞adapters](MIGS_virus_adapters.md)
+         * [MIMAG➞adapters](MIMAG_adapters.md)
+         * [MIMARKS specimen➞adapters](MIMARKS_specimen_adapters.md)
+         * [MISAG➞adapters](MISAG_adapters.md)
+         * [MIUVIG➞adapters](MIUVIG_adapters.md)
      * [annot](annot.md) - Tool used for annotation, or for cases where annotation was provided by a community jamboree or model organism database rather than by a specific submitter
-         * [me➞annot](me_annot.md)
-         * [migs_ba➞annot](migs_ba_annot.md)
-         * [migs_eu➞annot](migs_eu_annot.md)
-         * [migs_org➞annot](migs_org_annot.md)
-         * [migs_pl➞annot](migs_pl_annot.md)
-         * [migs_vi➞annot](migs_vi_annot.md)
-         * [mimag➞annot](mimag_annot.md)
-         * [misag➞annot](misag_annot.md)
-         * [miuvig➞annot](miuvig_annot.md)
+         * [ME➞annot](ME_annot.md)
+         * [MIGS bacteria➞annot](MIGS_bacteria_annot.md)
+         * [MIGS eukaryote➞annot](MIGS_eukaryote_annot.md)
+         * [MIGS org➞annot](MIGS_org_annot.md)
+         * [MIGS plant➞annot](MIGS_plant_annot.md)
+         * [MIGS virus➞annot](MIGS_virus_annot.md)
+         * [MIMAG➞annot](MIMAG_annot.md)
+         * [MISAG➞annot](MISAG_annot.md)
+         * [MIUVIG➞annot](MIUVIG_annot.md)
      * [assembly_name](assembly_name.md) - Name/version of the assembly provided by the submitter that is used in the genome browsers and in the community
-         * [me➞assembly_name](me_assembly_name.md)
-         * [migs_ba➞assembly_name](migs_ba_assembly_name.md)
-         * [migs_eu➞assembly_name](migs_eu_assembly_name.md)
-         * [migs_org➞assembly_name](migs_org_assembly_name.md)
-         * [migs_pl➞assembly_name](migs_pl_assembly_name.md)
-         * [migs_vi➞assembly_name](migs_vi_assembly_name.md)
-         * [mimag➞assembly_name](mimag_assembly_name.md)
-         * [misag➞assembly_name](misag_assembly_name.md)
-         * [miuvig➞assembly_name](miuvig_assembly_name.md)
+         * [ME➞assembly_name](ME_assembly_name.md)
+         * [MIGS bacteria➞assembly_name](MIGS_bacteria_assembly_name.md)
+         * [MIGS eukaryote➞assembly_name](MIGS_eukaryote_assembly_name.md)
+         * [MIGS org➞assembly_name](MIGS_org_assembly_name.md)
+         * [MIGS plant➞assembly_name](MIGS_plant_assembly_name.md)
+         * [MIGS virus➞assembly_name](MIGS_virus_assembly_name.md)
+         * [MIMAG➞assembly_name](MIMAG_assembly_name.md)
+         * [MISAG➞assembly_name](MISAG_assembly_name.md)
+         * [MIUVIG➞assembly_name](MIUVIG_assembly_name.md)
      * [assembly_qual](assembly_qual.md) - The assembly quality category is based on sets of criteria outlined for each assembly quality category. For MISAG/MIMAG; Finished: Single, validated, contiguous sequence per replicon without gaps or ambiguities with a consensus error rate equivalent to Q50 or better. High Quality Draft:Multiple fragments where gaps span repetitive regions. Presence of the 23S, 16S and 5S rRNA genes and at least 18 tRNAs. Medium Quality Draft:Many fragments with little to no review of assembly other than reporting of standard assembly statistics. Low Quality Draft:Many fragments with little to no review of assembly other than reporting of standard assembly statistics. Assembly statistics include, but are not limited to total assembly size, number of contigs, contig N50/L50, and maximum contig length. For MIUVIG; Finished: Single, validated, contiguous sequence per replicon without gaps or ambiguities, with extensive manual review and editing to annotate putative gene functions and transcriptional units. High-quality draft genome: One or multiple fragments, totaling ≥ 90% of the expected genome or replicon sequence or predicted complete. Genome fragment(s): One or multiple fragments, totalling < 90% of the expected genome or replicon sequence, or for which no genome size could be estimated
-         * [me➞assembly_qual](me_assembly_qual.md)
-         * [migs_ba➞assembly_qual](migs_ba_assembly_qual.md)
-         * [migs_eu➞assembly_qual](migs_eu_assembly_qual.md)
-         * [migs_org➞assembly_qual](migs_org_assembly_qual.md)
-         * [migs_pl➞assembly_qual](migs_pl_assembly_qual.md)
-         * [migs_vi➞assembly_qual](migs_vi_assembly_qual.md)
-         * [mimag➞assembly_qual](mimag_assembly_qual.md)
-         * [misag➞assembly_qual](misag_assembly_qual.md)
-         * [miuvig➞assembly_qual](miuvig_assembly_qual.md)
+         * [ME➞assembly_qual](ME_assembly_qual.md)
+         * [MIGS bacteria➞assembly_qual](MIGS_bacteria_assembly_qual.md)
+         * [MIGS eukaryote➞assembly_qual](MIGS_eukaryote_assembly_qual.md)
+         * [MIGS org➞assembly_qual](MIGS_org_assembly_qual.md)
+         * [MIGS plant➞assembly_qual](MIGS_plant_assembly_qual.md)
+         * [MIGS virus➞assembly_qual](MIGS_virus_assembly_qual.md)
+         * [MIMAG➞assembly_qual](MIMAG_assembly_qual.md)
+         * [MISAG➞assembly_qual](MISAG_assembly_qual.md)
+         * [MIUVIG➞assembly_qual](MIUVIG_assembly_qual.md)
      * [assembly_software](assembly_software.md) - Tool(s) used for assembly, including version number and parameters
-         * [me➞assembly_software](me_assembly_software.md)
-         * [migs_ba➞assembly_software](migs_ba_assembly_software.md)
-         * [migs_eu➞assembly_software](migs_eu_assembly_software.md)
-         * [migs_org➞assembly_software](migs_org_assembly_software.md)
-         * [migs_pl➞assembly_software](migs_pl_assembly_software.md)
-         * [migs_vi➞assembly_software](migs_vi_assembly_software.md)
-         * [mimag➞assembly_software](mimag_assembly_software.md)
-         * [mimarks_s➞assembly_software](mimarks_s_assembly_software.md)
-         * [misag➞assembly_software](misag_assembly_software.md)
-         * [miuvig➞assembly_software](miuvig_assembly_software.md)
+         * [ME➞assembly_software](ME_assembly_software.md)
+         * [MIGS bacteria➞assembly_software](MIGS_bacteria_assembly_software.md)
+         * [MIGS eukaryote➞assembly_software](MIGS_eukaryote_assembly_software.md)
+         * [MIGS org➞assembly_software](MIGS_org_assembly_software.md)
+         * [MIGS plant➞assembly_software](MIGS_plant_assembly_software.md)
+         * [MIGS virus➞assembly_software](MIGS_virus_assembly_software.md)
+         * [MIMAG➞assembly_software](MIMAG_assembly_software.md)
+         * [MIMARKS specimen➞assembly_software](MIMARKS_specimen_assembly_software.md)
+         * [MISAG➞assembly_software](MISAG_assembly_software.md)
+         * [MIUVIG➞assembly_software](MIUVIG_assembly_software.md)
      * [bin_param](bin_param.md) - The parameters that have been applied during the extraction of genomes from metagenomic datasets
-         * [mimag➞bin_param](mimag_bin_param.md)
-         * [miuvig➞bin_param](miuvig_bin_param.md)
+         * [MIMAG➞bin_param](MIMAG_bin_param.md)
+         * [MIUVIG➞bin_param](MIUVIG_bin_param.md)
      * [bin_software](bin_software.md) - Tool(s) used for the extraction of genomes from metagenomic datasets
-         * [mimag➞bin_software](mimag_bin_software.md)
-         * [miuvig➞bin_software](miuvig_bin_software.md)
+         * [MIMAG➞bin_software](MIMAG_bin_software.md)
+         * [MIUVIG➞bin_software](MIUVIG_bin_software.md)
      * [chimera_check](chimera_check.md) - A chimeric sequence, or chimera for short, is a sequence comprised of two or more phylogenetically distinct parent sequences. Chimeras are usually PCR artifacts thought to occur when a prematurely terminated amplicon reanneals to a foreign DNA strand and is copied to completion in the following PCR cycles. The point at which the chimeric sequence changes from one parent to the next is called the breakpoint or conversion point
-         * [mimarks_c➞chimera_check](mimarks_c_chimera_check.md)
-         * [mimarks_s➞chimera_check](mimarks_s_chimera_check.md)
+         * [MIMARKS specimen➞chimera_check](MIMARKS_specimen_chimera_check.md)
+         * [MIMARKS survey➞chimera_check](MIMARKS_survey_chimera_check.md)
      * [compl_appr](compl_appr.md) - The approach used to determine the completeness of a given SAG or MAG, which would typically make use of a set of conserved marker genes or a closely related reference genome. For UViG completeness, include reference genome or group used, and contig feature suggesting a complete genome
-         * [mimag➞compl_appr](mimag_compl_appr.md)
-         * [misag➞compl_appr](misag_compl_appr.md)
-         * [miuvig➞compl_appr](miuvig_compl_appr.md)
+         * [MIMAG➞compl_appr](MIMAG_compl_appr.md)
+         * [MISAG➞compl_appr](MISAG_compl_appr.md)
+         * [MIUVIG➞compl_appr](MIUVIG_compl_appr.md)
      * [compl_score](compl_score.md) - Completeness score is typically based on either the fraction of markers found as compared to a database or the percent of a genome found as compared to a closely related reference genome. High Quality Draft: >90%, Medium Quality Draft: >50%, and Low Quality Draft: < 50% should have the indicated completeness scores
-         * [migs_ba➞compl_score](migs_ba_compl_score.md)
-         * [migs_eu➞compl_score](migs_eu_compl_score.md)
-         * [migs_org➞compl_score](migs_org_compl_score.md)
-         * [migs_pl➞compl_score](migs_pl_compl_score.md)
-         * [migs_vi➞compl_score](migs_vi_compl_score.md)
-         * [mimag➞compl_score](mimag_compl_score.md)
-         * [misag➞compl_score](misag_compl_score.md)
-         * [miuvig➞compl_score](miuvig_compl_score.md)
+         * [MIGS bacteria➞compl_score](MIGS_bacteria_compl_score.md)
+         * [MIGS eukaryote➞compl_score](MIGS_eukaryote_compl_score.md)
+         * [MIGS org➞compl_score](MIGS_org_compl_score.md)
+         * [MIGS plant➞compl_score](MIGS_plant_compl_score.md)
+         * [MIGS virus➞compl_score](MIGS_virus_compl_score.md)
+         * [MIMAG➞compl_score](MIMAG_compl_score.md)
+         * [MISAG➞compl_score](MISAG_compl_score.md)
+         * [MIUVIG➞compl_score](MIUVIG_compl_score.md)
      * [compl_software](compl_software.md) - Tools used for completion estimate, i.e. checkm, anvi'o, busco
-         * [migs_ba➞compl_software](migs_ba_compl_software.md)
-         * [migs_eu➞compl_software](migs_eu_compl_software.md)
-         * [migs_org➞compl_software](migs_org_compl_software.md)
-         * [migs_pl➞compl_software](migs_pl_compl_software.md)
-         * [migs_vi➞compl_software](migs_vi_compl_software.md)
-         * [mimag➞compl_software](mimag_compl_software.md)
-         * [misag➞compl_software](misag_compl_software.md)
-         * [miuvig➞compl_software](miuvig_compl_software.md)
+         * [MIGS bacteria➞compl_software](MIGS_bacteria_compl_software.md)
+         * [MIGS eukaryote➞compl_software](MIGS_eukaryote_compl_software.md)
+         * [MIGS org➞compl_software](MIGS_org_compl_software.md)
+         * [MIGS plant➞compl_software](MIGS_plant_compl_software.md)
+         * [MIGS virus➞compl_software](MIGS_virus_compl_software.md)
+         * [MIMAG➞compl_software](MIMAG_compl_software.md)
+         * [MISAG➞compl_software](MISAG_compl_software.md)
+         * [MIUVIG➞compl_software](MIUVIG_compl_software.md)
      * [contam_score](contam_score.md) - The contamination score is based on the fraction of single-copy genes that are observed more than once in a query genome. The following scores are acceptable for; High Quality Draft: < 5%, Medium Quality Draft: < 10%, Low Quality Draft: < 10%. Contamination must be below 5% for a SAG or MAG to be deposited into any of the public databases
-         * [mimag➞contam_score](mimag_contam_score.md)
-         * [misag➞contam_score](misag_contam_score.md)
+         * [MIMAG➞contam_score](MIMAG_contam_score.md)
+         * [MISAG➞contam_score](MISAG_contam_score.md)
      * [contam_screen_input](contam_screen_input.md) - The type of sequence data used as input
-         * [mimag➞contam_screen_input](mimag_contam_screen_input.md)
-         * [misag➞contam_screen_input](misag_contam_screen_input.md)
+         * [MIMAG➞contam_screen_input](MIMAG_contam_screen_input.md)
+         * [MISAG➞contam_screen_input](MISAG_contam_screen_input.md)
      * [contam_screen_param](contam_screen_param.md) - Specific parameters used in the decontamination sofware, such as reference database, coverage, and kmers. Combinations of these parameters may also be used, i.e. kmer and coverage, or reference database and kmer
-         * [mimag➞contam_screen_param](mimag_contam_screen_param.md)
-         * [misag➞contam_screen_param](misag_contam_screen_param.md)
+         * [MIMAG➞contam_screen_param](MIMAG_contam_screen_param.md)
+         * [MISAG➞contam_screen_param](MISAG_contam_screen_param.md)
      * [decontam_software](decontam_software.md) - Tool(s) used in contamination screening
-         * [mimag➞decontam_software](mimag_decontam_software.md)
-         * [misag➞decontam_software](misag_decontam_software.md)
+         * [MIMAG➞decontam_software](MIMAG_decontam_software.md)
+         * [MISAG➞decontam_software](MISAG_decontam_software.md)
      * [detec_type](detec_type.md) - Type of UViG detection
-         * [miuvig➞detec_type](miuvig_detec_type.md)
+         * [MIUVIG➞detec_type](MIUVIG_detec_type.md)
      * [feat_pred](feat_pred.md) - Method used to predict UViGs features such as ORFs, integration site, etc.
-         * [me➞feat_pred](me_feat_pred.md)
-         * [migs_ba➞feat_pred](migs_ba_feat_pred.md)
-         * [migs_eu➞feat_pred](migs_eu_feat_pred.md)
-         * [migs_org➞feat_pred](migs_org_feat_pred.md)
-         * [migs_pl➞feat_pred](migs_pl_feat_pred.md)
-         * [migs_vi➞feat_pred](migs_vi_feat_pred.md)
-         * [mimag➞feat_pred](mimag_feat_pred.md)
-         * [misag➞feat_pred](misag_feat_pred.md)
-         * [miuvig➞feat_pred](miuvig_feat_pred.md)
+         * [ME➞feat_pred](ME_feat_pred.md)
+         * [MIGS bacteria➞feat_pred](MIGS_bacteria_feat_pred.md)
+         * [MIGS eukaryote➞feat_pred](MIGS_eukaryote_feat_pred.md)
+         * [MIGS org➞feat_pred](MIGS_org_feat_pred.md)
+         * [MIGS plant➞feat_pred](MIGS_plant_feat_pred.md)
+         * [MIGS virus➞feat_pred](MIGS_virus_feat_pred.md)
+         * [MIMAG➞feat_pred](MIMAG_feat_pred.md)
+         * [MISAG➞feat_pred](MISAG_feat_pred.md)
+         * [MIUVIG➞feat_pred](MIUVIG_feat_pred.md)
      * [host_pred_appr](host_pred_appr.md) - Tool or approach used for host prediction
-         * [miuvig➞host_pred_appr](miuvig_host_pred_appr.md)
+         * [MIUVIG➞host_pred_appr](MIUVIG_host_pred_appr.md)
      * [host_pred_est_acc](host_pred_est_acc.md) - For each tool or approach used for host prediction, estimated false discovery rates should be included, either computed de novo or from the literature
-         * [miuvig➞host_pred_est_acc](miuvig_host_pred_est_acc.md)
+         * [MIUVIG➞host_pred_est_acc](MIUVIG_host_pred_est_acc.md)
      * [lib_layout](lib_layout.md) - Specify whether to expect single, paired, or other configuration of reads
-         * [me➞lib_layout](me_lib_layout.md)
-         * [migs_ba➞lib_layout](migs_ba_lib_layout.md)
-         * [migs_eu➞lib_layout](migs_eu_lib_layout.md)
-         * [migs_org➞lib_layout](migs_org_lib_layout.md)
-         * [migs_pl➞lib_layout](migs_pl_lib_layout.md)
-         * [migs_vi➞lib_layout](migs_vi_lib_layout.md)
-         * [mimag➞lib_layout](mimag_lib_layout.md)
-         * [mimarks_s➞lib_layout](mimarks_s_lib_layout.md)
-         * [misag➞lib_layout](misag_lib_layout.md)
-         * [miuvig➞lib_layout](miuvig_lib_layout.md)
+         * [ME➞lib_layout](ME_lib_layout.md)
+         * [MIGS bacteria➞lib_layout](MIGS_bacteria_lib_layout.md)
+         * [MIGS eukaryote➞lib_layout](MIGS_eukaryote_lib_layout.md)
+         * [MIGS org➞lib_layout](MIGS_org_lib_layout.md)
+         * [MIGS plant➞lib_layout](MIGS_plant_lib_layout.md)
+         * [MIGS virus➞lib_layout](MIGS_virus_lib_layout.md)
+         * [MIMAG➞lib_layout](MIMAG_lib_layout.md)
+         * [MIMARKS specimen➞lib_layout](MIMARKS_specimen_lib_layout.md)
+         * [MISAG➞lib_layout](MISAG_lib_layout.md)
+         * [MIUVIG➞lib_layout](MIUVIG_lib_layout.md)
      * [lib_reads_seqd](lib_reads_seqd.md) - Total number of clones sequenced from the library
-         * [me➞lib_reads_seqd](me_lib_reads_seqd.md)
-         * [migs_ba➞lib_reads_seqd](migs_ba_lib_reads_seqd.md)
-         * [migs_eu➞lib_reads_seqd](migs_eu_lib_reads_seqd.md)
-         * [migs_org➞lib_reads_seqd](migs_org_lib_reads_seqd.md)
-         * [migs_pl➞lib_reads_seqd](migs_pl_lib_reads_seqd.md)
-         * [migs_vi➞lib_reads_seqd](migs_vi_lib_reads_seqd.md)
-         * [mimag➞lib_reads_seqd](mimag_lib_reads_seqd.md)
-         * [mimarks_s➞lib_reads_seqd](mimarks_s_lib_reads_seqd.md)
-         * [misag➞lib_reads_seqd](misag_lib_reads_seqd.md)
-         * [miuvig➞lib_reads_seqd](miuvig_lib_reads_seqd.md)
+         * [ME➞lib_reads_seqd](ME_lib_reads_seqd.md)
+         * [MIGS bacteria➞lib_reads_seqd](MIGS_bacteria_lib_reads_seqd.md)
+         * [MIGS eukaryote➞lib_reads_seqd](MIGS_eukaryote_lib_reads_seqd.md)
+         * [MIGS org➞lib_reads_seqd](MIGS_org_lib_reads_seqd.md)
+         * [MIGS plant➞lib_reads_seqd](MIGS_plant_lib_reads_seqd.md)
+         * [MIGS virus➞lib_reads_seqd](MIGS_virus_lib_reads_seqd.md)
+         * [MIMAG➞lib_reads_seqd](MIMAG_lib_reads_seqd.md)
+         * [MIMARKS specimen➞lib_reads_seqd](MIMARKS_specimen_lib_reads_seqd.md)
+         * [MISAG➞lib_reads_seqd](MISAG_lib_reads_seqd.md)
+         * [MIUVIG➞lib_reads_seqd](MIUVIG_lib_reads_seqd.md)
      * [lib_screen](lib_screen.md) - Specific enrichment or screening methods applied before and/or after creating libraries
-         * [me➞lib_screen](me_lib_screen.md)
-         * [migs_ba➞lib_screen](migs_ba_lib_screen.md)
-         * [migs_eu➞lib_screen](migs_eu_lib_screen.md)
-         * [migs_org➞lib_screen](migs_org_lib_screen.md)
-         * [migs_pl➞lib_screen](migs_pl_lib_screen.md)
-         * [migs_vi➞lib_screen](migs_vi_lib_screen.md)
-         * [mimag➞lib_screen](mimag_lib_screen.md)
-         * [mimarks_s➞lib_screen](mimarks_s_lib_screen.md)
-         * [misag➞lib_screen](misag_lib_screen.md)
-         * [miuvig➞lib_screen](miuvig_lib_screen.md)
+         * [ME➞lib_screen](ME_lib_screen.md)
+         * [MIGS bacteria➞lib_screen](MIGS_bacteria_lib_screen.md)
+         * [MIGS eukaryote➞lib_screen](MIGS_eukaryote_lib_screen.md)
+         * [MIGS org➞lib_screen](MIGS_org_lib_screen.md)
+         * [MIGS plant➞lib_screen](MIGS_plant_lib_screen.md)
+         * [MIGS virus➞lib_screen](MIGS_virus_lib_screen.md)
+         * [MIMAG➞lib_screen](MIMAG_lib_screen.md)
+         * [MIMARKS specimen➞lib_screen](MIMARKS_specimen_lib_screen.md)
+         * [MISAG➞lib_screen](MISAG_lib_screen.md)
+         * [MIUVIG➞lib_screen](MIUVIG_lib_screen.md)
      * [lib_size](lib_size.md) - Total number of clones in the library prepared for the project
-         * [me➞lib_size](me_lib_size.md)
-         * [migs_ba➞lib_size](migs_ba_lib_size.md)
-         * [migs_eu➞lib_size](migs_eu_lib_size.md)
-         * [migs_org➞lib_size](migs_org_lib_size.md)
-         * [migs_pl➞lib_size](migs_pl_lib_size.md)
-         * [migs_vi➞lib_size](migs_vi_lib_size.md)
-         * [mimag➞lib_size](mimag_lib_size.md)
-         * [mimarks_s➞lib_size](mimarks_s_lib_size.md)
-         * [misag➞lib_size](misag_lib_size.md)
-         * [miuvig➞lib_size](miuvig_lib_size.md)
+         * [ME➞lib_size](ME_lib_size.md)
+         * [MIGS bacteria➞lib_size](MIGS_bacteria_lib_size.md)
+         * [MIGS eukaryote➞lib_size](MIGS_eukaryote_lib_size.md)
+         * [MIGS org➞lib_size](MIGS_org_lib_size.md)
+         * [MIGS plant➞lib_size](MIGS_plant_lib_size.md)
+         * [MIGS virus➞lib_size](MIGS_virus_lib_size.md)
+         * [MIMAG➞lib_size](MIMAG_lib_size.md)
+         * [MIMARKS specimen➞lib_size](MIMARKS_specimen_lib_size.md)
+         * [MISAG➞lib_size](MISAG_lib_size.md)
+         * [MIUVIG➞lib_size](MIUVIG_lib_size.md)
      * [lib_vector](lib_vector.md) - Cloning vector type(s) used in construction of libraries
-         * [me➞lib_vector](me_lib_vector.md)
-         * [migs_ba➞lib_vector](migs_ba_lib_vector.md)
-         * [migs_eu➞lib_vector](migs_eu_lib_vector.md)
-         * [migs_org➞lib_vector](migs_org_lib_vector.md)
-         * [migs_pl➞lib_vector](migs_pl_lib_vector.md)
-         * [migs_vi➞lib_vector](migs_vi_lib_vector.md)
-         * [mimag➞lib_vector](mimag_lib_vector.md)
-         * [mimarks_s➞lib_vector](mimarks_s_lib_vector.md)
-         * [misag➞lib_vector](misag_lib_vector.md)
-         * [miuvig➞lib_vector](miuvig_lib_vector.md)
+         * [ME➞lib_vector](ME_lib_vector.md)
+         * [MIGS bacteria➞lib_vector](MIGS_bacteria_lib_vector.md)
+         * [MIGS eukaryote➞lib_vector](MIGS_eukaryote_lib_vector.md)
+         * [MIGS org➞lib_vector](MIGS_org_lib_vector.md)
+         * [MIGS plant➞lib_vector](MIGS_plant_lib_vector.md)
+         * [MIGS virus➞lib_vector](MIGS_virus_lib_vector.md)
+         * [MIMAG➞lib_vector](MIMAG_lib_vector.md)
+         * [MIMARKS specimen➞lib_vector](MIMARKS_specimen_lib_vector.md)
+         * [MISAG➞lib_vector](MISAG_lib_vector.md)
+         * [MIUVIG➞lib_vector](MIUVIG_lib_vector.md)
      * [mag_cov_software](mag_cov_software.md) - Tool(s) used to determine the genome coverage if coverage is used as a binning parameter in the extraction of genomes from metagenomic datasets
-         * [mimag➞mag_cov_software](mimag_mag_cov_software.md)
-         * [miuvig➞mag_cov_software](miuvig_mag_cov_software.md)
+         * [MIMAG➞mag_cov_software](MIMAG_mag_cov_software.md)
+         * [MIUVIG➞mag_cov_software](MIUVIG_mag_cov_software.md)
      * [mid](mid.md) - Molecular barcodes, called Multiplex Identifiers (MIDs), that are used to specifically tag unique samples in a sequencing run. Sequence should be reported in uppercase letters
-         * [me➞mid](me_mid.md)
-         * [mimag➞mid](mimag_mid.md)
-         * [mimarks_s➞mid](mimarks_s_mid.md)
-         * [misag➞mid](misag_mid.md)
-         * [miuvig➞mid](miuvig_mid.md)
+         * [ME➞mid](ME_mid.md)
+         * [MIMAG➞mid](MIMAG_mid.md)
+         * [MIMARKS specimen➞mid](MIMARKS_specimen_mid.md)
+         * [MISAG➞mid](MISAG_mid.md)
+         * [MIUVIG➞mid](MIUVIG_mid.md)
      * [nucl_acid_amp](nucl_acid_amp.md) - A link to a literature reference, electronic resource or a standard operating procedure (SOP), that describes the enzymatic amplification (PCR, TMA, NASBA) of specific nucleic acids
-         * [me➞nucl_acid_amp](me_nucl_acid_amp.md)
-         * [migs_ba➞nucl_acid_amp](migs_ba_nucl_acid_amp.md)
-         * [migs_eu➞nucl_acid_amp](migs_eu_nucl_acid_amp.md)
-         * [migs_org➞nucl_acid_amp](migs_org_nucl_acid_amp.md)
-         * [migs_pl➞nucl_acid_amp](migs_pl_nucl_acid_amp.md)
-         * [migs_vi➞nucl_acid_amp](migs_vi_nucl_acid_amp.md)
-         * [mimag➞nucl_acid_amp](mimag_nucl_acid_amp.md)
-         * [mimarks_c➞nucl_acid_amp](mimarks_c_nucl_acid_amp.md)
-         * [mimarks_s➞nucl_acid_amp](mimarks_s_nucl_acid_amp.md)
-         * [misag➞nucl_acid_amp](misag_nucl_acid_amp.md)
-         * [miuvig➞nucl_acid_amp](miuvig_nucl_acid_amp.md)
+         * [ME➞nucl_acid_amp](ME_nucl_acid_amp.md)
+         * [MIGS bacteria➞nucl_acid_amp](MIGS_bacteria_nucl_acid_amp.md)
+         * [MIGS eukaryote➞nucl_acid_amp](MIGS_eukaryote_nucl_acid_amp.md)
+         * [MIGS org➞nucl_acid_amp](MIGS_org_nucl_acid_amp.md)
+         * [MIGS plant➞nucl_acid_amp](MIGS_plant_nucl_acid_amp.md)
+         * [MIGS virus➞nucl_acid_amp](MIGS_virus_nucl_acid_amp.md)
+         * [MIMAG➞nucl_acid_amp](MIMAG_nucl_acid_amp.md)
+         * [MIMARKS specimen➞nucl_acid_amp](MIMARKS_specimen_nucl_acid_amp.md)
+         * [MIMARKS survey➞nucl_acid_amp](MIMARKS_survey_nucl_acid_amp.md)
+         * [MISAG➞nucl_acid_amp](MISAG_nucl_acid_amp.md)
+         * [MIUVIG➞nucl_acid_amp](MIUVIG_nucl_acid_amp.md)
      * [nucl_acid_ext](nucl_acid_ext.md) - A link to a literature reference, electronic resource or a standard operating procedure (SOP), that describes the material separation to recover the nucleic acid fraction from a sample
-         * [me➞nucl_acid_ext](me_nucl_acid_ext.md)
-         * [migs_ba➞nucl_acid_ext](migs_ba_nucl_acid_ext.md)
-         * [migs_eu➞nucl_acid_ext](migs_eu_nucl_acid_ext.md)
-         * [migs_org➞nucl_acid_ext](migs_org_nucl_acid_ext.md)
-         * [migs_pl➞nucl_acid_ext](migs_pl_nucl_acid_ext.md)
-         * [migs_vi➞nucl_acid_ext](migs_vi_nucl_acid_ext.md)
-         * [mimag➞nucl_acid_ext](mimag_nucl_acid_ext.md)
-         * [mimarks_c➞nucl_acid_ext](mimarks_c_nucl_acid_ext.md)
-         * [mimarks_s➞nucl_acid_ext](mimarks_s_nucl_acid_ext.md)
-         * [misag➞nucl_acid_ext](misag_nucl_acid_ext.md)
-         * [miuvig➞nucl_acid_ext](miuvig_nucl_acid_ext.md)
+         * [ME➞nucl_acid_ext](ME_nucl_acid_ext.md)
+         * [MIGS bacteria➞nucl_acid_ext](MIGS_bacteria_nucl_acid_ext.md)
+         * [MIGS eukaryote➞nucl_acid_ext](MIGS_eukaryote_nucl_acid_ext.md)
+         * [MIGS org➞nucl_acid_ext](MIGS_org_nucl_acid_ext.md)
+         * [MIGS plant➞nucl_acid_ext](MIGS_plant_nucl_acid_ext.md)
+         * [MIGS virus➞nucl_acid_ext](MIGS_virus_nucl_acid_ext.md)
+         * [MIMAG➞nucl_acid_ext](MIMAG_nucl_acid_ext.md)
+         * [MIMARKS specimen➞nucl_acid_ext](MIMARKS_specimen_nucl_acid_ext.md)
+         * [MIMARKS survey➞nucl_acid_ext](MIMARKS_survey_nucl_acid_ext.md)
+         * [MISAG➞nucl_acid_ext](MISAG_nucl_acid_ext.md)
+         * [MIUVIG➞nucl_acid_ext](MIUVIG_nucl_acid_ext.md)
      * [number_contig](number_contig.md) - Total number of contigs in the cleaned/submitted assembly that makes up a given genome, SAG, MAG, or UViG
-         * [me➞number_contig](me_number_contig.md)
-         * [migs_ba➞number_contig](migs_ba_number_contig.md)
-         * [migs_eu➞number_contig](migs_eu_number_contig.md)
-         * [migs_org➞number_contig](migs_org_number_contig.md)
-         * [migs_pl➞number_contig](migs_pl_number_contig.md)
-         * [migs_vi➞number_contig](migs_vi_number_contig.md)
-         * [mimag➞number_contig](mimag_number_contig.md)
-         * [misag➞number_contig](misag_number_contig.md)
-         * [miuvig➞number_contig](miuvig_number_contig.md)
+         * [ME➞number_contig](ME_number_contig.md)
+         * [MIGS bacteria➞number_contig](MIGS_bacteria_number_contig.md)
+         * [MIGS eukaryote➞number_contig](MIGS_eukaryote_number_contig.md)
+         * [MIGS org➞number_contig](MIGS_org_number_contig.md)
+         * [MIGS plant➞number_contig](MIGS_plant_number_contig.md)
+         * [MIGS virus➞number_contig](MIGS_virus_number_contig.md)
+         * [MIMAG➞number_contig](MIMAG_number_contig.md)
+         * [MISAG➞number_contig](MISAG_number_contig.md)
+         * [MIUVIG➞number_contig](MIUVIG_number_contig.md)
      * [pcr_cond](pcr_cond.md) - Description of reaction conditions and components of PCR in the form of 'initial denaturation:94degC_1.5min; annealing=...'
-         * [mimarks_c➞pcr_cond](mimarks_c_pcr_cond.md)
-         * [mimarks_s➞pcr_cond](mimarks_s_pcr_cond.md)
+         * [MIMARKS specimen➞pcr_cond](MIMARKS_specimen_pcr_cond.md)
+         * [MIMARKS survey➞pcr_cond](MIMARKS_survey_pcr_cond.md)
      * [pcr_primers](pcr_primers.md) - PCR primers that were used to amplify the sequence of the targeted gene, locus or subfragment. This field should contain all the primers used for a single PCR reaction if multiple forward or reverse primers are present in a single PCR reaction. The primer sequence should be reported in uppercase letters
-         * [mimarks_c➞pcr_primers](mimarks_c_pcr_primers.md)
-         * [mimarks_s➞pcr_primers](mimarks_s_pcr_primers.md)
+         * [MIMARKS specimen➞pcr_primers](MIMARKS_specimen_pcr_primers.md)
+         * [MIMARKS survey➞pcr_primers](MIMARKS_survey_pcr_primers.md)
      * [pred_genome_struc](pred_genome_struc.md) - Expected structure of the viral genome
-         * [miuvig➞pred_genome_struc](miuvig_pred_genome_struc.md)
+         * [MIUVIG➞pred_genome_struc](MIUVIG_pred_genome_struc.md)
      * [pred_genome_type](pred_genome_type.md) - Type of genome predicted for the UViG
-         * [miuvig➞pred_genome_type](miuvig_pred_genome_type.md)
+         * [MIUVIG➞pred_genome_type](MIUVIG_pred_genome_type.md)
      * [reassembly_bin](reassembly_bin.md) - Has an assembly been performed on a genome bin extracted from a metagenomic assembly?
-         * [mimag➞reassembly_bin](mimag_reassembly_bin.md)
-         * [miuvig➞reassembly_bin](miuvig_reassembly_bin.md)
+         * [MIMAG➞reassembly_bin](MIMAG_reassembly_bin.md)
+         * [MIUVIG➞reassembly_bin](MIUVIG_reassembly_bin.md)
      * [ref_db](ref_db.md) - List of database(s) used for ORF annotation, along with version number and reference to website or publication
-         * [me➞ref_db](me_ref_db.md)
-         * [migs_ba➞ref_db](migs_ba_ref_db.md)
-         * [migs_eu➞ref_db](migs_eu_ref_db.md)
-         * [migs_org➞ref_db](migs_org_ref_db.md)
-         * [migs_pl➞ref_db](migs_pl_ref_db.md)
-         * [migs_vi➞ref_db](migs_vi_ref_db.md)
-         * [mimag➞ref_db](mimag_ref_db.md)
-         * [misag➞ref_db](misag_ref_db.md)
-         * [miuvig➞ref_db](miuvig_ref_db.md)
+         * [ME➞ref_db](ME_ref_db.md)
+         * [MIGS bacteria➞ref_db](MIGS_bacteria_ref_db.md)
+         * [MIGS eukaryote➞ref_db](MIGS_eukaryote_ref_db.md)
+         * [MIGS org➞ref_db](MIGS_org_ref_db.md)
+         * [MIGS plant➞ref_db](MIGS_plant_ref_db.md)
+         * [MIGS virus➞ref_db](MIGS_virus_ref_db.md)
+         * [MIMAG➞ref_db](MIMAG_ref_db.md)
+         * [MISAG➞ref_db](MISAG_ref_db.md)
+         * [MIUVIG➞ref_db](MIUVIG_ref_db.md)
      * [seq_meth](seq_meth.md) - Sequencing method used; e.g. Sanger, ABI-solid
-         * [me➞seq_meth](me_seq_meth.md)
-         * [migs_ba➞seq_meth](migs_ba_seq_meth.md)
-         * [migs_eu➞seq_meth](migs_eu_seq_meth.md)
-         * [migs_org➞seq_meth](migs_org_seq_meth.md)
-         * [migs_pl➞seq_meth](migs_pl_seq_meth.md)
-         * [migs_vi➞seq_meth](migs_vi_seq_meth.md)
-         * [mimag➞seq_meth](mimag_seq_meth.md)
-         * [mimarks_c➞seq_meth](mimarks_c_seq_meth.md)
-         * [mimarks_s➞seq_meth](mimarks_s_seq_meth.md)
-         * [misag➞seq_meth](misag_seq_meth.md)
-         * [miuvig➞seq_meth](miuvig_seq_meth.md)
+         * [ME➞seq_meth](ME_seq_meth.md)
+         * [MIGS bacteria➞seq_meth](MIGS_bacteria_seq_meth.md)
+         * [MIGS eukaryote➞seq_meth](MIGS_eukaryote_seq_meth.md)
+         * [MIGS org➞seq_meth](MIGS_org_seq_meth.md)
+         * [MIGS plant➞seq_meth](MIGS_plant_seq_meth.md)
+         * [MIGS virus➞seq_meth](MIGS_virus_seq_meth.md)
+         * [MIMAG➞seq_meth](MIMAG_seq_meth.md)
+         * [MIMARKS specimen➞seq_meth](MIMARKS_specimen_seq_meth.md)
+         * [MIMARKS survey➞seq_meth](MIMARKS_survey_seq_meth.md)
+         * [MISAG➞seq_meth](MISAG_seq_meth.md)
+         * [MIUVIG➞seq_meth](MIUVIG_seq_meth.md)
      * [seq_quality_check](seq_quality_check.md) - Indicate if the sequence has been called by automatic systems (none) or undergone a manual editing procedure (e.g. by inspecting the raw data or chromatograms). Applied only for sequences that are not submitted to SRA,ENA or DRA
-         * [mimarks_c➞seq_quality_check](mimarks_c_seq_quality_check.md)
-         * [mimarks_s➞seq_quality_check](mimarks_s_seq_quality_check.md)
+         * [MIMARKS specimen➞seq_quality_check](MIMARKS_specimen_seq_quality_check.md)
+         * [MIMARKS survey➞seq_quality_check](MIMARKS_survey_seq_quality_check.md)
      * [sim_search_meth](sim_search_meth.md) - Tool used to compare ORFs with database, along with version and cutoffs used
-         * [me➞sim_search_meth](me_sim_search_meth.md)
-         * [migs_ba➞sim_search_meth](migs_ba_sim_search_meth.md)
-         * [migs_eu➞sim_search_meth](migs_eu_sim_search_meth.md)
-         * [migs_org➞sim_search_meth](migs_org_sim_search_meth.md)
-         * [migs_pl➞sim_search_meth](migs_pl_sim_search_meth.md)
-         * [migs_vi➞sim_search_meth](migs_vi_sim_search_meth.md)
-         * [mimag➞sim_search_meth](mimag_sim_search_meth.md)
-         * [misag➞sim_search_meth](misag_sim_search_meth.md)
-         * [miuvig➞sim_search_meth](miuvig_sim_search_meth.md)
+         * [ME➞sim_search_meth](ME_sim_search_meth.md)
+         * [MIGS bacteria➞sim_search_meth](MIGS_bacteria_sim_search_meth.md)
+         * [MIGS eukaryote➞sim_search_meth](MIGS_eukaryote_sim_search_meth.md)
+         * [MIGS org➞sim_search_meth](MIGS_org_sim_search_meth.md)
+         * [MIGS plant➞sim_search_meth](MIGS_plant_sim_search_meth.md)
+         * [MIGS virus➞sim_search_meth](MIGS_virus_sim_search_meth.md)
+         * [MIMAG➞sim_search_meth](MIMAG_sim_search_meth.md)
+         * [MISAG➞sim_search_meth](MISAG_sim_search_meth.md)
+         * [MIUVIG➞sim_search_meth](MIUVIG_sim_search_meth.md)
      * [single_cell_lysis_appr](single_cell_lysis_appr.md) - Method used to free DNA from interior of the cell(s) or particle(s)
-         * [misag➞single_cell_lysis_appr](misag_single_cell_lysis_appr.md)
-         * [miuvig➞single_cell_lysis_appr](miuvig_single_cell_lysis_appr.md)
+         * [MISAG➞single_cell_lysis_appr](MISAG_single_cell_lysis_appr.md)
+         * [MIUVIG➞single_cell_lysis_appr](MIUVIG_single_cell_lysis_appr.md)
      * [single_cell_lysis_prot](single_cell_lysis_prot.md) - Name of the kit or standard protocol used for cell(s) or particle(s) lysis
-         * [misag➞single_cell_lysis_prot](misag_single_cell_lysis_prot.md)
-         * [miuvig➞single_cell_lysis_prot](miuvig_single_cell_lysis_prot.md)
+         * [MISAG➞single_cell_lysis_prot](MISAG_single_cell_lysis_prot.md)
+         * [MIUVIG➞single_cell_lysis_prot](MIUVIG_single_cell_lysis_prot.md)
      * [sop](sop.md) - Standard operating procedures used in assembly and/or annotation of genomes, metagenomes or environmental sequences
-         * [me➞sop](me_sop.md)
-         * [migs_ba➞sop](migs_ba_sop.md)
-         * [migs_eu➞sop](migs_eu_sop.md)
-         * [migs_org➞sop](migs_org_sop.md)
-         * [migs_pl➞sop](migs_pl_sop.md)
-         * [migs_vi➞sop](migs_vi_sop.md)
-         * [mimag➞sop](mimag_sop.md)
-         * [mimarks_c➞sop](mimarks_c_sop.md)
-         * [mimarks_s➞sop](mimarks_s_sop.md)
-         * [misag➞sop](misag_sop.md)
-         * [miuvig➞sop](miuvig_sop.md)
+         * [ME➞sop](ME_sop.md)
+         * [MIGS bacteria➞sop](MIGS_bacteria_sop.md)
+         * [MIGS eukaryote➞sop](MIGS_eukaryote_sop.md)
+         * [MIGS org➞sop](MIGS_org_sop.md)
+         * [MIGS plant➞sop](MIGS_plant_sop.md)
+         * [MIGS virus➞sop](MIGS_virus_sop.md)
+         * [MIMAG➞sop](MIMAG_sop.md)
+         * [MIMARKS specimen➞sop](MIMARKS_specimen_sop.md)
+         * [MIMARKS survey➞sop](MIMARKS_survey_sop.md)
+         * [MISAG➞sop](MISAG_sop.md)
+         * [MIUVIG➞sop](MIUVIG_sop.md)
      * [sort_tech](sort_tech.md) - Method used to sort/isolate cells or particles of interest
-         * [misag➞sort_tech](misag_sort_tech.md)
-         * [miuvig➞sort_tech](miuvig_sort_tech.md)
+         * [MISAG➞sort_tech](MISAG_sort_tech.md)
+         * [MIUVIG➞sort_tech](MIUVIG_sort_tech.md)
      * [target_gene](target_gene.md) - Targeted gene or locus name for marker gene studies
-         * [mimarks_c➞target_gene](mimarks_c_target_gene.md)
-         * [mimarks_s➞target_gene](mimarks_s_target_gene.md)
+         * [MIMARKS specimen➞target_gene](MIMARKS_specimen_target_gene.md)
+         * [MIMARKS survey➞target_gene](MIMARKS_survey_target_gene.md)
      * [target_subfragment](target_subfragment.md) - Name of subfragment of a gene or locus. Important to e.g. identify special regions on marker genes like V6 on 16S rRNA
-         * [mimarks_c➞target_subfragment](mimarks_c_target_subfragment.md)
-         * [mimarks_s➞target_subfragment](mimarks_s_target_subfragment.md)
+         * [MIMARKS specimen➞target_subfragment](MIMARKS_specimen_target_subfragment.md)
+         * [MIMARKS survey➞target_subfragment](MIMARKS_survey_target_subfragment.md)
      * [tax_class](tax_class.md) - Method used for taxonomic classification, along with reference database used, classification rank, and thresholds used to classify new genomes
-         * [me➞tax_class](me_tax_class.md)
-         * [migs_ba➞tax_class](migs_ba_tax_class.md)
-         * [migs_eu➞tax_class](migs_eu_tax_class.md)
-         * [migs_org➞tax_class](migs_org_tax_class.md)
-         * [migs_pl➞tax_class](migs_pl_tax_class.md)
-         * [migs_vi➞tax_class](migs_vi_tax_class.md)
-         * [mimag➞tax_class](mimag_tax_class.md)
-         * [misag➞tax_class](misag_tax_class.md)
-         * [miuvig➞tax_class](miuvig_tax_class.md)
+         * [ME➞tax_class](ME_tax_class.md)
+         * [MIGS bacteria➞tax_class](MIGS_bacteria_tax_class.md)
+         * [MIGS eukaryote➞tax_class](MIGS_eukaryote_tax_class.md)
+         * [MIGS org➞tax_class](MIGS_org_tax_class.md)
+         * [MIGS plant➞tax_class](MIGS_plant_tax_class.md)
+         * [MIGS virus➞tax_class](MIGS_virus_tax_class.md)
+         * [MIMAG➞tax_class](MIMAG_tax_class.md)
+         * [MISAG➞tax_class](MISAG_tax_class.md)
+         * [MIUVIG➞tax_class](MIUVIG_tax_class.md)
      * [tax_ident](tax_ident.md) - The phylogenetic marker(s) used to assign an organism name to the SAG or MAG
-         * [migs_ba➞tax_ident](migs_ba_tax_ident.md)
-         * [migs_eu➞tax_ident](migs_eu_tax_ident.md)
-         * [migs_org➞tax_ident](migs_org_tax_ident.md)
-         * [migs_pl➞tax_ident](migs_pl_tax_ident.md)
-         * [migs_vi➞tax_ident](migs_vi_tax_ident.md)
-         * [mimag➞tax_ident](mimag_tax_ident.md)
-         * [misag➞tax_ident](misag_tax_ident.md)
-         * [miuvig➞tax_ident](miuvig_tax_ident.md)
+         * [MIGS bacteria➞tax_ident](MIGS_bacteria_tax_ident.md)
+         * [MIGS eukaryote➞tax_ident](MIGS_eukaryote_tax_ident.md)
+         * [MIGS org➞tax_ident](MIGS_org_tax_ident.md)
+         * [MIGS plant➞tax_ident](MIGS_plant_tax_ident.md)
+         * [MIGS virus➞tax_ident](MIGS_virus_tax_ident.md)
+         * [MIMAG➞tax_ident](MIMAG_tax_ident.md)
+         * [MISAG➞tax_ident](MISAG_tax_ident.md)
+         * [MIUVIG➞tax_ident](MIUVIG_tax_ident.md)
      * [trna_ext_software](trna_ext_software.md) - Tools used for tRNA identification
-         * [mimag➞trna_ext_software](mimag_trna_ext_software.md)
-         * [misag➞trna_ext_software](misag_trna_ext_software.md)
-         * [miuvig➞trna_ext_software](miuvig_trna_ext_software.md)
+         * [MIMAG➞trna_ext_software](MIMAG_trna_ext_software.md)
+         * [MISAG➞trna_ext_software](MISAG_trna_ext_software.md)
+         * [MIUVIG➞trna_ext_software](MIUVIG_trna_ext_software.md)
      * [trnas](trnas.md) - The total number of tRNAs identified from the SAG or MAG
-         * [mimag➞trnas](mimag_trnas.md)
-         * [misag➞trnas](misag_trnas.md)
-         * [miuvig➞trnas](miuvig_trnas.md)
+         * [MIMAG➞trnas](MIMAG_trnas.md)
+         * [MISAG➞trnas](MISAG_trnas.md)
+         * [MIUVIG➞trnas](MIUVIG_trnas.md)
      * [url](url.md)
-         * [me➞url](me_url.md)
-         * [migs_ba➞url](migs_ba_url.md)
-         * [migs_eu➞url](migs_eu_url.md)
-         * [migs_org➞url](migs_org_url.md)
-         * [migs_pl➞url](migs_pl_url.md)
-         * [migs_vi➞url](migs_vi_url.md)
-         * [mimag➞url](mimag_url.md)
-         * [mimarks_c➞url](mimarks_c_url.md)
-         * [mimarks_s➞url](mimarks_s_url.md)
-         * [misag➞url](misag_url.md)
-         * [miuvig➞url](miuvig_url.md)
+         * [ME➞url](ME_url.md)
+         * [MIGS bacteria➞url](MIGS_bacteria_url.md)
+         * [MIGS eukaryote➞url](MIGS_eukaryote_url.md)
+         * [MIGS org➞url](MIGS_org_url.md)
+         * [MIGS plant➞url](MIGS_plant_url.md)
+         * [MIGS virus➞url](MIGS_virus_url.md)
+         * [MIMAG➞url](MIMAG_url.md)
+         * [MIMARKS specimen➞url](MIMARKS_specimen_url.md)
+         * [MIMARKS survey➞url](MIMARKS_survey_url.md)
+         * [MISAG➞url](MISAG_url.md)
+         * [MIUVIG➞url](MIUVIG_url.md)
      * [vir_ident_software](vir_ident_software.md) - Tool(s) used for the identification of UViG as a viral genome, software or protocol name including version number, parameters, and cutoffs used
-         * [miuvig➞vir_ident_software](miuvig_vir_ident_software.md)
+         * [MIUVIG➞vir_ident_software](MIUVIG_vir_ident_software.md)
      * [votu_class_appr](votu_class_appr.md) - Cutoffs and approach used when clustering new UViGs in “species-level” vOTUs. Note that results from standard 95% ANI / 85% AF clustering should be provided alongside vOTUS defined from another set of thresholds, even if the latter are the ones primarily used during the analysis
-         * [miuvig➞votu_class_appr](miuvig_votu_class_appr.md)
+         * [MIUVIG➞votu_class_appr](MIUVIG_votu_class_appr.md)
      * [votu_db](votu_db.md) - Reference database (i.e. sequences not generated as part of the current study) used to cluster new genomes in "species-level" vOTUs, if any
-         * [miuvig➞votu_db](miuvig_votu_db.md)
+         * [MIUVIG➞votu_db](MIUVIG_votu_db.md)
      * [votu_seq_comp_appr](votu_seq_comp_appr.md) - Tool and thresholds used to compare sequences when computing "species-level" vOTUs
-         * [miuvig➞votu_seq_comp_appr](miuvig_votu_seq_comp_appr.md)
+         * [MIUVIG➞votu_seq_comp_appr](MIUVIG_votu_seq_comp_appr.md)
      * [wga_amp_appr](wga_amp_appr.md) - Method used to amplify genomic DNA in preparation for sequencing
-         * [misag➞wga_amp_appr](misag_wga_amp_appr.md)
-         * [miuvig➞wga_amp_appr](miuvig_wga_amp_appr.md)
+         * [MISAG➞wga_amp_appr](MISAG_wga_amp_appr.md)
+         * [MIUVIG➞wga_amp_appr](MIUVIG_wga_amp_appr.md)
      * [wga_amp_kit](wga_amp_kit.md) - Kit used to amplify genomic DNA in preparation for sequencing
-         * [misag➞wga_amp_kit](misag_wga_amp_kit.md)
-         * [miuvig➞wga_amp_kit](miuvig_wga_amp_kit.md)
+         * [MISAG➞wga_amp_kit](MISAG_wga_amp_kit.md)
+         * [MIUVIG➞wga_amp_kit](MIUVIG_wga_amp_kit.md)
      * [x_16s_recover](x_16s_recover.md) - Can a 16S gene be recovered from the submitted SAG or MAG?
-         * [mimag➞x_16s_recover](mimag_x_16s_recover.md)
-         * [misag➞x_16s_recover](misag_x_16s_recover.md)
+         * [MIMAG➞x_16s_recover](MIMAG_x_16s_recover.md)
+         * [MISAG➞x_16s_recover](MISAG_x_16s_recover.md)
      * [x_16s_recover_software](x_16s_recover_software.md) - Tools used for 16S rRNA gene extraction
-         * [mimag➞x_16s_recover_software](mimag_x_16s_recover_software.md)
-         * [misag➞x_16s_recover_software](misag_x_16s_recover_software.md)
+         * [MIMAG➞x_16s_recover_software](MIMAG_x_16s_recover_software.md)
+         * [MISAG➞x_16s_recover_software](MISAG_x_16s_recover_software.md)
 
 ### Types
 

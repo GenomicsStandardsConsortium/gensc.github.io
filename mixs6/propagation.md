@@ -17,9 +17,9 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [migs_eu➞propagation](migs_eu_propagation.md)
- *  [migs_pl➞propagation](migs_pl_propagation.md)
- *  [migs_vi➞propagation](migs_vi_propagation.md)
+ *  [MIGS eukaryote➞propagation](MIGS_eukaryote_propagation.md)
+ *  [MIGS plant➞propagation](MIGS_plant_propagation.md)
+ *  [MIGS virus➞propagation](MIGS_virus_propagation.md)
 
 ## Used by
 

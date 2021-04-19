@@ -17,14 +17,14 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [migs_ba➞tax_ident](migs_ba_tax_ident.md)
- *  [migs_eu➞tax_ident](migs_eu_tax_ident.md)
- *  [migs_org➞tax_ident](migs_org_tax_ident.md)
- *  [migs_pl➞tax_ident](migs_pl_tax_ident.md)
- *  [migs_vi➞tax_ident](migs_vi_tax_ident.md)
- *  [mimag➞tax_ident](mimag_tax_ident.md)
- *  [misag➞tax_ident](misag_tax_ident.md)
- *  [miuvig➞tax_ident](miuvig_tax_ident.md)
+ *  [MIGS bacteria➞tax_ident](MIGS_bacteria_tax_ident.md)
+ *  [MIGS eukaryote➞tax_ident](MIGS_eukaryote_tax_ident.md)
+ *  [MIGS org➞tax_ident](MIGS_org_tax_ident.md)
+ *  [MIGS plant➞tax_ident](MIGS_plant_tax_ident.md)
+ *  [MIGS virus➞tax_ident](MIGS_virus_tax_ident.md)
+ *  [MIMAG➞tax_ident](MIMAG_tax_ident.md)
+ *  [MISAG➞tax_ident](MISAG_tax_ident.md)
+ *  [MIUVIG➞tax_ident](MIUVIG_tax_ident.md)
 
 ## Used by
 

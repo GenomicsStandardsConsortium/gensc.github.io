@@ -7,21 +7,21 @@ air
 URI: [mixs.vocab:Air](https://w3id.org/mixs/vocab/Air)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[AirMiuvig],[AirMisag],[AirMimarksS],[AirMimarksC],[AirMimag],[AirMigsVi],[AirMigsPl],[AirMigsOrg],[AirMigsEu],[AirMigsBa],[AirMe],[QuantityValue]<wind_speed%200..1-++[Air&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:string%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;chem_administration:string%20%3F;misc_param:string%20%3F;organism_count:organism_count_enum%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;perturbation:string%20%3F;pollutants:string%20%3F;resp_part_matter:string%20%3F;samp_store_dur:string%20%3F;samp_store_loc:string%20%3F;ventilation_type:string%20%3F;volatile_org_comp:string%20%3F;wind_direction:string%20%3F],[QuantityValue]<ventilation_rate%200..1-++[Air],[QuantityValue]<temp%200..1-++[Air],[QuantityValue]<solar_irradiance%200..1-++[Air],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Air],[QuantityValue]<samp_store_temp%200..1-++[Air],[QuantityValue]<samp_salinity%200..1-++[Air],[QuantityValue]<oxygen%200..1-++[Air],[QuantityValue]<methane%200..1-++[Air],[QuantityValue]<humidity%200..1-++[Air],[QuantityValue]<carb_monoxide%200..1-++[Air],[QuantityValue]<carb_dioxide%200..1-++[Air],[QuantityValue]<barometric_press%200..1-++[Air],[QuantityValue]<elev%200..1-++[Air],[QuantityValue]<alt%200..1-++[Air],[Air]^-[AirMiuvig],[Air]^-[AirMisag],[Air]^-[AirMimarksS],[Air]^-[AirMimarksC],[Air]^-[AirMimag],[Air]^-[AirMigsVi],[Air]^-[AirMigsPl],[Air]^-[AirMigsOrg],[Air]^-[AirMigsEu],[Air]^-[AirMigsBa],[Air]^-[AirMe])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[AirMIUVIG],[AirMISAG],[AirMIMARKSSurvey],[AirMIMARKSSpecimen],[AirMIMAG],[AirMIGSVirus],[AirMIGSPlant],[AirMIGSOrg],[AirMIGSEukaryote],[AirMIGSBacteria],[AirME],[QuantityValue]<wind_speed%200..1-++[Air&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:string%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;chem_administration:string%20%3F;misc_param:string%20%3F;organism_count:organism_count_enum%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;perturbation:string%20%3F;pollutants:string%20%3F;resp_part_matter:string%20%3F;samp_store_dur:string%20%3F;samp_store_loc:string%20%3F;ventilation_type:string%20%3F;volatile_org_comp:string%20%3F;wind_direction:string%20%3F],[QuantityValue]<ventilation_rate%200..1-++[Air],[QuantityValue]<temp%200..1-++[Air],[QuantityValue]<solar_irradiance%200..1-++[Air],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Air],[QuantityValue]<samp_store_temp%200..1-++[Air],[QuantityValue]<samp_salinity%200..1-++[Air],[QuantityValue]<oxygen%200..1-++[Air],[QuantityValue]<methane%200..1-++[Air],[QuantityValue]<humidity%200..1-++[Air],[QuantityValue]<carb_monoxide%200..1-++[Air],[QuantityValue]<carb_dioxide%200..1-++[Air],[QuantityValue]<barometric_press%200..1-++[Air],[QuantityValue]<elev%200..1-++[Air],[QuantityValue]<alt%200..1-++[Air],[Air]^-[AirMIUVIG],[Air]^-[AirMISAG],[Air]^-[AirMIMARKSSurvey],[Air]^-[AirMIMARKSSpecimen],[Air]^-[AirMIMAG],[Air]^-[AirMIGSVirus],[Air]^-[AirMIGSPlant],[Air]^-[AirMIGSOrg],[Air]^-[AirMIGSEukaryote],[Air]^-[AirMIGSBacteria],[Air]^-[AirME])
 
 ## Children
 
- * [AirMe](AirMe.md) - Combinatorial checklist for air with me
- * [AirMigsBa](AirMigsBa.md) - Combinatorial checklist for air with migs_ba
- * [AirMigsEu](AirMigsEu.md) - Combinatorial checklist for air with migs_eu
- * [AirMigsOrg](AirMigsOrg.md) - Combinatorial checklist for air with migs_org
- * [AirMigsPl](AirMigsPl.md) - Combinatorial checklist for air with migs_pl
- * [AirMigsVi](AirMigsVi.md) - Combinatorial checklist for air with migs_vi
- * [AirMimag](AirMimag.md) - Combinatorial checklist for air with mimag
- * [AirMimarksC](AirMimarksC.md) - Combinatorial checklist for air with mimarks_c
- * [AirMimarksS](AirMimarksS.md) - Combinatorial checklist for air with mimarks_s
- * [AirMisag](AirMisag.md) - Combinatorial checklist for air with misag
- * [AirMiuvig](AirMiuvig.md) - Combinatorial checklist for air with miuvig
+ * [AirME](AirME.md) - Combinatorial checklist Metagenome or Environmental with environmental package air
+ * [AirMIGSBacteria](AirMIGSBacteria.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package air
+ * [AirMIGSEukaryote](AirMIGSEukaryote.md) - Combinatorial checklist Minimal Information about a Genome Sequence: eukaryote with environmental package air
+ * [AirMIGSOrg](AirMIGSOrg.md) - Combinatorial checklist Minimal Information about a Genome Sequence: org with environmental package air
+ * [AirMIGSPlant](AirMIGSPlant.md) - Combinatorial checklist Minimal Information about a Genome Sequence: plant with environmental package air
+ * [AirMIGSVirus](AirMIGSVirus.md) - Combinatorial checklist Minimal Information about a Genome Sequence: cultured bacteria/archaea with environmental package air
+ * [AirMIMAG](AirMIMAG.md) - Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package air
+ * [AirMIMARKSSpecimen](AirMIMARKSSpecimen.md) - Combinatorial checklist Minimal Information about a Marker Specimen: specimen with environmental package air
+ * [AirMIMARKSSurvey](AirMIMARKSSurvey.md) - Combinatorial checklist Minimal Information about a Marker Specimen: survey with environmental package air
+ * [AirMISAG](AirMISAG.md) - Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package air
+ * [AirMIUVIG](AirMIUVIG.md) - Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package air
 
 ## Referenced by class
 

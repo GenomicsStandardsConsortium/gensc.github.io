@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 ## Used by
 
  * [Air](Air.md)
- * [AirMe](AirMe.md)
- * [AirMigsBa](AirMigsBa.md)
- * [AirMigsEu](AirMigsEu.md)
- * [AirMigsOrg](AirMigsOrg.md)
- * [AirMigsPl](AirMigsPl.md)
- * [AirMigsVi](AirMigsVi.md)
- * [AirMimag](AirMimag.md)
- * [AirMimarksC](AirMimarksC.md)
- * [AirMimarksS](AirMimarksS.md)
- * [AirMisag](AirMisag.md)
- * [AirMiuvig](AirMiuvig.md)
+ * [AirME](AirME.md)
+ * [AirMIGSBacteria](AirMIGSBacteria.md)
+ * [AirMIGSEukaryote](AirMIGSEukaryote.md)
+ * [AirMIGSOrg](AirMIGSOrg.md)
+ * [AirMIGSPlant](AirMIGSPlant.md)
+ * [AirMIGSVirus](AirMIGSVirus.md)
+ * [AirMIMAG](AirMIMAG.md)
+ * [AirMIMARKSSpecimen](AirMIMARKSSpecimen.md)
+ * [AirMIMARKSSurvey](AirMIMARKSSurvey.md)
+ * [AirMISAG](AirMISAG.md)
+ * [AirMIUVIG](AirMIUVIG.md)
 
 ## Other properties
 

@@ -1,13 +1,13 @@
 
-# Class: HydrocarbonResources-fluidsSwabsMimag
+# Class: HydrocarbonResources-fluidsSwabsMIMAG
 
 
-Combinatorial checklist for hydrocarbon resources-fluids_swabs with mimag
+Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package hydrocarbon resources-fluids_swabs
 
-URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMimag](https://w3id.org/mixs/vocab/HydrocarbonResources-fluidsSwabsMimag)
+URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMIMAG](https://w3id.org/mixs/vocab/HydrocarbonResources-fluidsSwabsMIMAG)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Mimag],[HydrocarbonResources-fluidsSwabsMimag&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;x_16s_recover_software:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum;compl_software:string;compl_appr:compl_appr_enum%20%3F;contam_score:string;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;bin_param:bin_param_enum;bin_software:bin_software_enum;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;hcr(i):hcr_enum%20%3F;hc_produced(i):hc_produced_enum%20%3F;basin(i):string%20%3F;field(i):string%20%3F;reservoir(i):string%20%3F;hcr_temp(i):string%20%3F;hcr_pressure(i):string%20%3F;lithology(i):lithology_enum%20%3F;depos_env(i):depos_env_enum%20%3F;hcr_geol_age(i):hcr_geol_age_enum%20%3F;prod_start_date(i):string%20%3F;add_recov_method(i):add_recov_method_enum%20%3F;iw_bt_date_well(i):string%20%3F;biocide(i):string%20%3F;biocide_admin_method(i):string%20%3F;chem_treatment(i):string%20%3F;chem_treatment_method(i):string%20%3F;samp_loc_corr_rate(i):string%20%3F;samp_well_name(i):string%20%3F;win(i):string%20%3F;samp_type(i):samp_type_enum%20%3F;samp_subtype(i):samp_subtype_enum%20%3F;samp_collection_point(i):samp_collection_point_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;samp_preserv(i):string%20%3F;samp_transport_cond(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;organism_count_qpcr_info(i):string%20%3F;ph(i):double%20%3F;alkalinity_method(i):string%20%3F;suspend_solids(i):string%20%3F;viscosity(i):string%20%3F;saturates_pc(i):string%20%3F;aromatics_pc(i):string%20%3F;resins_pc(i):string%20%3F;asphaltenes_pc(i):string%20%3F;misc_param(i):string%20%3F;additional_info(i):string%20%3F]uses%20-.->[Mimag],[HydrocarbonResources-fluidsSwabs]^-[HydrocarbonResources-fluidsSwabsMimag],[HydrocarbonResources-fluidsSwabs])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[HydrocarbonResources-fluidsSwabsMIMAG&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;x_16s_recover_software:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum;compl_software:string;compl_appr:compl_appr_enum%20%3F;contam_score:string;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;bin_param:bin_param_enum;bin_software:bin_software_enum;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;hcr(i):hcr_enum%20%3F;hc_produced(i):hc_produced_enum%20%3F;basin(i):string%20%3F;field(i):string%20%3F;reservoir(i):string%20%3F;hcr_temp(i):string%20%3F;hcr_pressure(i):string%20%3F;lithology(i):lithology_enum%20%3F;depos_env(i):depos_env_enum%20%3F;hcr_geol_age(i):hcr_geol_age_enum%20%3F;prod_start_date(i):string%20%3F;add_recov_method(i):add_recov_method_enum%20%3F;iw_bt_date_well(i):string%20%3F;biocide(i):string%20%3F;biocide_admin_method(i):string%20%3F;chem_treatment(i):string%20%3F;chem_treatment_method(i):string%20%3F;samp_loc_corr_rate(i):string%20%3F;samp_well_name(i):string%20%3F;win(i):string%20%3F;samp_type(i):samp_type_enum%20%3F;samp_subtype(i):samp_subtype_enum%20%3F;samp_collection_point(i):samp_collection_point_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;samp_preserv(i):string%20%3F;samp_transport_cond(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;organism_count_qpcr_info(i):string%20%3F;ph(i):double%20%3F;alkalinity_method(i):string%20%3F;suspend_solids(i):string%20%3F;viscosity(i):string%20%3F;saturates_pc(i):string%20%3F;aromatics_pc(i):string%20%3F;resins_pc(i):string%20%3F;asphaltenes_pc(i):string%20%3F;misc_param(i):string%20%3F;additional_info(i):string%20%3F]uses%20-.->[MIMAG],[HydrocarbonResources-fluidsSwabs]^-[HydrocarbonResources-fluidsSwabsMIMAG],[HydrocarbonResources-fluidsSwabs],[MIMAG])
 
 ## Parents
 
@@ -15,7 +15,7 @@ URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMimag](https://w3id.org/mixs/vo
 
 ## Uses Mixins
 
- *  mixin: [Mimag](Mimag.md) - mimag Checklist
+ *  mixin: [MIMAG](MIMAG.md) - Minimum Information About a Metagenome-Assembled Genome
 
 ## Attributes
 
@@ -395,252 +395,252 @@ URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMimag](https://w3id.org/mixs/vo
      * range: [QuantityValue](QuantityValue.md)
      * Example:  None
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞adapters](mimag_adapters.md)  <sub>OPT</sub>
+ * [MIMAG➞adapters](MIMAG_adapters.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞annot](mimag_annot.md)  <sub>OPT</sub>
+ * [MIMAG➞annot](MIMAG_annot.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞assembly_name](mimag_assembly_name.md)  <sub>OPT</sub>
+ * [MIMAG➞assembly_name](MIMAG_assembly_name.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞assembly_qual](mimag_assembly_qual.md)  <sub>REQ</sub>
+ * [MIMAG➞assembly_qual](MIMAG_assembly_qual.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞assembly_software](mimag_assembly_software.md)  <sub>REQ</sub>
+ * [MIMAG➞assembly_software](MIMAG_assembly_software.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞bin_param](mimag_bin_param.md)  <sub>REQ</sub>
+ * [MIMAG➞bin_param](MIMAG_bin_param.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞bin_software](mimag_bin_software.md)  <sub>REQ</sub>
+ * [MIMAG➞bin_software](MIMAG_bin_software.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞compl_appr](mimag_compl_appr.md)  <sub>OPT</sub>
+ * [MIMAG➞compl_appr](MIMAG_compl_appr.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞compl_score](mimag_compl_score.md)  <sub>REQ</sub>
+ * [MIMAG➞compl_score](MIMAG_compl_score.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞compl_software](mimag_compl_software.md)  <sub>REQ</sub>
+ * [MIMAG➞compl_software](MIMAG_compl_software.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞contam_score](mimag_contam_score.md)  <sub>REQ</sub>
+ * [MIMAG➞contam_score](MIMAG_contam_score.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞contam_screen_input](mimag_contam_screen_input.md)  <sub>OPT</sub>
+ * [MIMAG➞contam_screen_input](MIMAG_contam_screen_input.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞contam_screen_param](mimag_contam_screen_param.md)  <sub>OPT</sub>
+ * [MIMAG➞contam_screen_param](MIMAG_contam_screen_param.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞decontam_software](mimag_decontam_software.md)  <sub>OPT</sub>
+ * [MIMAG➞decontam_software](MIMAG_decontam_software.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞env_package](mimag_env_package.md)  <sub>OPT</sub>
+ * [MIMAG➞env_package](MIMAG_env_package.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞experimental_factor](mimag_experimental_factor.md)  <sub>OPT</sub>
+ * [MIMAG➞experimental_factor](MIMAG_experimental_factor.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞feat_pred](mimag_feat_pred.md)  <sub>OPT</sub>
+ * [MIMAG➞feat_pred](MIMAG_feat_pred.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞investigation_type](mimag_investigation_type.md)  <sub>REQ</sub>
+ * [MIMAG➞investigation_type](MIMAG_investigation_type.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞lib_layout](mimag_lib_layout.md)  <sub>OPT</sub>
+ * [MIMAG➞lib_layout](MIMAG_lib_layout.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞lib_reads_seqd](mimag_lib_reads_seqd.md)  <sub>OPT</sub>
+ * [MIMAG➞lib_reads_seqd](MIMAG_lib_reads_seqd.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞lib_screen](mimag_lib_screen.md)  <sub>OPT</sub>
+ * [MIMAG➞lib_screen](MIMAG_lib_screen.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞lib_size](mimag_lib_size.md)  <sub>OPT</sub>
+ * [MIMAG➞lib_size](MIMAG_lib_size.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞lib_vector](mimag_lib_vector.md)  <sub>OPT</sub>
+ * [MIMAG➞lib_vector](MIMAG_lib_vector.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞mag_cov_software](mimag_mag_cov_software.md)  <sub>OPT</sub>
+ * [MIMAG➞mag_cov_software](MIMAG_mag_cov_software.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞mid](mimag_mid.md)  <sub>OPT</sub>
+ * [MIMAG➞mid](MIMAG_mid.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞nucl_acid_amp](mimag_nucl_acid_amp.md)  <sub>OPT</sub>
+ * [MIMAG➞nucl_acid_amp](MIMAG_nucl_acid_amp.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞nucl_acid_ext](mimag_nucl_acid_ext.md)  <sub>OPT</sub>
+ * [MIMAG➞nucl_acid_ext](MIMAG_nucl_acid_ext.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞number_contig](mimag_number_contig.md)  <sub>OPT</sub>
+ * [MIMAG➞number_contig](MIMAG_number_contig.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞project_name](mimag_project_name.md)  <sub>REQ</sub>
+ * [MIMAG➞project_name](MIMAG_project_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞reassembly_bin](mimag_reassembly_bin.md)  <sub>OPT</sub>
+ * [MIMAG➞reassembly_bin](MIMAG_reassembly_bin.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞ref_biomaterial](mimag_ref_biomaterial.md)  <sub>OPT</sub>
+ * [MIMAG➞ref_biomaterial](MIMAG_ref_biomaterial.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞ref_db](mimag_ref_db.md)  <sub>OPT</sub>
+ * [MIMAG➞ref_db](MIMAG_ref_db.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞rel_to_oxygen](mimag_rel_to_oxygen.md)  <sub>OPT</sub>
+ * [MIMAG➞rel_to_oxygen](MIMAG_rel_to_oxygen.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞samp_collect_device](mimag_samp_collect_device.md)  <sub>OPT</sub>
+ * [MIMAG➞samp_collect_device](MIMAG_samp_collect_device.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞samp_mat_process](mimag_samp_mat_process.md)  <sub>OPT</sub>
+ * [MIMAG➞samp_mat_process](MIMAG_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞samp_size](mimag_samp_size.md)  <sub>OPT</sub>
+ * [MIMAG➞samp_size](MIMAG_samp_size.md)  <sub>OPT</sub>
      * range: [QuantityValue](QuantityValue.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞sample_name](mimag_sample_name.md)  <sub>OPT</sub>
+ * [MIMAG➞sample_name](MIMAG_sample_name.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞seq_meth](mimag_seq_meth.md)  <sub>REQ</sub>
+ * [MIMAG➞seq_meth](MIMAG_seq_meth.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞sim_search_meth](mimag_sim_search_meth.md)  <sub>OPT</sub>
+ * [MIMAG➞sim_search_meth](MIMAG_sim_search_meth.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞size_frac](mimag_size_frac.md)  <sub>OPT</sub>
+ * [MIMAG➞size_frac](MIMAG_size_frac.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞sop](mimag_sop.md)  <sub>OPT</sub>
+ * [MIMAG➞sop](MIMAG_sop.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞source_mat_id](mimag_source_mat_id.md)  <sub>OPT</sub>
+ * [MIMAG➞source_mat_id](MIMAG_source_mat_id.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞submitted_to_insdc](mimag_submitted_to_insdc.md)  <sub>REQ</sub>
+ * [MIMAG➞submitted_to_insdc](MIMAG_submitted_to_insdc.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞tax_class](mimag_tax_class.md)  <sub>OPT</sub>
+ * [MIMAG➞tax_class](MIMAG_tax_class.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞tax_ident](mimag_tax_ident.md)  <sub>REQ</sub>
+ * [MIMAG➞tax_ident](MIMAG_tax_ident.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞trna_ext_software](mimag_trna_ext_software.md)  <sub>OPT</sub>
+ * [MIMAG➞trna_ext_software](MIMAG_trna_ext_software.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞trnas](mimag_trnas.md)  <sub>OPT</sub>
+ * [MIMAG➞trnas](MIMAG_trnas.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞url](mimag_url.md)  <sub>OPT</sub>
+ * [MIMAG➞url](MIMAG_url.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞x_16s_recover](mimag_x_16s_recover.md)  <sub>OPT</sub>
+ * [MIMAG➞x_16s_recover](MIMAG_x_16s_recover.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞x_16s_recover_software](mimag_x_16s_recover_software.md)  <sub>OPT</sub>
+ * [MIMAG➞x_16s_recover_software](MIMAG_x_16s_recover_software.md)  <sub>OPT</sub>
      * range: [String](types/String.md)

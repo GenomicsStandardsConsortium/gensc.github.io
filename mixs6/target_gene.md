@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [mimarks_c➞target_gene](mimarks_c_target_gene.md)
- *  [mimarks_s➞target_gene](mimarks_s_target_gene.md)
+ *  [MIMARKS specimen➞target_gene](MIMARKS_specimen_target_gene.md)
+ *  [MIMARKS survey➞target_gene](MIMARKS_survey_target_gene.md)
 
 ## Used by
 

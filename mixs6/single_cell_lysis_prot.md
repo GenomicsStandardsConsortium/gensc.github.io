@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [misag➞single_cell_lysis_prot](misag_single_cell_lysis_prot.md)
- *  [miuvig➞single_cell_lysis_prot](miuvig_single_cell_lysis_prot.md)
+ *  [MISAG➞single_cell_lysis_prot](MISAG_single_cell_lysis_prot.md)
+ *  [MIUVIG➞single_cell_lysis_prot](MIUVIG_single_cell_lysis_prot.md)
 
 ## Used by
 

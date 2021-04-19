@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [migs_vi➞virus_enrich_appr](migs_vi_virus_enrich_appr.md)
- *  [miuvig➞virus_enrich_appr](miuvig_virus_enrich_appr.md)
+ *  [MIGS virus➞virus_enrich_appr](MIGS_virus_virus_enrich_appr.md)
+ *  [MIUVIG➞virus_enrich_appr](MIUVIG_virus_enrich_appr.md)
 
 ## Used by
 

@@ -17,15 +17,15 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞ref_db](me_ref_db.md)
- *  [migs_ba➞ref_db](migs_ba_ref_db.md)
- *  [migs_eu➞ref_db](migs_eu_ref_db.md)
- *  [migs_org➞ref_db](migs_org_ref_db.md)
- *  [migs_pl➞ref_db](migs_pl_ref_db.md)
- *  [migs_vi➞ref_db](migs_vi_ref_db.md)
- *  [mimag➞ref_db](mimag_ref_db.md)
- *  [misag➞ref_db](misag_ref_db.md)
- *  [miuvig➞ref_db](miuvig_ref_db.md)
+ *  [ME➞ref_db](ME_ref_db.md)
+ *  [MIGS bacteria➞ref_db](MIGS_bacteria_ref_db.md)
+ *  [MIGS eukaryote➞ref_db](MIGS_eukaryote_ref_db.md)
+ *  [MIGS org➞ref_db](MIGS_org_ref_db.md)
+ *  [MIGS plant➞ref_db](MIGS_plant_ref_db.md)
+ *  [MIGS virus➞ref_db](MIGS_virus_ref_db.md)
+ *  [MIMAG➞ref_db](MIMAG_ref_db.md)
+ *  [MISAG➞ref_db](MISAG_ref_db.md)
+ *  [MIUVIG➞ref_db](MIUVIG_ref_db.md)
 
 ## Used by
 

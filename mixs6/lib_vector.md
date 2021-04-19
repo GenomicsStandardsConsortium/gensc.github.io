@@ -17,16 +17,16 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞lib_vector](me_lib_vector.md)
- *  [migs_ba➞lib_vector](migs_ba_lib_vector.md)
- *  [migs_eu➞lib_vector](migs_eu_lib_vector.md)
- *  [migs_org➞lib_vector](migs_org_lib_vector.md)
- *  [migs_pl➞lib_vector](migs_pl_lib_vector.md)
- *  [migs_vi➞lib_vector](migs_vi_lib_vector.md)
- *  [mimag➞lib_vector](mimag_lib_vector.md)
- *  [mimarks_s➞lib_vector](mimarks_s_lib_vector.md)
- *  [misag➞lib_vector](misag_lib_vector.md)
- *  [miuvig➞lib_vector](miuvig_lib_vector.md)
+ *  [ME➞lib_vector](ME_lib_vector.md)
+ *  [MIGS bacteria➞lib_vector](MIGS_bacteria_lib_vector.md)
+ *  [MIGS eukaryote➞lib_vector](MIGS_eukaryote_lib_vector.md)
+ *  [MIGS org➞lib_vector](MIGS_org_lib_vector.md)
+ *  [MIGS plant➞lib_vector](MIGS_plant_lib_vector.md)
+ *  [MIGS virus➞lib_vector](MIGS_virus_lib_vector.md)
+ *  [MIMAG➞lib_vector](MIMAG_lib_vector.md)
+ *  [MIMARKS specimen➞lib_vector](MIMARKS_specimen_lib_vector.md)
+ *  [MISAG➞lib_vector](MISAG_lib_vector.md)
+ *  [MIUVIG➞lib_vector](MIUVIG_lib_vector.md)
 
 ## Used by
 

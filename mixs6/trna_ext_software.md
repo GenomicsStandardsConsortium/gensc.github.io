@@ -17,9 +17,9 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [mimag➞trna_ext_software](mimag_trna_ext_software.md)
- *  [misag➞trna_ext_software](misag_trna_ext_software.md)
- *  [miuvig➞trna_ext_software](miuvig_trna_ext_software.md)
+ *  [MIMAG➞trna_ext_software](MIMAG_trna_ext_software.md)
+ *  [MISAG➞trna_ext_software](MISAG_trna_ext_software.md)
+ *  [MIUVIG➞trna_ext_software](MIUVIG_trna_ext_software.md)
 
 ## Used by
 

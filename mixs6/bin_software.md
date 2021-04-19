@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [mimag➞bin_software](mimag_bin_software.md)
- *  [miuvig➞bin_software](miuvig_bin_software.md)
+ *  [MIMAG➞bin_software](MIMAG_bin_software.md)
+ *  [MIUVIG➞bin_software](MIUVIG_bin_software.md)
 
 ## Used by
 

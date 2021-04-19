@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [misag➞single_cell_lysis_appr](misag_single_cell_lysis_appr.md)
- *  [miuvig➞single_cell_lysis_appr](miuvig_single_cell_lysis_appr.md)
+ *  [MISAG➞single_cell_lysis_appr](MISAG_single_cell_lysis_appr.md)
+ *  [MIUVIG➞single_cell_lysis_appr](MIUVIG_single_cell_lysis_appr.md)
 
 ## Used by
 

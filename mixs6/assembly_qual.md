@@ -17,15 +17,15 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [me➞assembly_qual](me_assembly_qual.md)
- *  [migs_ba➞assembly_qual](migs_ba_assembly_qual.md)
- *  [migs_eu➞assembly_qual](migs_eu_assembly_qual.md)
- *  [migs_org➞assembly_qual](migs_org_assembly_qual.md)
- *  [migs_pl➞assembly_qual](migs_pl_assembly_qual.md)
- *  [migs_vi➞assembly_qual](migs_vi_assembly_qual.md)
- *  [mimag➞assembly_qual](mimag_assembly_qual.md)
- *  [misag➞assembly_qual](misag_assembly_qual.md)
- *  [miuvig➞assembly_qual](miuvig_assembly_qual.md)
+ *  [ME➞assembly_qual](ME_assembly_qual.md)
+ *  [MIGS bacteria➞assembly_qual](MIGS_bacteria_assembly_qual.md)
+ *  [MIGS eukaryote➞assembly_qual](MIGS_eukaryote_assembly_qual.md)
+ *  [MIGS org➞assembly_qual](MIGS_org_assembly_qual.md)
+ *  [MIGS plant➞assembly_qual](MIGS_plant_assembly_qual.md)
+ *  [MIGS virus➞assembly_qual](MIGS_virus_assembly_qual.md)
+ *  [MIMAG➞assembly_qual](MIMAG_assembly_qual.md)
+ *  [MISAG➞assembly_qual](MISAG_assembly_qual.md)
+ *  [MIUVIG➞assembly_qual](MIUVIG_assembly_qual.md)
 
 ## Used by
 

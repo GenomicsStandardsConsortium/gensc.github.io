@@ -17,16 +17,16 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞lib_reads_seqd](me_lib_reads_seqd.md)
- *  [migs_ba➞lib_reads_seqd](migs_ba_lib_reads_seqd.md)
- *  [migs_eu➞lib_reads_seqd](migs_eu_lib_reads_seqd.md)
- *  [migs_org➞lib_reads_seqd](migs_org_lib_reads_seqd.md)
- *  [migs_pl➞lib_reads_seqd](migs_pl_lib_reads_seqd.md)
- *  [migs_vi➞lib_reads_seqd](migs_vi_lib_reads_seqd.md)
- *  [mimag➞lib_reads_seqd](mimag_lib_reads_seqd.md)
- *  [mimarks_s➞lib_reads_seqd](mimarks_s_lib_reads_seqd.md)
- *  [misag➞lib_reads_seqd](misag_lib_reads_seqd.md)
- *  [miuvig➞lib_reads_seqd](miuvig_lib_reads_seqd.md)
+ *  [ME➞lib_reads_seqd](ME_lib_reads_seqd.md)
+ *  [MIGS bacteria➞lib_reads_seqd](MIGS_bacteria_lib_reads_seqd.md)
+ *  [MIGS eukaryote➞lib_reads_seqd](MIGS_eukaryote_lib_reads_seqd.md)
+ *  [MIGS org➞lib_reads_seqd](MIGS_org_lib_reads_seqd.md)
+ *  [MIGS plant➞lib_reads_seqd](MIGS_plant_lib_reads_seqd.md)
+ *  [MIGS virus➞lib_reads_seqd](MIGS_virus_lib_reads_seqd.md)
+ *  [MIMAG➞lib_reads_seqd](MIMAG_lib_reads_seqd.md)
+ *  [MIMARKS specimen➞lib_reads_seqd](MIMARKS_specimen_lib_reads_seqd.md)
+ *  [MISAG➞lib_reads_seqd](MISAG_lib_reads_seqd.md)
+ *  [MIUVIG➞lib_reads_seqd](MIUVIG_lib_reads_seqd.md)
 
 ## Used by
 

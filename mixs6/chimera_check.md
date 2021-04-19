@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [mimarks_c➞chimera_check](mimarks_c_chimera_check.md)
- *  [mimarks_s➞chimera_check](mimarks_s_chimera_check.md)
+ *  [MIMARKS specimen➞chimera_check](MIMARKS_specimen_chimera_check.md)
+ *  [MIMARKS survey➞chimera_check](MIMARKS_survey_chimera_check.md)
 
 ## Used by
 

@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [mimag➞contam_screen_param](mimag_contam_screen_param.md)
- *  [misag➞contam_screen_param](misag_contam_screen_param.md)
+ *  [MIMAG➞contam_screen_param](MIMAG_contam_screen_param.md)
+ *  [MISAG➞contam_screen_param](MISAG_contam_screen_param.md)
 
 ## Used by
 

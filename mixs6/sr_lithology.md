@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub>
 ## Used by
 
  * [HydrocarbonResources-cores](HydrocarbonResources-cores.md)
- * [HydrocarbonResources-coresMe](HydrocarbonResources-coresMe.md)
- * [HydrocarbonResources-coresMigsBa](HydrocarbonResources-coresMigsBa.md)
- * [HydrocarbonResources-coresMigsEu](HydrocarbonResources-coresMigsEu.md)
- * [HydrocarbonResources-coresMigsOrg](HydrocarbonResources-coresMigsOrg.md)
- * [HydrocarbonResources-coresMigsPl](HydrocarbonResources-coresMigsPl.md)
- * [HydrocarbonResources-coresMigsVi](HydrocarbonResources-coresMigsVi.md)
- * [HydrocarbonResources-coresMimag](HydrocarbonResources-coresMimag.md)
- * [HydrocarbonResources-coresMimarksC](HydrocarbonResources-coresMimarksC.md)
- * [HydrocarbonResources-coresMimarksS](HydrocarbonResources-coresMimarksS.md)
- * [HydrocarbonResources-coresMisag](HydrocarbonResources-coresMisag.md)
- * [HydrocarbonResources-coresMiuvig](HydrocarbonResources-coresMiuvig.md)
+ * [HydrocarbonResources-coresME](HydrocarbonResources-coresME.md)
+ * [HydrocarbonResources-coresMIGSBacteria](HydrocarbonResources-coresMIGSBacteria.md)
+ * [HydrocarbonResources-coresMIGSEukaryote](HydrocarbonResources-coresMIGSEukaryote.md)
+ * [HydrocarbonResources-coresMIGSOrg](HydrocarbonResources-coresMIGSOrg.md)
+ * [HydrocarbonResources-coresMIGSPlant](HydrocarbonResources-coresMIGSPlant.md)
+ * [HydrocarbonResources-coresMIGSVirus](HydrocarbonResources-coresMIGSVirus.md)
+ * [HydrocarbonResources-coresMIMAG](HydrocarbonResources-coresMIMAG.md)
+ * [HydrocarbonResources-coresMIMARKSSpecimen](HydrocarbonResources-coresMIMARKSSpecimen.md)
+ * [HydrocarbonResources-coresMIMARKSSurvey](HydrocarbonResources-coresMIMARKSSurvey.md)
+ * [HydrocarbonResources-coresMISAG](HydrocarbonResources-coresMISAG.md)
+ * [HydrocarbonResources-coresMIUVIG](HydrocarbonResources-coresMIUVIG.md)
 
 ## Other properties
 

@@ -17,7 +17,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [miuvig➞vir_ident_software](miuvig_vir_ident_software.md)
+ *  [MIUVIG➞vir_ident_software](MIUVIG_vir_ident_software.md)
 
 ## Used by
 

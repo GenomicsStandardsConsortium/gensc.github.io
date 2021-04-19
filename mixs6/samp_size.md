@@ -17,17 +17,17 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 
 ## Children
 
- *  [me➞samp_size](me_samp_size.md)
- *  [migs_ba➞samp_size](migs_ba_samp_size.md)
- *  [migs_eu➞samp_size](migs_eu_samp_size.md)
- *  [migs_org➞samp_size](migs_org_samp_size.md)
- *  [migs_pl➞samp_size](migs_pl_samp_size.md)
- *  [migs_vi➞samp_size](migs_vi_samp_size.md)
- *  [mimag➞samp_size](mimag_samp_size.md)
- *  [mimarks_c➞samp_size](mimarks_c_samp_size.md)
- *  [mimarks_s➞samp_size](mimarks_s_samp_size.md)
- *  [misag➞samp_size](misag_samp_size.md)
- *  [miuvig➞samp_size](miuvig_samp_size.md)
+ *  [ME➞samp_size](ME_samp_size.md)
+ *  [MIGS bacteria➞samp_size](MIGS_bacteria_samp_size.md)
+ *  [MIGS eukaryote➞samp_size](MIGS_eukaryote_samp_size.md)
+ *  [MIGS org➞samp_size](MIGS_org_samp_size.md)
+ *  [MIGS plant➞samp_size](MIGS_plant_samp_size.md)
+ *  [MIGS virus➞samp_size](MIGS_virus_samp_size.md)
+ *  [MIMAG➞samp_size](MIMAG_samp_size.md)
+ *  [MIMARKS specimen➞samp_size](MIMARKS_specimen_samp_size.md)
+ *  [MIMARKS survey➞samp_size](MIMARKS_survey_samp_size.md)
+ *  [MISAG➞samp_size](MISAG_samp_size.md)
+ *  [MIUVIG➞samp_size](MIUVIG_samp_size.md)
 
 ## Used by
 

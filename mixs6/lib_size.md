@@ -17,16 +17,16 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞lib_size](me_lib_size.md)
- *  [migs_ba➞lib_size](migs_ba_lib_size.md)
- *  [migs_eu➞lib_size](migs_eu_lib_size.md)
- *  [migs_org➞lib_size](migs_org_lib_size.md)
- *  [migs_pl➞lib_size](migs_pl_lib_size.md)
- *  [migs_vi➞lib_size](migs_vi_lib_size.md)
- *  [mimag➞lib_size](mimag_lib_size.md)
- *  [mimarks_s➞lib_size](mimarks_s_lib_size.md)
- *  [misag➞lib_size](misag_lib_size.md)
- *  [miuvig➞lib_size](miuvig_lib_size.md)
+ *  [ME➞lib_size](ME_lib_size.md)
+ *  [MIGS bacteria➞lib_size](MIGS_bacteria_lib_size.md)
+ *  [MIGS eukaryote➞lib_size](MIGS_eukaryote_lib_size.md)
+ *  [MIGS org➞lib_size](MIGS_org_lib_size.md)
+ *  [MIGS plant➞lib_size](MIGS_plant_lib_size.md)
+ *  [MIGS virus➞lib_size](MIGS_virus_lib_size.md)
+ *  [MIMAG➞lib_size](MIMAG_lib_size.md)
+ *  [MIMARKS specimen➞lib_size](MIMARKS_specimen_lib_size.md)
+ *  [MISAG➞lib_size](MISAG_lib_size.md)
+ *  [MIUVIG➞lib_size](MIUVIG_lib_size.md)
 
 ## Used by
 

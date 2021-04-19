@@ -17,17 +17,17 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [me➞seq_meth](me_seq_meth.md)
- *  [migs_ba➞seq_meth](migs_ba_seq_meth.md)
- *  [migs_eu➞seq_meth](migs_eu_seq_meth.md)
- *  [migs_org➞seq_meth](migs_org_seq_meth.md)
- *  [migs_pl➞seq_meth](migs_pl_seq_meth.md)
- *  [migs_vi➞seq_meth](migs_vi_seq_meth.md)
- *  [mimag➞seq_meth](mimag_seq_meth.md)
- *  [mimarks_c➞seq_meth](mimarks_c_seq_meth.md)
- *  [mimarks_s➞seq_meth](mimarks_s_seq_meth.md)
- *  [misag➞seq_meth](misag_seq_meth.md)
- *  [miuvig➞seq_meth](miuvig_seq_meth.md)
+ *  [ME➞seq_meth](ME_seq_meth.md)
+ *  [MIGS bacteria➞seq_meth](MIGS_bacteria_seq_meth.md)
+ *  [MIGS eukaryote➞seq_meth](MIGS_eukaryote_seq_meth.md)
+ *  [MIGS org➞seq_meth](MIGS_org_seq_meth.md)
+ *  [MIGS plant➞seq_meth](MIGS_plant_seq_meth.md)
+ *  [MIGS virus➞seq_meth](MIGS_virus_seq_meth.md)
+ *  [MIMAG➞seq_meth](MIMAG_seq_meth.md)
+ *  [MIMARKS specimen➞seq_meth](MIMARKS_specimen_seq_meth.md)
+ *  [MIMARKS survey➞seq_meth](MIMARKS_survey_seq_meth.md)
+ *  [MISAG➞seq_meth](MISAG_seq_meth.md)
+ *  [MIUVIG➞seq_meth](MIUVIG_seq_meth.md)
 
 ## Used by
 

@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [mimag➞x_16s_recover_software](mimag_x_16s_recover_software.md)
- *  [misag➞x_16s_recover_software](misag_x_16s_recover_software.md)
+ *  [MIMAG➞x_16s_recover_software](MIMAG_x_16s_recover_software.md)
+ *  [MISAG➞x_16s_recover_software](MISAG_x_16s_recover_software.md)
 
 ## Used by
 

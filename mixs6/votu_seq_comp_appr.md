@@ -17,7 +17,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [miuvig➞votu_seq_comp_appr](miuvig_votu_seq_comp_appr.md)
+ *  [MIUVIG➞votu_seq_comp_appr](MIUVIG_votu_seq_comp_appr.md)
 
 ## Used by
 

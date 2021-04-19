@@ -17,7 +17,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [miuvig➞detec_type](miuvig_detec_type.md)
+ *  [MIUVIG➞detec_type](MIUVIG_detec_type.md)
 
 ## Used by
 

@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [mimarks_c➞pcr_primers](mimarks_c_pcr_primers.md)
- *  [mimarks_s➞pcr_primers](mimarks_s_pcr_primers.md)
+ *  [MIMARKS specimen➞pcr_primers](MIMARKS_specimen_pcr_primers.md)
+ *  [MIMARKS survey➞pcr_primers](MIMARKS_survey_pcr_primers.md)
 
 ## Used by
 

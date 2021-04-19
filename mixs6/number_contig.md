@@ -17,15 +17,15 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞number_contig](me_number_contig.md)
- *  [migs_ba➞number_contig](migs_ba_number_contig.md)
- *  [migs_eu➞number_contig](migs_eu_number_contig.md)
- *  [migs_org➞number_contig](migs_org_number_contig.md)
- *  [migs_pl➞number_contig](migs_pl_number_contig.md)
- *  [migs_vi➞number_contig](migs_vi_number_contig.md)
- *  [mimag➞number_contig](mimag_number_contig.md)
- *  [misag➞number_contig](misag_number_contig.md)
- *  [miuvig➞number_contig](miuvig_number_contig.md)
+ *  [ME➞number_contig](ME_number_contig.md)
+ *  [MIGS bacteria➞number_contig](MIGS_bacteria_number_contig.md)
+ *  [MIGS eukaryote➞number_contig](MIGS_eukaryote_number_contig.md)
+ *  [MIGS org➞number_contig](MIGS_org_number_contig.md)
+ *  [MIGS plant➞number_contig](MIGS_plant_number_contig.md)
+ *  [MIGS virus➞number_contig](MIGS_virus_number_contig.md)
+ *  [MIMAG➞number_contig](MIMAG_number_contig.md)
+ *  [MISAG➞number_contig](MISAG_number_contig.md)
+ *  [MIUVIG➞number_contig](MIUVIG_number_contig.md)
 
 ## Used by
 

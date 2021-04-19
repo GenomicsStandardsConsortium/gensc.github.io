@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 ## Used by
 
  * [Human-skin](Human-skin.md)
- * [Human-skinMe](Human-skinMe.md)
- * [Human-skinMigsBa](Human-skinMigsBa.md)
- * [Human-skinMigsEu](Human-skinMigsEu.md)
- * [Human-skinMigsOrg](Human-skinMigsOrg.md)
- * [Human-skinMigsPl](Human-skinMigsPl.md)
- * [Human-skinMigsVi](Human-skinMigsVi.md)
- * [Human-skinMimag](Human-skinMimag.md)
- * [Human-skinMimarksC](Human-skinMimarksC.md)
- * [Human-skinMimarksS](Human-skinMimarksS.md)
- * [Human-skinMisag](Human-skinMisag.md)
- * [Human-skinMiuvig](Human-skinMiuvig.md)
+ * [Human-skinME](Human-skinME.md)
+ * [Human-skinMIGSBacteria](Human-skinMIGSBacteria.md)
+ * [Human-skinMIGSEukaryote](Human-skinMIGSEukaryote.md)
+ * [Human-skinMIGSOrg](Human-skinMIGSOrg.md)
+ * [Human-skinMIGSPlant](Human-skinMIGSPlant.md)
+ * [Human-skinMIGSVirus](Human-skinMIGSVirus.md)
+ * [Human-skinMIMAG](Human-skinMIMAG.md)
+ * [Human-skinMIMARKSSpecimen](Human-skinMIMARKSSpecimen.md)
+ * [Human-skinMIMARKSSurvey](Human-skinMIMARKSSurvey.md)
+ * [Human-skinMISAG](Human-skinMISAG.md)
+ * [Human-skinMIUVIG](Human-skinMIUVIG.md)
 
 ## Other properties
 

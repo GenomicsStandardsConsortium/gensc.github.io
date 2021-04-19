@@ -17,12 +17,12 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [migs_ba➞isol_growth_condt](migs_ba_isol_growth_condt.md)
- *  [migs_eu➞isol_growth_condt](migs_eu_isol_growth_condt.md)
- *  [migs_org➞isol_growth_condt](migs_org_isol_growth_condt.md)
- *  [migs_pl➞isol_growth_condt](migs_pl_isol_growth_condt.md)
- *  [migs_vi➞isol_growth_condt](migs_vi_isol_growth_condt.md)
- *  [mimarks_c➞isol_growth_condt](mimarks_c_isol_growth_condt.md)
+ *  [MIGS bacteria➞isol_growth_condt](MIGS_bacteria_isol_growth_condt.md)
+ *  [MIGS eukaryote➞isol_growth_condt](MIGS_eukaryote_isol_growth_condt.md)
+ *  [MIGS org➞isol_growth_condt](MIGS_org_isol_growth_condt.md)
+ *  [MIGS plant➞isol_growth_condt](MIGS_plant_isol_growth_condt.md)
+ *  [MIGS virus➞isol_growth_condt](MIGS_virus_isol_growth_condt.md)
+ *  [MIMARKS survey➞isol_growth_condt](MIMARKS_survey_isol_growth_condt.md)
 
 ## Used by
 

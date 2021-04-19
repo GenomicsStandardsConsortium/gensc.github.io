@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 ## Used by
 
  * [HydrocarbonResources-fluidsSwabs](HydrocarbonResources-fluidsSwabs.md)
- * [HydrocarbonResources-fluidsSwabsMe](HydrocarbonResources-fluidsSwabsMe.md)
- * [HydrocarbonResources-fluidsSwabsMigsBa](HydrocarbonResources-fluidsSwabsMigsBa.md)
- * [HydrocarbonResources-fluidsSwabsMigsEu](HydrocarbonResources-fluidsSwabsMigsEu.md)
- * [HydrocarbonResources-fluidsSwabsMigsOrg](HydrocarbonResources-fluidsSwabsMigsOrg.md)
- * [HydrocarbonResources-fluidsSwabsMigsPl](HydrocarbonResources-fluidsSwabsMigsPl.md)
- * [HydrocarbonResources-fluidsSwabsMigsVi](HydrocarbonResources-fluidsSwabsMigsVi.md)
- * [HydrocarbonResources-fluidsSwabsMimag](HydrocarbonResources-fluidsSwabsMimag.md)
- * [HydrocarbonResources-fluidsSwabsMimarksC](HydrocarbonResources-fluidsSwabsMimarksC.md)
- * [HydrocarbonResources-fluidsSwabsMimarksS](HydrocarbonResources-fluidsSwabsMimarksS.md)
- * [HydrocarbonResources-fluidsSwabsMisag](HydrocarbonResources-fluidsSwabsMisag.md)
- * [HydrocarbonResources-fluidsSwabsMiuvig](HydrocarbonResources-fluidsSwabsMiuvig.md)
+ * [HydrocarbonResources-fluidsSwabsME](HydrocarbonResources-fluidsSwabsME.md)
+ * [HydrocarbonResources-fluidsSwabsMIGSBacteria](HydrocarbonResources-fluidsSwabsMIGSBacteria.md)
+ * [HydrocarbonResources-fluidsSwabsMIGSEukaryote](HydrocarbonResources-fluidsSwabsMIGSEukaryote.md)
+ * [HydrocarbonResources-fluidsSwabsMIGSOrg](HydrocarbonResources-fluidsSwabsMIGSOrg.md)
+ * [HydrocarbonResources-fluidsSwabsMIGSPlant](HydrocarbonResources-fluidsSwabsMIGSPlant.md)
+ * [HydrocarbonResources-fluidsSwabsMIGSVirus](HydrocarbonResources-fluidsSwabsMIGSVirus.md)
+ * [HydrocarbonResources-fluidsSwabsMIMAG](HydrocarbonResources-fluidsSwabsMIMAG.md)
+ * [HydrocarbonResources-fluidsSwabsMIMARKSSpecimen](HydrocarbonResources-fluidsSwabsMIMARKSSpecimen.md)
+ * [HydrocarbonResources-fluidsSwabsMIMARKSSurvey](HydrocarbonResources-fluidsSwabsMIMARKSSurvey.md)
+ * [HydrocarbonResources-fluidsSwabsMISAG](HydrocarbonResources-fluidsSwabsMISAG.md)
+ * [HydrocarbonResources-fluidsSwabsMIUVIG](HydrocarbonResources-fluidsSwabsMIUVIG.md)
 
 ## Other properties
 

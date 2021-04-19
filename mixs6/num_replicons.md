@@ -17,9 +17,9 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [migs_ba➞num_replicons](migs_ba_num_replicons.md)
- *  [migs_eu➞num_replicons](migs_eu_num_replicons.md)
- *  [migs_vi➞num_replicons](migs_vi_num_replicons.md)
+ *  [MIGS bacteria➞num_replicons](MIGS_bacteria_num_replicons.md)
+ *  [MIGS eukaryote➞num_replicons](MIGS_eukaryote_num_replicons.md)
+ *  [MIGS virus➞num_replicons](MIGS_virus_num_replicons.md)
 
 ## Used by
 

@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 ## Used by
 
  * [Human-oral](Human-oral.md)
- * [Human-oralMe](Human-oralMe.md)
- * [Human-oralMigsBa](Human-oralMigsBa.md)
- * [Human-oralMigsEu](Human-oralMigsEu.md)
- * [Human-oralMigsOrg](Human-oralMigsOrg.md)
- * [Human-oralMigsPl](Human-oralMigsPl.md)
- * [Human-oralMigsVi](Human-oralMigsVi.md)
- * [Human-oralMimag](Human-oralMimag.md)
- * [Human-oralMimarksC](Human-oralMimarksC.md)
- * [Human-oralMimarksS](Human-oralMimarksS.md)
- * [Human-oralMisag](Human-oralMisag.md)
- * [Human-oralMiuvig](Human-oralMiuvig.md)
+ * [Human-oralME](Human-oralME.md)
+ * [Human-oralMIGSBacteria](Human-oralMIGSBacteria.md)
+ * [Human-oralMIGSEukaryote](Human-oralMIGSEukaryote.md)
+ * [Human-oralMIGSOrg](Human-oralMIGSOrg.md)
+ * [Human-oralMIGSPlant](Human-oralMIGSPlant.md)
+ * [Human-oralMIGSVirus](Human-oralMIGSVirus.md)
+ * [Human-oralMIMAG](Human-oralMIMAG.md)
+ * [Human-oralMIMARKSSpecimen](Human-oralMIMARKSSpecimen.md)
+ * [Human-oralMIMARKSSurvey](Human-oralMIMARKSSurvey.md)
+ * [Human-oralMISAG](Human-oralMISAG.md)
+ * [Human-oralMIUVIG](Human-oralMIUVIG.md)
 
 ## Other properties
 

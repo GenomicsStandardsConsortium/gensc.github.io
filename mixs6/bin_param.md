@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [mimag➞bin_param](mimag_bin_param.md)
- *  [miuvig➞bin_param](miuvig_bin_param.md)
+ *  [MIMAG➞bin_param](MIMAG_bin_param.md)
+ *  [MIUVIG➞bin_param](MIUVIG_bin_param.md)
 
 ## Used by
 

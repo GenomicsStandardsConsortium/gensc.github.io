@@ -1,13 +1,13 @@
 
-# Class: BuiltEnvironmentMimag
+# Class: BuiltEnvironmentMIMAG
 
 
-Combinatorial checklist for built environment with mimag
+Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome with environmental package built environment
 
-URI: [mixs.vocab:BuiltEnvironmentMimag](https://w3id.org/mixs/vocab/BuiltEnvironmentMimag)
+URI: [mixs.vocab:BuiltEnvironmentMIMAG](https://w3id.org/mixs/vocab/BuiltEnvironmentMIMAG)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Mimag],[BuiltEnvironmentMimag&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;x_16s_recover_software:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum;compl_software:string;compl_appr:compl_appr_enum%20%3F;contam_score:string;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;bin_param:bin_param_enum;bin_software:bin_software_enum;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;surf_material(i):surf_material_enum%20%3F;surf_air_cont(i):surf_air_cont_enum%20%3F;surf_moisture_ph(i):double%20%3F;build_occup_type(i):build_occup_type_enum%20%3F;ventilation_type(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;indoor_space(i):indoor_space_enum%20%3F;indoor_surf(i):indoor_surf_enum%20%3F;filter_type(i):filter_type_enum%20%3F;heat_cool_type(i):heat_cool_type_enum%20%3F;substructure_type(i):substructure_type_enum%20%3F;building_setting(i):building_setting_enum%20%3F;light_type(i):light_type_enum%20%3F;samp_sort_meth(i):string%20%3F;space_typ_state(i):string%20%3F;typ_occup_density(i):double%20%3F;occup_samp(i):string%20%3F;occup_density_samp(i):double%20%3F;address(i):string%20%3F;adj_room(i):string%20%3F;aero_struc(i):string%20%3F;arch_struc(i):arch_struc_enum%20%3F;avg_occup(i):double%20%3F;bathroom_count(i):string%20%3F;bedroom_count(i):string%20%3F;built_struc_set(i):string%20%3F;built_struc_type(i):string%20%3F;ceil_cond(i):ceil_cond_enum%20%3F;ceil_finish_mat(i):ceil_finish_mat_enum%20%3F;ceil_water_mold(i):string%20%3F;ceil_struc(i):string%20%3F;ceil_texture(i):ceil_texture_enum%20%3F;ceil_type(i):ceil_type_enum%20%3F;cool_syst_id(i):string%20%3F;date_last_rain(i):string%20%3F;build_docs(i):build_docs_enum%20%3F;door_cond(i):door_cond_enum%20%3F;door_direct(i):door_direct_enum%20%3F;door_loc(i):door_loc_enum%20%3F;door_mat(i):door_mat_enum%20%3F;door_move(i):door_move_enum%20%3F;door_water_mold(i):string%20%3F;door_type(i):door_type_enum%20%3F;door_comp_type(i):door_comp_type_enum%20%3F;door_type_metal(i):door_type_metal_enum%20%3F;door_type_wood(i):door_type_wood_enum%20%3F;drawings(i):drawings_enum%20%3F;elevator(i):string%20%3F;escalator(i):string%20%3F;exp_pipe(i):string%20%3F;ext_door(i):string%20%3F;fireplace_type(i):string%20%3F;floor_cond(i):floor_cond_enum%20%3F;floor_count(i):string%20%3F;floor_finish_mat(i):floor_finish_mat_enum%20%3F;floor_water_mold(i):floor_water_mold_enum%20%3F;floor_struc(i):floor_struc_enum%20%3F;freq_clean(i):string%20%3F;freq_cook(i):string%20%3F;furniture(i):furniture_enum%20%3F;gender_restroom(i):string%20%3F;hall_count(i):string%20%3F;handidness(i):handidness_enum%20%3F;heat_deliv_loc(i):heat_deliv_loc_enum%20%3F;heat_system_deliv_meth(i):string%20%3F;heat_system_id(i):string%20%3F;int_wall_cond(i):int_wall_cond_enum%20%3F;last_clean(i):string%20%3F;max_occup(i):string%20%3F;mech_struc(i):mech_struc_enum%20%3F;number_plants(i):string%20%3F;number_pets(i):string%20%3F;number_resident(i):string%20%3F;occup_document(i):occup_document_enum%20%3F;ext_wall_orient(i):ext_wall_orient_enum%20%3F;ext_window_orient(i):ext_window_orient_enum%20%3F;pres_animal(i):pres_animal_enum%20%3F;quad_pos(i):quad_pos_enum%20%3F;rel_samp_loc(i):rel_samp_loc_enum%20%3F;room_architec_element(i):string%20%3F;room_condt(i):room_condt_enum%20%3F;room_count(i):string%20%3F;room_dim(i):string%20%3F;room_door_dist(i):string%20%3F;room_loc(i):room_loc_enum%20%3F;room_moist_damage_hist(i):string%20%3F;room_net_area(i):string%20%3F;room_occup(i):string%20%3F;room_samp_pos(i):room_samp_pos_enum%20%3F;room_type(i):room_type_enum%20%3F;room_vol(i):string%20%3F;room_window_count(i):string%20%3F;room_connected(i):room_connected_enum%20%3F;room_hallway(i):string%20%3F;room_door_share(i):string%20%3F;room_wall_share(i):string%20%3F;samp_weather(i):samp_weather_enum%20%3F;samp_floor(i):samp_floor_enum%20%3F;samp_room_id(i):string%20%3F;samp_time_out(i):double%20%3F;season(i):string%20%3F;season_use(i):season_use_enum%20%3F;shading_device_cond(i):shading_device_cond_enum%20%3F;shading_device_loc(i):string%20%3F;shading_device_mat(i):string%20%3F;shading_device_water_mold(i):string%20%3F;shading_device_type(i):shading_device_type_enum%20%3F;specific(i):specific_enum%20%3F;train_line(i):train_line_enum%20%3F;train_stat_loc(i):train_stat_loc_enum%20%3F;train_stop_loc(i):train_stop_loc_enum%20%3F;vis_media(i):vis_media_enum%20%3F;wall_const_type(i):wall_const_type_enum%20%3F;wall_finish_mat(i):wall_finish_mat_enum%20%3F;wall_loc(i):wall_loc_enum%20%3F;wall_water_mold(i):string%20%3F;wall_surf_treatment(i):wall_surf_treatment_enum%20%3F;wall_texture(i):wall_texture_enum%20%3F;water_feat_type(i):water_feat_type_enum%20%3F;weekday(i):weekday_enum%20%3F;window_size(i):string%20%3F;window_cond(i):window_cond_enum%20%3F;window_cover(i):window_cover_enum%20%3F;window_horiz_pos(i):window_horiz_pos_enum%20%3F;window_loc(i):window_loc_enum%20%3F;window_mat(i):window_mat_enum%20%3F;window_open_freq(i):string%20%3F;window_water_mold(i):string%20%3F;window_status(i):string%20%3F;window_type(i):window_type_enum%20%3F;window_vert_pos(i):window_vert_pos_enum%20%3F]uses%20-.->[Mimag],[BuiltEnvironment]^-[BuiltEnvironmentMimag],[BuiltEnvironment])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[BuiltEnvironmentMIMAG&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;x_16s_recover_software:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum;compl_software:string;compl_appr:compl_appr_enum%20%3F;contam_score:string;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;bin_param:bin_param_enum;bin_software:bin_software_enum;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;surf_material(i):surf_material_enum%20%3F;surf_air_cont(i):surf_air_cont_enum%20%3F;surf_moisture_ph(i):double%20%3F;build_occup_type(i):build_occup_type_enum%20%3F;ventilation_type(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;indoor_space(i):indoor_space_enum%20%3F;indoor_surf(i):indoor_surf_enum%20%3F;filter_type(i):filter_type_enum%20%3F;heat_cool_type(i):heat_cool_type_enum%20%3F;substructure_type(i):substructure_type_enum%20%3F;building_setting(i):building_setting_enum%20%3F;light_type(i):light_type_enum%20%3F;samp_sort_meth(i):string%20%3F;space_typ_state(i):string%20%3F;typ_occup_density(i):double%20%3F;occup_samp(i):string%20%3F;occup_density_samp(i):double%20%3F;address(i):string%20%3F;adj_room(i):string%20%3F;aero_struc(i):string%20%3F;arch_struc(i):arch_struc_enum%20%3F;avg_occup(i):double%20%3F;bathroom_count(i):string%20%3F;bedroom_count(i):string%20%3F;built_struc_set(i):string%20%3F;built_struc_type(i):string%20%3F;ceil_cond(i):ceil_cond_enum%20%3F;ceil_finish_mat(i):ceil_finish_mat_enum%20%3F;ceil_water_mold(i):string%20%3F;ceil_struc(i):string%20%3F;ceil_texture(i):ceil_texture_enum%20%3F;ceil_type(i):ceil_type_enum%20%3F;cool_syst_id(i):string%20%3F;date_last_rain(i):string%20%3F;build_docs(i):build_docs_enum%20%3F;door_cond(i):door_cond_enum%20%3F;door_direct(i):door_direct_enum%20%3F;door_loc(i):door_loc_enum%20%3F;door_mat(i):door_mat_enum%20%3F;door_move(i):door_move_enum%20%3F;door_water_mold(i):string%20%3F;door_type(i):door_type_enum%20%3F;door_comp_type(i):door_comp_type_enum%20%3F;door_type_metal(i):door_type_metal_enum%20%3F;door_type_wood(i):door_type_wood_enum%20%3F;drawings(i):drawings_enum%20%3F;elevator(i):string%20%3F;escalator(i):string%20%3F;exp_pipe(i):string%20%3F;ext_door(i):string%20%3F;fireplace_type(i):string%20%3F;floor_cond(i):floor_cond_enum%20%3F;floor_count(i):string%20%3F;floor_finish_mat(i):floor_finish_mat_enum%20%3F;floor_water_mold(i):floor_water_mold_enum%20%3F;floor_struc(i):floor_struc_enum%20%3F;freq_clean(i):string%20%3F;freq_cook(i):string%20%3F;furniture(i):furniture_enum%20%3F;gender_restroom(i):string%20%3F;hall_count(i):string%20%3F;handidness(i):handidness_enum%20%3F;heat_deliv_loc(i):heat_deliv_loc_enum%20%3F;heat_system_deliv_meth(i):string%20%3F;heat_system_id(i):string%20%3F;int_wall_cond(i):int_wall_cond_enum%20%3F;last_clean(i):string%20%3F;max_occup(i):string%20%3F;mech_struc(i):mech_struc_enum%20%3F;number_plants(i):string%20%3F;number_pets(i):string%20%3F;number_resident(i):string%20%3F;occup_document(i):occup_document_enum%20%3F;ext_wall_orient(i):ext_wall_orient_enum%20%3F;ext_window_orient(i):ext_window_orient_enum%20%3F;pres_animal(i):pres_animal_enum%20%3F;quad_pos(i):quad_pos_enum%20%3F;rel_samp_loc(i):rel_samp_loc_enum%20%3F;room_architec_element(i):string%20%3F;room_condt(i):room_condt_enum%20%3F;room_count(i):string%20%3F;room_dim(i):string%20%3F;room_door_dist(i):string%20%3F;room_loc(i):room_loc_enum%20%3F;room_moist_damage_hist(i):string%20%3F;room_net_area(i):string%20%3F;room_occup(i):string%20%3F;room_samp_pos(i):room_samp_pos_enum%20%3F;room_type(i):room_type_enum%20%3F;room_vol(i):string%20%3F;room_window_count(i):string%20%3F;room_connected(i):room_connected_enum%20%3F;room_hallway(i):string%20%3F;room_door_share(i):string%20%3F;room_wall_share(i):string%20%3F;samp_weather(i):samp_weather_enum%20%3F;samp_floor(i):samp_floor_enum%20%3F;samp_room_id(i):string%20%3F;samp_time_out(i):double%20%3F;season(i):string%20%3F;season_use(i):season_use_enum%20%3F;shading_device_cond(i):shading_device_cond_enum%20%3F;shading_device_loc(i):string%20%3F;shading_device_mat(i):string%20%3F;shading_device_water_mold(i):string%20%3F;shading_device_type(i):shading_device_type_enum%20%3F;specific(i):specific_enum%20%3F;train_line(i):train_line_enum%20%3F;train_stat_loc(i):train_stat_loc_enum%20%3F;train_stop_loc(i):train_stop_loc_enum%20%3F;vis_media(i):vis_media_enum%20%3F;wall_const_type(i):wall_const_type_enum%20%3F;wall_finish_mat(i):wall_finish_mat_enum%20%3F;wall_loc(i):wall_loc_enum%20%3F;wall_water_mold(i):string%20%3F;wall_surf_treatment(i):wall_surf_treatment_enum%20%3F;wall_texture(i):wall_texture_enum%20%3F;water_feat_type(i):water_feat_type_enum%20%3F;weekday(i):weekday_enum%20%3F;window_size(i):string%20%3F;window_cond(i):window_cond_enum%20%3F;window_cover(i):window_cover_enum%20%3F;window_horiz_pos(i):window_horiz_pos_enum%20%3F;window_loc(i):window_loc_enum%20%3F;window_mat(i):window_mat_enum%20%3F;window_open_freq(i):string%20%3F;window_water_mold(i):string%20%3F;window_status(i):string%20%3F;window_type(i):window_type_enum%20%3F;window_vert_pos(i):window_vert_pos_enum%20%3F]uses%20-.->[MIMAG],[BuiltEnvironment]^-[BuiltEnvironmentMIMAG],[BuiltEnvironment],[MIMAG])
 
 ## Parents
 
@@ -15,7 +15,7 @@ URI: [mixs.vocab:BuiltEnvironmentMimag](https://w3id.org/mixs/vocab/BuiltEnviron
 
 ## Uses Mixins
 
- *  mixin: [Mimag](Mimag.md) - mimag Checklist
+ *  mixin: [MIMAG](MIMAG.md) - Minimum Information About a Metagenome-Assembled Genome
 
 ## Attributes
 
@@ -699,252 +699,252 @@ URI: [mixs.vocab:BuiltEnvironmentMimag](https://w3id.org/mixs/vocab/BuiltEnviron
      * range: [String](types/String.md)
      * Example: no presence of mold visible None
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞adapters](mimag_adapters.md)  <sub>OPT</sub>
+ * [MIMAG➞adapters](MIMAG_adapters.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞annot](mimag_annot.md)  <sub>OPT</sub>
+ * [MIMAG➞annot](MIMAG_annot.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞assembly_name](mimag_assembly_name.md)  <sub>OPT</sub>
+ * [MIMAG➞assembly_name](MIMAG_assembly_name.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞assembly_qual](mimag_assembly_qual.md)  <sub>REQ</sub>
+ * [MIMAG➞assembly_qual](MIMAG_assembly_qual.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞assembly_software](mimag_assembly_software.md)  <sub>REQ</sub>
+ * [MIMAG➞assembly_software](MIMAG_assembly_software.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞bin_param](mimag_bin_param.md)  <sub>REQ</sub>
+ * [MIMAG➞bin_param](MIMAG_bin_param.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞bin_software](mimag_bin_software.md)  <sub>REQ</sub>
+ * [MIMAG➞bin_software](MIMAG_bin_software.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞compl_appr](mimag_compl_appr.md)  <sub>OPT</sub>
+ * [MIMAG➞compl_appr](MIMAG_compl_appr.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞compl_score](mimag_compl_score.md)  <sub>REQ</sub>
+ * [MIMAG➞compl_score](MIMAG_compl_score.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞compl_software](mimag_compl_software.md)  <sub>REQ</sub>
+ * [MIMAG➞compl_software](MIMAG_compl_software.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞contam_score](mimag_contam_score.md)  <sub>REQ</sub>
+ * [MIMAG➞contam_score](MIMAG_contam_score.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞contam_screen_input](mimag_contam_screen_input.md)  <sub>OPT</sub>
+ * [MIMAG➞contam_screen_input](MIMAG_contam_screen_input.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞contam_screen_param](mimag_contam_screen_param.md)  <sub>OPT</sub>
+ * [MIMAG➞contam_screen_param](MIMAG_contam_screen_param.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞decontam_software](mimag_decontam_software.md)  <sub>OPT</sub>
+ * [MIMAG➞decontam_software](MIMAG_decontam_software.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞env_package](mimag_env_package.md)  <sub>OPT</sub>
+ * [MIMAG➞env_package](MIMAG_env_package.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞experimental_factor](mimag_experimental_factor.md)  <sub>OPT</sub>
+ * [MIMAG➞experimental_factor](MIMAG_experimental_factor.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞feat_pred](mimag_feat_pred.md)  <sub>OPT</sub>
+ * [MIMAG➞feat_pred](MIMAG_feat_pred.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞investigation_type](mimag_investigation_type.md)  <sub>REQ</sub>
+ * [MIMAG➞investigation_type](MIMAG_investigation_type.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞lib_layout](mimag_lib_layout.md)  <sub>OPT</sub>
+ * [MIMAG➞lib_layout](MIMAG_lib_layout.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞lib_reads_seqd](mimag_lib_reads_seqd.md)  <sub>OPT</sub>
+ * [MIMAG➞lib_reads_seqd](MIMAG_lib_reads_seqd.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞lib_screen](mimag_lib_screen.md)  <sub>OPT</sub>
+ * [MIMAG➞lib_screen](MIMAG_lib_screen.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞lib_size](mimag_lib_size.md)  <sub>OPT</sub>
+ * [MIMAG➞lib_size](MIMAG_lib_size.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞lib_vector](mimag_lib_vector.md)  <sub>OPT</sub>
+ * [MIMAG➞lib_vector](MIMAG_lib_vector.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞mag_cov_software](mimag_mag_cov_software.md)  <sub>OPT</sub>
+ * [MIMAG➞mag_cov_software](MIMAG_mag_cov_software.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞mid](mimag_mid.md)  <sub>OPT</sub>
+ * [MIMAG➞mid](MIMAG_mid.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞nucl_acid_amp](mimag_nucl_acid_amp.md)  <sub>OPT</sub>
+ * [MIMAG➞nucl_acid_amp](MIMAG_nucl_acid_amp.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞nucl_acid_ext](mimag_nucl_acid_ext.md)  <sub>OPT</sub>
+ * [MIMAG➞nucl_acid_ext](MIMAG_nucl_acid_ext.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞number_contig](mimag_number_contig.md)  <sub>OPT</sub>
+ * [MIMAG➞number_contig](MIMAG_number_contig.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞project_name](mimag_project_name.md)  <sub>REQ</sub>
+ * [MIMAG➞project_name](MIMAG_project_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞reassembly_bin](mimag_reassembly_bin.md)  <sub>OPT</sub>
+ * [MIMAG➞reassembly_bin](MIMAG_reassembly_bin.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞ref_biomaterial](mimag_ref_biomaterial.md)  <sub>OPT</sub>
+ * [MIMAG➞ref_biomaterial](MIMAG_ref_biomaterial.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞ref_db](mimag_ref_db.md)  <sub>OPT</sub>
+ * [MIMAG➞ref_db](MIMAG_ref_db.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞rel_to_oxygen](mimag_rel_to_oxygen.md)  <sub>OPT</sub>
+ * [MIMAG➞rel_to_oxygen](MIMAG_rel_to_oxygen.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞samp_collect_device](mimag_samp_collect_device.md)  <sub>OPT</sub>
+ * [MIMAG➞samp_collect_device](MIMAG_samp_collect_device.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞samp_mat_process](mimag_samp_mat_process.md)  <sub>OPT</sub>
+ * [MIMAG➞samp_mat_process](MIMAG_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞samp_size](mimag_samp_size.md)  <sub>OPT</sub>
+ * [MIMAG➞samp_size](MIMAG_samp_size.md)  <sub>OPT</sub>
      * range: [QuantityValue](QuantityValue.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞sample_name](mimag_sample_name.md)  <sub>OPT</sub>
+ * [MIMAG➞sample_name](MIMAG_sample_name.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞seq_meth](mimag_seq_meth.md)  <sub>REQ</sub>
+ * [MIMAG➞seq_meth](MIMAG_seq_meth.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞sim_search_meth](mimag_sim_search_meth.md)  <sub>OPT</sub>
+ * [MIMAG➞sim_search_meth](MIMAG_sim_search_meth.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞size_frac](mimag_size_frac.md)  <sub>OPT</sub>
+ * [MIMAG➞size_frac](MIMAG_size_frac.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞sop](mimag_sop.md)  <sub>OPT</sub>
+ * [MIMAG➞sop](MIMAG_sop.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞source_mat_id](mimag_source_mat_id.md)  <sub>OPT</sub>
+ * [MIMAG➞source_mat_id](MIMAG_source_mat_id.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞submitted_to_insdc](mimag_submitted_to_insdc.md)  <sub>REQ</sub>
+ * [MIMAG➞submitted_to_insdc](MIMAG_submitted_to_insdc.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞tax_class](mimag_tax_class.md)  <sub>OPT</sub>
+ * [MIMAG➞tax_class](MIMAG_tax_class.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞tax_ident](mimag_tax_ident.md)  <sub>REQ</sub>
+ * [MIMAG➞tax_ident](MIMAG_tax_ident.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞trna_ext_software](mimag_trna_ext_software.md)  <sub>OPT</sub>
+ * [MIMAG➞trna_ext_software](MIMAG_trna_ext_software.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞trnas](mimag_trnas.md)  <sub>OPT</sub>
+ * [MIMAG➞trnas](MIMAG_trnas.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞url](mimag_url.md)  <sub>OPT</sub>
+ * [MIMAG➞url](MIMAG_url.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞x_16s_recover](mimag_x_16s_recover.md)  <sub>OPT</sub>
+ * [MIMAG➞x_16s_recover](MIMAG_x_16s_recover.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from mimag:
+### Mixed in from MIMAG:
 
- * [mimag➞x_16s_recover_software](mimag_x_16s_recover_software.md)  <sub>OPT</sub>
+ * [MIMAG➞x_16s_recover_software](MIMAG_x_16s_recover_software.md)  <sub>OPT</sub>
      * range: [String](types/String.md)

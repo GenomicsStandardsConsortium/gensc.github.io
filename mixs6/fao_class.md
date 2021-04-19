@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub>
 ## Used by
 
  * [Soil](Soil.md)
- * [SoilMe](SoilMe.md)
- * [SoilMigsBa](SoilMigsBa.md)
- * [SoilMigsEu](SoilMigsEu.md)
- * [SoilMigsOrg](SoilMigsOrg.md)
- * [SoilMigsPl](SoilMigsPl.md)
- * [SoilMigsVi](SoilMigsVi.md)
- * [SoilMimag](SoilMimag.md)
- * [SoilMimarksC](SoilMimarksC.md)
- * [SoilMimarksS](SoilMimarksS.md)
- * [SoilMisag](SoilMisag.md)
- * [SoilMiuvig](SoilMiuvig.md)
+ * [SoilME](SoilME.md)
+ * [SoilMIGSBacteria](SoilMIGSBacteria.md)
+ * [SoilMIGSEukaryote](SoilMIGSEukaryote.md)
+ * [SoilMIGSOrg](SoilMIGSOrg.md)
+ * [SoilMIGSPlant](SoilMIGSPlant.md)
+ * [SoilMIGSVirus](SoilMIGSVirus.md)
+ * [SoilMIMAG](SoilMIMAG.md)
+ * [SoilMIMARKSSpecimen](SoilMIMARKSSpecimen.md)
+ * [SoilMIMARKSSurvey](SoilMIMARKSSurvey.md)
+ * [SoilMISAG](SoilMISAG.md)
+ * [SoilMIUVIG](SoilMIUVIG.md)
 
 ## Other properties
 

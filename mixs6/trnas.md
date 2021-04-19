@@ -17,9 +17,9 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [mimag➞trnas](mimag_trnas.md)
- *  [misag➞trnas](misag_trnas.md)
- *  [miuvig➞trnas](miuvig_trnas.md)
+ *  [MIMAG➞trnas](MIMAG_trnas.md)
+ *  [MISAG➞trnas](MISAG_trnas.md)
+ *  [MIUVIG➞trnas](MIUVIG_trnas.md)
 
 ## Used by
 

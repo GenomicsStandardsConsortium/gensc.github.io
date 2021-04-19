@@ -17,17 +17,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞source_mat_id](me_source_mat_id.md)
- *  [migs_ba➞source_mat_id](migs_ba_source_mat_id.md)
- *  [migs_eu➞source_mat_id](migs_eu_source_mat_id.md)
- *  [migs_org➞source_mat_id](migs_org_source_mat_id.md)
- *  [migs_pl➞source_mat_id](migs_pl_source_mat_id.md)
- *  [migs_vi➞source_mat_id](migs_vi_source_mat_id.md)
- *  [mimag➞source_mat_id](mimag_source_mat_id.md)
- *  [mimarks_c➞source_mat_id](mimarks_c_source_mat_id.md)
- *  [mimarks_s➞source_mat_id](mimarks_s_source_mat_id.md)
- *  [misag➞source_mat_id](misag_source_mat_id.md)
- *  [miuvig➞source_mat_id](miuvig_source_mat_id.md)
+ *  [ME➞source_mat_id](ME_source_mat_id.md)
+ *  [MIGS bacteria➞source_mat_id](MIGS_bacteria_source_mat_id.md)
+ *  [MIGS eukaryote➞source_mat_id](MIGS_eukaryote_source_mat_id.md)
+ *  [MIGS org➞source_mat_id](MIGS_org_source_mat_id.md)
+ *  [MIGS plant➞source_mat_id](MIGS_plant_source_mat_id.md)
+ *  [MIGS virus➞source_mat_id](MIGS_virus_source_mat_id.md)
+ *  [MIMAG➞source_mat_id](MIMAG_source_mat_id.md)
+ *  [MIMARKS specimen➞source_mat_id](MIMARKS_specimen_source_mat_id.md)
+ *  [MIMARKS survey➞source_mat_id](MIMARKS_survey_source_mat_id.md)
+ *  [MISAG➞source_mat_id](MISAG_source_mat_id.md)
+ *  [MIUVIG➞source_mat_id](MIUVIG_source_mat_id.md)
 
 ## Used by
 

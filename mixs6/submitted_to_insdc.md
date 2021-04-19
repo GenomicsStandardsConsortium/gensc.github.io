@@ -17,17 +17,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞submitted_to_insdc](me_submitted_to_insdc.md)
- *  [migs_ba➞submitted_to_insdc](migs_ba_submitted_to_insdc.md)
- *  [migs_eu➞submitted_to_insdc](migs_eu_submitted_to_insdc.md)
- *  [migs_org➞submitted_to_insdc](migs_org_submitted_to_insdc.md)
- *  [migs_pl➞submitted_to_insdc](migs_pl_submitted_to_insdc.md)
- *  [migs_vi➞submitted_to_insdc](migs_vi_submitted_to_insdc.md)
- *  [mimag➞submitted_to_insdc](mimag_submitted_to_insdc.md)
- *  [mimarks_c➞submitted_to_insdc](mimarks_c_submitted_to_insdc.md)
- *  [mimarks_s➞submitted_to_insdc](mimarks_s_submitted_to_insdc.md)
- *  [misag➞submitted_to_insdc](misag_submitted_to_insdc.md)
- *  [miuvig➞submitted_to_insdc](miuvig_submitted_to_insdc.md)
+ *  [ME➞submitted_to_insdc](ME_submitted_to_insdc.md)
+ *  [MIGS bacteria➞submitted_to_insdc](MIGS_bacteria_submitted_to_insdc.md)
+ *  [MIGS eukaryote➞submitted_to_insdc](MIGS_eukaryote_submitted_to_insdc.md)
+ *  [MIGS org➞submitted_to_insdc](MIGS_org_submitted_to_insdc.md)
+ *  [MIGS plant➞submitted_to_insdc](MIGS_plant_submitted_to_insdc.md)
+ *  [MIGS virus➞submitted_to_insdc](MIGS_virus_submitted_to_insdc.md)
+ *  [MIMAG➞submitted_to_insdc](MIMAG_submitted_to_insdc.md)
+ *  [MIMARKS specimen➞submitted_to_insdc](MIMARKS_specimen_submitted_to_insdc.md)
+ *  [MIMARKS survey➞submitted_to_insdc](MIMARKS_survey_submitted_to_insdc.md)
+ *  [MISAG➞submitted_to_insdc](MISAG_submitted_to_insdc.md)
+ *  [MIUVIG➞submitted_to_insdc](MIUVIG_submitted_to_insdc.md)
 
 ## Used by
 

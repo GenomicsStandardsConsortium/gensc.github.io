@@ -17,7 +17,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [migs_eu➞ploidy](migs_eu_ploidy.md)
+ *  [MIGS eukaryote➞ploidy](MIGS_eukaryote_ploidy.md)
 
 ## Used by
 

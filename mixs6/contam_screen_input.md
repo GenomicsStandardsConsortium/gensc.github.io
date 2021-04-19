@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [mimag➞contam_screen_input](mimag_contam_screen_input.md)
- *  [misag➞contam_screen_input](misag_contam_screen_input.md)
+ *  [MIMAG➞contam_screen_input](MIMAG_contam_screen_input.md)
+ *  [MISAG➞contam_screen_input](MISAG_contam_screen_input.md)
 
 ## Used by
 

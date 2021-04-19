@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 ## Used by
 
  * [WastewaterSludge](WastewaterSludge.md)
- * [WastewaterSludgeMe](WastewaterSludgeMe.md)
- * [WastewaterSludgeMigsBa](WastewaterSludgeMigsBa.md)
- * [WastewaterSludgeMigsEu](WastewaterSludgeMigsEu.md)
- * [WastewaterSludgeMigsOrg](WastewaterSludgeMigsOrg.md)
- * [WastewaterSludgeMigsPl](WastewaterSludgeMigsPl.md)
- * [WastewaterSludgeMigsVi](WastewaterSludgeMigsVi.md)
- * [WastewaterSludgeMimag](WastewaterSludgeMimag.md)
- * [WastewaterSludgeMimarksC](WastewaterSludgeMimarksC.md)
- * [WastewaterSludgeMimarksS](WastewaterSludgeMimarksS.md)
- * [WastewaterSludgeMisag](WastewaterSludgeMisag.md)
- * [WastewaterSludgeMiuvig](WastewaterSludgeMiuvig.md)
+ * [WastewaterSludgeME](WastewaterSludgeME.md)
+ * [WastewaterSludgeMIGSBacteria](WastewaterSludgeMIGSBacteria.md)
+ * [WastewaterSludgeMIGSEukaryote](WastewaterSludgeMIGSEukaryote.md)
+ * [WastewaterSludgeMIGSOrg](WastewaterSludgeMIGSOrg.md)
+ * [WastewaterSludgeMIGSPlant](WastewaterSludgeMIGSPlant.md)
+ * [WastewaterSludgeMIGSVirus](WastewaterSludgeMIGSVirus.md)
+ * [WastewaterSludgeMIMAG](WastewaterSludgeMIMAG.md)
+ * [WastewaterSludgeMIMARKSSpecimen](WastewaterSludgeMIMARKSSpecimen.md)
+ * [WastewaterSludgeMIMARKSSurvey](WastewaterSludgeMIMARKSSurvey.md)
+ * [WastewaterSludgeMISAG](WastewaterSludgeMISAG.md)
+ * [WastewaterSludgeMIUVIG](WastewaterSludgeMIUVIG.md)
 
 ## Other properties
 

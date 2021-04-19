@@ -17,15 +17,15 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞feat_pred](me_feat_pred.md)
- *  [migs_ba➞feat_pred](migs_ba_feat_pred.md)
- *  [migs_eu➞feat_pred](migs_eu_feat_pred.md)
- *  [migs_org➞feat_pred](migs_org_feat_pred.md)
- *  [migs_pl➞feat_pred](migs_pl_feat_pred.md)
- *  [migs_vi➞feat_pred](migs_vi_feat_pred.md)
- *  [mimag➞feat_pred](mimag_feat_pred.md)
- *  [misag➞feat_pred](misag_feat_pred.md)
- *  [miuvig➞feat_pred](miuvig_feat_pred.md)
+ *  [ME➞feat_pred](ME_feat_pred.md)
+ *  [MIGS bacteria➞feat_pred](MIGS_bacteria_feat_pred.md)
+ *  [MIGS eukaryote➞feat_pred](MIGS_eukaryote_feat_pred.md)
+ *  [MIGS org➞feat_pred](MIGS_org_feat_pred.md)
+ *  [MIGS plant➞feat_pred](MIGS_plant_feat_pred.md)
+ *  [MIGS virus➞feat_pred](MIGS_virus_feat_pred.md)
+ *  [MIMAG➞feat_pred](MIMAG_feat_pred.md)
+ *  [MISAG➞feat_pred](MISAG_feat_pred.md)
+ *  [MIUVIG➞feat_pred](MIUVIG_feat_pred.md)
 
 ## Used by
 

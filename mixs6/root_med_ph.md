@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub> [Double](types/Double.md)
 ## Used by
 
  * [Plant-associated](Plant-associated.md)
- * [Plant-associatedMe](Plant-associatedMe.md)
- * [Plant-associatedMigsBa](Plant-associatedMigsBa.md)
- * [Plant-associatedMigsEu](Plant-associatedMigsEu.md)
- * [Plant-associatedMigsOrg](Plant-associatedMigsOrg.md)
- * [Plant-associatedMigsPl](Plant-associatedMigsPl.md)
- * [Plant-associatedMigsVi](Plant-associatedMigsVi.md)
- * [Plant-associatedMimag](Plant-associatedMimag.md)
- * [Plant-associatedMimarksC](Plant-associatedMimarksC.md)
- * [Plant-associatedMimarksS](Plant-associatedMimarksS.md)
- * [Plant-associatedMisag](Plant-associatedMisag.md)
- * [Plant-associatedMiuvig](Plant-associatedMiuvig.md)
+ * [Plant-associatedME](Plant-associatedME.md)
+ * [Plant-associatedMIGSBacteria](Plant-associatedMIGSBacteria.md)
+ * [Plant-associatedMIGSEukaryote](Plant-associatedMIGSEukaryote.md)
+ * [Plant-associatedMIGSOrg](Plant-associatedMIGSOrg.md)
+ * [Plant-associatedMIGSPlant](Plant-associatedMIGSPlant.md)
+ * [Plant-associatedMIGSVirus](Plant-associatedMIGSVirus.md)
+ * [Plant-associatedMIMAG](Plant-associatedMIMAG.md)
+ * [Plant-associatedMIMARKSSpecimen](Plant-associatedMIMARKSSpecimen.md)
+ * [Plant-associatedMIMARKSSurvey](Plant-associatedMIMARKSSurvey.md)
+ * [Plant-associatedMISAG](Plant-associatedMISAG.md)
+ * [Plant-associatedMIUVIG](Plant-associatedMIUVIG.md)
 
 ## Other properties
 

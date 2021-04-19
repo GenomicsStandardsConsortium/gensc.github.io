@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [mimag➞decontam_software](mimag_decontam_software.md)
- *  [misag➞decontam_software](misag_decontam_software.md)
+ *  [MIMAG➞decontam_software](MIMAG_decontam_software.md)
+ *  [MISAG➞decontam_software](MISAG_decontam_software.md)
 
 ## Used by
 

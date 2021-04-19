@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [misag➞wga_amp_appr](misag_wga_amp_appr.md)
- *  [miuvig➞wga_amp_appr](miuvig_wga_amp_appr.md)
+ *  [MISAG➞wga_amp_appr](MISAG_wga_amp_appr.md)
+ *  [MIUVIG➞wga_amp_appr](MIUVIG_wga_amp_appr.md)
 
 ## Used by
 

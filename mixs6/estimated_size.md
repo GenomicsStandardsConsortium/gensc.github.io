@@ -17,12 +17,12 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [migs_ba➞estimated_size](migs_ba_estimated_size.md)
- *  [migs_eu➞estimated_size](migs_eu_estimated_size.md)
- *  [migs_org➞estimated_size](migs_org_estimated_size.md)
- *  [migs_pl➞estimated_size](migs_pl_estimated_size.md)
- *  [migs_vi➞estimated_size](migs_vi_estimated_size.md)
- *  [miuvig➞estimated_size](miuvig_estimated_size.md)
+ *  [MIGS bacteria➞estimated_size](MIGS_bacteria_estimated_size.md)
+ *  [MIGS eukaryote➞estimated_size](MIGS_eukaryote_estimated_size.md)
+ *  [MIGS org➞estimated_size](MIGS_org_estimated_size.md)
+ *  [MIGS plant➞estimated_size](MIGS_plant_estimated_size.md)
+ *  [MIGS virus➞estimated_size](MIGS_virus_estimated_size.md)
+ *  [MIUVIG➞estimated_size](MIUVIG_estimated_size.md)
 
 ## Used by
 

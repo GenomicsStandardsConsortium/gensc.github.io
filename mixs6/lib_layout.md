@@ -17,16 +17,16 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [me➞lib_layout](me_lib_layout.md)
- *  [migs_ba➞lib_layout](migs_ba_lib_layout.md)
- *  [migs_eu➞lib_layout](migs_eu_lib_layout.md)
- *  [migs_org➞lib_layout](migs_org_lib_layout.md)
- *  [migs_pl➞lib_layout](migs_pl_lib_layout.md)
- *  [migs_vi➞lib_layout](migs_vi_lib_layout.md)
- *  [mimag➞lib_layout](mimag_lib_layout.md)
- *  [mimarks_s➞lib_layout](mimarks_s_lib_layout.md)
- *  [misag➞lib_layout](misag_lib_layout.md)
- *  [miuvig➞lib_layout](miuvig_lib_layout.md)
+ *  [ME➞lib_layout](ME_lib_layout.md)
+ *  [MIGS bacteria➞lib_layout](MIGS_bacteria_lib_layout.md)
+ *  [MIGS eukaryote➞lib_layout](MIGS_eukaryote_lib_layout.md)
+ *  [MIGS org➞lib_layout](MIGS_org_lib_layout.md)
+ *  [MIGS plant➞lib_layout](MIGS_plant_lib_layout.md)
+ *  [MIGS virus➞lib_layout](MIGS_virus_lib_layout.md)
+ *  [MIMAG➞lib_layout](MIMAG_lib_layout.md)
+ *  [MIMARKS specimen➞lib_layout](MIMARKS_specimen_lib_layout.md)
+ *  [MISAG➞lib_layout](MISAG_lib_layout.md)
+ *  [MIUVIG➞lib_layout](MIUVIG_lib_layout.md)
 
 ## Used by
 

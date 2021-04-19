@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [mimag➞mag_cov_software](mimag_mag_cov_software.md)
- *  [miuvig➞mag_cov_software](miuvig_mag_cov_software.md)
+ *  [MIMAG➞mag_cov_software](MIMAG_mag_cov_software.md)
+ *  [MIUVIG➞mag_cov_software](MIUVIG_mag_cov_software.md)
 
 ## Used by
 

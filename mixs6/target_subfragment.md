@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [mimarks_c➞target_subfragment](mimarks_c_target_subfragment.md)
- *  [mimarks_s➞target_subfragment](mimarks_s_target_subfragment.md)
+ *  [MIMARKS specimen➞target_subfragment](MIMARKS_specimen_target_subfragment.md)
+ *  [MIMARKS survey➞target_subfragment](MIMARKS_survey_target_subfragment.md)
 
 ## Used by
 

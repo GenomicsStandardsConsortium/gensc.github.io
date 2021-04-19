@@ -17,9 +17,9 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [mimag➞compl_appr](mimag_compl_appr.md)
- *  [misag➞compl_appr](misag_compl_appr.md)
- *  [miuvig➞compl_appr](miuvig_compl_appr.md)
+ *  [MIMAG➞compl_appr](MIMAG_compl_appr.md)
+ *  [MISAG➞compl_appr](MISAG_compl_appr.md)
+ *  [MIUVIG➞compl_appr](MIUVIG_compl_appr.md)
 
 ## Used by
 

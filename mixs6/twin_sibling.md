@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 ## Used by
 
  * [Human-associated](Human-associated.md)
- * [Human-associatedMe](Human-associatedMe.md)
- * [Human-associatedMigsBa](Human-associatedMigsBa.md)
- * [Human-associatedMigsEu](Human-associatedMigsEu.md)
- * [Human-associatedMigsOrg](Human-associatedMigsOrg.md)
- * [Human-associatedMigsPl](Human-associatedMigsPl.md)
- * [Human-associatedMigsVi](Human-associatedMigsVi.md)
- * [Human-associatedMimag](Human-associatedMimag.md)
- * [Human-associatedMimarksC](Human-associatedMimarksC.md)
- * [Human-associatedMimarksS](Human-associatedMimarksS.md)
- * [Human-associatedMisag](Human-associatedMisag.md)
- * [Human-associatedMiuvig](Human-associatedMiuvig.md)
+ * [Human-associatedME](Human-associatedME.md)
+ * [Human-associatedMIGSBacteria](Human-associatedMIGSBacteria.md)
+ * [Human-associatedMIGSEukaryote](Human-associatedMIGSEukaryote.md)
+ * [Human-associatedMIGSOrg](Human-associatedMIGSOrg.md)
+ * [Human-associatedMIGSPlant](Human-associatedMIGSPlant.md)
+ * [Human-associatedMIGSVirus](Human-associatedMIGSVirus.md)
+ * [Human-associatedMIMAG](Human-associatedMIMAG.md)
+ * [Human-associatedMIMARKSSpecimen](Human-associatedMIMARKSSpecimen.md)
+ * [Human-associatedMIMARKSSurvey](Human-associatedMIMARKSSurvey.md)
+ * [Human-associatedMISAG](Human-associatedMISAG.md)
+ * [Human-associatedMIUVIG](Human-associatedMIUVIG.md)
 
 ## Other properties
 

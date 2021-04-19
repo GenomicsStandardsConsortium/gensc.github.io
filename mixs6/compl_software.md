@@ -17,14 +17,14 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [migs_ba➞compl_software](migs_ba_compl_software.md)
- *  [migs_eu➞compl_software](migs_eu_compl_software.md)
- *  [migs_org➞compl_software](migs_org_compl_software.md)
- *  [migs_pl➞compl_software](migs_pl_compl_software.md)
- *  [migs_vi➞compl_software](migs_vi_compl_software.md)
- *  [mimag➞compl_software](mimag_compl_software.md)
- *  [misag➞compl_software](misag_compl_software.md)
- *  [miuvig➞compl_software](miuvig_compl_software.md)
+ *  [MIGS bacteria➞compl_software](MIGS_bacteria_compl_software.md)
+ *  [MIGS eukaryote➞compl_software](MIGS_eukaryote_compl_software.md)
+ *  [MIGS org➞compl_software](MIGS_org_compl_software.md)
+ *  [MIGS plant➞compl_software](MIGS_plant_compl_software.md)
+ *  [MIGS virus➞compl_software](MIGS_virus_compl_software.md)
+ *  [MIMAG➞compl_software](MIMAG_compl_software.md)
+ *  [MISAG➞compl_software](MISAG_compl_software.md)
+ *  [MIUVIG➞compl_software](MIUVIG_compl_software.md)
 
 ## Used by
 

@@ -17,7 +17,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [miuvig➞host_pred_est_acc](miuvig_host_pred_est_acc.md)
+ *  [MIUVIG➞host_pred_est_acc](MIUVIG_host_pred_est_acc.md)
 
 ## Used by
 

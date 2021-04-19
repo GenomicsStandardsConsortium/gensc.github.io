@@ -17,17 +17,17 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [me➞env_package](me_env_package.md)
- *  [migs_ba➞env_package](migs_ba_env_package.md)
- *  [migs_eu➞env_package](migs_eu_env_package.md)
- *  [migs_org➞env_package](migs_org_env_package.md)
- *  [migs_pl➞env_package](migs_pl_env_package.md)
- *  [migs_vi➞env_package](migs_vi_env_package.md)
- *  [mimag➞env_package](mimag_env_package.md)
- *  [mimarks_c➞env_package](mimarks_c_env_package.md)
- *  [mimarks_s➞env_package](mimarks_s_env_package.md)
- *  [misag➞env_package](misag_env_package.md)
- *  [miuvig➞env_package](miuvig_env_package.md)
+ *  [ME➞env_package](ME_env_package.md)
+ *  [MIGS bacteria➞env_package](MIGS_bacteria_env_package.md)
+ *  [MIGS eukaryote➞env_package](MIGS_eukaryote_env_package.md)
+ *  [MIGS org➞env_package](MIGS_org_env_package.md)
+ *  [MIGS plant➞env_package](MIGS_plant_env_package.md)
+ *  [MIGS virus➞env_package](MIGS_virus_env_package.md)
+ *  [MIMAG➞env_package](MIMAG_env_package.md)
+ *  [MIMARKS specimen➞env_package](MIMARKS_specimen_env_package.md)
+ *  [MIMARKS survey➞env_package](MIMARKS_survey_env_package.md)
+ *  [MISAG➞env_package](MISAG_env_package.md)
+ *  [MIUVIG➞env_package](MIUVIG_env_package.md)
 
 ## Used by
 

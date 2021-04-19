@@ -17,15 +17,15 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞assembly_name](me_assembly_name.md)
- *  [migs_ba➞assembly_name](migs_ba_assembly_name.md)
- *  [migs_eu➞assembly_name](migs_eu_assembly_name.md)
- *  [migs_org➞assembly_name](migs_org_assembly_name.md)
- *  [migs_pl➞assembly_name](migs_pl_assembly_name.md)
- *  [migs_vi➞assembly_name](migs_vi_assembly_name.md)
- *  [mimag➞assembly_name](mimag_assembly_name.md)
- *  [misag➞assembly_name](misag_assembly_name.md)
- *  [miuvig➞assembly_name](miuvig_assembly_name.md)
+ *  [ME➞assembly_name](ME_assembly_name.md)
+ *  [MIGS bacteria➞assembly_name](MIGS_bacteria_assembly_name.md)
+ *  [MIGS eukaryote➞assembly_name](MIGS_eukaryote_assembly_name.md)
+ *  [MIGS org➞assembly_name](MIGS_org_assembly_name.md)
+ *  [MIGS plant➞assembly_name](MIGS_plant_assembly_name.md)
+ *  [MIGS virus➞assembly_name](MIGS_virus_assembly_name.md)
+ *  [MIMAG➞assembly_name](MIMAG_assembly_name.md)
+ *  [MISAG➞assembly_name](MISAG_assembly_name.md)
+ *  [MIUVIG➞assembly_name](MIUVIG_assembly_name.md)
 
 ## Used by
 

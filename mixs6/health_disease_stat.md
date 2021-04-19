@@ -17,9 +17,9 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [migs_ba➞health_disease_stat](migs_ba_health_disease_stat.md)
- *  [migs_eu➞health_disease_stat](migs_eu_health_disease_stat.md)
- *  [migs_vi➞health_disease_stat](migs_vi_health_disease_stat.md)
+ *  [MIGS bacteria➞health_disease_stat](MIGS_bacteria_health_disease_stat.md)
+ *  [MIGS eukaryote➞health_disease_stat](MIGS_eukaryote_health_disease_stat.md)
+ *  [MIGS virus➞health_disease_stat](MIGS_virus_health_disease_stat.md)
 
 ## Used by
 

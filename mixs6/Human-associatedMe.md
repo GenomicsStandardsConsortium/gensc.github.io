@@ -1,13 +1,13 @@
 
-# Class: Human-associatedMe
+# Class: Human-associatedME
 
 
-Combinatorial checklist for human-associated with me
+Combinatorial checklist Metagenome or Environmental with environmental package human-associated
 
-URI: [mixs.vocab:Human-associatedMe](https://w3id.org/mixs/vocab/Human-associatedMe)
+URI: [mixs.vocab:Human-associatedME](https://w3id.org/mixs/vocab/Human-associatedME)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Me],[Human-associatedMe&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string%20%3F;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;host_subject_id(i):string%20%3F;host_sex(i):host_sex_enum%20%3F;host_disease_stat(i):string%20%3F;ihmc_medication_code(i):string%20%3F;chem_administration(i):string%20%3F;host_body_site(i):string%20%3F;host_body_product(i):string%20%3F;host_diet(i):string%20%3F;host_last_meal(i):string%20%3F;host_family_relationship(i):string%20%3F;host_genotype(i):string%20%3F;host_phenotype(i):string%20%3F;smoker(i):string%20%3F;host_hiv_stat(i):string%20%3F;drug_usage(i):drug_usage_enum%20%3F;diet_last_six_month(i):string%20%3F;weight_loss_3_month(i):string%20%3F;ihmc_ethnicity(i):string%20%3F;host_occupation(i):string%20%3F;pet_farm_animal(i):string%20%3F;travel_out_six_month(i):string%20%3F;twin_sibling(i):string%20%3F;medic_hist_perform(i):string%20%3F;study_complt_stat(i):study_complt_stat_enum%20%3F;pulmonary_disord(i):string%20%3F;nose_throat_disord(i):string%20%3F;blood_blood_disord(i):string%20%3F;gestation_state(i):string%20%3F;maternal_health_stat(i):string%20%3F;foetal_health_stat(i):string%20%3F;amniotic_fluid_color(i):string%20%3F;urogenit_tract_disor(i):string%20%3F;urine_collect_meth(i):string%20%3F;perturbation(i):string%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;organism_count(i):organism_count_enum%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;misc_param(i):string%20%3F]uses%20-.->[Me],[Human-associated]^-[Human-associatedMe],[Human-associated])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Human-associatedME&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string%20%3F;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;host_subject_id(i):string%20%3F;host_sex(i):host_sex_enum%20%3F;host_disease_stat(i):string%20%3F;ihmc_medication_code(i):string%20%3F;chem_administration(i):string%20%3F;host_body_site(i):string%20%3F;host_body_product(i):string%20%3F;host_diet(i):string%20%3F;host_last_meal(i):string%20%3F;host_family_relationship(i):string%20%3F;host_genotype(i):string%20%3F;host_phenotype(i):string%20%3F;smoker(i):string%20%3F;host_hiv_stat(i):string%20%3F;drug_usage(i):drug_usage_enum%20%3F;diet_last_six_month(i):string%20%3F;weight_loss_3_month(i):string%20%3F;ihmc_ethnicity(i):string%20%3F;host_occupation(i):string%20%3F;pet_farm_animal(i):string%20%3F;travel_out_six_month(i):string%20%3F;twin_sibling(i):string%20%3F;medic_hist_perform(i):string%20%3F;study_complt_stat(i):study_complt_stat_enum%20%3F;pulmonary_disord(i):string%20%3F;nose_throat_disord(i):string%20%3F;blood_blood_disord(i):string%20%3F;gestation_state(i):string%20%3F;maternal_health_stat(i):string%20%3F;foetal_health_stat(i):string%20%3F;amniotic_fluid_color(i):string%20%3F;urogenit_tract_disor(i):string%20%3F;urine_collect_meth(i):string%20%3F;perturbation(i):string%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;organism_count(i):organism_count_enum%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;misc_param(i):string%20%3F]uses%20-.->[ME],[Human-associated]^-[Human-associatedME],[Human-associated],[ME])
 
 ## Parents
 
@@ -15,7 +15,7 @@ URI: [mixs.vocab:Human-associatedMe](https://w3id.org/mixs/vocab/Human-associate
 
 ## Uses Mixins
 
- *  mixin: [Me](Me.md) - me Checklist
+ *  mixin: [ME](ME.md) - Metagenome or Environmental
 
 ## Attributes
 
@@ -255,172 +255,172 @@ URI: [mixs.vocab:Human-associatedMe](https://w3id.org/mixs/vocab/Human-associate
      * range: [String](types/String.md)
      * Example: yes;5 kilogram None
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞adapters](me_adapters.md)  <sub>OPT</sub>
+ * [ME➞adapters](ME_adapters.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞annot](me_annot.md)  <sub>OPT</sub>
+ * [ME➞annot](ME_annot.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞assembly_name](me_assembly_name.md)  <sub>OPT</sub>
+ * [ME➞assembly_name](ME_assembly_name.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞assembly_qual](me_assembly_qual.md)  <sub>OPT</sub>
+ * [ME➞assembly_qual](ME_assembly_qual.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞assembly_software](me_assembly_software.md)  <sub>OPT</sub>
+ * [ME➞assembly_software](ME_assembly_software.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞env_package](me_env_package.md)  <sub>OPT</sub>
+ * [ME➞env_package](ME_env_package.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞experimental_factor](me_experimental_factor.md)  <sub>OPT</sub>
+ * [ME➞experimental_factor](ME_experimental_factor.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞feat_pred](me_feat_pred.md)  <sub>OPT</sub>
+ * [ME➞feat_pred](ME_feat_pred.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞investigation_type](me_investigation_type.md)  <sub>REQ</sub>
+ * [ME➞investigation_type](ME_investigation_type.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞lib_layout](me_lib_layout.md)  <sub>OPT</sub>
+ * [ME➞lib_layout](ME_lib_layout.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞lib_reads_seqd](me_lib_reads_seqd.md)  <sub>OPT</sub>
+ * [ME➞lib_reads_seqd](ME_lib_reads_seqd.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞lib_screen](me_lib_screen.md)  <sub>OPT</sub>
+ * [ME➞lib_screen](ME_lib_screen.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞lib_size](me_lib_size.md)  <sub>OPT</sub>
+ * [ME➞lib_size](ME_lib_size.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞lib_vector](me_lib_vector.md)  <sub>OPT</sub>
+ * [ME➞lib_vector](ME_lib_vector.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞mid](me_mid.md)  <sub>OPT</sub>
+ * [ME➞mid](ME_mid.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞nucl_acid_amp](me_nucl_acid_amp.md)  <sub>OPT</sub>
+ * [ME➞nucl_acid_amp](ME_nucl_acid_amp.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞nucl_acid_ext](me_nucl_acid_ext.md)  <sub>OPT</sub>
+ * [ME➞nucl_acid_ext](ME_nucl_acid_ext.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞number_contig](me_number_contig.md)  <sub>OPT</sub>
+ * [ME➞number_contig](ME_number_contig.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞project_name](me_project_name.md)  <sub>REQ</sub>
+ * [ME➞project_name](ME_project_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞ref_biomaterial](me_ref_biomaterial.md)  <sub>OPT</sub>
+ * [ME➞ref_biomaterial](ME_ref_biomaterial.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞ref_db](me_ref_db.md)  <sub>OPT</sub>
+ * [ME➞ref_db](ME_ref_db.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞rel_to_oxygen](me_rel_to_oxygen.md)  <sub>OPT</sub>
+ * [ME➞rel_to_oxygen](ME_rel_to_oxygen.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞samp_collect_device](me_samp_collect_device.md)  <sub>OPT</sub>
+ * [ME➞samp_collect_device](ME_samp_collect_device.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞samp_mat_process](me_samp_mat_process.md)  <sub>OPT</sub>
+ * [ME➞samp_mat_process](ME_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞samp_size](me_samp_size.md)  <sub>OPT</sub>
+ * [ME➞samp_size](ME_samp_size.md)  <sub>OPT</sub>
      * range: [QuantityValue](QuantityValue.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞sample_name](me_sample_name.md)  <sub>OPT</sub>
+ * [ME➞sample_name](ME_sample_name.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞seq_meth](me_seq_meth.md)  <sub>REQ</sub>
+ * [ME➞seq_meth](ME_seq_meth.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞sim_search_meth](me_sim_search_meth.md)  <sub>OPT</sub>
+ * [ME➞sim_search_meth](ME_sim_search_meth.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞size_frac](me_size_frac.md)  <sub>OPT</sub>
+ * [ME➞size_frac](ME_size_frac.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞sop](me_sop.md)  <sub>OPT</sub>
+ * [ME➞sop](ME_sop.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞source_mat_id](me_source_mat_id.md)  <sub>OPT</sub>
+ * [ME➞source_mat_id](ME_source_mat_id.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞submitted_to_insdc](me_submitted_to_insdc.md)  <sub>REQ</sub>
+ * [ME➞submitted_to_insdc](ME_submitted_to_insdc.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞tax_class](me_tax_class.md)  <sub>OPT</sub>
+ * [ME➞tax_class](ME_tax_class.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from me:
+### Mixed in from ME:
 
- * [me➞url](me_url.md)  <sub>OPT</sub>
+ * [ME➞url](ME_url.md)  <sub>OPT</sub>
      * range: [String](types/String.md)

@@ -17,9 +17,9 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [migs_ba➞trophic_level](migs_ba_trophic_level.md)
- *  [migs_eu➞trophic_level](migs_eu_trophic_level.md)
- *  [mimarks_c➞trophic_level](mimarks_c_trophic_level.md)
+ *  [MIGS bacteria➞trophic_level](MIGS_bacteria_trophic_level.md)
+ *  [MIGS eukaryote➞trophic_level](MIGS_eukaryote_trophic_level.md)
+ *  [MIMARKS survey➞trophic_level](MIMARKS_survey_trophic_level.md)
 
 ## Used by
 

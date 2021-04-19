@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [mimag➞contam_score](mimag_contam_score.md)
- *  [misag➞contam_score](misag_contam_score.md)
+ *  [MIMAG➞contam_score](MIMAG_contam_score.md)
+ *  [MISAG➞contam_score](MISAG_contam_score.md)
 
 ## Used by
 

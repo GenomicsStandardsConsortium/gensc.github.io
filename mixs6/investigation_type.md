@@ -17,17 +17,17 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [me➞investigation_type](me_investigation_type.md)
- *  [migs_ba➞investigation_type](migs_ba_investigation_type.md)
- *  [migs_eu➞investigation_type](migs_eu_investigation_type.md)
- *  [migs_org➞investigation_type](migs_org_investigation_type.md)
- *  [migs_pl➞investigation_type](migs_pl_investigation_type.md)
- *  [migs_vi➞investigation_type](migs_vi_investigation_type.md)
- *  [mimag➞investigation_type](mimag_investigation_type.md)
- *  [mimarks_c➞investigation_type](mimarks_c_investigation_type.md)
- *  [mimarks_s➞investigation_type](mimarks_s_investigation_type.md)
- *  [misag➞investigation_type](misag_investigation_type.md)
- *  [miuvig➞investigation_type](miuvig_investigation_type.md)
+ *  [ME➞investigation_type](ME_investigation_type.md)
+ *  [MIGS bacteria➞investigation_type](MIGS_bacteria_investigation_type.md)
+ *  [MIGS eukaryote➞investigation_type](MIGS_eukaryote_investigation_type.md)
+ *  [MIGS org➞investigation_type](MIGS_org_investigation_type.md)
+ *  [MIGS plant➞investigation_type](MIGS_plant_investigation_type.md)
+ *  [MIGS virus➞investigation_type](MIGS_virus_investigation_type.md)
+ *  [MIMAG➞investigation_type](MIMAG_investigation_type.md)
+ *  [MIMARKS specimen➞investigation_type](MIMARKS_specimen_investigation_type.md)
+ *  [MIMARKS survey➞investigation_type](MIMARKS_survey_investigation_type.md)
+ *  [MISAG➞investigation_type](MISAG_investigation_type.md)
+ *  [MIUVIG➞investigation_type](MIUVIG_investigation_type.md)
 
 ## Used by
 

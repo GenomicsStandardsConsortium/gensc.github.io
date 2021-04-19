@@ -17,16 +17,16 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞assembly_software](me_assembly_software.md)
- *  [migs_ba➞assembly_software](migs_ba_assembly_software.md)
- *  [migs_eu➞assembly_software](migs_eu_assembly_software.md)
- *  [migs_org➞assembly_software](migs_org_assembly_software.md)
- *  [migs_pl➞assembly_software](migs_pl_assembly_software.md)
- *  [migs_vi➞assembly_software](migs_vi_assembly_software.md)
- *  [mimag➞assembly_software](mimag_assembly_software.md)
- *  [mimarks_s➞assembly_software](mimarks_s_assembly_software.md)
- *  [misag➞assembly_software](misag_assembly_software.md)
- *  [miuvig➞assembly_software](miuvig_assembly_software.md)
+ *  [ME➞assembly_software](ME_assembly_software.md)
+ *  [MIGS bacteria➞assembly_software](MIGS_bacteria_assembly_software.md)
+ *  [MIGS eukaryote➞assembly_software](MIGS_eukaryote_assembly_software.md)
+ *  [MIGS org➞assembly_software](MIGS_org_assembly_software.md)
+ *  [MIGS plant➞assembly_software](MIGS_plant_assembly_software.md)
+ *  [MIGS virus➞assembly_software](MIGS_virus_assembly_software.md)
+ *  [MIMAG➞assembly_software](MIMAG_assembly_software.md)
+ *  [MIMARKS specimen➞assembly_software](MIMARKS_specimen_assembly_software.md)
+ *  [MISAG➞assembly_software](MISAG_assembly_software.md)
+ *  [MIUVIG➞assembly_software](MIUVIG_assembly_software.md)
 
 ## Used by
 

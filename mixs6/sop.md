@@ -17,17 +17,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞sop](me_sop.md)
- *  [migs_ba➞sop](migs_ba_sop.md)
- *  [migs_eu➞sop](migs_eu_sop.md)
- *  [migs_org➞sop](migs_org_sop.md)
- *  [migs_pl➞sop](migs_pl_sop.md)
- *  [migs_vi➞sop](migs_vi_sop.md)
- *  [mimag➞sop](mimag_sop.md)
- *  [mimarks_c➞sop](mimarks_c_sop.md)
- *  [mimarks_s➞sop](mimarks_s_sop.md)
- *  [misag➞sop](misag_sop.md)
- *  [miuvig➞sop](miuvig_sop.md)
+ *  [ME➞sop](ME_sop.md)
+ *  [MIGS bacteria➞sop](MIGS_bacteria_sop.md)
+ *  [MIGS eukaryote➞sop](MIGS_eukaryote_sop.md)
+ *  [MIGS org➞sop](MIGS_org_sop.md)
+ *  [MIGS plant➞sop](MIGS_plant_sop.md)
+ *  [MIGS virus➞sop](MIGS_virus_sop.md)
+ *  [MIMAG➞sop](MIMAG_sop.md)
+ *  [MIMARKS specimen➞sop](MIMARKS_specimen_sop.md)
+ *  [MIMARKS survey➞sop](MIMARKS_survey_sop.md)
+ *  [MISAG➞sop](MISAG_sop.md)
+ *  [MIUVIG➞sop](MIUVIG_sop.md)
 
 ## Used by
 

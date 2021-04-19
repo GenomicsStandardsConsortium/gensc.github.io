@@ -17,11 +17,11 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [migs_ba➞biotic_relationship](migs_ba_biotic_relationship.md)
- *  [migs_eu➞biotic_relationship](migs_eu_biotic_relationship.md)
- *  [migs_vi➞biotic_relationship](migs_vi_biotic_relationship.md)
- *  [mimarks_c➞biotic_relationship](mimarks_c_biotic_relationship.md)
- *  [miuvig➞biotic_relationship](miuvig_biotic_relationship.md)
+ *  [MIGS bacteria➞biotic_relationship](MIGS_bacteria_biotic_relationship.md)
+ *  [MIGS eukaryote➞biotic_relationship](MIGS_eukaryote_biotic_relationship.md)
+ *  [MIGS virus➞biotic_relationship](MIGS_virus_biotic_relationship.md)
+ *  [MIMARKS survey➞biotic_relationship](MIMARKS_survey_biotic_relationship.md)
+ *  [MIUVIG➞biotic_relationship](MIUVIG_biotic_relationship.md)
 
 ## Used by
 

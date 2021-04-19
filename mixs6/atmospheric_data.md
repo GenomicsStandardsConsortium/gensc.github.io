@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 ## Used by
 
  * [Water](Water.md)
- * [WaterMe](WaterMe.md)
- * [WaterMigsBa](WaterMigsBa.md)
- * [WaterMigsEu](WaterMigsEu.md)
- * [WaterMigsOrg](WaterMigsOrg.md)
- * [WaterMigsPl](WaterMigsPl.md)
- * [WaterMigsVi](WaterMigsVi.md)
- * [WaterMimag](WaterMimag.md)
- * [WaterMimarksC](WaterMimarksC.md)
- * [WaterMimarksS](WaterMimarksS.md)
- * [WaterMisag](WaterMisag.md)
- * [WaterMiuvig](WaterMiuvig.md)
+ * [WaterME](WaterME.md)
+ * [WaterMIGSBacteria](WaterMIGSBacteria.md)
+ * [WaterMIGSEukaryote](WaterMIGSEukaryote.md)
+ * [WaterMIGSOrg](WaterMIGSOrg.md)
+ * [WaterMIGSPlant](WaterMIGSPlant.md)
+ * [WaterMIGSVirus](WaterMIGSVirus.md)
+ * [WaterMIMAG](WaterMIMAG.md)
+ * [WaterMIMARKSSpecimen](WaterMIMARKSSpecimen.md)
+ * [WaterMIMARKSSurvey](WaterMIMARKSSurvey.md)
+ * [WaterMISAG](WaterMISAG.md)
+ * [WaterMIUVIG](WaterMIUVIG.md)
 
 ## Other properties
 

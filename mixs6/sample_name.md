@@ -17,17 +17,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞sample_name](me_sample_name.md)
- *  [migs_ba➞sample_name](migs_ba_sample_name.md)
- *  [migs_eu➞sample_name](migs_eu_sample_name.md)
- *  [migs_org➞sample_name](migs_org_sample_name.md)
- *  [migs_pl➞sample_name](migs_pl_sample_name.md)
- *  [migs_vi➞sample_name](migs_vi_sample_name.md)
- *  [mimag➞sample_name](mimag_sample_name.md)
- *  [mimarks_c➞sample_name](mimarks_c_sample_name.md)
- *  [mimarks_s➞sample_name](mimarks_s_sample_name.md)
- *  [misag➞sample_name](misag_sample_name.md)
- *  [miuvig➞sample_name](miuvig_sample_name.md)
+ *  [ME➞sample_name](ME_sample_name.md)
+ *  [MIGS bacteria➞sample_name](MIGS_bacteria_sample_name.md)
+ *  [MIGS eukaryote➞sample_name](MIGS_eukaryote_sample_name.md)
+ *  [MIGS org➞sample_name](MIGS_org_sample_name.md)
+ *  [MIGS plant➞sample_name](MIGS_plant_sample_name.md)
+ *  [MIGS virus➞sample_name](MIGS_virus_sample_name.md)
+ *  [MIMAG➞sample_name](MIMAG_sample_name.md)
+ *  [MIMARKS specimen➞sample_name](MIMARKS_specimen_sample_name.md)
+ *  [MIMARKS survey➞sample_name](MIMARKS_survey_sample_name.md)
+ *  [MISAG➞sample_name](MISAG_sample_name.md)
+ *  [MIUVIG➞sample_name](MIUVIG_sample_name.md)
 
 ## Used by
 

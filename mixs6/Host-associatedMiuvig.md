@@ -1,13 +1,13 @@
 
-# Class: Host-associatedMiuvig
+# Class: Host-associatedMIUVIG
 
 
-Combinatorial checklist for host-associated with miuvig
+Combinatorial checklist Minimum Information About an Uncultivated Virus Genome with environmental package host-associated
 
-URI: [mixs.vocab:Host-associatedMiuvig](https://w3id.org/mixs/vocab/Host-associatedMiuvig)
+URI: [mixs.vocab:Host-associatedMIUVIG](https://w3id.org/mixs/vocab/Host-associatedMIUVIG)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Miuvig],[Host-associatedMiuvig&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;source_uvig:source_uvig_enum;virus_enrich_appr:virus_enrich_appr_enum;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;compl_appr:compl_appr_enum%20%3F;sort_tech:sort_tech_enum%20%3F;single_cell_lysis_appr:single_cell_lysis_appr_enum%20%3F;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string%20%3F;wga_amp_kit:string%20%3F;bin_param:bin_param_enum%20%3F;bin_software:bin_software_enum%20%3F;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;vir_ident_software:string;pred_genome_type:pred_genome_type_enum;pred_genome_struc:pred_genome_struc_enum;detec_type:string;votu_class_appr:string%20%3F;votu_seq_comp_appr:string%20%3F;votu_db:string%20%3F;host_pred_appr:host_pred_appr_enum%20%3F;host_pred_est_acc:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;ances_data(i):string%20%3F;biol_stat(i):biol_stat_enum%20%3F;genetic_mod(i):string%20%3F;host_common_name(i):string%20%3F;samp_capt_status(i):samp_capt_status_enum%20%3F;samp_dis_stage(i):string%20%3F;host_taxid(i):string%20%3F;host_subject_id(i):string%20%3F;host_life_stage(i):string%20%3F;host_sex(i):host_sex_enum%20%3F;host_disease_stat(i):string%20%3F;chem_administration(i):string%20%3F;host_body_habitat(i):string%20%3F;host_body_site(i):string%20%3F;host_body_product(i):string%20%3F;host_diet(i):string%20%3F;host_last_meal(i):string%20%3F;host_growth_cond(i):string%20%3F;host_substrate(i):string%20%3F;host_family_relationship(i):string%20%3F;host_infra_specific_name(i):string%20%3F;host_infra_specific_rank(i):string%20%3F;host_genotype(i):string%20%3F;host_phenotype(i):string%20%3F;host_color(i):string%20%3F;host_shape(i):string%20%3F;gravidity(i):string%20%3F;perturbation(i):string%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;organism_count(i):organism_count_enum%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;misc_param(i):string%20%3F]uses%20-.->[Miuvig],[Host-associated]^-[Host-associatedMiuvig],[Host-associated])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Host-associatedMIUVIG&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;source_uvig:source_uvig_enum;virus_enrich_appr:virus_enrich_appr_enum;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;compl_appr:compl_appr_enum%20%3F;sort_tech:sort_tech_enum%20%3F;single_cell_lysis_appr:single_cell_lysis_appr_enum%20%3F;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string%20%3F;wga_amp_kit:string%20%3F;bin_param:bin_param_enum%20%3F;bin_software:bin_software_enum%20%3F;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;vir_ident_software:string;pred_genome_type:pred_genome_type_enum;pred_genome_struc:pred_genome_struc_enum;detec_type:string;votu_class_appr:string%20%3F;votu_seq_comp_appr:string%20%3F;votu_db:string%20%3F;host_pred_appr:host_pred_appr_enum%20%3F;host_pred_est_acc:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;ances_data(i):string%20%3F;biol_stat(i):biol_stat_enum%20%3F;genetic_mod(i):string%20%3F;host_common_name(i):string%20%3F;samp_capt_status(i):samp_capt_status_enum%20%3F;samp_dis_stage(i):string%20%3F;host_taxid(i):string%20%3F;host_subject_id(i):string%20%3F;host_life_stage(i):string%20%3F;host_sex(i):host_sex_enum%20%3F;host_disease_stat(i):string%20%3F;chem_administration(i):string%20%3F;host_body_habitat(i):string%20%3F;host_body_site(i):string%20%3F;host_body_product(i):string%20%3F;host_diet(i):string%20%3F;host_last_meal(i):string%20%3F;host_growth_cond(i):string%20%3F;host_substrate(i):string%20%3F;host_family_relationship(i):string%20%3F;host_infra_specific_name(i):string%20%3F;host_infra_specific_rank(i):string%20%3F;host_genotype(i):string%20%3F;host_phenotype(i):string%20%3F;host_color(i):string%20%3F;host_shape(i):string%20%3F;gravidity(i):string%20%3F;perturbation(i):string%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;organism_count(i):organism_count_enum%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;misc_param(i):string%20%3F]uses%20-.->[MIUVIG],[Host-associated]^-[Host-associatedMIUVIG],[Host-associated],[MIUVIG])
 
 ## Parents
 
@@ -15,7 +15,7 @@ URI: [mixs.vocab:Host-associatedMiuvig](https://w3id.org/mixs/vocab/Host-associa
 
 ## Uses Mixins
 
- *  mixin: [Miuvig](Miuvig.md) - miuvig Checklist
+ *  mixin: [MIUVIG](MIUVIG.md) - Minimum Information About an Uncultivated Virus Genome
 
 ## Attributes
 
@@ -239,322 +239,322 @@ URI: [mixs.vocab:Host-associatedMiuvig](https://w3id.org/mixs/vocab/Host-associa
      * range: [QuantityValue](QuantityValue.md)
      * Example: 25 degree Celsius None
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞adapters](miuvig_adapters.md)  <sub>OPT</sub>
+ * [MIUVIG➞adapters](MIUVIG_adapters.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞annot](miuvig_annot.md)  <sub>OPT</sub>
+ * [MIUVIG➞annot](MIUVIG_annot.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞assembly_name](miuvig_assembly_name.md)  <sub>OPT</sub>
+ * [MIUVIG➞assembly_name](MIUVIG_assembly_name.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞assembly_qual](miuvig_assembly_qual.md)  <sub>REQ</sub>
+ * [MIUVIG➞assembly_qual](MIUVIG_assembly_qual.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞assembly_software](miuvig_assembly_software.md)  <sub>REQ</sub>
+ * [MIUVIG➞assembly_software](MIUVIG_assembly_software.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞bin_param](miuvig_bin_param.md)  <sub>OPT</sub>
+ * [MIUVIG➞bin_param](MIUVIG_bin_param.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞bin_software](miuvig_bin_software.md)  <sub>OPT</sub>
+ * [MIUVIG➞bin_software](MIUVIG_bin_software.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞biotic_relationship](miuvig_biotic_relationship.md)  <sub>OPT</sub>
+ * [MIUVIG➞biotic_relationship](MIUVIG_biotic_relationship.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞compl_appr](miuvig_compl_appr.md)  <sub>OPT</sub>
+ * [MIUVIG➞compl_appr](MIUVIG_compl_appr.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞compl_score](miuvig_compl_score.md)  <sub>OPT</sub>
+ * [MIUVIG➞compl_score](MIUVIG_compl_score.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞compl_software](miuvig_compl_software.md)  <sub>OPT</sub>
+ * [MIUVIG➞compl_software](MIUVIG_compl_software.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞detec_type](miuvig_detec_type.md)  <sub>REQ</sub>
+ * [MIUVIG➞detec_type](MIUVIG_detec_type.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞env_package](miuvig_env_package.md)  <sub>OPT</sub>
+ * [MIUVIG➞env_package](MIUVIG_env_package.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞estimated_size](miuvig_estimated_size.md)  <sub>OPT</sub>
+ * [MIUVIG➞estimated_size](MIUVIG_estimated_size.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞experimental_factor](miuvig_experimental_factor.md)  <sub>OPT</sub>
+ * [MIUVIG➞experimental_factor](MIUVIG_experimental_factor.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞feat_pred](miuvig_feat_pred.md)  <sub>OPT</sub>
+ * [MIUVIG➞feat_pred](MIUVIG_feat_pred.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞host_pred_appr](miuvig_host_pred_appr.md)  <sub>OPT</sub>
+ * [MIUVIG➞host_pred_appr](MIUVIG_host_pred_appr.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞host_pred_est_acc](miuvig_host_pred_est_acc.md)  <sub>OPT</sub>
+ * [MIUVIG➞host_pred_est_acc](MIUVIG_host_pred_est_acc.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞host_spec_range](miuvig_host_spec_range.md)  <sub>OPT</sub>
+ * [MIUVIG➞host_spec_range](MIUVIG_host_spec_range.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞investigation_type](miuvig_investigation_type.md)  <sub>REQ</sub>
+ * [MIUVIG➞investigation_type](MIUVIG_investigation_type.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞lib_layout](miuvig_lib_layout.md)  <sub>OPT</sub>
+ * [MIUVIG➞lib_layout](MIUVIG_lib_layout.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞lib_reads_seqd](miuvig_lib_reads_seqd.md)  <sub>OPT</sub>
+ * [MIUVIG➞lib_reads_seqd](MIUVIG_lib_reads_seqd.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞lib_screen](miuvig_lib_screen.md)  <sub>OPT</sub>
+ * [MIUVIG➞lib_screen](MIUVIG_lib_screen.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞lib_size](miuvig_lib_size.md)  <sub>OPT</sub>
+ * [MIUVIG➞lib_size](MIUVIG_lib_size.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞lib_vector](miuvig_lib_vector.md)  <sub>OPT</sub>
+ * [MIUVIG➞lib_vector](MIUVIG_lib_vector.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞mag_cov_software](miuvig_mag_cov_software.md)  <sub>OPT</sub>
+ * [MIUVIG➞mag_cov_software](MIUVIG_mag_cov_software.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞mid](miuvig_mid.md)  <sub>OPT</sub>
+ * [MIUVIG➞mid](MIUVIG_mid.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞nucl_acid_amp](miuvig_nucl_acid_amp.md)  <sub>OPT</sub>
+ * [MIUVIG➞nucl_acid_amp](MIUVIG_nucl_acid_amp.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞nucl_acid_ext](miuvig_nucl_acid_ext.md)  <sub>OPT</sub>
+ * [MIUVIG➞nucl_acid_ext](MIUVIG_nucl_acid_ext.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞number_contig](miuvig_number_contig.md)  <sub>REQ</sub>
+ * [MIUVIG➞number_contig](MIUVIG_number_contig.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞pathogenicity](miuvig_pathogenicity.md)  <sub>OPT</sub>
+ * [MIUVIG➞pathogenicity](MIUVIG_pathogenicity.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞pred_genome_struc](miuvig_pred_genome_struc.md)  <sub>REQ</sub>
+ * [MIUVIG➞pred_genome_struc](MIUVIG_pred_genome_struc.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞pred_genome_type](miuvig_pred_genome_type.md)  <sub>REQ</sub>
+ * [MIUVIG➞pred_genome_type](MIUVIG_pred_genome_type.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞project_name](miuvig_project_name.md)  <sub>REQ</sub>
+ * [MIUVIG➞project_name](MIUVIG_project_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞reassembly_bin](miuvig_reassembly_bin.md)  <sub>OPT</sub>
+ * [MIUVIG➞reassembly_bin](MIUVIG_reassembly_bin.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞ref_biomaterial](miuvig_ref_biomaterial.md)  <sub>OPT</sub>
+ * [MIUVIG➞ref_biomaterial](MIUVIG_ref_biomaterial.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞ref_db](miuvig_ref_db.md)  <sub>OPT</sub>
+ * [MIUVIG➞ref_db](MIUVIG_ref_db.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞samp_collect_device](miuvig_samp_collect_device.md)  <sub>OPT</sub>
+ * [MIUVIG➞samp_collect_device](MIUVIG_samp_collect_device.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞samp_mat_process](miuvig_samp_mat_process.md)  <sub>OPT</sub>
+ * [MIUVIG➞samp_mat_process](MIUVIG_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞samp_size](miuvig_samp_size.md)  <sub>OPT</sub>
+ * [MIUVIG➞samp_size](MIUVIG_samp_size.md)  <sub>OPT</sub>
      * range: [QuantityValue](QuantityValue.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞sample_name](miuvig_sample_name.md)  <sub>OPT</sub>
+ * [MIUVIG➞sample_name](MIUVIG_sample_name.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞seq_meth](miuvig_seq_meth.md)  <sub>REQ</sub>
+ * [MIUVIG➞seq_meth](MIUVIG_seq_meth.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞sim_search_meth](miuvig_sim_search_meth.md)  <sub>OPT</sub>
+ * [MIUVIG➞sim_search_meth](MIUVIG_sim_search_meth.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞single_cell_lysis_appr](miuvig_single_cell_lysis_appr.md)  <sub>OPT</sub>
+ * [MIUVIG➞single_cell_lysis_appr](MIUVIG_single_cell_lysis_appr.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞single_cell_lysis_prot](miuvig_single_cell_lysis_prot.md)  <sub>OPT</sub>
+ * [MIUVIG➞single_cell_lysis_prot](MIUVIG_single_cell_lysis_prot.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞size_frac](miuvig_size_frac.md)  <sub>OPT</sub>
+ * [MIUVIG➞size_frac](MIUVIG_size_frac.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞sop](miuvig_sop.md)  <sub>OPT</sub>
+ * [MIUVIG➞sop](MIUVIG_sop.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞sort_tech](miuvig_sort_tech.md)  <sub>OPT</sub>
+ * [MIUVIG➞sort_tech](MIUVIG_sort_tech.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞source_mat_id](miuvig_source_mat_id.md)  <sub>OPT</sub>
+ * [MIUVIG➞source_mat_id](MIUVIG_source_mat_id.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞source_uvig](miuvig_source_uvig.md)  <sub>REQ</sub>
+ * [MIUVIG➞source_uvig](MIUVIG_source_uvig.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞specific_host](miuvig_specific_host.md)  <sub>OPT</sub>
+ * [MIUVIG➞specific_host](MIUVIG_specific_host.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞submitted_to_insdc](miuvig_submitted_to_insdc.md)  <sub>REQ</sub>
+ * [MIUVIG➞submitted_to_insdc](MIUVIG_submitted_to_insdc.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞tax_class](miuvig_tax_class.md)  <sub>OPT</sub>
+ * [MIUVIG➞tax_class](MIUVIG_tax_class.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞tax_ident](miuvig_tax_ident.md)  <sub>OPT</sub>
+ * [MIUVIG➞tax_ident](MIUVIG_tax_ident.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞trna_ext_software](miuvig_trna_ext_software.md)  <sub>OPT</sub>
+ * [MIUVIG➞trna_ext_software](MIUVIG_trna_ext_software.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞trnas](miuvig_trnas.md)  <sub>OPT</sub>
+ * [MIUVIG➞trnas](MIUVIG_trnas.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞url](miuvig_url.md)  <sub>OPT</sub>
+ * [MIUVIG➞url](MIUVIG_url.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞vir_ident_software](miuvig_vir_ident_software.md)  <sub>REQ</sub>
+ * [MIUVIG➞vir_ident_software](MIUVIG_vir_ident_software.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞virus_enrich_appr](miuvig_virus_enrich_appr.md)  <sub>REQ</sub>
+ * [MIUVIG➞virus_enrich_appr](MIUVIG_virus_enrich_appr.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞votu_class_appr](miuvig_votu_class_appr.md)  <sub>OPT</sub>
+ * [MIUVIG➞votu_class_appr](MIUVIG_votu_class_appr.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞votu_db](miuvig_votu_db.md)  <sub>OPT</sub>
+ * [MIUVIG➞votu_db](MIUVIG_votu_db.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞votu_seq_comp_appr](miuvig_votu_seq_comp_appr.md)  <sub>OPT</sub>
+ * [MIUVIG➞votu_seq_comp_appr](MIUVIG_votu_seq_comp_appr.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞wga_amp_appr](miuvig_wga_amp_appr.md)  <sub>OPT</sub>
+ * [MIUVIG➞wga_amp_appr](MIUVIG_wga_amp_appr.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from miuvig:
+### Mixed in from MIUVIG:
 
- * [miuvig➞wga_amp_kit](miuvig_wga_amp_kit.md)  <sub>OPT</sub>
+ * [MIUVIG➞wga_amp_kit](MIUVIG_wga_amp_kit.md)  <sub>OPT</sub>
      * range: [String](types/String.md)

@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [misag➞sort_tech](misag_sort_tech.md)
- *  [miuvig➞sort_tech](miuvig_sort_tech.md)
+ *  [MISAG➞sort_tech](MISAG_sort_tech.md)
+ *  [MIUVIG➞sort_tech](MIUVIG_sort_tech.md)
 
 ## Used by
 

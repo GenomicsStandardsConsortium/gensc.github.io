@@ -17,15 +17,15 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞tax_class](me_tax_class.md)
- *  [migs_ba➞tax_class](migs_ba_tax_class.md)
- *  [migs_eu➞tax_class](migs_eu_tax_class.md)
- *  [migs_org➞tax_class](migs_org_tax_class.md)
- *  [migs_pl➞tax_class](migs_pl_tax_class.md)
- *  [migs_vi➞tax_class](migs_vi_tax_class.md)
- *  [mimag➞tax_class](mimag_tax_class.md)
- *  [misag➞tax_class](misag_tax_class.md)
- *  [miuvig➞tax_class](miuvig_tax_class.md)
+ *  [ME➞tax_class](ME_tax_class.md)
+ *  [MIGS bacteria➞tax_class](MIGS_bacteria_tax_class.md)
+ *  [MIGS eukaryote➞tax_class](MIGS_eukaryote_tax_class.md)
+ *  [MIGS org➞tax_class](MIGS_org_tax_class.md)
+ *  [MIGS plant➞tax_class](MIGS_plant_tax_class.md)
+ *  [MIGS virus➞tax_class](MIGS_virus_tax_class.md)
+ *  [MIMAG➞tax_class](MIMAG_tax_class.md)
+ *  [MISAG➞tax_class](MISAG_tax_class.md)
+ *  [MIUVIG➞tax_class](MIUVIG_tax_class.md)
 
 ## Used by
 

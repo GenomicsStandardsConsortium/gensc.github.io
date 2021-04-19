@@ -17,15 +17,15 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞annot](me_annot.md)
- *  [migs_ba➞annot](migs_ba_annot.md)
- *  [migs_eu➞annot](migs_eu_annot.md)
- *  [migs_org➞annot](migs_org_annot.md)
- *  [migs_pl➞annot](migs_pl_annot.md)
- *  [migs_vi➞annot](migs_vi_annot.md)
- *  [mimag➞annot](mimag_annot.md)
- *  [misag➞annot](misag_annot.md)
- *  [miuvig➞annot](miuvig_annot.md)
+ *  [ME➞annot](ME_annot.md)
+ *  [MIGS bacteria➞annot](MIGS_bacteria_annot.md)
+ *  [MIGS eukaryote➞annot](MIGS_eukaryote_annot.md)
+ *  [MIGS org➞annot](MIGS_org_annot.md)
+ *  [MIGS plant➞annot](MIGS_plant_annot.md)
+ *  [MIGS virus➞annot](MIGS_virus_annot.md)
+ *  [MIMAG➞annot](MIMAG_annot.md)
+ *  [MISAG➞annot](MISAG_annot.md)
+ *  [MIUVIG➞annot](MIUVIG_annot.md)
 
 ## Used by
 

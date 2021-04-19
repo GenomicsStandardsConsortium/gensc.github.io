@@ -17,7 +17,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [miuvig➞votu_class_appr](miuvig_votu_class_appr.md)
+ *  [MIUVIG➞votu_class_appr](MIUVIG_votu_class_appr.md)
 
 ## Used by
 

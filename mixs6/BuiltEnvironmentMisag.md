@@ -1,13 +1,13 @@
 
-# Class: BuiltEnvironmentMisag
+# Class: BuiltEnvironmentMISAG
 
 
-Combinatorial checklist for built environment with misag
+Combinatorial checklist Minimum Information About a Single Amplified Genome with environmental package built environment
 
-URI: [mixs.vocab:BuiltEnvironmentMisag](https://w3id.org/mixs/vocab/BuiltEnvironmentMisag)
+URI: [mixs.vocab:BuiltEnvironmentMISAG](https://w3id.org/mixs/vocab/BuiltEnvironmentMISAG)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Misag],[BuiltEnvironmentMisag&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;x_16s_recover_software:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum;compl_software:string;compl_appr:compl_appr_enum%20%3F;contam_score:string;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;sort_tech:sort_tech_enum;single_cell_lysis_appr:single_cell_lysis_appr_enum;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string;wga_amp_kit:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;surf_material(i):surf_material_enum%20%3F;surf_air_cont(i):surf_air_cont_enum%20%3F;surf_moisture_ph(i):double%20%3F;build_occup_type(i):build_occup_type_enum%20%3F;ventilation_type(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;indoor_space(i):indoor_space_enum%20%3F;indoor_surf(i):indoor_surf_enum%20%3F;filter_type(i):filter_type_enum%20%3F;heat_cool_type(i):heat_cool_type_enum%20%3F;substructure_type(i):substructure_type_enum%20%3F;building_setting(i):building_setting_enum%20%3F;light_type(i):light_type_enum%20%3F;samp_sort_meth(i):string%20%3F;space_typ_state(i):string%20%3F;typ_occup_density(i):double%20%3F;occup_samp(i):string%20%3F;occup_density_samp(i):double%20%3F;address(i):string%20%3F;adj_room(i):string%20%3F;aero_struc(i):string%20%3F;arch_struc(i):arch_struc_enum%20%3F;avg_occup(i):double%20%3F;bathroom_count(i):string%20%3F;bedroom_count(i):string%20%3F;built_struc_set(i):string%20%3F;built_struc_type(i):string%20%3F;ceil_cond(i):ceil_cond_enum%20%3F;ceil_finish_mat(i):ceil_finish_mat_enum%20%3F;ceil_water_mold(i):string%20%3F;ceil_struc(i):string%20%3F;ceil_texture(i):ceil_texture_enum%20%3F;ceil_type(i):ceil_type_enum%20%3F;cool_syst_id(i):string%20%3F;date_last_rain(i):string%20%3F;build_docs(i):build_docs_enum%20%3F;door_cond(i):door_cond_enum%20%3F;door_direct(i):door_direct_enum%20%3F;door_loc(i):door_loc_enum%20%3F;door_mat(i):door_mat_enum%20%3F;door_move(i):door_move_enum%20%3F;door_water_mold(i):string%20%3F;door_type(i):door_type_enum%20%3F;door_comp_type(i):door_comp_type_enum%20%3F;door_type_metal(i):door_type_metal_enum%20%3F;door_type_wood(i):door_type_wood_enum%20%3F;drawings(i):drawings_enum%20%3F;elevator(i):string%20%3F;escalator(i):string%20%3F;exp_pipe(i):string%20%3F;ext_door(i):string%20%3F;fireplace_type(i):string%20%3F;floor_cond(i):floor_cond_enum%20%3F;floor_count(i):string%20%3F;floor_finish_mat(i):floor_finish_mat_enum%20%3F;floor_water_mold(i):floor_water_mold_enum%20%3F;floor_struc(i):floor_struc_enum%20%3F;freq_clean(i):string%20%3F;freq_cook(i):string%20%3F;furniture(i):furniture_enum%20%3F;gender_restroom(i):string%20%3F;hall_count(i):string%20%3F;handidness(i):handidness_enum%20%3F;heat_deliv_loc(i):heat_deliv_loc_enum%20%3F;heat_system_deliv_meth(i):string%20%3F;heat_system_id(i):string%20%3F;int_wall_cond(i):int_wall_cond_enum%20%3F;last_clean(i):string%20%3F;max_occup(i):string%20%3F;mech_struc(i):mech_struc_enum%20%3F;number_plants(i):string%20%3F;number_pets(i):string%20%3F;number_resident(i):string%20%3F;occup_document(i):occup_document_enum%20%3F;ext_wall_orient(i):ext_wall_orient_enum%20%3F;ext_window_orient(i):ext_window_orient_enum%20%3F;pres_animal(i):pres_animal_enum%20%3F;quad_pos(i):quad_pos_enum%20%3F;rel_samp_loc(i):rel_samp_loc_enum%20%3F;room_architec_element(i):string%20%3F;room_condt(i):room_condt_enum%20%3F;room_count(i):string%20%3F;room_dim(i):string%20%3F;room_door_dist(i):string%20%3F;room_loc(i):room_loc_enum%20%3F;room_moist_damage_hist(i):string%20%3F;room_net_area(i):string%20%3F;room_occup(i):string%20%3F;room_samp_pos(i):room_samp_pos_enum%20%3F;room_type(i):room_type_enum%20%3F;room_vol(i):string%20%3F;room_window_count(i):string%20%3F;room_connected(i):room_connected_enum%20%3F;room_hallway(i):string%20%3F;room_door_share(i):string%20%3F;room_wall_share(i):string%20%3F;samp_weather(i):samp_weather_enum%20%3F;samp_floor(i):samp_floor_enum%20%3F;samp_room_id(i):string%20%3F;samp_time_out(i):double%20%3F;season(i):string%20%3F;season_use(i):season_use_enum%20%3F;shading_device_cond(i):shading_device_cond_enum%20%3F;shading_device_loc(i):string%20%3F;shading_device_mat(i):string%20%3F;shading_device_water_mold(i):string%20%3F;shading_device_type(i):shading_device_type_enum%20%3F;specific(i):specific_enum%20%3F;train_line(i):train_line_enum%20%3F;train_stat_loc(i):train_stat_loc_enum%20%3F;train_stop_loc(i):train_stop_loc_enum%20%3F;vis_media(i):vis_media_enum%20%3F;wall_const_type(i):wall_const_type_enum%20%3F;wall_finish_mat(i):wall_finish_mat_enum%20%3F;wall_loc(i):wall_loc_enum%20%3F;wall_water_mold(i):string%20%3F;wall_surf_treatment(i):wall_surf_treatment_enum%20%3F;wall_texture(i):wall_texture_enum%20%3F;water_feat_type(i):water_feat_type_enum%20%3F;weekday(i):weekday_enum%20%3F;window_size(i):string%20%3F;window_cond(i):window_cond_enum%20%3F;window_cover(i):window_cover_enum%20%3F;window_horiz_pos(i):window_horiz_pos_enum%20%3F;window_loc(i):window_loc_enum%20%3F;window_mat(i):window_mat_enum%20%3F;window_open_freq(i):string%20%3F;window_water_mold(i):string%20%3F;window_status(i):string%20%3F;window_type(i):window_type_enum%20%3F;window_vert_pos(i):window_vert_pos_enum%20%3F]uses%20-.->[Misag],[BuiltEnvironment]^-[BuiltEnvironmentMisag],[BuiltEnvironment])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[BuiltEnvironmentMISAG&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;x_16s_recover_software:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum;compl_software:string;compl_appr:compl_appr_enum%20%3F;contam_score:string;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;sort_tech:sort_tech_enum;single_cell_lysis_appr:single_cell_lysis_appr_enum;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string;wga_amp_kit:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;surf_material(i):surf_material_enum%20%3F;surf_air_cont(i):surf_air_cont_enum%20%3F;surf_moisture_ph(i):double%20%3F;build_occup_type(i):build_occup_type_enum%20%3F;ventilation_type(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;indoor_space(i):indoor_space_enum%20%3F;indoor_surf(i):indoor_surf_enum%20%3F;filter_type(i):filter_type_enum%20%3F;heat_cool_type(i):heat_cool_type_enum%20%3F;substructure_type(i):substructure_type_enum%20%3F;building_setting(i):building_setting_enum%20%3F;light_type(i):light_type_enum%20%3F;samp_sort_meth(i):string%20%3F;space_typ_state(i):string%20%3F;typ_occup_density(i):double%20%3F;occup_samp(i):string%20%3F;occup_density_samp(i):double%20%3F;address(i):string%20%3F;adj_room(i):string%20%3F;aero_struc(i):string%20%3F;arch_struc(i):arch_struc_enum%20%3F;avg_occup(i):double%20%3F;bathroom_count(i):string%20%3F;bedroom_count(i):string%20%3F;built_struc_set(i):string%20%3F;built_struc_type(i):string%20%3F;ceil_cond(i):ceil_cond_enum%20%3F;ceil_finish_mat(i):ceil_finish_mat_enum%20%3F;ceil_water_mold(i):string%20%3F;ceil_struc(i):string%20%3F;ceil_texture(i):ceil_texture_enum%20%3F;ceil_type(i):ceil_type_enum%20%3F;cool_syst_id(i):string%20%3F;date_last_rain(i):string%20%3F;build_docs(i):build_docs_enum%20%3F;door_cond(i):door_cond_enum%20%3F;door_direct(i):door_direct_enum%20%3F;door_loc(i):door_loc_enum%20%3F;door_mat(i):door_mat_enum%20%3F;door_move(i):door_move_enum%20%3F;door_water_mold(i):string%20%3F;door_type(i):door_type_enum%20%3F;door_comp_type(i):door_comp_type_enum%20%3F;door_type_metal(i):door_type_metal_enum%20%3F;door_type_wood(i):door_type_wood_enum%20%3F;drawings(i):drawings_enum%20%3F;elevator(i):string%20%3F;escalator(i):string%20%3F;exp_pipe(i):string%20%3F;ext_door(i):string%20%3F;fireplace_type(i):string%20%3F;floor_cond(i):floor_cond_enum%20%3F;floor_count(i):string%20%3F;floor_finish_mat(i):floor_finish_mat_enum%20%3F;floor_water_mold(i):floor_water_mold_enum%20%3F;floor_struc(i):floor_struc_enum%20%3F;freq_clean(i):string%20%3F;freq_cook(i):string%20%3F;furniture(i):furniture_enum%20%3F;gender_restroom(i):string%20%3F;hall_count(i):string%20%3F;handidness(i):handidness_enum%20%3F;heat_deliv_loc(i):heat_deliv_loc_enum%20%3F;heat_system_deliv_meth(i):string%20%3F;heat_system_id(i):string%20%3F;int_wall_cond(i):int_wall_cond_enum%20%3F;last_clean(i):string%20%3F;max_occup(i):string%20%3F;mech_struc(i):mech_struc_enum%20%3F;number_plants(i):string%20%3F;number_pets(i):string%20%3F;number_resident(i):string%20%3F;occup_document(i):occup_document_enum%20%3F;ext_wall_orient(i):ext_wall_orient_enum%20%3F;ext_window_orient(i):ext_window_orient_enum%20%3F;pres_animal(i):pres_animal_enum%20%3F;quad_pos(i):quad_pos_enum%20%3F;rel_samp_loc(i):rel_samp_loc_enum%20%3F;room_architec_element(i):string%20%3F;room_condt(i):room_condt_enum%20%3F;room_count(i):string%20%3F;room_dim(i):string%20%3F;room_door_dist(i):string%20%3F;room_loc(i):room_loc_enum%20%3F;room_moist_damage_hist(i):string%20%3F;room_net_area(i):string%20%3F;room_occup(i):string%20%3F;room_samp_pos(i):room_samp_pos_enum%20%3F;room_type(i):room_type_enum%20%3F;room_vol(i):string%20%3F;room_window_count(i):string%20%3F;room_connected(i):room_connected_enum%20%3F;room_hallway(i):string%20%3F;room_door_share(i):string%20%3F;room_wall_share(i):string%20%3F;samp_weather(i):samp_weather_enum%20%3F;samp_floor(i):samp_floor_enum%20%3F;samp_room_id(i):string%20%3F;samp_time_out(i):double%20%3F;season(i):string%20%3F;season_use(i):season_use_enum%20%3F;shading_device_cond(i):shading_device_cond_enum%20%3F;shading_device_loc(i):string%20%3F;shading_device_mat(i):string%20%3F;shading_device_water_mold(i):string%20%3F;shading_device_type(i):shading_device_type_enum%20%3F;specific(i):specific_enum%20%3F;train_line(i):train_line_enum%20%3F;train_stat_loc(i):train_stat_loc_enum%20%3F;train_stop_loc(i):train_stop_loc_enum%20%3F;vis_media(i):vis_media_enum%20%3F;wall_const_type(i):wall_const_type_enum%20%3F;wall_finish_mat(i):wall_finish_mat_enum%20%3F;wall_loc(i):wall_loc_enum%20%3F;wall_water_mold(i):string%20%3F;wall_surf_treatment(i):wall_surf_treatment_enum%20%3F;wall_texture(i):wall_texture_enum%20%3F;water_feat_type(i):water_feat_type_enum%20%3F;weekday(i):weekday_enum%20%3F;window_size(i):string%20%3F;window_cond(i):window_cond_enum%20%3F;window_cover(i):window_cover_enum%20%3F;window_horiz_pos(i):window_horiz_pos_enum%20%3F;window_loc(i):window_loc_enum%20%3F;window_mat(i):window_mat_enum%20%3F;window_open_freq(i):string%20%3F;window_water_mold(i):string%20%3F;window_status(i):string%20%3F;window_type(i):window_type_enum%20%3F;window_vert_pos(i):window_vert_pos_enum%20%3F]uses%20-.->[MISAG],[BuiltEnvironment]^-[BuiltEnvironmentMISAG],[BuiltEnvironment],[MISAG])
 
 ## Parents
 
@@ -15,7 +15,7 @@ URI: [mixs.vocab:BuiltEnvironmentMisag](https://w3id.org/mixs/vocab/BuiltEnviron
 
 ## Uses Mixins
 
- *  mixin: [Misag](Misag.md) - misag Checklist
+ *  mixin: [MISAG](MISAG.md) - Minimum Information About a Single Amplified Genome
 
 ## Attributes
 
@@ -699,257 +699,257 @@ URI: [mixs.vocab:BuiltEnvironmentMisag](https://w3id.org/mixs/vocab/BuiltEnviron
      * range: [String](types/String.md)
      * Example: no presence of mold visible None
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞adapters](misag_adapters.md)  <sub>OPT</sub>
+ * [MISAG➞adapters](MISAG_adapters.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞annot](misag_annot.md)  <sub>OPT</sub>
+ * [MISAG➞annot](MISAG_annot.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞assembly_name](misag_assembly_name.md)  <sub>OPT</sub>
+ * [MISAG➞assembly_name](MISAG_assembly_name.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞assembly_qual](misag_assembly_qual.md)  <sub>REQ</sub>
+ * [MISAG➞assembly_qual](MISAG_assembly_qual.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞assembly_software](misag_assembly_software.md)  <sub>REQ</sub>
+ * [MISAG➞assembly_software](MISAG_assembly_software.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞compl_appr](misag_compl_appr.md)  <sub>OPT</sub>
+ * [MISAG➞compl_appr](MISAG_compl_appr.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞compl_score](misag_compl_score.md)  <sub>REQ</sub>
+ * [MISAG➞compl_score](MISAG_compl_score.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞compl_software](misag_compl_software.md)  <sub>REQ</sub>
+ * [MISAG➞compl_software](MISAG_compl_software.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞contam_score](misag_contam_score.md)  <sub>REQ</sub>
+ * [MISAG➞contam_score](MISAG_contam_score.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞contam_screen_input](misag_contam_screen_input.md)  <sub>OPT</sub>
+ * [MISAG➞contam_screen_input](MISAG_contam_screen_input.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞contam_screen_param](misag_contam_screen_param.md)  <sub>OPT</sub>
+ * [MISAG➞contam_screen_param](MISAG_contam_screen_param.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞decontam_software](misag_decontam_software.md)  <sub>OPT</sub>
+ * [MISAG➞decontam_software](MISAG_decontam_software.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞env_package](misag_env_package.md)  <sub>OPT</sub>
+ * [MISAG➞env_package](MISAG_env_package.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞experimental_factor](misag_experimental_factor.md)  <sub>OPT</sub>
+ * [MISAG➞experimental_factor](MISAG_experimental_factor.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞feat_pred](misag_feat_pred.md)  <sub>OPT</sub>
+ * [MISAG➞feat_pred](MISAG_feat_pred.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞investigation_type](misag_investigation_type.md)  <sub>REQ</sub>
+ * [MISAG➞investigation_type](MISAG_investigation_type.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞lib_layout](misag_lib_layout.md)  <sub>OPT</sub>
+ * [MISAG➞lib_layout](MISAG_lib_layout.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞lib_reads_seqd](misag_lib_reads_seqd.md)  <sub>OPT</sub>
+ * [MISAG➞lib_reads_seqd](MISAG_lib_reads_seqd.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞lib_screen](misag_lib_screen.md)  <sub>OPT</sub>
+ * [MISAG➞lib_screen](MISAG_lib_screen.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞lib_size](misag_lib_size.md)  <sub>OPT</sub>
+ * [MISAG➞lib_size](MISAG_lib_size.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞lib_vector](misag_lib_vector.md)  <sub>OPT</sub>
+ * [MISAG➞lib_vector](MISAG_lib_vector.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞mid](misag_mid.md)  <sub>OPT</sub>
+ * [MISAG➞mid](MISAG_mid.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞nucl_acid_amp](misag_nucl_acid_amp.md)  <sub>OPT</sub>
+ * [MISAG➞nucl_acid_amp](MISAG_nucl_acid_amp.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞nucl_acid_ext](misag_nucl_acid_ext.md)  <sub>OPT</sub>
+ * [MISAG➞nucl_acid_ext](MISAG_nucl_acid_ext.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞number_contig](misag_number_contig.md)  <sub>OPT</sub>
+ * [MISAG➞number_contig](MISAG_number_contig.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞project_name](misag_project_name.md)  <sub>REQ</sub>
+ * [MISAG➞project_name](MISAG_project_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞ref_biomaterial](misag_ref_biomaterial.md)  <sub>OPT</sub>
+ * [MISAG➞ref_biomaterial](MISAG_ref_biomaterial.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞ref_db](misag_ref_db.md)  <sub>OPT</sub>
+ * [MISAG➞ref_db](MISAG_ref_db.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞rel_to_oxygen](misag_rel_to_oxygen.md)  <sub>OPT</sub>
+ * [MISAG➞rel_to_oxygen](MISAG_rel_to_oxygen.md)  <sub>OPT</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞samp_collect_device](misag_samp_collect_device.md)  <sub>OPT</sub>
+ * [MISAG➞samp_collect_device](MISAG_samp_collect_device.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞samp_mat_process](misag_samp_mat_process.md)  <sub>OPT</sub>
+ * [MISAG➞samp_mat_process](MISAG_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞samp_size](misag_samp_size.md)  <sub>OPT</sub>
+ * [MISAG➞samp_size](MISAG_samp_size.md)  <sub>OPT</sub>
      * range: [QuantityValue](QuantityValue.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞sample_name](misag_sample_name.md)  <sub>OPT</sub>
+ * [MISAG➞sample_name](MISAG_sample_name.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞seq_meth](misag_seq_meth.md)  <sub>REQ</sub>
+ * [MISAG➞seq_meth](MISAG_seq_meth.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞sim_search_meth](misag_sim_search_meth.md)  <sub>OPT</sub>
+ * [MISAG➞sim_search_meth](MISAG_sim_search_meth.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞single_cell_lysis_appr](misag_single_cell_lysis_appr.md)  <sub>REQ</sub>
+ * [MISAG➞single_cell_lysis_appr](MISAG_single_cell_lysis_appr.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞single_cell_lysis_prot](misag_single_cell_lysis_prot.md)  <sub>OPT</sub>
+ * [MISAG➞single_cell_lysis_prot](MISAG_single_cell_lysis_prot.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞size_frac](misag_size_frac.md)  <sub>OPT</sub>
+ * [MISAG➞size_frac](MISAG_size_frac.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞sop](misag_sop.md)  <sub>OPT</sub>
+ * [MISAG➞sop](MISAG_sop.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞sort_tech](misag_sort_tech.md)  <sub>REQ</sub>
+ * [MISAG➞sort_tech](MISAG_sort_tech.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞source_mat_id](misag_source_mat_id.md)  <sub>OPT</sub>
+ * [MISAG➞source_mat_id](MISAG_source_mat_id.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞submitted_to_insdc](misag_submitted_to_insdc.md)  <sub>REQ</sub>
+ * [MISAG➞submitted_to_insdc](MISAG_submitted_to_insdc.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞tax_class](misag_tax_class.md)  <sub>OPT</sub>
+ * [MISAG➞tax_class](MISAG_tax_class.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞tax_ident](misag_tax_ident.md)  <sub>REQ</sub>
+ * [MISAG➞tax_ident](MISAG_tax_ident.md)  <sub>REQ</sub>
      * range: 
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞trna_ext_software](misag_trna_ext_software.md)  <sub>OPT</sub>
+ * [MISAG➞trna_ext_software](MISAG_trna_ext_software.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞trnas](misag_trnas.md)  <sub>OPT</sub>
+ * [MISAG➞trnas](MISAG_trnas.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞url](misag_url.md)  <sub>OPT</sub>
+ * [MISAG➞url](MISAG_url.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞wga_amp_appr](misag_wga_amp_appr.md)  <sub>REQ</sub>
+ * [MISAG➞wga_amp_appr](MISAG_wga_amp_appr.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞wga_amp_kit](misag_wga_amp_kit.md)  <sub>OPT</sub>
+ * [MISAG➞wga_amp_kit](MISAG_wga_amp_kit.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞x_16s_recover](misag_x_16s_recover.md)  <sub>OPT</sub>
+ * [MISAG➞x_16s_recover](MISAG_x_16s_recover.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
-### Mixed in from misag:
+### Mixed in from MISAG:
 
- * [misag➞x_16s_recover_software](misag_x_16s_recover_software.md)  <sub>OPT</sub>
+ * [MISAG➞x_16s_recover_software](MISAG_x_16s_recover_software.md)  <sub>OPT</sub>
      * range: [String](types/String.md)

@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [mimarks_c➞seq_quality_check](mimarks_c_seq_quality_check.md)
- *  [mimarks_s➞seq_quality_check](mimarks_s_seq_quality_check.md)
+ *  [MIMARKS specimen➞seq_quality_check](MIMARKS_specimen_seq_quality_check.md)
+ *  [MIMARKS survey➞seq_quality_check](MIMARKS_survey_seq_quality_check.md)
 
 ## Used by
 

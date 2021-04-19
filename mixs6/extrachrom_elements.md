@@ -17,10 +17,10 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [migs_ba➞extrachrom_elements](migs_ba_extrachrom_elements.md)
- *  [migs_eu➞extrachrom_elements](migs_eu_extrachrom_elements.md)
- *  [migs_org➞extrachrom_elements](migs_org_extrachrom_elements.md)
- *  [mimarks_c➞extrachrom_elements](mimarks_c_extrachrom_elements.md)
+ *  [MIGS bacteria➞extrachrom_elements](MIGS_bacteria_extrachrom_elements.md)
+ *  [MIGS eukaryote➞extrachrom_elements](MIGS_eukaryote_extrachrom_elements.md)
+ *  [MIGS org➞extrachrom_elements](MIGS_org_extrachrom_elements.md)
+ *  [MIMARKS survey➞extrachrom_elements](MIMARKS_survey_extrachrom_elements.md)
 
 ## Used by
 

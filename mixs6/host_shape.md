@@ -21,17 +21,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 ## Used by
 
  * [Host-associated](Host-associated.md)
- * [Host-associatedMe](Host-associatedMe.md)
- * [Host-associatedMigsBa](Host-associatedMigsBa.md)
- * [Host-associatedMigsEu](Host-associatedMigsEu.md)
- * [Host-associatedMigsOrg](Host-associatedMigsOrg.md)
- * [Host-associatedMigsPl](Host-associatedMigsPl.md)
- * [Host-associatedMigsVi](Host-associatedMigsVi.md)
- * [Host-associatedMimag](Host-associatedMimag.md)
- * [Host-associatedMimarksC](Host-associatedMimarksC.md)
- * [Host-associatedMimarksS](Host-associatedMimarksS.md)
- * [Host-associatedMisag](Host-associatedMisag.md)
- * [Host-associatedMiuvig](Host-associatedMiuvig.md)
+ * [Host-associatedME](Host-associatedME.md)
+ * [Host-associatedMIGSBacteria](Host-associatedMIGSBacteria.md)
+ * [Host-associatedMIGSEukaryote](Host-associatedMIGSEukaryote.md)
+ * [Host-associatedMIGSOrg](Host-associatedMIGSOrg.md)
+ * [Host-associatedMIGSPlant](Host-associatedMIGSPlant.md)
+ * [Host-associatedMIGSVirus](Host-associatedMIGSVirus.md)
+ * [Host-associatedMIMAG](Host-associatedMIMAG.md)
+ * [Host-associatedMIMARKSSpecimen](Host-associatedMIMARKSSpecimen.md)
+ * [Host-associatedMIMARKSSurvey](Host-associatedMIMARKSSurvey.md)
+ * [Host-associatedMISAG](Host-associatedMISAG.md)
+ * [Host-associatedMIUVIG](Host-associatedMIUVIG.md)
 
 ## Other properties
 

@@ -17,17 +17,17 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞samp_mat_process](me_samp_mat_process.md)
- *  [migs_ba➞samp_mat_process](migs_ba_samp_mat_process.md)
- *  [migs_eu➞samp_mat_process](migs_eu_samp_mat_process.md)
- *  [migs_org➞samp_mat_process](migs_org_samp_mat_process.md)
- *  [migs_pl➞samp_mat_process](migs_pl_samp_mat_process.md)
- *  [migs_vi➞samp_mat_process](migs_vi_samp_mat_process.md)
- *  [mimag➞samp_mat_process](mimag_samp_mat_process.md)
- *  [mimarks_c➞samp_mat_process](mimarks_c_samp_mat_process.md)
- *  [mimarks_s➞samp_mat_process](mimarks_s_samp_mat_process.md)
- *  [misag➞samp_mat_process](misag_samp_mat_process.md)
- *  [miuvig➞samp_mat_process](miuvig_samp_mat_process.md)
+ *  [ME➞samp_mat_process](ME_samp_mat_process.md)
+ *  [MIGS bacteria➞samp_mat_process](MIGS_bacteria_samp_mat_process.md)
+ *  [MIGS eukaryote➞samp_mat_process](MIGS_eukaryote_samp_mat_process.md)
+ *  [MIGS org➞samp_mat_process](MIGS_org_samp_mat_process.md)
+ *  [MIGS plant➞samp_mat_process](MIGS_plant_samp_mat_process.md)
+ *  [MIGS virus➞samp_mat_process](MIGS_virus_samp_mat_process.md)
+ *  [MIMAG➞samp_mat_process](MIMAG_samp_mat_process.md)
+ *  [MIMARKS specimen➞samp_mat_process](MIMARKS_specimen_samp_mat_process.md)
+ *  [MIMARKS survey➞samp_mat_process](MIMARKS_survey_samp_mat_process.md)
+ *  [MISAG➞samp_mat_process](MISAG_samp_mat_process.md)
+ *  [MIUVIG➞samp_mat_process](MIUVIG_samp_mat_process.md)
 
 ## Used by
 

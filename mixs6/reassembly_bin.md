@@ -17,8 +17,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [mimag➞reassembly_bin](mimag_reassembly_bin.md)
- *  [miuvig➞reassembly_bin](miuvig_reassembly_bin.md)
+ *  [MIMAG➞reassembly_bin](MIMAG_reassembly_bin.md)
+ *  [MIUVIG➞reassembly_bin](MIUVIG_reassembly_bin.md)
 
 ## Used by
 

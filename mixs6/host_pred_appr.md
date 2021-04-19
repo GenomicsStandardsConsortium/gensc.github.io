@@ -17,7 +17,7 @@ None ->  <sub>OPT</sub>
 
 ## Children
 
- *  [miuvig➞host_pred_appr](miuvig_host_pred_appr.md)
+ *  [MIUVIG➞host_pred_appr](MIUVIG_host_pred_appr.md)
 
 ## Used by
 

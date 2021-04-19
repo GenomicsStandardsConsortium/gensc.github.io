@@ -17,15 +17,15 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞sim_search_meth](me_sim_search_meth.md)
- *  [migs_ba➞sim_search_meth](migs_ba_sim_search_meth.md)
- *  [migs_eu➞sim_search_meth](migs_eu_sim_search_meth.md)
- *  [migs_org➞sim_search_meth](migs_org_sim_search_meth.md)
- *  [migs_pl➞sim_search_meth](migs_pl_sim_search_meth.md)
- *  [migs_vi➞sim_search_meth](migs_vi_sim_search_meth.md)
- *  [mimag➞sim_search_meth](mimag_sim_search_meth.md)
- *  [misag➞sim_search_meth](misag_sim_search_meth.md)
- *  [miuvig➞sim_search_meth](miuvig_sim_search_meth.md)
+ *  [ME➞sim_search_meth](ME_sim_search_meth.md)
+ *  [MIGS bacteria➞sim_search_meth](MIGS_bacteria_sim_search_meth.md)
+ *  [MIGS eukaryote➞sim_search_meth](MIGS_eukaryote_sim_search_meth.md)
+ *  [MIGS org➞sim_search_meth](MIGS_org_sim_search_meth.md)
+ *  [MIGS plant➞sim_search_meth](MIGS_plant_sim_search_meth.md)
+ *  [MIGS virus➞sim_search_meth](MIGS_virus_sim_search_meth.md)
+ *  [MIMAG➞sim_search_meth](MIMAG_sim_search_meth.md)
+ *  [MISAG➞sim_search_meth](MISAG_sim_search_meth.md)
+ *  [MIUVIG➞sim_search_meth](MIUVIG_sim_search_meth.md)
 
 ## Used by
 

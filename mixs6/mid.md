@@ -17,11 +17,11 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [me➞mid](me_mid.md)
- *  [mimag➞mid](mimag_mid.md)
- *  [mimarks_s➞mid](mimarks_s_mid.md)
- *  [misag➞mid](misag_mid.md)
- *  [miuvig➞mid](miuvig_mid.md)
+ *  [ME➞mid](ME_mid.md)
+ *  [MIMAG➞mid](MIMAG_mid.md)
+ *  [MIMARKS specimen➞mid](MIMARKS_specimen_mid.md)
+ *  [MISAG➞mid](MISAG_mid.md)
+ *  [MIUVIG➞mid](MIUVIG_mid.md)
 
 ## Used by
 
