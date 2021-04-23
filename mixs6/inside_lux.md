@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: kilowatt per square metre |
 |  | | Occurrence: 1 |
-|  | | Position: 87 |
+|  | | Position: 87.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='', description=None) |
 

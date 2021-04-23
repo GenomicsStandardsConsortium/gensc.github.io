@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | wall construction type |
 | **Mappings:** | | MIXS:0000841 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 139 |
+|  | | Position: 139.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='fire resistive', description=None) |
 

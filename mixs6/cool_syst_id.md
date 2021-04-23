@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | cooling system identifier |
 | **Mappings:** | | MIXS:0000785 |
 | **Comments:** | | Expected value: unique identifier |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 48 |
+|  | | Position: 48.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='12345', description=None) |
 

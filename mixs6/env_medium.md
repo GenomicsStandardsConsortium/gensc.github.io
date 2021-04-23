@@ -243,7 +243,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | environmental medium |
 | **Comments:** | | Expected value: Add terms that identify the material displaced by the entity at time of sampling. Recommend subclasses of environmental material [ENVO:00010483]. Multiple terms can be separated by pipes e.g.: estuarine water [ENVO:01000301]|estuarine mud [ENVO:00002160] |
-|  | | Preferred unit:  |
 |  | | Position: 12.0 |
 | **Examples:** | | Example(value='soil [ENVO:00001998]', description=None) |
 

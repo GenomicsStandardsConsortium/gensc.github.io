@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | chemical treatment |
 | **Mappings:** | | MIXS:0001012 |
 | **Comments:** | | Expected value: name;name;timestamp |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 32 |
+|  | | Position: 32.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='ACCENT 1125;DOW;2010-11-17', description=None) |
 

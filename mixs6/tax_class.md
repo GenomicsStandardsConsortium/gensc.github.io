@@ -37,7 +37,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | taxonomic classification |
 | **Comments:** | | Expected value: classification method, database name, and other parameters |
-|  | | Preferred unit:  |
 |  | | Position: 62.0 |
 | **Examples:** | | Example(value='vConTACT vContact2 (references from NCBI RefSeq v83, genus rank classification, default parameters)', description=None) |
 

@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIMARKS_survey_collection_date](https://w3id.org/mixs/vocab/MIM
 
 ## Domain and Range
 
-[MIMARKSSurvey](MIMARKSSurvey.md) ->  <sub>REQ</sub> [String](types/String.md)
+[MIMARKSSurvey](MIMARKSSurvey.md) ->  <sub>REQ</sub> [Date](types/Date.md)
 
 ## Parents
 

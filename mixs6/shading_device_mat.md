@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | shading device material |
 | **Mappings:** | | MIXS:0000245 |
 | **Comments:** | | Expected value: material name |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 128 |
+|  | | Position: 128.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='', description=None) |
 

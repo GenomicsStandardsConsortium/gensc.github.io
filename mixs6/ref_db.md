@@ -37,7 +37,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | reference database(s) |
 | **Comments:** | | Expected value: names, versions, and references of databases |
-|  | | Preferred unit:  |
 |  | | Position: 60.0 |
 | **Examples:** | | Example(value='pVOGs;5;http://dmk-brain.ecn.uiowa.edu/pVOGs/ Grazziotin et al. 2017 doi:10.1093/nar/gkw975', description=None) |
 

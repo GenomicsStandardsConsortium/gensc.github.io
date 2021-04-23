@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | culture rooting medium |
 | **Mappings:** | | MIXS:0001041 |
 | **Comments:** | | Expected value: name, PMID,DOI or url |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='http://himedialabs.com/TD/PT158.pdf', description=None) |
 

@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | hydrocarbon resource type |
 | **Mappings:** | | MIXS:0000988 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='Oil Sand', description=None) |
 

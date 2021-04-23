@@ -100,9 +100,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | host sex |
 | **Mappings:** | | MIXS:0000811 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 11 |
+|  | | Position: 11.0 |
 |  | | This field is used in: 6 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='female', description=None) |
 

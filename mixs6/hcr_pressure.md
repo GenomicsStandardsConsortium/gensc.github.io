@@ -54,7 +54,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: measurement value range |
 |  | | Preferred unit: atmosphere, kilopascal |
 |  | | Occurrence: 1 |
-|  | | Position: 8 |
+|  | | Position: 8.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='', description=None) |
 

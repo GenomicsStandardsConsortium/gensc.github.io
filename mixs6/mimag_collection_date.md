@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIMAG_collection_date](https://w3id.org/mixs/vocab/MIMAG_collec
 
 ## Domain and Range
 
-[MIMAG](MIMAG.md) ->  <sub>REQ</sub> [String](types/String.md)
+[MIMAG](MIMAG.md) ->  <sub>REQ</sub> [Date](types/Date.md)
 
 ## Parents
 

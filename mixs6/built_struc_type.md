@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | built structure type |
 | **Mappings:** | | MIXS:0000721 |
 | **Comments:** | | Expected value: free text |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 39 |
+|  | | Position: 39.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='', description=None) |
 

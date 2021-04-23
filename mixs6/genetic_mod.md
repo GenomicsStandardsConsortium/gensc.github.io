@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | genetic modification |
 | **Mappings:** | | MIXS:0000859 |
 | **Comments:** | | Expected value: PMID,DOI,url or free text |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 3 |
+|  | | Position: 3.0 |
 |  | | This field is used in: 2 packages: host-associated, plant-associated |
 | **Examples:** | | Example(value='aox1A transgenic', description=None) |
 

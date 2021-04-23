@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | source rock depositional environment |
 | **Mappings:** | | MIXS:0000996 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 21 |
+|  | | Position: 21.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-cores |
 | **Examples:** | | Example(value='Marine', description=None) |
 

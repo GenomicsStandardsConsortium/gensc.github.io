@@ -37,7 +37,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | assembly quality |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 54.0 |
 | **Examples:** | | Example(value='High-quality draft genome', description=None) |
 

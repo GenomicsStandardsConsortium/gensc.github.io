@@ -29,7 +29,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | viral identification software |
 | **Comments:** | | Expected value: software name, version and relevant parameters |
-|  | | Preferred unit:  |
 |  | | Position: 83.0 |
 | **Examples:** | | Example(value='VirSorter; 1.0.4; Virome database, category 2', description=None) |
 

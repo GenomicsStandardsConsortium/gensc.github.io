@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | handidness |
 | **Mappings:** | | MIXS:0000809 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 82 |
+|  | | Position: 82.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='right handedness', description=None) |
 

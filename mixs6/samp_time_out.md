@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [Double](types/Double.md)
 | **Comments:** | | Expected value: time |
 |  | | Preferred unit: hour |
 |  | | Occurrence: 1 |
-|  | | Position: 123 |
+|  | | Position: 123.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='', description=None) |
 

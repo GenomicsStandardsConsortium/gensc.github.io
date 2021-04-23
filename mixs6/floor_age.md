@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: value |
 |  | | Preferred unit: years, weeks, days |
 |  | | Occurrence: 1 |
-|  | | Position: 69 |
+|  | | Position: 69.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='', description=None) |
 

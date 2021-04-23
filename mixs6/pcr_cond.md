@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | pcr conditions |
 | **Comments:** | | Expected value: initial denaturation:degrees_minutes;annealing:degrees_minutes;elongation:degrees_minutes;final elongation:degrees_minutes;total cycles |
-|  | | Preferred unit:  |
 |  | | Position: 49.0 |
 | **Examples:** | | Example(value='initial denaturation:94_3;annealing:50_1;elongation:72_1.5;final elongation:72_10;35', description=None) |
 

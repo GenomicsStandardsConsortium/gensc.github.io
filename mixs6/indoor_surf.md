@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | indoor surface |
 | **Mappings:** | | MIXS:0000764 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 16 |
+|  | | Position: 16.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='wall', description=None) |
 

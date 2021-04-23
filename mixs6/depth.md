@@ -2,7 +2,7 @@
 # Slot: depth
 
 
-Please refer to the definitions of depth in the environmental packages
+The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
 
 URI: [mixs.vocab:depth](https://w3id.org/mixs/vocab/depth)
 
@@ -232,7 +232,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | geographic location (depth) |
 | **Comments:** | | Expected value: - |
-|  | | Preferred unit:  |
 |  | | Position: 6.0 |
 |  | | This field is used in: 8 packages: host-associated, microbial mat_biofilm, miscellaneous natural or artificial environment, plant-associated, sediment, soil, wastewater_sludge, water |
 | **Examples:** | | Example(value='', description=None) |

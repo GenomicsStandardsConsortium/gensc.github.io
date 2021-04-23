@@ -208,9 +208,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | oxygenation status of sample |
 | **Mappings:** | | MIXS:0000753 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 15 packages: air, host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs, microbial mat_biofilm, miscellaneous natural or artificial environment, plant-associated, sediment, wastewater_sludge, water |
 | **Examples:** | | Example(value='aerobic', description=None) |
 

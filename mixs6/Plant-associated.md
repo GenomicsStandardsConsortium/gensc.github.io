@@ -7,7 +7,7 @@ plant-associated
 URI: [mixs.vocab:Plant-associated](https://w3id.org/mixs/vocab/Plant-associated)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Plant-associatedMIUVIG],[Plant-associatedMISAG],[Plant-associatedMIMARKSSurvey],[Plant-associatedMIMARKSSpecimen],[Plant-associatedMIMAG],[Plant-associatedMIGSVirus],[Plant-associatedMIGSPlant],[Plant-associatedMIGSOrg],[Plant-associatedMIGSEukaryote],[Plant-associatedMIGSBacteria],[Plant-associatedME],[QuantityValue]<temp%200..1-++[Plant-associated&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:string%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;air_temp_regm:string%20%3F;ances_data:string%20%3F;antibiotic_regm:string%20%3F;biol_stat:biol_stat_enum%20%3F;biotic_regm:string%20%3F;chem_administration:string%20%3F;chem_mutagen:string%20%3F;climate_environment:string%20%3F;cult_root_med:string%20%3F;fertilizer_regm:string%20%3F;fungicide_regm:string%20%3F;gaseous_environment:string%20%3F;genetic_mod:string%20%3F;gravity:string%20%3F;growth_facil:string%20%3F;growth_habit:growth_habit_enum%20%3F;growth_hormone_regm:string%20%3F;herbicide_regm:string%20%3F;host_common_name:string%20%3F;host_disease_stat:string%20%3F;host_genotype:string%20%3F;host_infra_specific_name:string%20%3F;host_infra_specific_rank:string%20%3F;host_life_stage:string%20%3F;host_phenotype:string%20%3F;host_taxid:string%20%3F;humidity_regm:string%20%3F;light_regm:string%20%3F;mechanical_damage:string%20%3F;mineral_nutr_regm:string%20%3F;misc_param:string%20%3F;non_mineral_nutr_regm:string%20%3F;organism_count:organism_count_enum%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;ph_regm:string%20%3F;perturbation:string%20%3F;pesticide_regm:string%20%3F;plant_growth_med:plant_growth_med_enum%20%3F;plant_product:string%20%3F;plant_sex:plant_sex_enum%20%3F;plant_struc:string%20%3F;radiation_regm:string%20%3F;rainfall_regm:string%20%3F;root_cond:string%20%3F;root_med_carbon:string%20%3F;root_med_macronutr:string%20%3F;root_med_micronutr:string%20%3F;root_med_suppl:string%20%3F;root_med_ph:double%20%3F;root_med_regl:string%20%3F;root_med_solid:string%20%3F;salt_regm:string%20%3F;samp_capt_status:samp_capt_status_enum%20%3F;samp_dis_stage:string%20%3F;samp_store_dur:string%20%3F;samp_store_loc:string%20%3F;season_environment:string%20%3F;standing_water_regm:string%20%3F;tiss_cult_growth_med:string%20%3F;water_temp_regm:string%20%3F;watering_regm:string%20%3F],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Plant-associated],[QuantityValue]<samp_store_temp%200..1-++[Plant-associated],[QuantityValue]<samp_salinity%200..1-++[Plant-associated],[QuantityValue]<host_wet_mass%200..1-++[Plant-associated],[QuantityValue]<host_tot_mass%200..1-++[Plant-associated],[QuantityValue]<host_length%200..1-++[Plant-associated],[QuantityValue]<host_height%200..1-++[Plant-associated],[QuantityValue]<host_dry_mass%200..1-++[Plant-associated],[QuantityValue]<host_age%200..1-++[Plant-associated],[QuantityValue]<elev%200..1-++[Plant-associated],[QuantityValue]<alt%200..1-++[Plant-associated],[Plant-associated]^-[Plant-associatedMIUVIG],[Plant-associated]^-[Plant-associatedMISAG],[Plant-associated]^-[Plant-associatedMIMARKSSurvey],[Plant-associated]^-[Plant-associatedMIMARKSSpecimen],[Plant-associated]^-[Plant-associatedMIMAG],[Plant-associated]^-[Plant-associatedMIGSVirus],[Plant-associated]^-[Plant-associatedMIGSPlant],[Plant-associated]^-[Plant-associatedMIGSOrg],[Plant-associated]^-[Plant-associatedMIGSEukaryote],[Plant-associated]^-[Plant-associatedMIGSBacteria],[Plant-associated]^-[Plant-associatedME])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Plant-associatedMIUVIG],[Plant-associatedMISAG],[Plant-associatedMIMARKSSurvey],[Plant-associatedMIMARKSSpecimen],[Plant-associatedMIMAG],[Plant-associatedMIGSVirus],[Plant-associatedMIGSPlant],[Plant-associatedMIGSOrg],[Plant-associatedMIGSEukaryote],[Plant-associatedMIGSBacteria],[Plant-associatedME],[QuantityValue]<temp%200..1-++[Plant-associated&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:date%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;air_temp_regm:string%20%3F;ances_data:string%20%3F;antibiotic_regm:string%20%3F;biol_stat:biol_stat_enum%20%3F;biotic_regm:string%20%3F;chem_administration:string%20%3F;chem_mutagen:string%20%3F;climate_environment:string%20%3F;cult_root_med:string%20%3F;fertilizer_regm:string%20%3F;fungicide_regm:string%20%3F;gaseous_environment:string%20%3F;genetic_mod:string%20%3F;gravity:string%20%3F;growth_facil:string%20%3F;growth_habit:growth_habit_enum%20%3F;growth_hormone_regm:string%20%3F;herbicide_regm:string%20%3F;host_common_name:string%20%3F;host_disease_stat:string%20%3F;host_genotype:string%20%3F;host_infra_specific_name:string%20%3F;host_infra_specific_rank:string%20%3F;host_life_stage:string%20%3F;host_phenotype:string%20%3F;host_taxid:string%20%3F;humidity_regm:string%20%3F;light_regm:string%20%3F;mechanical_damage:string%20%3F;mineral_nutr_regm:string%20%3F;misc_param:string%20%3F;non_mineral_nutr_regm:string%20%3F;organism_count:organism_count_enum%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;ph_regm:string%20%3F;perturbation:string%20%3F;pesticide_regm:string%20%3F;plant_growth_med:plant_growth_med_enum%20%3F;plant_product:string%20%3F;plant_sex:plant_sex_enum%20%3F;plant_struc:string%20%3F;radiation_regm:string%20%3F;rainfall_regm:string%20%3F;root_cond:string%20%3F;root_med_carbon:string%20%3F;root_med_macronutr:string%20%3F;root_med_micronutr:string%20%3F;root_med_suppl:string%20%3F;root_med_ph:double%20%3F;root_med_regl:string%20%3F;root_med_solid:string%20%3F;salt_regm:string%20%3F;samp_capt_status:samp_capt_status_enum%20%3F;samp_dis_stage:samp_dis_stage_enum%20%3F;samp_store_dur:string%20%3F;samp_store_loc:string%20%3F;season_environment:string%20%3F;standing_water_regm:string%20%3F;tiss_cult_growth_med:string%20%3F;water_temp_regm:string%20%3F;watering_regm:string%20%3F;host_symbiont:string%20%3F],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Plant-associated],[QuantityValue]<samp_store_temp%200..1-++[Plant-associated],[QuantityValue]<samp_salinity%200..1-++[Plant-associated],[QuantityValue]<host_wet_mass%200..1-++[Plant-associated],[QuantityValue]<host_tot_mass%200..1-++[Plant-associated],[QuantityValue]<host_length%200..1-++[Plant-associated],[QuantityValue]<host_height%200..1-++[Plant-associated],[QuantityValue]<host_dry_mass%200..1-++[Plant-associated],[QuantityValue]<host_age%200..1-++[Plant-associated],[QuantityValue]<elev%200..1-++[Plant-associated],[QuantityValue]<alt%200..1-++[Plant-associated],[Plant-associated]^-[Plant-associatedMIUVIG],[Plant-associated]^-[Plant-associatedMISAG],[Plant-associated]^-[Plant-associatedMIMARKSSurvey],[Plant-associated]^-[Plant-associatedMIMARKSSpecimen],[Plant-associated]^-[Plant-associatedMIMAG],[Plant-associated]^-[Plant-associatedMIGSVirus],[Plant-associated]^-[Plant-associatedMIGSPlant],[Plant-associated]^-[Plant-associatedMIGSOrg],[Plant-associated]^-[Plant-associatedMIGSEukaryote],[Plant-associated]^-[Plant-associatedMIGSBacteria],[Plant-associated]^-[Plant-associatedME])
 
 ## Children
 
@@ -36,7 +36,7 @@ URI: [mixs.vocab:Plant-associated](https://w3id.org/mixs/vocab/Plant-associated)
      * range: [String](types/String.md)
      * Example: 25 degree Celsius;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [ances_data](ances_data.md)  <sub>OPT</sub>
@@ -48,7 +48,7 @@ URI: [mixs.vocab:Plant-associated](https://w3id.org/mixs/vocab/Plant-associated)
      * range: [String](types/String.md)
      * Example: penicillin;5 milligram;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
  * [biol_stat](biol_stat.md)  <sub>OPT</sub>
-     * Description: The level of genome modification
+     * Description: The level of genome modification.
      * range: 
      * Example: natural None
  * [biotic_regm](biotic_regm.md)  <sub>OPT</sub>
@@ -69,14 +69,14 @@ URI: [mixs.vocab:Plant-associated](https://w3id.org/mixs/vocab/Plant-associated)
      * Example: tropical climate;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [cult_root_med](cult_root_med.md)  <sub>OPT</sub>
      * Description: Name or reference for the hydroponic or in vitro culture rooting medium; can be the name of a commonly used medium or reference to a specific medium, e.g. Murashige and Skoog medium. If the medium has not been formally published, use the rooting medium descriptors.
      * range: [String](types/String.md)
      * Example: http://himedialabs.com/TD/PT158.pdf None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [elev](elev.md)  <sub>OPT</sub>
@@ -179,6 +179,10 @@ URI: [mixs.vocab:Plant-associated](https://w3id.org/mixs/vocab/Plant-associated)
      * Description: Phenotype of human or other host. For phenotypic quality ontology (pato) (v 2018-03-27) terms, please see http://purl.bioontology.org/ontology/pato. For Human Phenotype Ontology (HP) (v 2018-06-13) please see http://purl.bioontology.org/ontology/HP
      * range: [String](types/String.md)
      * Example: elongated [PATO:0001154] None
+ * [host_symbiont](host_symbiont.md)  <sub>OPT</sub>
+     * Description: The taxonomic name of the organism(s) found living in mutualistic, commensalistic, or parasitic symbiosis with the specific host.
+     * range: [String](types/String.md)
+     * Example: flukeworms None
  * [host_taxid](host_taxid.md)  <sub>OPT</sub>
      * Description: NCBI taxon id of the host, e.g. 9606
      * range: [String](types/String.md)
@@ -211,6 +215,10 @@ URI: [mixs.vocab:Plant-associated](https://w3id.org/mixs/vocab/Plant-associated)
      * Description: Information about treatment involving the use of mineral supplements; should include the name of mineral nutrient, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple mineral nutrient regimens
      * range: [String](types/String.md)
      * Example: potassium;15 gram;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
+ * [misc_param](misc_param.md)  <sub>OPT</sub>
+     * Description: Any other measurement performed or parameter collected, that is not listed here
+     * range: [String](types/String.md)
+     * Example: Bicarbonate ion concentration;2075 micromole per kilogram None
  * [misc_param](misc_param.md)  <sub>OPT</sub>
      * Description: Any other measurement performed or parameter collected, that is not listed here
      * range: [String](types/String.md)
@@ -305,7 +313,7 @@ URI: [mixs.vocab:Plant-associated](https://w3id.org/mixs/vocab/Plant-associated)
      * Example: farm sample None
  * [samp_dis_stage](samp_dis_stage.md)  <sub>OPT</sub>
      * Description: Stage of the disease at the time of sample collection, e.g. inoculation, penetration, infection, growth and reproduction, dissemination of pathogen.
-     * range: [String](types/String.md)
+     * range: 
      * Example: infection None
  * [samp_salinity](samp_salinity.md)  <sub>OPT</sub>
      * Description: Salinity is the total concentration of all dissolved salts in a liquid or solid (in the form of an extract obtained by centrifugation) sample. While salinity can be measured by a complete chemical analysis, this method is difficult and time consuming. More often, it is instead derived from the conductivity measurement. This is known as practical salinity. These derivations compare the specific conductance of the sample to a salinity standard such as seawater

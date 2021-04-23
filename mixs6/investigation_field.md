@@ -19,6 +19,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
  *  [experimental_factor](experimental_factor.md)
  *  [investigation_type](investigation_type.md)
  *  [project_name](project_name.md)
+ *  [sample_name](sample_name.md)
  *  [submitted_to_insdc](submitted_to_insdc.md)
 
 ## Used by

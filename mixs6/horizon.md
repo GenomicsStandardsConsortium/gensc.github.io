@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | horizon |
 | **Mappings:** | | MIXS:0001082 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 12 |
+|  | | Position: 12.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='A horizon', description=None) |
 

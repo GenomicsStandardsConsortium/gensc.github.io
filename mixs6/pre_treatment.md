@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | pre-treatment |
 | **Mappings:** | | MIXS:0000348 |
 | **Comments:** | | Expected value: pre-treatment type |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: wastewater_sludge |
 | **Examples:** | | Example(value='', description=None) |
 

@@ -31,7 +31,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | completeness approach |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 69.0 |
 | **Examples:** | | Example(value='other: UViG length compared to the average length of reference genomes from the P22virus genus (NCBI RefSeq v83)', description=None) |
 

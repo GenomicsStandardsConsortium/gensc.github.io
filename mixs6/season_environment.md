@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | seasonal environment |
 | **Mappings:** | | MIXS:0001068 |
 | **Comments:** | | Expected value: seasonal environment name;treatment interval and duration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='rainy;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M', description=None) |
 

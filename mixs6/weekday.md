@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | weekday |
 | **Mappings:** | | MIXS:0000848 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 149 |
+|  | | Position: 149.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='Sunday', description=None) |
 

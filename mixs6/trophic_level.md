@@ -31,7 +31,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | trophic level |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 26.0 |
 | **Examples:** | | Example(value='heterotroph', description=None) |
 

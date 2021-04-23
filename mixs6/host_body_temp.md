@@ -102,7 +102,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: degree Celsius |
 |  | | Occurrence: 1 |
-|  | | Position: 29 |
+|  | | Position: 29.0 |
 |  | | This field is used in: 6 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='15 degree Celsius', description=None) |
 

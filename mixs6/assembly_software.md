@@ -38,7 +38,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | assembly software |
 | **Comments:** | | Expected value: name and version of software, parameters used |
-|  | | Preferred unit:  |
 |  | | Position: 56.0 |
 | **Examples:** | | Example(value='metaSPAdes;3.11.0;kmer set 21,33,55,77,99,121, default parameters otherwise', description=None) |
 

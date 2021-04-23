@@ -39,7 +39,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | nucleic acid extraction |
 | **Comments:** | | Expected value: PMID, DOI or URL |
-|  | | Preferred unit:  |
 |  | | Position: 37.0 |
 | **Examples:** | | Example(value='https://mobio.com/media/wysiwyg/pdfs/protocols/12888.pdf', description=None) |
 

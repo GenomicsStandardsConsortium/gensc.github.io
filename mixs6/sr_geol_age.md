@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | source rock geological age |
 | **Mappings:** | | MIXS:0000997 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 22 |
+|  | | Position: 22.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-cores |
 | **Examples:** | | Example(value='Silurian', description=None) |
 

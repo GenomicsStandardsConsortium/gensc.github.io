@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | orientations of exterior wall |
 | **Mappings:** | | MIXS:0000817 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 96 |
+|  | | Position: 96.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='northwest', description=None) |
 

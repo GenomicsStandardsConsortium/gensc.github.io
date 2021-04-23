@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | sample collection point |
 | **Mappings:** | | MIXS:0001015 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 39 |
+|  | | Position: 39.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='well', description=None) |
 

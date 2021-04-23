@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | ventilation type |
 | **Mappings:** | | MIXS:0000756 |
 | **Comments:** | | Expected value: ventilation type name |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 2 packages: air, built environment |
 | **Examples:** | | Example(value='Operable windows', description=None) |
 

@@ -184,9 +184,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | perturbation |
 | **Mappings:** | | MIXS:0000754 |
 | **Comments:** | | Expected value: perturbation type name;perturbation interval and duration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 13 packages: air, host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, microbial mat_biofilm, miscellaneous natural or artificial environment, plant-associated, sediment, wastewater_sludge, water |
 | **Examples:** | | Example(value='antibiotic addition;R2/2018-05-11T14:30Z/2018-05-11T19:30Z/P1H30M', description=None) |
 

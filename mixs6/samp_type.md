@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | sample type |
 | **Mappings:** | | MIXS:0000998 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 37 |
+|  | | Position: 37.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='solid deposit', description=None) |
 

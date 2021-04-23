@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | frequency of cleaning |
 | **Mappings:** | | MIXS:0000226 |
 | **Comments:** | | Expected value: measurement value |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 77 |
+|  | | Position: 77.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='', description=None) |
 

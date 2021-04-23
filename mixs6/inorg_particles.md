@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: inorganic particle name;measurement value |
 |  | | Preferred unit: mole per liter, milligram per liter |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: wastewater_sludge |
 | **Examples:** | | Example(value='', description=None) |
 

@@ -100,9 +100,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host last meal |
 | **Mappings:** | | MIXS:0000870 |
 | **Comments:** | | Expected value: content;duration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 21 |
+|  | | Position: 21.0 |
 |  | | This field is used in: 6 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='corn feed;P2H', description=None) |
 

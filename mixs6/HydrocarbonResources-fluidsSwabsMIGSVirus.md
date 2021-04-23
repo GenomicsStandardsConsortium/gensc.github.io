@@ -7,7 +7,7 @@ Combinatorial checklist Minimal Information about a Genome Sequence: cultured ba
 URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMIGSVirus](https://w3id.org/mixs/vocab/HydrocarbonResources-fluidsSwabsMIGSVirus)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[HydrocarbonResources-fluidsSwabsMIGSVirus&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;num_replicons:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;health_disease_stat:health_disease_stat_enum%20%3F;propagation:string;encoded_traits:string%20%3F;isol_growth_condt:string;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;virus_enrich_appr:virus_enrich_appr_enum%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;hcr(i):hcr_enum%20%3F;hc_produced(i):hc_produced_enum%20%3F;basin(i):string%20%3F;field(i):string%20%3F;reservoir(i):string%20%3F;hcr_temp(i):string%20%3F;hcr_pressure(i):string%20%3F;lithology(i):lithology_enum%20%3F;depos_env(i):depos_env_enum%20%3F;hcr_geol_age(i):hcr_geol_age_enum%20%3F;prod_start_date(i):string%20%3F;add_recov_method(i):add_recov_method_enum%20%3F;iw_bt_date_well(i):string%20%3F;biocide(i):string%20%3F;biocide_admin_method(i):string%20%3F;chem_treatment(i):string%20%3F;chem_treatment_method(i):string%20%3F;samp_loc_corr_rate(i):string%20%3F;samp_well_name(i):string%20%3F;win(i):string%20%3F;samp_type(i):samp_type_enum%20%3F;samp_subtype(i):samp_subtype_enum%20%3F;samp_collection_point(i):samp_collection_point_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;samp_preserv(i):string%20%3F;samp_transport_cond(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;organism_count_qpcr_info(i):string%20%3F;ph(i):double%20%3F;alkalinity_method(i):string%20%3F;suspend_solids(i):string%20%3F;viscosity(i):string%20%3F;saturates_pc(i):string%20%3F;aromatics_pc(i):string%20%3F;resins_pc(i):string%20%3F;asphaltenes_pc(i):string%20%3F;misc_param(i):string%20%3F;additional_info(i):string%20%3F]uses%20-.->[MIGSVirus],[HydrocarbonResources-fluidsSwabs]^-[HydrocarbonResources-fluidsSwabsMIGSVirus],[HydrocarbonResources-fluidsSwabs],[MIGSVirus])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[HydrocarbonResources-fluidsSwabsMIGSVirus&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;num_replicons:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;health_disease_stat:health_disease_stat_enum%20%3F;propagation:string;encoded_traits:string%20%3F;isol_growth_condt:string;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;virus_enrich_appr:virus_enrich_appr_enum%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):date%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;hcr(i):hcr_enum%20%3F;hc_produced(i):hc_produced_enum%20%3F;basin(i):string%20%3F;field(i):string%20%3F;reservoir(i):string%20%3F;hcr_temp(i):string%20%3F;hcr_pressure(i):string%20%3F;lithology(i):lithology_enum%20%3F;depos_env(i):depos_env_enum%20%3F;hcr_geol_age(i):hcr_geol_age_enum%20%3F;prod_start_date(i):date%20%3F;add_recov_method(i):add_recov_method_enum%20%3F;iw_bt_date_well(i):date%20%3F;biocide(i):string%20%3F;biocide_admin_method(i):string%20%3F;chem_treatment(i):string%20%3F;chem_treatment_method(i):string%20%3F;samp_loc_corr_rate(i):string%20%3F;samp_well_name(i):string%20%3F;win(i):string%20%3F;samp_type(i):samp_type_enum%20%3F;samp_subtype(i):samp_subtype_enum%20%3F;samp_collection_point(i):samp_collection_point_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;samp_preserv(i):string%20%3F;samp_transport_cond(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;organism_count_qpcr_info(i):string%20%3F;ph(i):double%20%3F;alkalinity_method(i):string%20%3F;suspend_solids(i):string%20%3F;viscosity(i):string%20%3F;saturates_pc(i):string%20%3F;aromatics_pc(i):string%20%3F;resins_pc(i):string%20%3F;asphaltenes_pc(i):string%20%3F;misc_param(i):string%20%3F;additional_info(i):string%20%3F]uses%20-.->[MIGSVirus],[HydrocarbonResources-fluidsSwabs]^-[HydrocarbonResources-fluidsSwabsMIGSVirus],[HydrocarbonResources-fluidsSwabs],[MIGSVirus])
 
 ## Parents
 
@@ -39,7 +39,7 @@ URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMIGSVirus](https://w3id.org/mix
      * range: [String](types/String.md)
      * Example: titration None
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [ammonium](ammonium.md)  <sub>OPT</sub>
@@ -92,7 +92,7 @@ URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMIGSVirus](https://w3id.org/mix
      * Example: 5000 milligram per liter None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [density](density.md)  <sub>OPT</sub>
      * Description: Density of the sample, which is its mass per unit volume (aka volumetric mass density)
@@ -103,7 +103,7 @@ URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMIGSVirus](https://w3id.org/mix
      * range: 
      * Example: Continental - Alluvial None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [diss_carb_dioxide](diss_carb_dioxide.md)  <sub>OPT</sub>
@@ -184,7 +184,7 @@ URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMIGSVirus](https://w3id.org/mix
      * Example: 150-295 degree Celsius None
  * [iw_bt_date_well](iw_bt_date_well.md)  <sub>OPT</sub>
      * Description: Injection water breakthrough date per well following a secondary and/or tertiary recovery
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11 None
  * [iwf](iwf.md)  <sub>OPT</sub>
      * Description: Proportion of the produced fluids derived from injected water at the time of sampling. (e.g. 87%)
@@ -248,7 +248,7 @@ URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMIGSVirus](https://w3id.org/mix
      * Example:  None
  * [prod_start_date](prod_start_date.md)  <sub>OPT</sub>
      * Description: Date of field's first production
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11 None
  * [reservoir](reservoir.md)  <sub>OPT</sub>
      * Description: Name of the reservoir (e.g. Carapebus)
@@ -359,11 +359,11 @@ URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMIGSVirus](https://w3id.org/mix
      * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [tvdss_of_hcr_pressure](tvdss_of_hcr_pressure.md)  <sub>OPT</sub>
-     * Description: True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original pressure was measured (e.g. 1578 m )
+     * Description: True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original pressure was measured (e.g. 1578 m).
      * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [tvdss_of_hcr_temp](tvdss_of_hcr_temp.md)  <sub>OPT</sub>
-     * Description: True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original temperature was measured (e.g. 1345 m)
+     * Description: True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original temperature was measured (e.g. 1345 m).
      * range: [QuantityValue](QuantityValue.md)
      * Example:  None
  * [vfa](vfa.md)  <sub>OPT</sub>
@@ -552,11 +552,6 @@ URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMIGSVirus](https://w3id.org/mix
 
 ### Mixed in from MIGS virus:
 
- * [MIGS virus➞samp_collect_device](MIGS_virus_samp_collect_device.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
-
-### Mixed in from MIGS virus:
-
  * [MIGS virus➞samp_mat_process](MIGS_virus_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
@@ -567,7 +562,17 @@ URI: [mixs.vocab:HydrocarbonResources-fluidsSwabsMIGSVirus](https://w3id.org/mix
 
 ### Mixed in from MIGS virus:
 
- * [MIGS virus➞sample_name](MIGS_virus_sample_name.md)  <sub>OPT</sub>
+ * [MIGS virus➞sample_collect_device](MIGS_virus_sample_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MIGS virus:
+
+ * [MIGS virus➞sample_collect_method](MIGS_virus_sample_collect_method.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MIGS virus:
+
+ * [MIGS virus➞sample_name](MIGS_virus_sample_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
 ### Mixed in from MIGS virus:

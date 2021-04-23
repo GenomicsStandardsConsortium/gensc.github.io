@@ -34,7 +34,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | estimated size |
 | **Comments:** | | Expected value: number of base pairs |
-|  | | Preferred unit:  |
 |  | | Position: 18.0 |
 | **Examples:** | | Example(value='300000 bp', description=None) |
 

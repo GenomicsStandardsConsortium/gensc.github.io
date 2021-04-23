@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIUVIG_collection_date](https://w3id.org/mixs/vocab/MIUVIG_coll
 
 ## Domain and Range
 
-[MIUVIG](MIUVIG.md) ->  <sub>REQ</sub> [String](types/String.md)
+[MIUVIG](MIUVIG.md) ->  <sub>REQ</sub> [Date](types/Date.md)
 
 ## Parents
 

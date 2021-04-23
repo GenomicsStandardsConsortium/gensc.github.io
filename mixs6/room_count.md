@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | room count |
 | **Mappings:** | | MIXS:0000234 |
 | **Comments:** | | Expected value: value |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 105 |
+|  | | Position: 105.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='', description=None) |
 

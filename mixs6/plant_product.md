@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | plant product |
 | **Mappings:** | | MIXS:0001058 |
 | **Comments:** | | Expected value: product name |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='xylem sap [PO:0025539]', description=None) |
 

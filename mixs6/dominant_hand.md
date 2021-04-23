@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | dominant hand |
 | **Mappings:** | | MIXS:0000944 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 3 |
+|  | | Position: 3.0 |
 |  | | This field is used uniquely in: human-skin |
 | **Examples:** | | Example(value='right', description=None) |
 

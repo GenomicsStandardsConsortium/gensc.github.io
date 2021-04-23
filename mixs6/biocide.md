@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | biocide administration |
 | **Mappings:** | | MIXS:0001011 |
 | **Comments:** | | Expected value: name;name;timestamp |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 30 |
+|  | | Position: 30.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='ALPHA 1427;Baker Hughes;2008-01-23', description=None) |
 

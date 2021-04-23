@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | binning parameters |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 79.0 |
 | **Examples:** | | Example(value='coverage and kmer', description=None) |
 

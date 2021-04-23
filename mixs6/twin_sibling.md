@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | twin sibling presence |
 | **Mappings:** | | MIXS:0000326 |
 | **Comments:** | | Expected value: presence status |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 27 |
+|  | | Position: 27.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='yes', description=None) |
 

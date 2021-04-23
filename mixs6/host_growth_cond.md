@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host growth conditions |
 | **Mappings:** | | MIXS:0000871 |
 | **Comments:** | | Expected value: PMID,DOI,url or free text |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 22 |
+|  | | Position: 22.0 |
 |  | | This field is used uniquely in: host-associated |
 | **Examples:** | | Example(value='https://academic.oup.com/icesjms/article/68/2/349/617247', description=None) |
 

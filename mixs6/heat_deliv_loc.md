@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | heating delivery locations |
 | **Mappings:** | | MIXS:0000810 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 83 |
+|  | | Position: 83.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='north', description=None) |
 

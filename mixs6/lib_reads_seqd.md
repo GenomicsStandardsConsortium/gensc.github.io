@@ -38,7 +38,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | library reads sequenced |
 | **Comments:** | | Expected value: number of reads sequenced |
-|  | | Preferred unit:  |
 |  | | Position: 40.0 |
 | **Examples:** | | Example(value='20', description=None) |
 

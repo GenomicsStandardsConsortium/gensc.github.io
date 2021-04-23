@@ -7,7 +7,7 @@ Combinatorial checklist Minimal Information about a Marker Specimen: survey with
 URI: [mixs.vocab:MicrobialMatBiofilmMIMARKSSurvey](https://w3id.org/mixs/vocab/MicrobialMatBiofilmMIMARKSSurvey)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[MicrobialMatBiofilmMIMARKSSurvey&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;extrachrom_elements:string%20%3F;source_mat_id:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;trophic_level:trophic_level_enum%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;isol_growth_condt:string;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;target_gene:string;target_subfragment:string%20%3F;pcr_primers:string%20%3F;pcr_cond:string%20%3F;seq_meth:seq_meth_enum;seq_quality_check:string%20%3F;chimera_check:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;biomass(i):string%20%3F;chem_administration(i):string%20%3F;diether_lipids(i):string%20%3F;misc_param(i):string%20%3F;n_alkanes(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;ph(i):double%20%3F;perturbation(i):string%20%3F;phaeopigments(i):string%20%3F;phosplipid_fatt_acid(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F]uses%20-.->[MIMARKSSurvey],[MicrobialMatBiofilm]^-[MicrobialMatBiofilmMIMARKSSurvey],[MicrobialMatBiofilm],[MIMARKSSurvey])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[MicrobialMatBiofilmMIMARKSSurvey&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;extrachrom_elements:string%20%3F;source_mat_id:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;trophic_level:trophic_level_enum%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;isol_growth_condt:string;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;target_gene:string;target_subfragment:string%20%3F;pcr_primers:string%20%3F;pcr_cond:string%20%3F;seq_meth:seq_meth_enum;seq_quality_check:string%20%3F;chimera_check:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):date%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;biomass(i):string%20%3F;chem_administration(i):string%20%3F;diether_lipids(i):string%20%3F;misc_param(i):string%20%3F;n_alkanes(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;ph(i):double%20%3F;perturbation(i):string%20%3F;phaeopigments(i):string%20%3F;phosplipid_fatt_acid(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F]uses%20-.->[MIMARKSSurvey],[MicrobialMatBiofilm]^-[MicrobialMatBiofilmMIMARKSSurvey],[MicrobialMatBiofilm],[MIMARKSSurvey])
 
 ## Parents
 
@@ -31,7 +31,7 @@ URI: [mixs.vocab:MicrobialMatBiofilmMIMARKSSurvey](https://w3id.org/mixs/vocab/M
      * range: [QuantityValue](QuantityValue.md)
      * Example: 0.005 mole per liter None
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [aminopept_act](aminopept_act.md)  <sub>OPT</sub>
@@ -80,10 +80,10 @@ URI: [mixs.vocab:MicrobialMatBiofilmMIMARKSSurvey](https://w3id.org/mixs/vocab/M
      * Example: 5 milligram per cubic meter None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [diether_lipids](diether_lipids.md)  <sub>OPT</sub>
@@ -366,11 +366,6 @@ URI: [mixs.vocab:MicrobialMatBiofilmMIMARKSSurvey](https://w3id.org/mixs/vocab/M
 
 ### Mixed in from MIMARKS survey:
 
- * [MIMARKS survey➞samp_collect_device](MIMARKS_survey_samp_collect_device.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
-
-### Mixed in from MIMARKS survey:
-
  * [MIMARKS survey➞samp_mat_process](MIMARKS_survey_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
@@ -381,7 +376,17 @@ URI: [mixs.vocab:MicrobialMatBiofilmMIMARKSSurvey](https://w3id.org/mixs/vocab/M
 
 ### Mixed in from MIMARKS survey:
 
- * [MIMARKS survey➞sample_name](MIMARKS_survey_sample_name.md)  <sub>OPT</sub>
+ * [MIMARKS survey➞sample_collect_device](MIMARKS_survey_sample_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MIMARKS survey:
+
+ * [MIMARKS survey➞sample_collect_method](MIMARKS_survey_sample_collect_method.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MIMARKS survey:
+
+ * [MIMARKS survey➞sample_name](MIMARKS_survey_sample_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
 ### Mixed in from MIMARKS survey:

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | room location in building |
 | **Mappings:** | | MIXS:0000823 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 108 |
+|  | | Position: 108.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='interior room', description=None) |
 

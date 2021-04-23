@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: salt name;salt amount;treatment interval and duration |
 |  | | Preferred unit: gram, microgram, mole per liter, gram per liter |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='NaCl;5 gram per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M', description=None) |
 

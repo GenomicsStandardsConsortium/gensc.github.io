@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: measurement value range |
 |  | | Preferred unit: mD |
 |  | | Occurrence: 1 |
-|  | | Position: 10 |
+|  | | Position: 10.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-cores |
 | **Examples:** | | Example(value='', description=None) |
 

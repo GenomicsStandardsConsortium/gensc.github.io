@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | reassembly post binning |
 | **Comments:** | | Expected value: boolean |
-|  | | Preferred unit:  |
 |  | | Position: 81.0 |
 | **Examples:** | | Example(value='no', description=None) |
 

@@ -37,7 +37,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | annotation |
 | **Comments:** | | Expected value: name of tool or pipeline used, or annotation source description |
-|  | | Preferred unit:  |
 |  | | Position: 57.0 |
 | **Examples:** | | Example(value='prokka', description=None) |
 

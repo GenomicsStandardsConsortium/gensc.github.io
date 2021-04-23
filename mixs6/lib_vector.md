@@ -38,7 +38,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | library vector |
 | **Comments:** | | Expected value: vector |
-|  | | Preferred unit:  |
 |  | | Position: 42.0 |
 | **Examples:** | | Example(value='Bacteriophage P1', description=None) |
 

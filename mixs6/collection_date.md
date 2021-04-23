@@ -9,7 +9,7 @@ URI: [mixs.vocab:collection_date](https://w3id.org/mixs/vocab/collection_date)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [Date](types/Date.md)
 
 ## Parents
 
@@ -243,7 +243,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | collection date |
 | **Comments:** | | Expected value: date and time |
-|  | | Preferred unit:  |
 |  | | Position: 9.0 |
 | **Examples:** | | Example(value='2018-05-11T10:00:00+01:00', description=None) |
 

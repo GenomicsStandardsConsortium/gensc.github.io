@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | door type, composite |
 | **Mappings:** | | MIXS:0000795 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 59 |
+|  | | Position: 59.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='revolving', description=None) |
 

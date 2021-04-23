@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | building occupancy type |
 | **Mappings:** | | MIXS:0000761 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 9 |
+|  | | Position: 9.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='market', description=None) |
 

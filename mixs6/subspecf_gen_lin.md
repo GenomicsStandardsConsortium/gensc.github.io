@@ -34,7 +34,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | subspecific genetic lineage |
 | **Comments:** | | Expected value: genetic lineage below lowest rank of NCBI taxonomy, which is subspecies, e.g. serovar, biotype, ecotype |
-|  | | Preferred unit:  |
 |  | | Position: 14.0 |
 | **Examples:** | | Example(value='serovar:Newport', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | travel outside the country in last six months |
 | **Mappings:** | | MIXS:0000268 |
 | **Comments:** | | Expected value: country name |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 26 |
+|  | | Position: 26.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='', description=None) |
 

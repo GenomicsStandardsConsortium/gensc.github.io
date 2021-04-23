@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | gender of restroom |
 | **Mappings:** | | MIXS:0000808 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 80 |
+|  | | Position: 80.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='male', description=None) |
 

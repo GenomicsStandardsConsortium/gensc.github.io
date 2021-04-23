@@ -7,7 +7,7 @@ human-associated
 URI: [mixs.vocab:Human-associated](https://w3id.org/mixs/vocab/Human-associated)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Human-associatedMIUVIG],[Human-associatedMISAG],[Human-associatedMIMARKSSurvey],[Human-associatedMIMARKSSpecimen],[Human-associatedMIMAG],[Human-associatedMIGSVirus],[Human-associatedMIGSPlant],[Human-associatedMIGSOrg],[Human-associatedMIGSEukaryote],[Human-associatedMIGSBacteria],[Human-associatedME],[QuantityValue]<samp_store_temp%200..1-++[Human-associated&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:string%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;host_subject_id:string%20%3F;host_sex:host_sex_enum%20%3F;host_disease_stat:string%20%3F;ihmc_medication_code:string%20%3F;chem_administration:string%20%3F;host_body_site:string%20%3F;host_body_product:string%20%3F;host_diet:string%20%3F;host_last_meal:string%20%3F;host_family_relationship:string%20%3F;host_genotype:string%20%3F;host_phenotype:string%20%3F;smoker:string%20%3F;host_hiv_stat:string%20%3F;drug_usage:drug_usage_enum%20%3F;diet_last_six_month:string%20%3F;weight_loss_3_month:string%20%3F;ihmc_ethnicity:string%20%3F;host_occupation:string%20%3F;pet_farm_animal:string%20%3F;travel_out_six_month:string%20%3F;twin_sibling:string%20%3F;medic_hist_perform:string%20%3F;study_complt_stat:study_complt_stat_enum%20%3F;pulmonary_disord:string%20%3F;nose_throat_disord:string%20%3F;blood_blood_disord:string%20%3F;gestation_state:string%20%3F;maternal_health_stat:string%20%3F;foetal_health_stat:string%20%3F;amniotic_fluid_color:string%20%3F;urogenit_tract_disor:string%20%3F;urine_collect_meth:string%20%3F;perturbation:string%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;organism_count:organism_count_enum%20%3F;samp_store_dur:string%20%3F;samp_store_loc:string%20%3F;misc_param:string%20%3F],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Human-associated],[QuantityValue]<temp%200..1-++[Human-associated],[QuantityValue]<samp_salinity%200..1-++[Human-associated],[QuantityValue]<host_pulse%200..1-++[Human-associated],[QuantityValue]<host_body_mass_index%200..1-++[Human-associated],[QuantityValue]<host_body_temp%200..1-++[Human-associated],[QuantityValue]<host_height%200..1-++[Human-associated],[QuantityValue]<host_tot_mass%200..1-++[Human-associated],[QuantityValue]<host_age%200..1-++[Human-associated],[QuantityValue]<elev%200..1-++[Human-associated],[QuantityValue]<alt%200..1-++[Human-associated],[Human-associated]^-[Human-associatedMIUVIG],[Human-associated]^-[Human-associatedMISAG],[Human-associated]^-[Human-associatedMIMARKSSurvey],[Human-associated]^-[Human-associatedMIMARKSSpecimen],[Human-associated]^-[Human-associatedMIMAG],[Human-associated]^-[Human-associatedMIGSVirus],[Human-associated]^-[Human-associatedMIGSPlant],[Human-associated]^-[Human-associatedMIGSOrg],[Human-associated]^-[Human-associatedMIGSEukaryote],[Human-associated]^-[Human-associatedMIGSBacteria],[Human-associated]^-[Human-associatedME])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Human-associatedMIUVIG],[Human-associatedMISAG],[Human-associatedMIMARKSSurvey],[Human-associatedMIMARKSSpecimen],[Human-associatedMIMAG],[Human-associatedMIGSVirus],[Human-associatedMIGSPlant],[Human-associatedMIGSOrg],[Human-associatedMIGSEukaryote],[Human-associatedMIGSBacteria],[Human-associatedME],[QuantityValue]<samp_store_temp%200..1-++[Human-associated&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:date%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;host_subject_id:string%20%3F;host_sex:host_sex_enum%20%3F;host_disease_stat:string%20%3F;ihmc_medication_code:string%20%3F;chem_administration:string%20%3F;host_body_site:string%20%3F;host_body_product:string%20%3F;host_diet:string%20%3F;host_last_meal:string%20%3F;host_family_relationship:string%20%3F;host_genotype:string%20%3F;host_phenotype:string%20%3F;smoker:string%20%3F;host_hiv_stat:string%20%3F;drug_usage:drug_usage_enum%20%3F;diet_last_six_month:string%20%3F;weight_loss_3_month:string%20%3F;ihmc_ethnicity:string%20%3F;host_occupation:string%20%3F;pet_farm_animal:string%20%3F;travel_out_six_month:string%20%3F;twin_sibling:string%20%3F;medic_hist_perform:string%20%3F;study_complt_stat:study_complt_stat_enum%20%3F;pulmonary_disord:string%20%3F;nose_throat_disord:string%20%3F;blood_blood_disord:string%20%3F;gestation_state:string%20%3F;maternal_health_stat:string%20%3F;foetal_health_stat:string%20%3F;amniotic_fluid_color:string%20%3F;kidney_disord:string%20%3F;urogenit_tract_disor:string%20%3F;urine_collect_meth:string%20%3F;perturbation:string%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;organism_count:organism_count_enum%20%3F;samp_store_dur:string%20%3F;host_symbiont:string%20%3F;samp_store_loc:string%20%3F;misc_param:string%20%3F],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Human-associated],[QuantityValue]<temp%200..1-++[Human-associated],[QuantityValue]<samp_salinity%200..1-++[Human-associated],[QuantityValue]<host_pulse%200..1-++[Human-associated],[QuantityValue]<host_body_mass_index%200..1-++[Human-associated],[QuantityValue]<host_body_temp%200..1-++[Human-associated],[QuantityValue]<host_height%200..1-++[Human-associated],[QuantityValue]<host_tot_mass%200..1-++[Human-associated],[QuantityValue]<host_age%200..1-++[Human-associated],[QuantityValue]<elev%200..1-++[Human-associated],[QuantityValue]<alt%200..1-++[Human-associated],[Human-associated]^-[Human-associatedMIUVIG],[Human-associated]^-[Human-associatedMISAG],[Human-associated]^-[Human-associatedMIMARKSSurvey],[Human-associated]^-[Human-associatedMIMARKSSpecimen],[Human-associated]^-[Human-associatedMIMAG],[Human-associated]^-[Human-associatedMIGSVirus],[Human-associated]^-[Human-associatedMIGSPlant],[Human-associated]^-[Human-associatedMIGSOrg],[Human-associated]^-[Human-associatedMIGSEukaryote],[Human-associated]^-[Human-associatedMIGSBacteria],[Human-associated]^-[Human-associatedME])
 
 ## Children
 
@@ -32,7 +32,7 @@ URI: [mixs.vocab:Human-associated](https://w3id.org/mixs/vocab/Human-associated)
 ### Own
 
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [amniotic_fluid_color](amniotic_fluid_color.md)  <sub>OPT</sub>
@@ -49,10 +49,10 @@ URI: [mixs.vocab:Human-associated](https://w3id.org/mixs/vocab/Human-associated)
      * Example: agar [CHEBI:2509];2018-05-11T20:00Z None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [diet_last_six_month](diet_last_six_month.md)  <sub>OPT</sub>
@@ -159,6 +159,10 @@ URI: [mixs.vocab:Human-associated](https://w3id.org/mixs/vocab/Human-associated)
      * Description: A unique identifier by which each subject can be referred to, de-identified, e.g. #131
      * range: [String](types/String.md)
      * Example: MPI123 None
+ * [host_symbiont](host_symbiont.md)  <sub>OPT</sub>
+     * Description: The taxonomic name of the organism(s) found living in mutualistic, commensalistic, or parasitic symbiosis with the specific host.
+     * range: [String](types/String.md)
+     * Example: flukeworms None
  * [host_tot_mass](host_tot_mass.md)  <sub>OPT</sub>
      * Description: Total mass of the host at collection, the unit depends on host
      * range: [QuantityValue](QuantityValue.md)
@@ -171,6 +175,10 @@ URI: [mixs.vocab:Human-associated](https://w3id.org/mixs/vocab/Human-associated)
      * Description: Can include multiple medication codes
      * range: [String](types/String.md)
      * Example: 810 None
+ * [kidney_disord](kidney_disord.md)  <sub>OPT</sub>
+     * Description: History of kidney disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, kidney disease (https://disease-ontology.org/?id=DOID:557). 
+     * range: [String](types/String.md)
+     * Example:  None
  * [lat_lon](lat_lon.md)  <sub>OPT</sub>
      * Description: The geographical origin of the sample as defined by latitude and longitude. The values should be reported in decimal degrees and in WGS84 system
      * range: [String](types/String.md)

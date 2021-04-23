@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: temperature value;treatment interval and duration |
 |  | | Preferred unit: degree Celsius |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='25 degree Celsius;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M', description=None) |
 

@@ -114,7 +114,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: kilogram, gram |
 |  | | Occurrence: 1 |
-|  | | Position: 17 |
+|  | | Position: 17.0 |
 |  | | This field is used in: 7 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, plant-associated |
 | **Examples:** | | Example(value='2500 gram', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | history/previous land use |
 | **Mappings:** | | MIXS:0000315 |
 | **Comments:** | | Expected value: land use name;date |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 4 |
+|  | | Position: 4.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

@@ -29,7 +29,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | source of UViGs |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 35.0 |
 | **Examples:** | | Example(value='viral fraction metagenome (virome)', description=None) |
 

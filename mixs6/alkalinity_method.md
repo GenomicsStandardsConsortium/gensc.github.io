@@ -64,9 +64,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | alkalinity method |
 | **Mappings:** | | MIXS:0000298 |
 | **Comments:** | | Expected value: description of method |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 57 |
+|  | | Position: 57.0 |
 |  | | This field is used in: 3 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs, water |
 | **Examples:** | | Example(value='titration', description=None) |
 

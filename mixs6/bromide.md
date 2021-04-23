@@ -78,7 +78,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: parts per million |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 4 packages: microbial mat_biofilm, miscellaneous natural or artificial environment, sediment, water |
 | **Examples:** | | Example(value='0.05 parts per million', description=None) |
 

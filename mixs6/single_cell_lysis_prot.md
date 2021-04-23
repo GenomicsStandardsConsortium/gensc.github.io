@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | single cell or viral particle lysis kit protocol |
 | **Comments:** | | Expected value: kit, protocol name |
-|  | | Preferred unit:  |
 |  | | Position: 76.0 |
 | **Examples:** | | Example(value='ambion single cell lysis kit', description=None) |
 

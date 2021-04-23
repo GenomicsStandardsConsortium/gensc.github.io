@@ -90,7 +90,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: kilogram per square meter |
 |  | | Occurrence: 1 |
-|  | | Position: 20 |
+|  | | Position: 20.0 |
 |  | | This field is used in: 5 packages: human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='22 kilogram per square meter', description=None) |
 

@@ -29,7 +29,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | predicted genome structure |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 85.0 |
 | **Examples:** | | Example(value='non-segmented', description=None) |
 

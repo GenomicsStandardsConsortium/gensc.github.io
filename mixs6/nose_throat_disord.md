@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | lung/nose-throat disorder |
 | **Mappings:** | | MIXS:0000270 |
 | **Comments:** | | Expected value: disorder name |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 31 |
+|  | | Position: 31.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='', description=None) |
 

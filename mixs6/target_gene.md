@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | target gene |
 | **Comments:** | | Expected value: gene name |
-|  | | Preferred unit:  |
 |  | | Position: 44.0 |
 | **Examples:** | | Example(value='16S rRNA, 18S rRNA, nif, amoA, rpo', description=None) |
 

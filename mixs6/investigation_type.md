@@ -39,7 +39,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | investigation type |
 | **Comments:** | | Expected value: eukaryote, bacteria_archaea, plasmid, virus, organelle, metagenome,mimarks-survey, mimarks-specimen, metatranscriptome, single amplified genome, metagenome-assembled genome, or uncultivated viral genomes |
-|  | | Preferred unit:  |
 |  | | Position: 2.0 |
 | **Examples:** | | Example(value='metagenome', description=None) |
 | **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/60 |

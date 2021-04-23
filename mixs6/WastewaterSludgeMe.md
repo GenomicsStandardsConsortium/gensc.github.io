@@ -7,7 +7,7 @@ Combinatorial checklist Metagenome or Environmental with environmental package w
 URI: [mixs.vocab:WastewaterSludgeME](https://w3id.org/mixs/vocab/WastewaterSludgeME)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[WastewaterSludgeME&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string%20%3F;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;chem_administration(i):string%20%3F;emulsions(i):string%20%3F;gaseous_substances(i):string%20%3F;inorg_particles(i):string%20%3F;misc_param(i):string%20%3F;org_particles(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;ph(i):double%20%3F;perturbation(i):string%20%3F;pre_treatment(i):string%20%3F;primary_treatment(i):string%20%3F;reactor_type(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;secondary_treatment(i):string%20%3F;sewage_type(i):string%20%3F;soluble_inorg_mat(i):string%20%3F;soluble_org_mat(i):string%20%3F;suspend_solids(i):string%20%3F;tertiary_treatment(i):string%20%3F;wastewater_type(i):string%20%3F]uses%20-.->[ME],[WastewaterSludge]^-[WastewaterSludgeME],[WastewaterSludge],[QuantityValue],[ME])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[WastewaterSludgeME&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string%20%3F;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):date%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;chem_administration(i):string%20%3F;emulsions(i):string%20%3F;gaseous_substances(i):string%20%3F;inorg_particles(i):string%20%3F;misc_param(i):string%20%3F;org_particles(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;ph(i):double%20%3F;perturbation(i):string%20%3F;pre_treatment(i):string%20%3F;primary_treatment(i):string%20%3F;reactor_type(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;secondary_treatment(i):string%20%3F;sewage_type(i):string%20%3F;soluble_inorg_mat(i):string%20%3F;soluble_org_mat(i):string%20%3F;suspend_solids(i):string%20%3F;tertiary_treatment(i):string%20%3F;wastewater_type(i):string%20%3F]uses%20-.->[ME],[WastewaterSludge]^-[WastewaterSludgeME],[WastewaterSludge],[QuantityValue],[ME])
 
 ## Parents
 
@@ -27,7 +27,7 @@ URI: [mixs.vocab:WastewaterSludgeME](https://w3id.org/mixs/vocab/WastewaterSludg
      * range: [QuantityValue](QuantityValue.md)
      * Example: 50 milligram per liter None
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [biochem_oxygen_dem](biochem_oxygen_dem.md)  <sub>OPT</sub>
@@ -44,10 +44,10 @@ URI: [mixs.vocab:WastewaterSludgeME](https://w3id.org/mixs/vocab/WastewaterSludg
      * Example:  None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [efficiency_percent](efficiency_percent.md)  <sub>OPT</sub>
@@ -319,11 +319,6 @@ URI: [mixs.vocab:WastewaterSludgeME](https://w3id.org/mixs/vocab/WastewaterSludg
 
 ### Mixed in from ME:
 
- * [ME➞samp_collect_device](ME_samp_collect_device.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
-
-### Mixed in from ME:
-
  * [ME➞samp_mat_process](ME_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
@@ -334,7 +329,17 @@ URI: [mixs.vocab:WastewaterSludgeME](https://w3id.org/mixs/vocab/WastewaterSludg
 
 ### Mixed in from ME:
 
- * [ME➞sample_name](ME_sample_name.md)  <sub>OPT</sub>
+ * [ME➞sample_collect_device](ME_sample_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from ME:
+
+ * [ME➞sample_collect_method](ME_sample_collect_method.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from ME:
+
+ * [ME➞sample_name](ME_sample_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
 ### Mixed in from ME:

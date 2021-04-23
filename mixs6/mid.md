@@ -33,7 +33,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | multiplex identifiers |
 | **Comments:** | | Expected value: multiplex identifier sequence |
-|  | | Preferred unit:  |
 |  | | Position: 47.0 |
 | **Examples:** | | Example(value='GTGAATAT', description=None) |
 

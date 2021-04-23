@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: percentage |
 |  | | Occurrence: 1 |
-|  | | Position: 5 |
+|  | | Position: 5.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='10%', description=None) |
 

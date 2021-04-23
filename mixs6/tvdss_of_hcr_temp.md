@@ -2,7 +2,7 @@
 # Slot: tvdss_of_hcr_temp
 
 
-True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original temperature was measured (e.g. 1345 m)
+True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original temperature was measured (e.g. 1345 m).
 
 URI: [mixs.vocab:tvdss_of_hcr_temp](https://w3id.org/mixs/vocab/tvdss_of_hcr_temp)
 
@@ -54,7 +54,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: meter |
 |  | | Occurrence: 1 |
-|  | | Position: 7 |
+|  | | Position: 7.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | secondary and tertiary recovery methods and start date |
 | **Mappings:** | | MIXS:0001009 |
 | **Comments:** | | Expected value: enumeration;timestamp |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 28 |
+|  | | Position: 28.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='Polymer Addition;2018-06-21T14:30Z', description=None) |
 

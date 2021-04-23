@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | gastrointestinal tract disorder |
 | **Mappings:** | | MIXS:0000280 |
 | **Comments:** | | Expected value: disorder name |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: human-gut |
 | **Examples:** | | Example(value='', description=None) |
 

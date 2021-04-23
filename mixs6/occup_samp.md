@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | occupancy at sampling |
 | **Mappings:** | | MIXS:0000772 |
 | **Comments:** | | Expected value: measurement value |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 25 |
+|  | | Position: 25.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='10', description=None) |
 

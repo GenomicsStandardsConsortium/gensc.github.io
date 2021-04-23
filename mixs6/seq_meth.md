@@ -39,7 +39,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | sequencing method |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 50.0 |
 | **Examples:** | | Example(value='Illumina HiSeq 1500', description=None) |
 

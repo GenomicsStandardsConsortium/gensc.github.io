@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | furniture |
 | **Mappings:** | | MIXS:0000807 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 79 |
+|  | | Position: 79.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='chair', description=None) |
 

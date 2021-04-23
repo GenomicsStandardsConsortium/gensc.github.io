@@ -220,9 +220,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | miscellaneous parameter |
 | **Mappings:** | | MIXS:0000752 |
 | **Comments:** | | Expected value: parameter name;measurement value |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 16 packages: air, host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs, microbial mat_biofilm, miscellaneous natural or artificial environment, plant-associated, sediment, soil, wastewater_sludge, water |
 | **Examples:** | | Example(value='Bicarbonate ion concentration;2075 micromole per kilogram', description=None) |
 

@@ -1,8 +1,8 @@
 
-# Mixs6 schema
+# Mixs schema
 
 
-MIxS 6 linkml rendering
+Minimal Information about any Sequence Standard
 
 
 ### Classes
@@ -231,18 +231,6 @@ MIxS 6 linkml rendering
 ### Slots
 
  * [core field](core_field.md) - basic fields
-     * [sample_name](sample_name.md) - Sample Name is a name that you choose for the sample. It can have any format, but we suggest that you make it concise, unique and consistent within your lab, and as informative as possible. Every Sample Name from a single Submitter must be unique. 
-         * [ME➞sample_name](ME_sample_name.md)
-         * [MIGS bacteria➞sample_name](MIGS_bacteria_sample_name.md)
-         * [MIGS eukaryote➞sample_name](MIGS_eukaryote_sample_name.md)
-         * [MIGS org➞sample_name](MIGS_org_sample_name.md)
-         * [MIGS plant➞sample_name](MIGS_plant_sample_name.md)
-         * [MIGS virus➞sample_name](MIGS_virus_sample_name.md)
-         * [MIMAG➞sample_name](MIMAG_sample_name.md)
-         * [MIMARKS specimen➞sample_name](MIMARKS_specimen_sample_name.md)
-         * [MIMARKS survey➞sample_name](MIMARKS_survey_sample_name.md)
-         * [MISAG➞sample_name](MISAG_sample_name.md)
-         * [MIUVIG➞sample_name](MIUVIG_sample_name.md)
  * [environment field](environment_field.md) - field describing environmental aspect of a sample
      * [abs_air_humidity](abs_air_humidity.md) - Actual mass of water vapor - mh20 - present in the air water vapor mixture
      * [add_recov_method](add_recov_method.md) - Additional (i.e. Secondary, tertiary, etc.) recovery methods deployed for increase of hydrocarbon recovery from resource and start date for each one of them. If "other" is specified, please propose entry in "additional info" field
@@ -258,7 +246,7 @@ MIxS 6 linkml rendering
      * [alkalinity](alkalinity.md) - Alkalinity, the ability of a solution to neutralize acids to the equivalence point of carbonate or bicarbonate
      * [alkalinity_method](alkalinity_method.md) - Method used for alkalinity measurement
      * [alkyl_diethers](alkyl_diethers.md) - Concentration of alkyl diethers
-     * [alt](alt.md) - Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * [alt](alt.md) - Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * [aminopept_act](aminopept_act.md) - Measurement of aminopeptidase activity
      * [ammonium](ammonium.md) - Concentration of ammonium in the sample
      * [amniotic_fluid_color](amniotic_fluid_color.md) - Specification of the color of the amniotic fluid sample
@@ -286,7 +274,7 @@ MIxS 6 linkml rendering
      * [biochem_oxygen_dem](biochem_oxygen_dem.md) - Amount of dissolved oxygen needed by aerobic biological organisms in a body of water to break down organic material present in a given water sample at certain temperature over a specific time period
      * [biocide](biocide.md) - List of biocides (commercial name of product and supplier) and date of administration
      * [biocide_admin_method](biocide_admin_method.md) - Method of biocide administration (dose, frequency, duration, time elapsed between last biociding and sampling) (e.g. 150 mg/l; weekly; 4 hr; 3 days)
-     * [biol_stat](biol_stat.md) - The level of genome modification
+     * [biol_stat](biol_stat.md) - The level of genome modification.
      * [biomass](biomass.md) - Amount of biomass; should include the name for the part of biomass measured, e.g. Microbial, total. Can include multiple measurements
      * [biotic_regm](biotic_regm.md) - Information about treatment(s) involving use of biotic factors, such as bacteria, viruses or fungi.
      * [birth_control](birth_control.md) - Specification of birth control medication used
@@ -341,7 +329,7 @@ MIxS 6 linkml rendering
      * [date_last_rain](date_last_rain.md) - The date of the last time it rained
      * [density](density.md) - Density of the sample, which is its mass per unit volume (aka volumetric mass density)
      * [depos_env](depos_env.md) - Main depositional environment (https://en.wikipedia.org/wiki/Depositional_environment). If "other" is specified, please propose entry in "additional info" field
-     * [depth](depth.md) - Please refer to the definitions of depth in the environmental packages
+     * [depth](depth.md) - The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * [dermatology_disord](dermatology_disord.md) - History of dermatology disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, skin disease (https://disease-ontology.org/?id=DOID:37).
      * [dew_point](dew_point.md) - The temperature to which a given parcel of humid air must be cooled, at constant barometric pressure, for water vapor to condense into water.
      * [diet_last_six_month](diet_last_six_month.md) - Specification of major diet changes in the last six months, if yes the change should be specified
@@ -516,6 +504,7 @@ MIxS 6 linkml rendering
      * [host_shape](host_shape.md) - Morphological shape of host
      * [host_subject_id](host_subject_id.md) - A unique identifier by which each subject can be referred to, de-identified, e.g. #131
      * [host_substrate](host_substrate.md) - The growth substrate of the host
+     * [host_symbiont](host_symbiont.md) - The taxonomic name of the organism(s) found living in mutualistic, commensalistic, or parasitic symbiosis with the specific host.
      * [host_taxid](host_taxid.md) - NCBI taxon id of the host, e.g. 9606
      * [host_tot_mass](host_tot_mass.md) - Total mass of the host at collection, the unit depends on host
      * [host_wet_mass](host_wet_mass.md) - Measurement of wet mass
@@ -533,6 +522,7 @@ MIxS 6 linkml rendering
      * [int_wall_cond](int_wall_cond.md) - The physical condition of the wall at the time of sampling; photos or video preferred; use drawings to indicate location of damaged areas
      * [iw_bt_date_well](iw_bt_date_well.md) - Injection water breakthrough date per well following a secondary and/or tertiary recovery
      * [iwf](iwf.md) - Proportion of the produced fluids derived from injected water at the time of sampling. (e.g. 87%)
+     * [kidney_disord](kidney_disord.md) - History of kidney disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, kidney disease (https://disease-ontology.org/?id=DOID:557). 
      * [last_clean](last_clean.md) - The last time the floor was cleaned (swept, mopped, vacuumed)
      * [lat_lon](lat_lon.md) - The geographical origin of the sample as defined by latitude and longitude. The values should be reported in decimal degrees and in WGS84 system
          * [ME➞lat_lon](ME_lat_lon.md)
@@ -774,8 +764,8 @@ MIxS 6 linkml rendering
      * [train_stop_loc](train_stop_loc.md) - The train stop collection location
      * [travel_out_six_month](travel_out_six_month.md) - Specification of the countries travelled in the last six months; can include multiple travels
      * [turbidity](turbidity.md) - Measure of the amount of cloudiness or haziness in water caused by individual particles
-     * [tvdss_of_hcr_pressure](tvdss_of_hcr_pressure.md) - True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original pressure was measured (e.g. 1578 m )
-     * [tvdss_of_hcr_temp](tvdss_of_hcr_temp.md) - True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original temperature was measured (e.g. 1345 m)
+     * [tvdss_of_hcr_pressure](tvdss_of_hcr_pressure.md) - True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original pressure was measured (e.g. 1578 m).
+     * [tvdss_of_hcr_temp](tvdss_of_hcr_temp.md) - True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original temperature was measured (e.g. 1345 m).
      * [twin_sibling](twin_sibling.md) - Specification of twin sibling presence
      * [typ_occup_density](typ_occup_density.md) - Customary or normal density of occupants
      * [urine_collect_meth](urine_collect_meth.md) - Specification of urine collection method
@@ -861,6 +851,18 @@ MIxS 6 linkml rendering
          * [MIMARKS survey➞project_name](MIMARKS_survey_project_name.md)
          * [MISAG➞project_name](MISAG_project_name.md)
          * [MIUVIG➞project_name](MIUVIG_project_name.md)
+     * [sample_name](sample_name.md) - Sample Name is a name that you choose for the sample. It can have any format, but we suggest that you make it concise, unique and consistent within your lab, and as informative as possible. Every Sample Name from a single Submitter must be unique. 
+         * [ME➞sample_name](ME_sample_name.md)
+         * [MIGS bacteria➞sample_name](MIGS_bacteria_sample_name.md)
+         * [MIGS eukaryote➞sample_name](MIGS_eukaryote_sample_name.md)
+         * [MIGS org➞sample_name](MIGS_org_sample_name.md)
+         * [MIGS plant➞sample_name](MIGS_plant_sample_name.md)
+         * [MIGS virus➞sample_name](MIGS_virus_sample_name.md)
+         * [MIMAG➞sample_name](MIMAG_sample_name.md)
+         * [MIMARKS specimen➞sample_name](MIMARKS_specimen_sample_name.md)
+         * [MIMARKS survey➞sample_name](MIMARKS_survey_sample_name.md)
+         * [MISAG➞sample_name](MISAG_sample_name.md)
+         * [MIUVIG➞sample_name](MIUVIG_sample_name.md)
      * [submitted_to_insdc](submitted_to_insdc.md) - Depending on the study (large-scale e.g. done with next generation sequencing technology, or small-scale) sequences have to be submitted to SRA (Sequence Read Archive), DRA (DDBJ Read Archive) or via the classical Webin/Sequin systems to Genbank, ENA and DDBJ. Although this field is mandatory, it is meant as a self-test field, therefore it is not necessary to include this field in contextual data submitted to databases
          * [ME➞submitted_to_insdc](ME_submitted_to_insdc.md)
          * [MIGS bacteria➞submitted_to_insdc](MIGS_bacteria_submitted_to_insdc.md)
@@ -958,19 +960,7 @@ MIxS 6 linkml rendering
          * [MIMARKS specimen➞rel_to_oxygen](MIMARKS_specimen_rel_to_oxygen.md)
          * [MIMARKS survey➞rel_to_oxygen](MIMARKS_survey_rel_to_oxygen.md)
          * [MISAG➞rel_to_oxygen](MISAG_rel_to_oxygen.md)
-     * [samp_collect_device](samp_collect_device.md) - The method or device employed for collecting the sample
-         * [ME➞samp_collect_device](ME_samp_collect_device.md)
-         * [MIGS bacteria➞samp_collect_device](MIGS_bacteria_samp_collect_device.md)
-         * [MIGS eukaryote➞samp_collect_device](MIGS_eukaryote_samp_collect_device.md)
-         * [MIGS org➞samp_collect_device](MIGS_org_samp_collect_device.md)
-         * [MIGS plant➞samp_collect_device](MIGS_plant_samp_collect_device.md)
-         * [MIGS virus➞samp_collect_device](MIGS_virus_samp_collect_device.md)
-         * [MIMAG➞samp_collect_device](MIMAG_samp_collect_device.md)
-         * [MIMARKS specimen➞samp_collect_device](MIMARKS_specimen_samp_collect_device.md)
-         * [MIMARKS survey➞samp_collect_device](MIMARKS_survey_samp_collect_device.md)
-         * [MISAG➞samp_collect_device](MISAG_samp_collect_device.md)
-         * [MIUVIG➞samp_collect_device](MIUVIG_samp_collect_device.md)
-     * [samp_mat_process](samp_mat_process.md) - Any processing applied to the sample during or after retrieving the sample from environment. This field accepts OBI, for a browser of OBI (v 2018-02-12) terms please see http://purl.bioontology.org/ontology/OBI
+     * [samp_mat_process](samp_mat_process.md) - A brief description of any processing applied to the sample during or after retrieving the sample from environment, or a link to the relevant protocol(s) performed.
          * [ME➞samp_mat_process](ME_samp_mat_process.md)
          * [MIGS bacteria➞samp_mat_process](MIGS_bacteria_samp_mat_process.md)
          * [MIGS eukaryote➞samp_mat_process](MIGS_eukaryote_samp_mat_process.md)
@@ -994,6 +984,30 @@ MIxS 6 linkml rendering
          * [MIMARKS survey➞samp_size](MIMARKS_survey_samp_size.md)
          * [MISAG➞samp_size](MISAG_samp_size.md)
          * [MIUVIG➞samp_size](MIUVIG_samp_size.md)
+     * [sample_collect_device](sample_collect_device.md) - The device used to collect an environmental sample. This field accepts terms listed under environmental sampling device (http://purl.obolibrary.org/obo/ENVO). This field also accepts terms listed under specimen collection device (http://purl.obolibrary.org/obo/GENEPIO_0002094).
+         * [ME➞sample_collect_device](ME_sample_collect_device.md)
+         * [MIGS bacteria➞sample_collect_device](MIGS_bacteria_sample_collect_device.md)
+         * [MIGS eukaryote➞sample_collect_device](MIGS_eukaryote_sample_collect_device.md)
+         * [MIGS org➞sample_collect_device](MIGS_org_sample_collect_device.md)
+         * [MIGS plant➞sample_collect_device](MIGS_plant_sample_collect_device.md)
+         * [MIGS virus➞sample_collect_device](MIGS_virus_sample_collect_device.md)
+         * [MIMAG➞sample_collect_device](MIMAG_sample_collect_device.md)
+         * [MIMARKS specimen➞sample_collect_device](MIMARKS_specimen_sample_collect_device.md)
+         * [MIMARKS survey➞sample_collect_device](MIMARKS_survey_sample_collect_device.md)
+         * [MISAG➞sample_collect_device](MISAG_sample_collect_device.md)
+         * [MIUVIG➞sample_collect_device](MIUVIG_sample_collect_device.md)
+     * [sample_collect_method](sample_collect_method.md) - The method employed for collecting the sample.
+         * [ME➞sample_collect_method](ME_sample_collect_method.md)
+         * [MIGS bacteria➞sample_collect_method](MIGS_bacteria_sample_collect_method.md)
+         * [MIGS eukaryote➞sample_collect_method](MIGS_eukaryote_sample_collect_method.md)
+         * [MIGS org➞sample_collect_method](MIGS_org_sample_collect_method.md)
+         * [MIGS plant➞sample_collect_method](MIGS_plant_sample_collect_method.md)
+         * [MIGS virus➞sample_collect_method](MIGS_virus_sample_collect_method.md)
+         * [MIMAG➞sample_collect_method](MIMAG_sample_collect_method.md)
+         * [MIMARKS specimen➞sample_collect_method](MIMARKS_specimen_sample_collect_method.md)
+         * [MIMARKS survey➞sample_collect_method](MIMARKS_survey_sample_collect_method.md)
+         * [MISAG➞sample_collect_method](MISAG_sample_collect_method.md)
+         * [MIUVIG➞sample_collect_method](MIUVIG_sample_collect_method.md)
      * [size_frac](size_frac.md) - Filtering pore size used in sample preparation
          * [ME➞size_frac](ME_size_frac.md)
          * [MIMAG➞size_frac](MIMAG_size_frac.md)
@@ -1378,9 +1392,138 @@ MIxS 6 linkml rendering
      * [x_16s_recover](x_16s_recover.md) - Can a 16S gene be recovered from the submitted SAG or MAG?
          * [MIMAG➞x_16s_recover](MIMAG_x_16s_recover.md)
          * [MISAG➞x_16s_recover](MISAG_x_16s_recover.md)
-     * [x_16s_recover_software](x_16s_recover_software.md) - Tools used for 16S rRNA gene extraction
-         * [MIMAG➞x_16s_recover_software](MIMAG_x_16s_recover_software.md)
-         * [MISAG➞x_16s_recover_software](MISAG_x_16s_recover_software.md)
+
+### Enums
+
+ * [add_recov_method_enum](add_recov_method_enum.md)
+ * [arch_struc_enum](arch_struc_enum.md)
+ * [assembly_qual_enum](assembly_qual_enum.md)
+ * [bin_param_enum](bin_param_enum.md)
+ * [bin_software_enum](bin_software_enum.md)
+ * [biol_stat_enum](biol_stat_enum.md)
+ * [biotic_relationship_enum](biotic_relationship_enum.md)
+ * [build_docs_enum](build_docs_enum.md)
+ * [build_occup_type_enum](build_occup_type_enum.md)
+ * [building_setting_enum](building_setting_enum.md)
+ * [ceil_cond_enum](ceil_cond_enum.md)
+ * [ceil_finish_mat_enum](ceil_finish_mat_enum.md)
+ * [ceil_texture_enum](ceil_texture_enum.md)
+ * [ceil_type_enum](ceil_type_enum.md)
+ * [compl_appr_enum](compl_appr_enum.md)
+ * [compl_score_enum](compl_score_enum.md)
+ * [contam_screen_param_enum](contam_screen_param_enum.md)
+ * [cur_land_use_enum](cur_land_use_enum.md)
+ * [decontam_software_enum](decontam_software_enum.md)
+ * [depos_env_enum](depos_env_enum.md)
+ * [dominant_hand_enum](dominant_hand_enum.md)
+ * [door_comp_type_enum](door_comp_type_enum.md)
+ * [door_cond_enum](door_cond_enum.md)
+ * [door_direct_enum](door_direct_enum.md)
+ * [door_loc_enum](door_loc_enum.md)
+ * [door_mat_enum](door_mat_enum.md)
+ * [door_move_enum](door_move_enum.md)
+ * [door_type_enum](door_type_enum.md)
+ * [door_type_metal_enum](door_type_metal_enum.md)
+ * [door_type_wood_enum](door_type_wood_enum.md)
+ * [drainage_class_enum](drainage_class_enum.md)
+ * [drawings_enum](drawings_enum.md)
+ * [drug_usage_enum](drug_usage_enum.md)
+ * [env_package_enum](env_package_enum.md)
+ * [ext_wall_orient_enum](ext_wall_orient_enum.md)
+ * [ext_window_orient_enum](ext_window_orient_enum.md)
+ * [fao_class_enum](fao_class_enum.md)
+ * [filter_type_enum](filter_type_enum.md)
+ * [floor_cond_enum](floor_cond_enum.md)
+ * [floor_finish_mat_enum](floor_finish_mat_enum.md)
+ * [floor_struc_enum](floor_struc_enum.md)
+ * [floor_water_mold_enum](floor_water_mold_enum.md)
+ * [furniture_enum](furniture_enum.md)
+ * [growth_habit_enum](growth_habit_enum.md)
+ * [handidness_enum](handidness_enum.md)
+ * [hc_produced_enum](hc_produced_enum.md)
+ * [hcr_enum](hcr_enum.md)
+ * [hcr_geol_age_enum](hcr_geol_age_enum.md)
+ * [health_disease_stat_enum](health_disease_stat_enum.md)
+ * [heat_cool_type_enum](heat_cool_type_enum.md)
+ * [heat_deliv_loc_enum](heat_deliv_loc_enum.md)
+ * [horizon_enum](horizon_enum.md)
+ * [host_pred_appr_enum](host_pred_appr_enum.md)
+ * [host_sex_enum](host_sex_enum.md)
+ * [indoor_space_enum](indoor_space_enum.md)
+ * [indoor_surf_enum](indoor_surf_enum.md)
+ * [int_wall_cond_enum](int_wall_cond_enum.md)
+ * [investigation_type_enum](investigation_type_enum.md)
+ * [lib_layout_enum](lib_layout_enum.md)
+ * [light_type_enum](light_type_enum.md)
+ * [lithology_enum](lithology_enum.md)
+ * [mag_cov_software_enum](mag_cov_software_enum.md)
+ * [mech_struc_enum](mech_struc_enum.md)
+ * [occup_document_enum](occup_document_enum.md)
+ * [organism_count_enum](organism_count_enum.md)
+ * [oxy_stat_samp_enum](oxy_stat_samp_enum.md)
+ * [plant_growth_med_enum](plant_growth_med_enum.md)
+ * [plant_sex_enum](plant_sex_enum.md)
+ * [pred_genome_struc_enum](pred_genome_struc_enum.md)
+ * [pred_genome_type_enum](pred_genome_type_enum.md)
+ * [pres_animal_enum](pres_animal_enum.md)
+ * [profile_position_enum](profile_position_enum.md)
+ * [quad_pos_enum](quad_pos_enum.md)
+ * [rel_samp_loc_enum](rel_samp_loc_enum.md)
+ * [rel_to_oxygen_enum](rel_to_oxygen_enum.md)
+ * [room_condt_enum](room_condt_enum.md)
+ * [room_connected_enum](room_connected_enum.md)
+ * [room_loc_enum](room_loc_enum.md)
+ * [room_samp_pos_enum](room_samp_pos_enum.md)
+ * [room_type_enum](room_type_enum.md)
+ * [samp_capt_status_enum](samp_capt_status_enum.md)
+ * [samp_collection_point_enum](samp_collection_point_enum.md)
+ * [samp_dis_stage_enum](samp_dis_stage_enum.md)
+ * [samp_floor_enum](samp_floor_enum.md)
+ * [samp_md_enum](samp_md_enum.md)
+ * [samp_subtype_enum](samp_subtype_enum.md)
+ * [samp_type_enum](samp_type_enum.md)
+ * [samp_weather_enum](samp_weather_enum.md)
+ * [season_use_enum](season_use_enum.md)
+ * [sediment_type_enum](sediment_type_enum.md)
+ * [seq_meth_enum](seq_meth_enum.md)
+ * [shading_device_cond_enum](shading_device_cond_enum.md)
+ * [shading_device_type_enum](shading_device_type_enum.md)
+ * [single_cell_lysis_appr_enum](single_cell_lysis_appr_enum.md)
+ * [sort_tech_enum](sort_tech_enum.md)
+ * [source_uvig_enum](source_uvig_enum.md)
+ * [special_diet_enum](special_diet_enum.md)
+ * [specific_enum](specific_enum.md)
+ * [sr_dep_env_enum](sr_dep_env_enum.md)
+ * [sr_geol_age_enum](sr_geol_age_enum.md)
+ * [sr_kerog_type_enum](sr_kerog_type_enum.md)
+ * [sr_lithology_enum](sr_lithology_enum.md)
+ * [study_complt_stat_enum](study_complt_stat_enum.md)
+ * [substructure_type_enum](substructure_type_enum.md)
+ * [surf_air_cont_enum](surf_air_cont_enum.md)
+ * [surf_material_enum](surf_material_enum.md)
+ * [tax_ident_enum](tax_ident_enum.md)
+ * [tidal_stage_enum](tidal_stage_enum.md)
+ * [tillage_enum](tillage_enum.md)
+ * [train_line_enum](train_line_enum.md)
+ * [train_stat_loc_enum](train_stat_loc_enum.md)
+ * [train_stop_loc_enum](train_stop_loc_enum.md)
+ * [trophic_level_enum](trophic_level_enum.md)
+ * [virus_enrich_appr_enum](virus_enrich_appr_enum.md)
+ * [vis_media_enum](vis_media_enum.md)
+ * [wall_const_type_enum](wall_const_type_enum.md)
+ * [wall_finish_mat_enum](wall_finish_mat_enum.md)
+ * [wall_loc_enum](wall_loc_enum.md)
+ * [wall_surf_treatment_enum](wall_surf_treatment_enum.md)
+ * [wall_texture_enum](wall_texture_enum.md)
+ * [water_feat_type_enum](water_feat_type_enum.md)
+ * [weekday_enum](weekday_enum.md)
+ * [window_cond_enum](window_cond_enum.md)
+ * [window_cover_enum](window_cover_enum.md)
+ * [window_horiz_pos_enum](window_horiz_pos_enum.md)
+ * [window_loc_enum](window_loc_enum.md)
+ * [window_mat_enum](window_mat_enum.md)
+ * [window_type_enum](window_type_enum.md)
+ * [window_vert_pos_enum](window_vert_pos_enum.md)
 
 ### Types
 

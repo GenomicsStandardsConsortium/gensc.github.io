@@ -9,7 +9,7 @@ URI: [mixs.vocab:pregnancy](https://w3id.org/mixs/vocab/pregnancy)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [Date](types/Date.md)
 
 ## Parents
 
@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | pregnancy |
 | **Mappings:** | | MIXS:0000966 |
 | **Comments:** | | Expected value: timestamp |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 3 |
+|  | | Position: 3.0 |
 |  | | This field is used uniquely in: human-vaginal |
 | **Examples:** | | Example(value='2018-05-11', description=None) |
 

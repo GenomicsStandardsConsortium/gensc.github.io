@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host life stage |
 | **Mappings:** | | MIXS:0000251 |
 | **Comments:** | | Expected value: stage |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 10 |
+|  | | Position: 10.0 |
 |  | | This field is used in: 2 packages: host-associated, plant-associated |
 | **Examples:** | | Example(value='adult', description=None) |
 

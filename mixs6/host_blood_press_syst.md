@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: millimeter mercury |
 |  | | Occurrence: 1 |
-|  | | Position: 32 |
+|  | | Position: 32.0 |
 |  | | This field is used uniquely in: host-associated |
 | **Examples:** | | Example(value='', description=None) |
 

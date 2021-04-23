@@ -39,7 +39,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | relevant standard operating procedures |
 | **Comments:** | | Expected value: reference to SOP |
-|  | | Preferred unit:  |
 |  | | Position: 93.0 |
 | **Examples:** | | Example(value='http://press.igsb.anl.gov/earthmicrobiome/protocols-and-standards/its/', description=None) |
 

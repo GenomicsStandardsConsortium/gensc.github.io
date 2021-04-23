@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | soil_taxonomic/FAO classification |
 | **Mappings:** | | MIXS:0001083 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 26 |
+|  | | Position: 26.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='Luvisols', description=None) |
 

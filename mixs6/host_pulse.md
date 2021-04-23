@@ -90,7 +90,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: beats per minute |
 |  | | Occurrence: 1 |
-|  | | Position: 35 |
+|  | | Position: 35.0 |
 |  | | This field is used in: 5 packages: human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='65 beats per minute', description=None) |
 

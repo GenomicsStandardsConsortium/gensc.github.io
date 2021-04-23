@@ -100,9 +100,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host body product |
 | **Mappings:** | | MIXS:0000888 |
 | **Comments:** | | Expected value: FMA or UBERON |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 16 |
+|  | | Position: 16.0 |
 |  | | This field is used in: 6 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='Portion of mucus [fma66938]', description=None) |
 

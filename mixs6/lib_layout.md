@@ -38,7 +38,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | library layout |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 41.0 |
 | **Examples:** | | Example(value='paired', description=None) |
 

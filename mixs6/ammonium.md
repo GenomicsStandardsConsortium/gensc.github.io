@@ -102,7 +102,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: micromole per liter, milligram per liter, parts per million |
 |  | | Occurrence: 1 |
-|  | | Position: 63 |
+|  | | Position: 63.0 |
 |  | | This field is used in: 6 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs, microbial mat_biofilm, miscellaneous natural or artificial environment, sediment, water |
 | **Examples:** | | Example(value='1.5 milligram per liter', description=None) |
 

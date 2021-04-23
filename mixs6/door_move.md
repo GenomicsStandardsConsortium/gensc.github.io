@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | door movement |
 | **Mappings:** | | MIXS:0000792 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 56 |
+|  | | Position: 56.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='swinging', description=None) |
 

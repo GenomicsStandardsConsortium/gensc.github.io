@@ -36,7 +36,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | taxonomic identity marker |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 53.0 |
 | **Examples:** | | Example(value='other: rpoB gene', description=None) |
 

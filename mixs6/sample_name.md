@@ -13,7 +13,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Parents
 
- *  is_a: [core field](core_field.md)
+ *  is_a: [investigation field](investigation_field.md)
 
 ## Children
 
@@ -38,9 +38,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 |  |  |  |
 | --- | --- | --- |
 | **Aliases:** | | sample name  |
-| **Comments:** | | Expected value:  |
-|  | | Preferred unit:  |
-|  | | Position:  |
-| **Examples:** | | Example(value='', description=None) |
+| **Comments:** | | Expected value: text |
+|  | | This field is used in all packages |
+| **Examples:** | | Example(value='ISDsoil1', description=None) |
 | **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/78 |
 

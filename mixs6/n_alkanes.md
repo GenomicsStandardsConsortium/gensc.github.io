@@ -66,7 +66,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: n-alkane name;measurement value |
 |  | | Preferred unit: micromole per liter |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 3 packages: microbial mat_biofilm, sediment, water |
 | **Examples:** | | Example(value='n-hexadecane;100 milligram per liter', description=None) |
 

@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: particulate matter name;measurement value |
 |  | | Preferred unit: microgram per cubic meter |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: air |
 | **Examples:** | | Example(value='PM2.5;10 microgram per cubic meter', description=None) |
 

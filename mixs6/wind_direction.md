@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | wind direction |
 | **Mappings:** | | MIXS:0000757 |
 | **Comments:** | | Expected value: wind direction name |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: air |
 | **Examples:** | | Example(value='Northwest', description=None) |
 

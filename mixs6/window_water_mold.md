@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | window signs of water/mold |
 | **Mappings:** | | MIXS:0000854 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 157 |
+|  | | Position: 157.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='no presence of mold visible', description=None) |
 

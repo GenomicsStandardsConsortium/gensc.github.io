@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host infra-specific name |
 | **Mappings:** | | MIXS:0000253 |
 | **Comments:** | | Expected value: name |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 25 |
+|  | | Position: 25.0 |
 |  | | This field is used in: 2 packages: host-associated, plant-associated |
 | **Examples:** | | Example(value='borealis', description=None) |
 

@@ -7,7 +7,7 @@ Combinatorial checklist Minimum Information About a Metagenome-Assembled Genome 
 URI: [mixs.vocab:BuiltEnvironmentMIMAG](https://w3id.org/mixs/vocab/BuiltEnvironmentMIMAG)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[BuiltEnvironmentMIMAG&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;x_16s_recover_software:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum;compl_software:string;compl_appr:compl_appr_enum%20%3F;contam_score:string;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;bin_param:bin_param_enum;bin_software:bin_software_enum;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;surf_material(i):surf_material_enum%20%3F;surf_air_cont(i):surf_air_cont_enum%20%3F;surf_moisture_ph(i):double%20%3F;build_occup_type(i):build_occup_type_enum%20%3F;ventilation_type(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;indoor_space(i):indoor_space_enum%20%3F;indoor_surf(i):indoor_surf_enum%20%3F;filter_type(i):filter_type_enum%20%3F;heat_cool_type(i):heat_cool_type_enum%20%3F;substructure_type(i):substructure_type_enum%20%3F;building_setting(i):building_setting_enum%20%3F;light_type(i):light_type_enum%20%3F;samp_sort_meth(i):string%20%3F;space_typ_state(i):string%20%3F;typ_occup_density(i):double%20%3F;occup_samp(i):string%20%3F;occup_density_samp(i):double%20%3F;address(i):string%20%3F;adj_room(i):string%20%3F;aero_struc(i):string%20%3F;arch_struc(i):arch_struc_enum%20%3F;avg_occup(i):double%20%3F;bathroom_count(i):string%20%3F;bedroom_count(i):string%20%3F;built_struc_set(i):string%20%3F;built_struc_type(i):string%20%3F;ceil_cond(i):ceil_cond_enum%20%3F;ceil_finish_mat(i):ceil_finish_mat_enum%20%3F;ceil_water_mold(i):string%20%3F;ceil_struc(i):string%20%3F;ceil_texture(i):ceil_texture_enum%20%3F;ceil_type(i):ceil_type_enum%20%3F;cool_syst_id(i):string%20%3F;date_last_rain(i):string%20%3F;build_docs(i):build_docs_enum%20%3F;door_cond(i):door_cond_enum%20%3F;door_direct(i):door_direct_enum%20%3F;door_loc(i):door_loc_enum%20%3F;door_mat(i):door_mat_enum%20%3F;door_move(i):door_move_enum%20%3F;door_water_mold(i):string%20%3F;door_type(i):door_type_enum%20%3F;door_comp_type(i):door_comp_type_enum%20%3F;door_type_metal(i):door_type_metal_enum%20%3F;door_type_wood(i):door_type_wood_enum%20%3F;drawings(i):drawings_enum%20%3F;elevator(i):string%20%3F;escalator(i):string%20%3F;exp_pipe(i):string%20%3F;ext_door(i):string%20%3F;fireplace_type(i):string%20%3F;floor_cond(i):floor_cond_enum%20%3F;floor_count(i):string%20%3F;floor_finish_mat(i):floor_finish_mat_enum%20%3F;floor_water_mold(i):floor_water_mold_enum%20%3F;floor_struc(i):floor_struc_enum%20%3F;freq_clean(i):string%20%3F;freq_cook(i):string%20%3F;furniture(i):furniture_enum%20%3F;gender_restroom(i):string%20%3F;hall_count(i):string%20%3F;handidness(i):handidness_enum%20%3F;heat_deliv_loc(i):heat_deliv_loc_enum%20%3F;heat_system_deliv_meth(i):string%20%3F;heat_system_id(i):string%20%3F;int_wall_cond(i):int_wall_cond_enum%20%3F;last_clean(i):string%20%3F;max_occup(i):string%20%3F;mech_struc(i):mech_struc_enum%20%3F;number_plants(i):string%20%3F;number_pets(i):string%20%3F;number_resident(i):string%20%3F;occup_document(i):occup_document_enum%20%3F;ext_wall_orient(i):ext_wall_orient_enum%20%3F;ext_window_orient(i):ext_window_orient_enum%20%3F;pres_animal(i):pres_animal_enum%20%3F;quad_pos(i):quad_pos_enum%20%3F;rel_samp_loc(i):rel_samp_loc_enum%20%3F;room_architec_element(i):string%20%3F;room_condt(i):room_condt_enum%20%3F;room_count(i):string%20%3F;room_dim(i):string%20%3F;room_door_dist(i):string%20%3F;room_loc(i):room_loc_enum%20%3F;room_moist_damage_hist(i):string%20%3F;room_net_area(i):string%20%3F;room_occup(i):string%20%3F;room_samp_pos(i):room_samp_pos_enum%20%3F;room_type(i):room_type_enum%20%3F;room_vol(i):string%20%3F;room_window_count(i):string%20%3F;room_connected(i):room_connected_enum%20%3F;room_hallway(i):string%20%3F;room_door_share(i):string%20%3F;room_wall_share(i):string%20%3F;samp_weather(i):samp_weather_enum%20%3F;samp_floor(i):samp_floor_enum%20%3F;samp_room_id(i):string%20%3F;samp_time_out(i):double%20%3F;season(i):string%20%3F;season_use(i):season_use_enum%20%3F;shading_device_cond(i):shading_device_cond_enum%20%3F;shading_device_loc(i):string%20%3F;shading_device_mat(i):string%20%3F;shading_device_water_mold(i):string%20%3F;shading_device_type(i):shading_device_type_enum%20%3F;specific(i):specific_enum%20%3F;train_line(i):train_line_enum%20%3F;train_stat_loc(i):train_stat_loc_enum%20%3F;train_stop_loc(i):train_stop_loc_enum%20%3F;vis_media(i):vis_media_enum%20%3F;wall_const_type(i):wall_const_type_enum%20%3F;wall_finish_mat(i):wall_finish_mat_enum%20%3F;wall_loc(i):wall_loc_enum%20%3F;wall_water_mold(i):string%20%3F;wall_surf_treatment(i):wall_surf_treatment_enum%20%3F;wall_texture(i):wall_texture_enum%20%3F;water_feat_type(i):water_feat_type_enum%20%3F;weekday(i):weekday_enum%20%3F;window_size(i):string%20%3F;window_cond(i):window_cond_enum%20%3F;window_cover(i):window_cover_enum%20%3F;window_horiz_pos(i):window_horiz_pos_enum%20%3F;window_loc(i):window_loc_enum%20%3F;window_mat(i):window_mat_enum%20%3F;window_open_freq(i):string%20%3F;window_water_mold(i):string%20%3F;window_status(i):string%20%3F;window_type(i):window_type_enum%20%3F;window_vert_pos(i):window_vert_pos_enum%20%3F]uses%20-.->[MIMAG],[BuiltEnvironment]^-[BuiltEnvironmentMIMAG],[BuiltEnvironment],[MIMAG])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[BuiltEnvironmentMIMAG&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum;compl_software:string;compl_appr:compl_appr_enum%20%3F;contam_score:string;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;bin_param:bin_param_enum;bin_software:bin_software_enum;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):date%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;surf_material(i):surf_material_enum%20%3F;surf_air_cont(i):surf_air_cont_enum%20%3F;surf_moisture_ph(i):double%20%3F;build_occup_type(i):build_occup_type_enum%20%3F;ventilation_type(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;indoor_space(i):indoor_space_enum%20%3F;indoor_surf(i):indoor_surf_enum%20%3F;filter_type(i):filter_type_enum%20%3F;heat_cool_type(i):heat_cool_type_enum%20%3F;substructure_type(i):substructure_type_enum%20%3F;building_setting(i):building_setting_enum%20%3F;light_type(i):light_type_enum%20%3F;samp_sort_meth(i):string%20%3F;space_typ_state(i):string%20%3F;typ_occup_density(i):double%20%3F;occup_samp(i):string%20%3F;occup_density_samp(i):double%20%3F;address(i):string%20%3F;adj_room(i):string%20%3F;aero_struc(i):string%20%3F;arch_struc(i):arch_struc_enum%20%3F;avg_occup(i):double%20%3F;bathroom_count(i):string%20%3F;bedroom_count(i):string%20%3F;built_struc_set(i):string%20%3F;built_struc_type(i):string%20%3F;ceil_cond(i):ceil_cond_enum%20%3F;ceil_finish_mat(i):ceil_finish_mat_enum%20%3F;ceil_water_mold(i):string%20%3F;ceil_struc(i):string%20%3F;ceil_texture(i):ceil_texture_enum%20%3F;ceil_type(i):ceil_type_enum%20%3F;cool_syst_id(i):string%20%3F;date_last_rain(i):date%20%3F;build_docs(i):build_docs_enum%20%3F;door_cond(i):door_cond_enum%20%3F;door_direct(i):door_direct_enum%20%3F;door_loc(i):door_loc_enum%20%3F;door_mat(i):door_mat_enum%20%3F;door_move(i):door_move_enum%20%3F;door_water_mold(i):string%20%3F;door_type(i):door_type_enum%20%3F;door_comp_type(i):door_comp_type_enum%20%3F;door_type_metal(i):door_type_metal_enum%20%3F;door_type_wood(i):door_type_wood_enum%20%3F;drawings(i):drawings_enum%20%3F;elevator(i):string%20%3F;escalator(i):string%20%3F;exp_pipe(i):string%20%3F;ext_door(i):string%20%3F;fireplace_type(i):string%20%3F;floor_cond(i):floor_cond_enum%20%3F;floor_count(i):string%20%3F;floor_finish_mat(i):floor_finish_mat_enum%20%3F;floor_water_mold(i):floor_water_mold_enum%20%3F;floor_struc(i):floor_struc_enum%20%3F;freq_clean(i):string%20%3F;freq_cook(i):string%20%3F;furniture(i):furniture_enum%20%3F;gender_restroom(i):string%20%3F;hall_count(i):string%20%3F;handidness(i):handidness_enum%20%3F;heat_deliv_loc(i):heat_deliv_loc_enum%20%3F;heat_system_deliv_meth(i):string%20%3F;heat_system_id(i):string%20%3F;int_wall_cond(i):int_wall_cond_enum%20%3F;last_clean(i):date%20%3F;max_occup(i):string%20%3F;mech_struc(i):mech_struc_enum%20%3F;number_plants(i):string%20%3F;number_pets(i):string%20%3F;number_resident(i):string%20%3F;occup_document(i):occup_document_enum%20%3F;ext_wall_orient(i):ext_wall_orient_enum%20%3F;ext_window_orient(i):ext_window_orient_enum%20%3F;pres_animal(i):pres_animal_enum%20%3F;quad_pos(i):quad_pos_enum%20%3F;rel_samp_loc(i):rel_samp_loc_enum%20%3F;room_architec_element(i):string%20%3F;room_condt(i):room_condt_enum%20%3F;room_count(i):string%20%3F;room_dim(i):string%20%3F;room_door_dist(i):string%20%3F;room_loc(i):room_loc_enum%20%3F;room_moist_damage_hist(i):string%20%3F;room_net_area(i):string%20%3F;room_occup(i):string%20%3F;room_samp_pos(i):room_samp_pos_enum%20%3F;room_type(i):room_type_enum%20%3F;room_vol(i):string%20%3F;room_window_count(i):string%20%3F;room_connected(i):room_connected_enum%20%3F;room_hallway(i):string%20%3F;room_door_share(i):string%20%3F;room_wall_share(i):string%20%3F;samp_weather(i):samp_weather_enum%20%3F;samp_floor(i):samp_floor_enum%20%3F;samp_room_id(i):string%20%3F;samp_time_out(i):double%20%3F;season(i):string%20%3F;season_use(i):season_use_enum%20%3F;shading_device_cond(i):shading_device_cond_enum%20%3F;shading_device_loc(i):string%20%3F;shading_device_mat(i):string%20%3F;shading_device_water_mold(i):string%20%3F;shading_device_type(i):shading_device_type_enum%20%3F;specific(i):specific_enum%20%3F;train_line(i):train_line_enum%20%3F;train_stat_loc(i):train_stat_loc_enum%20%3F;train_stop_loc(i):train_stop_loc_enum%20%3F;vis_media(i):vis_media_enum%20%3F;wall_const_type(i):wall_const_type_enum%20%3F;wall_finish_mat(i):wall_finish_mat_enum%20%3F;wall_loc(i):wall_loc_enum%20%3F;wall_water_mold(i):string%20%3F;wall_surf_treatment(i):wall_surf_treatment_enum%20%3F;wall_texture(i):wall_texture_enum%20%3F;water_feat_type(i):water_feat_type_enum%20%3F;weekday(i):weekday_enum%20%3F;window_size(i):string%20%3F;window_cond(i):window_cond_enum%20%3F;window_cover(i):window_cover_enum%20%3F;window_horiz_pos(i):window_horiz_pos_enum%20%3F;window_loc(i):window_loc_enum%20%3F;window_mat(i):window_mat_enum%20%3F;window_open_freq(i):string%20%3F;window_water_mold(i):string%20%3F;window_status(i):string%20%3F;window_type(i):window_type_enum%20%3F;window_vert_pos(i):window_vert_pos_enum%20%3F]uses%20-.->[MIMAG],[BuiltEnvironment]^-[BuiltEnvironmentMIMAG],[BuiltEnvironment],[MIMAG])
 
 ## Parents
 
@@ -43,7 +43,7 @@ URI: [mixs.vocab:BuiltEnvironmentMIMAG](https://w3id.org/mixs/vocab/BuiltEnviron
      * range: [QuantityValue](QuantityValue.md)
      * Example: 20 degree Celsius None
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [amount_light](amount_light.md)  <sub>OPT</sub>
@@ -136,7 +136,7 @@ URI: [mixs.vocab:BuiltEnvironmentMIMAG](https://w3id.org/mixs/vocab/BuiltEnviron
      * Example: presence of mold visible None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [cool_syst_id](cool_syst_id.md)  <sub>OPT</sub>
      * Description: The cooling system identifier
@@ -144,10 +144,10 @@ URI: [mixs.vocab:BuiltEnvironmentMIMAG](https://w3id.org/mixs/vocab/BuiltEnviron
      * Example: 12345 None
  * [date_last_rain](date_last_rain.md)  <sub>OPT</sub>
      * Description: The date of the last time it rained
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11:T14:30Z None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [dew_point](dew_point.md)  <sub>OPT</sub>
@@ -352,7 +352,7 @@ URI: [mixs.vocab:BuiltEnvironmentMIMAG](https://w3id.org/mixs/vocab/BuiltEnviron
      * Example: damaged None
  * [last_clean](last_clean.md)  <sub>OPT</sub>
      * Description: The last time the floor was cleaned (swept, mopped, vacuumed)
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11:T14:30Z None
  * [lat_lon](lat_lon.md)  <sub>OPT</sub>
      * Description: The geographical origin of the sample as defined by latitude and longitude. The values should be reported in decimal degrees and in WGS84 system
@@ -866,11 +866,6 @@ URI: [mixs.vocab:BuiltEnvironmentMIMAG](https://w3id.org/mixs/vocab/BuiltEnviron
 
 ### Mixed in from MIMAG:
 
- * [MIMAG➞samp_collect_device](MIMAG_samp_collect_device.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
-
-### Mixed in from MIMAG:
-
  * [MIMAG➞samp_mat_process](MIMAG_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
@@ -881,7 +876,17 @@ URI: [mixs.vocab:BuiltEnvironmentMIMAG](https://w3id.org/mixs/vocab/BuiltEnviron
 
 ### Mixed in from MIMAG:
 
- * [MIMAG➞sample_name](MIMAG_sample_name.md)  <sub>OPT</sub>
+ * [MIMAG➞sample_collect_device](MIMAG_sample_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MIMAG:
+
+ * [MIMAG➞sample_collect_method](MIMAG_sample_collect_method.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MIMAG:
+
+ * [MIMAG➞sample_name](MIMAG_sample_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
 ### Mixed in from MIMAG:
@@ -942,9 +947,4 @@ URI: [mixs.vocab:BuiltEnvironmentMIMAG](https://w3id.org/mixs/vocab/BuiltEnviron
 ### Mixed in from MIMAG:
 
  * [MIMAG➞x_16s_recover](MIMAG_x_16s_recover.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
-
-### Mixed in from MIMAG:
-
- * [MIMAG➞x_16s_recover_software](MIMAG_x_16s_recover_software.md)  <sub>OPT</sub>
      * range: [String](types/String.md)

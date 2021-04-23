@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | filter type |
 | **Mappings:** | | MIXS:0000765 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 17 |
+|  | | Position: 17.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='HEPA', description=None) |
 

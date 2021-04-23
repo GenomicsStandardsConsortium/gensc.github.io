@@ -222,7 +222,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: millliter, gram, milligram, square centimeter |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 16 packages: air, host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs, microbial mat_biofilm, miscellaneous natural or artificial environment, plant-associated, sediment, soil, wastewater_sludge, water |
 | **Examples:** | | Example(value='1500 milliliter', description=None) |
 

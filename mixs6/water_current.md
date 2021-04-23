@@ -54,7 +54,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: cubic meter per second, knots |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 2 packages: miscellaneous natural or artificial environment, water |
 | **Examples:** | | Example(value='10 cubic meter per second', description=None) |
 

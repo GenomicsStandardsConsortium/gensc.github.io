@@ -31,7 +31,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | health or disease status of specific host at time of collection |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 25.0 |
 | **Examples:** | | Example(value='dead', description=None) |
 

@@ -36,7 +36,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | completeness software |
 | **Comments:** | | Expected value: names and versions of software(s) used |
-|  | | Preferred unit:  |
 |  | | Position: 68.0 |
 | **Examples:** | | Example(value='checkm', description=None) |
 

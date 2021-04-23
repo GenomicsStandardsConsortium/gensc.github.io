@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | ceiling finish material |
 | **Mappings:** | | MIXS:0000780 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 42 |
+|  | | Position: 42.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='stucco', description=None) |
 

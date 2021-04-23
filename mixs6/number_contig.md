@@ -37,7 +37,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | number of contigs |
 | **Comments:** | | Expected value: value |
-|  | | Preferred unit:  |
 |  | | Position: 58.0 |
 | **Examples:** | | Example(value='40', description=None) |
 

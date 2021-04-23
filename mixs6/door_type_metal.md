@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | door type, metal |
 | **Mappings:** | | MIXS:0000796 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 60 |
+|  | | Position: 60.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='hollow', description=None) |
 

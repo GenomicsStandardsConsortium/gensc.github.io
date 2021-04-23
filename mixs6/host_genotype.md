@@ -112,9 +112,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host genotype |
 | **Mappings:** | | MIXS:0000365 |
 | **Comments:** | | Expected value: genotype |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 27 |
+|  | | Position: 27.0 |
 |  | | This field is used in: 7 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, plant-associated |
 | **Examples:** | | Example(value='C57BL/6', description=None) |
 

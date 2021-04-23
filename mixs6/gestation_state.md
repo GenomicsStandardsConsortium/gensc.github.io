@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | amniotic fluid/gestation state |
 | **Mappings:** | | MIXS:0000272 |
 | **Comments:** | | Expected value: gestation state |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 36 |
+|  | | Position: 36.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='', description=None) |
 

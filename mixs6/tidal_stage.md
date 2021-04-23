@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | tidal stage |
 | **Mappings:** | | MIXS:0000750 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 2 packages: sediment, water |
 | **Examples:** | | Example(value='high tide', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | extreme_unusual_properties/Al saturation method |
 | **Mappings:** | | MIXS:0000324 |
 | **Comments:** | | Expected value: PMID,DOI or URL |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 51 |
+|  | | Position: 51.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

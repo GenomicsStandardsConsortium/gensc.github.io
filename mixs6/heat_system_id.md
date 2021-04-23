@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | heating system identifier |
 | **Mappings:** | | MIXS:0000833 |
 | **Comments:** | | Expected value: unique identifier |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 85 |
+|  | | Position: 85.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='', description=None) |
 

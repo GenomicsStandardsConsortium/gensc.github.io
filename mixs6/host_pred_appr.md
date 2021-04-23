@@ -29,7 +29,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | host prediction approach |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 90.0 |
 | **Examples:** | | Example(value='CRISPR spacer match', description=None) |
 

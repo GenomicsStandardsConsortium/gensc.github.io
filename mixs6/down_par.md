@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: microEinstein per square meter per second, microEinstein per square centimeter per second |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: water |
 | **Examples:** | | Example(value='28.71 microEinstein per square meter per second', description=None) |
 

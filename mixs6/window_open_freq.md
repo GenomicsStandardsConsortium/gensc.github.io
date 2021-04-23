@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | window open frequency |
 | **Mappings:** | | MIXS:0000246 |
 | **Comments:** | | Expected value: value |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 156 |
+|  | | Position: 156.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='', description=None) |
 

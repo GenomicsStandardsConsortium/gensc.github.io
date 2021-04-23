@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIMARKS_survey_sample_name](https://w3id.org/mixs/vocab/MIMARKS
 
 ## Domain and Range
 
-[MIMARKSSurvey](MIMARKSSurvey.md) ->  <sub>OPT</sub> [String](types/String.md)
+[MIMARKSSurvey](MIMARKSSurvey.md) ->  <sub>REQ</sub> [String](types/String.md)
 
 ## Parents
 

@@ -9,7 +9,7 @@ URI: [mixs.vocab:samp_dis_stage](https://w3id.org/mixs/vocab/samp_dis_stage)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> 
 
 ## Parents
 
@@ -51,10 +51,9 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | sample disease stage |
 | **Mappings:** | | MIXS:0000249 |
-| **Comments:** | | Expected value: free text |
-|  | | Preferred unit:  |
+| **Comments:** | | Expected value: enumeration |
 |  | | Occurrence: 1 |
-|  | | Position: 6 |
+|  | | Position: 6.0 |
 |  | | This field is used in: 2 packages: host-associated, plant-associated |
 | **Examples:** | | Example(value='infection', description=None) |
 

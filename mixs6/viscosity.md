@@ -54,7 +54,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: measurement value;measurement value |
 |  | | Preferred unit: cP at degree Celsius |
 |  | | Occurrence: 1 |
-|  | | Position: 87 |
+|  | | Position: 87.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='', description=None) |
 

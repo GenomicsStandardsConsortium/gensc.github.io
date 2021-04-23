@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | window status |
 | **Mappings:** | | MIXS:0000855 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 158 |
+|  | | Position: 158.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='open', description=None) |
 

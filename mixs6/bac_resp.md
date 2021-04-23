@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: milligram per cubic meter per day, micromole oxygen per liter per hour |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: water |
 | **Examples:** | | Example(value='300 micromole oxygen per liter per hour', description=None) |
 

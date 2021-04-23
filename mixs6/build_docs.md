@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | design, construction, and operation documents |
 | **Mappings:** | | MIXS:0000787 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 50 |
+|  | | Position: 50.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='maintenance plans', description=None) |
 

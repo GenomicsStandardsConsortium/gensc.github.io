@@ -37,7 +37,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | similarity search method |
 | **Comments:** | | Expected value: names and versions of software(s), parameters used |
-|  | | Preferred unit:  |
 |  | | Position: 61.0 |
 | **Examples:** | | Example(value='HMMER3;3.1b2;hmmsearch, cutoff of 50 on score', description=None) |
 

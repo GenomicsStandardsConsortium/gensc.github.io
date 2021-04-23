@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | quadrant position |
 | **Mappings:** | | MIXS:0000820 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 100 |
+|  | | Position: 100.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='West side', description=None) |
 

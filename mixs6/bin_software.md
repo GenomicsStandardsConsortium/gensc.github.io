@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | binning software |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 80.0 |
 | **Examples:** | | Example(value='concoct and maxbin', description=None) |
 

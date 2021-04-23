@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIGS_plant_sample_name](https://w3id.org/mixs/vocab/MIGS_plant_
 
 ## Domain and Range
 
-[MIGSPlant](MIGSPlant.md) ->  <sub>OPT</sub> [String](types/String.md)
+[MIGSPlant](MIGSPlant.md) ->  <sub>REQ</sub> [String](types/String.md)
 
 ## Parents
 

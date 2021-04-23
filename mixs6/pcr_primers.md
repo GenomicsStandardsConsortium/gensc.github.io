@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | pcr primers |
 | **Comments:** | | Expected value: FWD: forward primer sequence;REV:reverse primer sequence |
-|  | | Preferred unit:  |
 |  | | Position: 46.0 |
 | **Examples:** | | Example(value='FWD:GTGCCAGCMGCCGCGGTAA;REV:GGACTACHVGGGTWTCTAAT', description=None) |
 

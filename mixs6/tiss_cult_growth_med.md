@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | tissue culture growth media |
 | **Mappings:** | | MIXS:0001070 |
 | **Comments:** | | Expected value: PMID,DOI,url or free text |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='https://link.springer.com/content/pdf/10.1007/BF02796489.pdf', description=None) |
 

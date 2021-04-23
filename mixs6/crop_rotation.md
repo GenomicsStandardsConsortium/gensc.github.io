@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | history/crop rotation |
 | **Mappings:** | | MIXS:0000318 |
 | **Comments:** | | Expected value: crop rotation status;schedule |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 6 |
+|  | | Position: 6.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='yes;R2/2017-01-01/2018-12-31/P6M', description=None) |
 

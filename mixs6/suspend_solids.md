@@ -66,7 +66,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: suspended solid name;measurement value |
 |  | | Preferred unit: gram, microgram, milligram per liter, mole per liter, gram per liter, part per million |
 |  | | Occurrence: m |
-|  | | Position: 76 |
+|  | | Position: 76.0 |
 |  | | This field is used in: 3 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs, wastewater_sludge |
 | **Examples:** | | Example(value='', description=None) |
 

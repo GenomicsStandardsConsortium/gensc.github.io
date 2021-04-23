@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | study completion status |
 | **Mappings:** | | MIXS:0000898 |
 | **Comments:** | | Expected value: YES or NO due to (1)adverse event (2) non-compliance (3) lost to follow up (4)other-specify |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 29 |
+|  | | Position: 29.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='no;non-compliance', description=None) |
 

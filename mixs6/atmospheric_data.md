@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | atmospheric data |
 | **Mappings:** | | MIXS:0001097 |
 | **Comments:** | | Expected value: atmospheric data name;measurement value |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: water |
 | **Examples:** | | Example(value='wind speed;9 knots', description=None) |
 

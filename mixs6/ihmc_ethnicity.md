@@ -88,9 +88,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | IHMC ethnicity |
 | **Mappings:** | | MIXS:0000895 |
 | **Comments:** | | Expected value: IHMC code or free text |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 23 |
+|  | | Position: 23.0 |
 |  | | This field is used in: 5 packages: human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='caucasian', description=None) |
 

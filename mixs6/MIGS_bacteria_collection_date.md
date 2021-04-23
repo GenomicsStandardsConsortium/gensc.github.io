@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIGS_bacteria_collection_date](https://w3id.org/mixs/vocab/MIGS
 
 ## Domain and Range
 
-[MIGSBacteria](MIGSBacteria.md) ->  <sub>REQ</sub> [String](types/String.md)
+[MIGSBacteria](MIGSBacteria.md) ->  <sub>REQ</sub> [Date](types/Date.md)
 
 ## Parents
 

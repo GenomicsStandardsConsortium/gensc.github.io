@@ -9,7 +9,7 @@ URI: [mixs.vocab:iw_bt_date_well](https://w3id.org/mixs/vocab/iw_bt_date_well)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [Date](types/Date.md)
 
 ## Parents
 
@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | injection water breakthrough date of specific well |
 | **Mappings:** | | MIXS:0001010 |
 | **Comments:** | | Expected value: timestamp |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 29 |
+|  | | Position: 29.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='2018-05-11', description=None) |
 

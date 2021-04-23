@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | single cell or viral particle lysis approach |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 75.0 |
 | **Examples:** | | Example(value='enzymatic', description=None) |
 

@@ -9,7 +9,7 @@ URI: [mixs.vocab:ME_collection_date](https://w3id.org/mixs/vocab/ME_collection_d
 
 ## Domain and Range
 
-[ME](ME.md) ->  <sub>REQ</sub> [String](types/String.md)
+[ME](ME.md) ->  <sub>REQ</sub> [Date](types/Date.md)
 
 ## Parents
 

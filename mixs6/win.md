@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | well identification number |
 | **Mappings:** | | MIXS:0000297 |
 | **Comments:** | | Expected value: text |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 36 |
+|  | | Position: 36.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='', description=None) |
 

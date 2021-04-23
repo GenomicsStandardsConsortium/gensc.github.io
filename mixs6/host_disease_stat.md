@@ -112,9 +112,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host disease status |
 | **Mappings:** | | MIXS:0000031 |
 | **Comments:** | | Expected value: disease name or DO |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 12 |
+|  | | Position: 12.0 |
 |  | | This field is used in: 7 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, plant-associated |
 | **Examples:** | | Example(value='rabies [DOID:11260]', description=None) |
 

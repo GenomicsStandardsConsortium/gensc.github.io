@@ -100,9 +100,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host subject id |
 | **Mappings:** | | MIXS:0000861 |
 | **Comments:** | | Expected value: unique identifier |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 8 |
+|  | | Position: 8.0 |
 |  | | This field is used in: 6 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='MPI123', description=None) |
 

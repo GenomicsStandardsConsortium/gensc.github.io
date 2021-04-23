@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | urogenital disorder |
 | **Mappings:** | | MIXS:0000289 |
 | **Comments:** | | Expected value: disorder name |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 10 |
+|  | | Position: 10.0 |
 |  | | This field is used uniquely in: human-vaginal |
 | **Examples:** | | Example(value='', description=None) |
 

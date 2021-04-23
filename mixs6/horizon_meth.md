@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | horizon method |
 | **Mappings:** | | MIXS:0000321 |
 | **Comments:** | | Expected value: PMID,DOI or url |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 13 |
+|  | | Position: 13.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

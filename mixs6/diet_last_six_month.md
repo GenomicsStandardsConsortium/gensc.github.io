@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | major diet change in last six months |
 | **Mappings:** | | MIXS:0000266 |
 | **Comments:** | | Expected value: diet change;current diet |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 21 |
+|  | | Position: 21.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='yes;vegetarian diet', description=None) |
 

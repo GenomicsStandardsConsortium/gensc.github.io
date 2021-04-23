@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: millimeter |
 |  | | Occurrence: 1 |
-|  | | Position: 24 |
+|  | | Position: 24.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

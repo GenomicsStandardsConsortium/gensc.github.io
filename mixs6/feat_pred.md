@@ -37,7 +37,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | feature prediction |
 | **Comments:** | | Expected value: names and versions of software(s), parameters used |
-|  | | Preferred unit:  |
 |  | | Position: 59.0 |
 | **Examples:** | | Example(value='Prodigal;2.6.3;default parameters', description=None) |
 

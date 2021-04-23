@@ -124,9 +124,8 @@ None ->  <sub>OPT</sub> [Double](types/Double.md)
 | **Aliases:** | | pH |
 | **Mappings:** | | MIXS:0001001 |
 | **Comments:** | | Expected value: measurement value |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 54 |
+|  | | Position: 54.0 |
 |  | | This field is used in: 8 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs, microbial mat_biofilm, miscellaneous natural or artificial environment, sediment, soil, wastewater_sludge, water |
 | **Examples:** | | Example(value='7.2', description=None) |
 

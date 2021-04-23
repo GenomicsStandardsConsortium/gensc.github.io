@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | climate environment |
 | **Mappings:** | | MIXS:0001040 |
 | **Comments:** | | Expected value: climate name;treatment interval and duration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='tropical climate;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M', description=None) |
 

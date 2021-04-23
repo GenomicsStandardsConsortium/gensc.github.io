@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | contamination score |
 | **Comments:** | | Expected value: value |
-|  | | Preferred unit:  |
 |  | | Position: 70.0 |
 | **Examples:** | | Example(value='1%', description=None) |
 

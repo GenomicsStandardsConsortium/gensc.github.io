@@ -7,7 +7,7 @@ Minimal Information about a Marker Specimen: survey
 URI: [mixs.vocab:MIMARKSSurvey](https://w3id.org/mixs/vocab/MIMARKSSurvey)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[QuantityValue]<samp_size%200..1-++[MIMARKSSurvey&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;lat_lon:string;geo_loc_name:string;collection_date:string;env_broad_scale:string;env_local_scale:string;env_medium:string;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;extrachrom_elements:string%20%3F;source_mat_id:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;trophic_level:trophic_level_enum%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;isol_growth_condt:string;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;target_gene:string;target_subfragment:string%20%3F;pcr_primers:string%20%3F;pcr_cond:string%20%3F;seq_meth:seq_meth_enum;seq_quality_check:string%20%3F;chimera_check:string%20%3F;url:string%20%3F;sop:string%20%3F],[WaterMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[WastewaterSludgeMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[SoilMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[SedimentMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Plant-associatedMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[MiscellaneousNaturalOrArtificialEnvironmentMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[MicrobialMatBiofilmMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[HydrocarbonResources-fluidsSwabsMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[HydrocarbonResources-coresMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Human-vaginalMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Human-skinMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Human-oralMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Human-gutMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Human-associatedMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Host-associatedMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[BuiltEnvironmentMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[AirMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[WaterMIMARKSSurvey],[WastewaterSludgeMIMARKSSurvey],[SoilMIMARKSSurvey],[SedimentMIMARKSSurvey],[Plant-associatedMIMARKSSurvey],[MiscellaneousNaturalOrArtificialEnvironmentMIMARKSSurvey],[MicrobialMatBiofilmMIMARKSSurvey],[HydrocarbonResources-fluidsSwabsMIMARKSSurvey],[HydrocarbonResources-coresMIMARKSSurvey],[Human-vaginalMIMARKSSurvey],[Human-skinMIMARKSSurvey],[Human-oralMIMARKSSurvey],[Human-gutMIMARKSSurvey],[Human-associatedMIMARKSSurvey],[Host-associatedMIMARKSSurvey],[BuiltEnvironmentMIMARKSSurvey],[AirMIMARKSSurvey])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[QuantityValue]<samp_size%200..1-++[MIMARKSSurvey&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string;project_name:string;experimental_factor:string%20%3F;lat_lon:string;geo_loc_name:string;collection_date:date;env_broad_scale:string;env_local_scale:string;env_medium:string;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;extrachrom_elements:string%20%3F;source_mat_id:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;trophic_level:trophic_level_enum%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;isol_growth_condt:string;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;target_gene:string;target_subfragment:string%20%3F;pcr_primers:string%20%3F;pcr_cond:string%20%3F;seq_meth:seq_meth_enum;seq_quality_check:string%20%3F;chimera_check:string%20%3F;url:string%20%3F;sop:string%20%3F],[WaterMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[WastewaterSludgeMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[SoilMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[SedimentMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Plant-associatedMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[MiscellaneousNaturalOrArtificialEnvironmentMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[MicrobialMatBiofilmMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[HydrocarbonResources-fluidsSwabsMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[HydrocarbonResources-coresMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Human-vaginalMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Human-skinMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Human-oralMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Human-gutMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Human-associatedMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[Host-associatedMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[BuiltEnvironmentMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[AirMIMARKSSurvey]uses%20-.->[MIMARKSSurvey],[WaterMIMARKSSurvey],[WastewaterSludgeMIMARKSSurvey],[SoilMIMARKSSurvey],[SedimentMIMARKSSurvey],[Plant-associatedMIMARKSSurvey],[MiscellaneousNaturalOrArtificialEnvironmentMIMARKSSurvey],[MicrobialMatBiofilmMIMARKSSurvey],[HydrocarbonResources-fluidsSwabsMIMARKSSurvey],[HydrocarbonResources-coresMIMARKSSurvey],[Human-vaginalMIMARKSSurvey],[Human-skinMIMARKSSurvey],[Human-oralMIMARKSSurvey],[Human-gutMIMARKSSurvey],[Human-associatedMIMARKSSurvey],[Host-associatedMIMARKSSurvey],[BuiltEnvironmentMIMARKSSurvey],[AirMIMARKSSurvey])
 
 ## Mixin for
 
@@ -42,7 +42,7 @@ URI: [mixs.vocab:MIMARKSSurvey](https://w3id.org/mixs/vocab/MIMARKSSurvey)
  * [MIMARKS survey➞chimera_check](MIMARKS_survey_chimera_check.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
  * [MIMARKS survey➞collection_date](MIMARKS_survey_collection_date.md)  <sub>REQ</sub>
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
  * [MIMARKS survey➞env_broad_scale](MIMARKS_survey_env_broad_scale.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
  * [MIMARKS survey➞env_local_scale](MIMARKS_survey_env_local_scale.md)  <sub>REQ</sub>
@@ -75,13 +75,15 @@ URI: [mixs.vocab:MIMARKSSurvey](https://w3id.org/mixs/vocab/MIMARKSSurvey)
      * range: [String](types/String.md)
  * [MIMARKS survey➞rel_to_oxygen](MIMARKS_survey_rel_to_oxygen.md)  <sub>OPT</sub>
      * range: 
- * [MIMARKS survey➞samp_collect_device](MIMARKS_survey_samp_collect_device.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
  * [MIMARKS survey➞samp_mat_process](MIMARKS_survey_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
  * [MIMARKS survey➞samp_size](MIMARKS_survey_samp_size.md)  <sub>OPT</sub>
      * range: [QuantityValue](QuantityValue.md)
- * [MIMARKS survey➞sample_name](MIMARKS_survey_sample_name.md)  <sub>OPT</sub>
+ * [MIMARKS survey➞sample_collect_device](MIMARKS_survey_sample_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+ * [MIMARKS survey➞sample_collect_method](MIMARKS_survey_sample_collect_method.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+ * [MIMARKS survey➞sample_name](MIMARKS_survey_sample_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
  * [MIMARKS survey➞seq_meth](MIMARKS_survey_seq_meth.md)  <sub>REQ</sub>
      * range: 

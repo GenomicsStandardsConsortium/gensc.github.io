@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | links to additional analysis |
 | **Mappings:** | | MIXS:0000340 |
 | **Comments:** | | Expected value: PMID,DOI or url |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 45 |
+|  | | Position: 45.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

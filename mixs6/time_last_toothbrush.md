@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | time since last toothbrushing |
 | **Mappings:** | | MIXS:0000924 |
 | **Comments:** | | Expected value: duration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 2 |
+|  | | Position: 2.0 |
 |  | | This field is used uniquely in: human-oral |
 | **Examples:** | | Example(value='P2H45M', description=None) |
 

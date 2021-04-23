@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host infra-specific rank |
 | **Mappings:** | | MIXS:0000254 |
 | **Comments:** | | Expected value: rank |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 26 |
+|  | | Position: 26.0 |
 |  | | This field is used in: 2 packages: host-associated, plant-associated |
 | **Examples:** | | Example(value='subspecies', description=None) |
 

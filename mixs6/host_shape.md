@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host shape |
 | **Mappings:** | | MIXS:0000261 |
 | **Comments:** | | Expected value: shape |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 34 |
+|  | | Position: 34.0 |
 |  | | This field is used uniquely in: host-associated |
 | **Examples:** | | Example(value='round', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | wall texture |
 | **Mappings:** | | MIXS:0000846 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 145 |
+|  | | Position: 145.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='popcorn', description=None) |
 

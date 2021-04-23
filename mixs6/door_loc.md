@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | door location |
 | **Mappings:** | | MIXS:0000790 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 54 |
+|  | | Position: 54.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='north', description=None) |
 

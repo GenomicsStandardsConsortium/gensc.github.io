@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | building setting |
 | **Mappings:** | | MIXS:0000768 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 20 |
+|  | | Position: 20.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='rural', description=None) |
 

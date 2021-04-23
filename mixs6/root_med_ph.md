@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [Double](types/Double.md)
 | **Aliases:** | | rooting medium pH |
 | **Mappings:** | | MIXS:0001062 |
 | **Comments:** | | Expected value: measurement value |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='7.5', description=None) |
 

@@ -38,8 +38,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 |  |  |  |
 | --- | --- | --- |
 | **Aliases:** | | project name |
-| **Comments:** | | Expected value:  |
-|  | | Preferred unit:  |
-|  | | Position: 3.0 |
+| **Comments:** | | Position: 3.0 |
+|  | | This field is used in all packages |
 | **Examples:** | | Example(value='Forest soil metagenome', description=None) |
 

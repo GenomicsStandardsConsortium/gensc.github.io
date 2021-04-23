@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | texture method |
 | **Mappings:** | | MIXS:0000336 |
 | **Comments:** | | Expected value: PMID,DOI or url |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 36 |
+|  | | Position: 36.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

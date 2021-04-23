@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: degree Celsius |
 |  | | Occurrence: 1 |
-|  | | Position: 22 |
+|  | | Position: 22.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='18 degree Celsius', description=None) |
 

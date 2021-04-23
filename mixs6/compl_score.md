@@ -36,7 +36,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | completeness score |
 | **Comments:** | | Expected value: quality;percent completeness |
-|  | | Preferred unit:  |
 |  | | Position: 67.0 |
 | **Examples:** | | Example(value='med;60%', description=None) |
 

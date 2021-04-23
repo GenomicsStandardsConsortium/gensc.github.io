@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | ceiling type |
 | **Mappings:** | | MIXS:0000784 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 47 |
+|  | | Position: 47.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='coffered', description=None) |
 

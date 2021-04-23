@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIUVIG_sample_name](https://w3id.org/mixs/vocab/MIUVIG_sample_n
 
 ## Domain and Range
 
-[MIUVIG](MIUVIG.md) ->  <sub>OPT</sub> [String](types/String.md)
+[MIUVIG](MIUVIG.md) ->  <sub>REQ</sub> [String](types/String.md)
 
 ## Parents
 

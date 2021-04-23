@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | blood/blood disorder |
 | **Mappings:** | | MIXS:0000271 |
 | **Comments:** | | Expected value: disorder name |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 32 |
+|  | | Position: 32.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='', description=None) |
 

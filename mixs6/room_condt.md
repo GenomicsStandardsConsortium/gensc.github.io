@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | room condition |
 | **Mappings:** | | MIXS:0000822 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 104 |
+|  | | Position: 104.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='new', description=None) |
 

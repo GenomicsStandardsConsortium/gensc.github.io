@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | window location |
 | **Mappings:** | | MIXS:0000852 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 154 |
+|  | | Position: 154.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='west', description=None) |
 

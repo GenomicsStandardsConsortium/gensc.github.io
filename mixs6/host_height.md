@@ -114,7 +114,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: centimeter, millimeter, meter |
 |  | | Occurrence: 1 |
-|  | | Position: 18 |
+|  | | Position: 18.0 |
 |  | | This field is used in: 7 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, plant-associated |
 | **Examples:** | | Example(value='0.1 meter', description=None) |
 

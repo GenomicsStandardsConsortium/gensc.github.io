@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | substructure type |
 | **Mappings:** | | MIXS:0000767 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 19 |
+|  | | Position: 19.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='basement', description=None) |
 

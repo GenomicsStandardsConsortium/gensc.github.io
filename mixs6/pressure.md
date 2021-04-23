@@ -102,7 +102,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: atmosphere |
 |  | | Occurrence: 1 |
-|  | | Position: 41 |
+|  | | Position: 41.0 |
 |  | | This field is used in: 6 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs, microbial mat_biofilm, miscellaneous natural or artificial environment, sediment, water |
 | **Examples:** | | Example(value='50 atmosphere', description=None) |
 

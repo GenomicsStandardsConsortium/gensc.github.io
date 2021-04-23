@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | door direction of opening |
 | **Mappings:** | | MIXS:0000789 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 53 |
+|  | | Position: 53.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='inward', description=None) |
 

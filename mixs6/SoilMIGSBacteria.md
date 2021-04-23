@@ -7,7 +7,7 @@ Combinatorial checklist Minimal Information about a Genome Sequence: cultured ba
 URI: [mixs.vocab:SoilMIGSBacteria](https://w3id.org/mixs/vocab/SoilMIGSBacteria)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[SoilMIGSBacteria&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;num_replicons:string;extrachrom_elements:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;health_disease_stat:health_disease_stat_enum%20%3F;trophic_level:trophic_level_enum%20%3F;encoded_traits:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;isol_growth_condt:string;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;cur_land_use(i):cur_land_use_enum%20%3F;cur_vegetation(i):string%20%3F;cur_vegetation_meth(i):string%20%3F;previous_land_use(i):string%20%3F;previous_land_use_meth(i):string%20%3F;crop_rotation(i):string%20%3F;agrochem_addition(i):string%20%3F;tillage(i):tillage_enum%20%3F;fire(i):string%20%3F;flooding(i):string%20%3F;extreme_event(i):string%20%3F;horizon(i):horizon_enum%20%3F;horizon_meth(i):string%20%3F;sieving(i):string%20%3F;water_content_soil_meth(i):string%20%3F;pool_dna_extracts(i):string%20%3F;store_cond(i):string%20%3F;link_climate_info(i):string%20%3F;link_class_info(i):string%20%3F;fao_class(i):fao_class_enum%20%3F;local_class(i):string%20%3F;local_class_meth(i):string%20%3F;soil_type(i):string%20%3F;soil_type_meth(i):string%20%3F;profile_position(i):profile_position_enum%20%3F;drainage_class(i):drainage_class_enum%20%3F;texture_meth(i):string%20%3F;ph(i):double%20%3F;ph_meth(i):string%20%3F;tot_org_c_meth(i):string%20%3F;tot_nitro_content_meth(i):string%20%3F;microbial_biomass_meth(i):string%20%3F;link_addit_analys(i):string%20%3F;salinity_meth(i):string%20%3F;heavy_metals(i):string%20%3F;heavy_metals_meth(i):string%20%3F;al_sat_meth(i):string%20%3F;misc_param(i):string%20%3F]uses%20-.->[MIGSBacteria],[Soil]^-[SoilMIGSBacteria],[Soil],[QuantityValue],[MIGSBacteria])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[SoilMIGSBacteria&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;num_replicons:string;extrachrom_elements:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;health_disease_stat:health_disease_stat_enum%20%3F;trophic_level:trophic_level_enum%20%3F;encoded_traits:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;isol_growth_condt:string;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):date%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;cur_land_use(i):cur_land_use_enum%20%3F;cur_vegetation(i):string%20%3F;cur_vegetation_meth(i):string%20%3F;previous_land_use(i):string%20%3F;previous_land_use_meth(i):string%20%3F;crop_rotation(i):string%20%3F;agrochem_addition(i):string%20%3F;tillage(i):tillage_enum%20%3F;fire(i):date%20%3F;flooding(i):date%20%3F;extreme_event(i):date%20%3F;horizon(i):horizon_enum%20%3F;horizon_meth(i):string%20%3F;sieving(i):string%20%3F;water_content_soil_meth(i):string%20%3F;pool_dna_extracts(i):string%20%3F;store_cond(i):string%20%3F;link_climate_info(i):string%20%3F;link_class_info(i):string%20%3F;fao_class(i):fao_class_enum%20%3F;local_class(i):string%20%3F;local_class_meth(i):string%20%3F;soil_type(i):string%20%3F;soil_type_meth(i):string%20%3F;profile_position(i):profile_position_enum%20%3F;drainage_class(i):drainage_class_enum%20%3F;texture_meth(i):string%20%3F;ph(i):double%20%3F;ph_meth(i):string%20%3F;tot_org_c_meth(i):string%20%3F;tot_nitro_content_meth(i):string%20%3F;microbial_biomass_meth(i):string%20%3F;link_addit_analys(i):string%20%3F;salinity_meth(i):string%20%3F;heavy_metals(i):string%20%3F;heavy_metals_meth(i):string%20%3F;al_sat_meth(i):string%20%3F;misc_param(i):string%20%3F]uses%20-.->[MIGSBacteria],[Soil]^-[SoilMIGSBacteria],[Soil],[QuantityValue],[MIGSBacteria])
 
 ## Parents
 
@@ -35,7 +35,7 @@ URI: [mixs.vocab:SoilMIGSBacteria](https://w3id.org/mixs/vocab/SoilMIGSBacteria)
      * range: [String](types/String.md)
      * Example:  None
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [annual_precpt](annual_precpt.md)  <sub>OPT</sub>
@@ -48,7 +48,7 @@ URI: [mixs.vocab:SoilMIGSBacteria](https://w3id.org/mixs/vocab/SoilMIGSBacteria)
      * Example: 12.5 degree Celsius None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [crop_rotation](crop_rotation.md)  <sub>OPT</sub>
      * Description: Whether or not crop is rotated, and if yes, rotation schedule
@@ -67,7 +67,7 @@ URI: [mixs.vocab:SoilMIGSBacteria](https://w3id.org/mixs/vocab/SoilMIGSBacteria)
      * range: [String](types/String.md)
      * Example:  None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [drainage_class](drainage_class.md)  <sub>OPT</sub>
@@ -92,7 +92,7 @@ URI: [mixs.vocab:SoilMIGSBacteria](https://w3id.org/mixs/vocab/SoilMIGSBacteria)
      * Example: soil [ENVO:00001998] None
  * [extreme_event](extreme_event.md)  <sub>OPT</sub>
      * Description: Unusual physical events that may have affected microbial populations
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example:  None
  * [extreme_salinity](extreme_salinity.md)  <sub>OPT</sub>
      * Description: Measured salinity
@@ -104,11 +104,11 @@ URI: [mixs.vocab:SoilMIGSBacteria](https://w3id.org/mixs/vocab/SoilMIGSBacteria)
      * Example: Luvisols None
  * [fire](fire.md)  <sub>OPT</sub>
      * Description: Historical and/or physical evidence of fire
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example:  None
  * [flooding](flooding.md)  <sub>OPT</sub>
      * Description: Historical and/or physical evidence of flooding
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example:  None
  * [geo_loc_name](geo_loc_name.md)  <sub>OPT</sub>
      * Description: The geographical origin of the sample as defined by the country or sea name followed by specific region name. Country or sea names should be chosen from the INSDC country list (http://insdc.org/country.html), or the GAZ ontology (v 1.512) (http://purl.bioontology.org/ontology/GAZ)
@@ -429,11 +429,6 @@ URI: [mixs.vocab:SoilMIGSBacteria](https://w3id.org/mixs/vocab/SoilMIGSBacteria)
 
 ### Mixed in from MIGS bacteria:
 
- * [MIGS bacteria➞samp_collect_device](MIGS_bacteria_samp_collect_device.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
-
-### Mixed in from MIGS bacteria:
-
  * [MIGS bacteria➞samp_mat_process](MIGS_bacteria_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
@@ -444,7 +439,17 @@ URI: [mixs.vocab:SoilMIGSBacteria](https://w3id.org/mixs/vocab/SoilMIGSBacteria)
 
 ### Mixed in from MIGS bacteria:
 
- * [MIGS bacteria➞sample_name](MIGS_bacteria_sample_name.md)  <sub>OPT</sub>
+ * [MIGS bacteria➞sample_collect_device](MIGS_bacteria_sample_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MIGS bacteria:
+
+ * [MIGS bacteria➞sample_collect_method](MIGS_bacteria_sample_collect_method.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MIGS bacteria:
+
+ * [MIGS bacteria➞sample_name](MIGS_bacteria_sample_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
 ### Mixed in from MIGS bacteria:

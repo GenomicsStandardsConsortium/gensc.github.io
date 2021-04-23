@@ -114,7 +114,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: value |
 |  | | Preferred unit: year, day, hour |
 |  | | Occurrence: 1 |
-|  | | Position: 9 |
+|  | | Position: 9.0 |
 |  | | This field is used in: 7 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, plant-associated |
 | **Examples:** | | Example(value='10 days', description=None) |
 

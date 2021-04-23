@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | chimera check |
 | **Comments:** | | Expected value: name and version of software, parameters used |
-|  | | Preferred unit:  |
 |  | | Position: 52.0 |
 | **Examples:** | | Example(value='uchime;v4.1;default parameters', description=None) |
 

@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: ton, kilogram, gram per kilogram soil |
 |  | | Occurrence: 1 |
-|  | | Position: 43 |
+|  | | Position: 43.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | seasonal use |
 | **Mappings:** | | MIXS:0000830 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 125 |
+|  | | Position: 125.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='Winter', description=None) |
 

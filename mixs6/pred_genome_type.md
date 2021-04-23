@@ -29,7 +29,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | predicted genome type |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 84.0 |
 | **Examples:** | | Example(value='dsDNA', description=None) |
 

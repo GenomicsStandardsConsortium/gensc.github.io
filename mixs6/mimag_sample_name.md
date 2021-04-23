@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIMAG_sample_name](https://w3id.org/mixs/vocab/MIMAG_sample_nam
 
 ## Domain and Range
 
-[MIMAG](MIMAG.md) ->  <sub>OPT</sub> [String](types/String.md)
+[MIMAG](MIMAG.md) ->  <sub>REQ</sub> [String](types/String.md)
 
 ## Parents
 

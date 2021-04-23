@@ -100,9 +100,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host diet |
 | **Mappings:** | | MIXS:0000869 |
 | **Comments:** | | Expected value: diet type |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 20 |
+|  | | Position: 20.0 |
 |  | | This field is used in: 6 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='herbivore', description=None) |
 

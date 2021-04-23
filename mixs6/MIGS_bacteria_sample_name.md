@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIGS_bacteria_sample_name](https://w3id.org/mixs/vocab/MIGS_bac
 
 ## Domain and Range
 
-[MIGSBacteria](MIGSBacteria.md) ->  <sub>OPT</sub> [String](types/String.md)
+[MIGSBacteria](MIGSBacteria.md) ->  <sub>REQ</sub> [String](types/String.md)
 
 ## Parents
 

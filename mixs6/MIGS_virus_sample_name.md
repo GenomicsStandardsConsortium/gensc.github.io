@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIGS_virus_sample_name](https://w3id.org/mixs/vocab/MIGS_virus_
 
 ## Domain and Range
 
-[MIGSVirus](MIGSVirus.md) ->  <sub>OPT</sub> [String](types/String.md)
+[MIGSVirus](MIGSVirus.md) ->  <sub>REQ</sub> [String](types/String.md)
 
 ## Parents
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | current vegetation method |
 | **Mappings:** | | MIXS:0000314 |
 | **Comments:** | | Expected value: PMID,DOI or url |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 3 |
+|  | | Position: 3.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

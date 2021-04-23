@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host substrate |
 | **Mappings:** | | MIXS:0000252 |
 | **Comments:** | | Expected value: substrate name |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 23 |
+|  | | Position: 23.0 |
 |  | | This field is used uniquely in: host-associated |
 | **Examples:** | | Example(value='rock', description=None) |
 

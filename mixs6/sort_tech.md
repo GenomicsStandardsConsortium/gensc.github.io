@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | sorting technology |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 74.0 |
 | **Examples:** | | Example(value='optical manipulation', description=None) |
 

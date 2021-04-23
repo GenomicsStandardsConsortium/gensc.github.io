@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | sampling day weather |
 | **Mappings:** | | MIXS:0000827 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 120 |
+|  | | Position: 120.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='foggy', description=None) |
 

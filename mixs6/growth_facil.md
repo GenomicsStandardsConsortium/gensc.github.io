@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | growth facility |
 | **Mappings:** | | MIXS:0001043 |
 | **Comments:** | | Expected value: free text or CO |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='Growth chamber [CO_715:0000189]', description=None) |
 

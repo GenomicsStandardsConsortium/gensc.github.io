@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | current land use |
 | **Mappings:** | | MIXS:0001080 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='conifers', description=None) |
 

@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | virus enrichment approach |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 36.0 |
 | **Examples:** | | Example(value='filtration + FeCl Precipitation + ultracentrifugation + DNAse', description=None) |
 

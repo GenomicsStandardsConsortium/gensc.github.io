@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | drainage classification |
 | **Mappings:** | | MIXS:0001085 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 34 |
+|  | | Position: 34.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='well', description=None) |
 

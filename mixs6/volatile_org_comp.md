@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: volatile organic compound name;measurement value |
 |  | | Preferred unit: microgram per cubic meter, parts per million, nanogram per liter |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: air |
 | **Examples:** | | Example(value='formaldehyde;500 nanogram per liter', description=None) |
 

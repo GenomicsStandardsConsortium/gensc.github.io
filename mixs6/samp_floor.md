@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | sampling floor |
 | **Mappings:** | | MIXS:0000828 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 121 |
+|  | | Position: 121.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='4th floor', description=None) |
 

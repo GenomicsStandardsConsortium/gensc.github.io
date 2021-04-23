@@ -33,7 +33,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | host specificity or range |
 | **Comments:** | | Expected value: NCBI taxid |
-|  | | Preferred unit:  |
 |  | | Position: 24.0 |
 | **Examples:** | | Example(value='9606', description=None) |
 | **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/66 |

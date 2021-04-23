@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | interior wall condition |
 | **Mappings:** | | MIXS:0000813 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 88 |
+|  | | Position: 88.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='damaged', description=None) |
 

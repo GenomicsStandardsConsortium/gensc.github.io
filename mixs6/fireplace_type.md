@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | fireplace type |
 | **Mappings:** | | MIXS:0000802 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 68 |
+|  | | Position: 68.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='wood burning', description=None) |
 

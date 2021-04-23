@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | presence of pets, animals, or insects |
 | **Mappings:** | | MIXS:0000819 |
 | **Comments:** | | Expected value: enumeration;count |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 99 |
+|  | | Position: 99.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='cat;5', description=None) |
 

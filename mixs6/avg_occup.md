@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [Double](types/Double.md)
 | **Aliases:** | | average daily occupancy |
 | **Mappings:** | | MIXS:0000775 |
 | **Comments:** | | Expected value: value |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 32 |
+|  | | Position: 32.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='2', description=None) |
 

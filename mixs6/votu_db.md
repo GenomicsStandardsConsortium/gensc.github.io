@@ -29,7 +29,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | vOTU database |
 | **Comments:** | | Expected value: database and version |
-|  | | Preferred unit:  |
 |  | | Position: 89.0 |
 | **Examples:** | | Example(value='NCBI Viral RefSeq;83', description=None) |
 

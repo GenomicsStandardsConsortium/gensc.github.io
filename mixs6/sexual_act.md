@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | sexual activity |
 | **Mappings:** | | MIXS:0000285 |
 | **Comments:** | | Expected value: partner sex;frequency |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 2 |
+|  | | Position: 2.0 |
 |  | | This field is used uniquely in: human-vaginal |
 | **Examples:** | | Example(value='', description=None) |
 

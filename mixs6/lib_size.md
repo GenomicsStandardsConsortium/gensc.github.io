@@ -38,7 +38,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | library size |
 | **Comments:** | | Expected value: number of clones |
-|  | | Preferred unit:  |
 |  | | Position: 39.0 |
 | **Examples:** | | Example(value='50', description=None) |
 

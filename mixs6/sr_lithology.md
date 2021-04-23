@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | source rock lithology |
 | **Mappings:** | | MIXS:0000995 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 20 |
+|  | | Position: 20.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-cores |
 | **Examples:** | | Example(value='Coal', description=None) |
 

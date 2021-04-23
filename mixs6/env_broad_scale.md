@@ -243,7 +243,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | broad-scale environmental context |
 | **Comments:** | | Expected value: Add terms that identify the major environment type(s) where your sample was collected. Recommend subclasses of biome [ENVO:00000428]. Multiple terms can be separated by one or more pipes e.g.: mangrove biome [ENVO:01000181]|estuarine biome [ENVO:01000020] |
-|  | | Preferred unit:  |
 |  | | Position: 10.0 |
 | **Examples:** | | Example(value='forest biome [ENVO:01000174]', description=None) |
 

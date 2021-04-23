@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | aerospace structure |
 | **Mappings:** | | MIXS:0000773 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 29 |
+|  | | Position: 29.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='plane', description=None) |
 

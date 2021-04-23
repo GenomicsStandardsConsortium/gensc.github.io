@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIGS_eukaryote_collection_date](https://w3id.org/mixs/vocab/MIG
 
 ## Domain and Range
 
-[MIGSEukaryote](MIGSEukaryote.md) ->  <sub>REQ</sub> [String](types/String.md)
+[MIGSEukaryote](MIGSEukaryote.md) ->  <sub>REQ</sub> [Date](types/Date.md)
 
 ## Parents
 

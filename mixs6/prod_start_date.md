@@ -9,7 +9,7 @@ URI: [mixs.vocab:prod_start_date](https://w3id.org/mixs/vocab/prod_start_date)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [Date](types/Date.md)
 
 ## Parents
 
@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | production start date |
 | **Mappings:** | | MIXS:0001008 |
 | **Comments:** | | Expected value: timestamp |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 23 |
+|  | | Position: 23.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='2018-05-11', description=None) |
 

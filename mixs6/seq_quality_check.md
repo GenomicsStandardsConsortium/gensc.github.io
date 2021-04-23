@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | sequence quality check |
 | **Comments:** | | Expected value: none or manually edited |
-|  | | Preferred unit:  |
 |  | | Position: 51.0 |
 | **Examples:** | | Example(value='none', description=None) |
 

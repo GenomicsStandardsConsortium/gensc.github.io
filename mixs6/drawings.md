@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | drawings |
 | **Mappings:** | | MIXS:0000798 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 62 |
+|  | | Position: 62.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='sketch', description=None) |
 

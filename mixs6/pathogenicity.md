@@ -32,7 +32,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | known pathogenicity |
 | **Comments:** | | Expected value: names of organisms that the entity is pathogenic to |
-|  | | Preferred unit:  |
 |  | | Position: 21.0 |
 | **Examples:** | | Example(value='human, animal, plant, fungi, bacteria', description=None) |
 | **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/65 |

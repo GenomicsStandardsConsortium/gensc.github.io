@@ -243,7 +243,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | geographic location (latitude and longitude) |
 | **Comments:** | | Expected value: decimal degrees |
-|  | | Preferred unit:  |
 |  | | Position: 5.0 |
 | **Examples:** | | Example(value='50.586825 6.408977', description=None) |
 | **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/62 |

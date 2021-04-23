@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | floor signs of water/mold |
 | **Mappings:** | | MIXS:0000805 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 74 |
+|  | | Position: 74.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='ceiling discoloration', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | window condition |
 | **Mappings:** | | MIXS:0000849 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 151 |
+|  | | Position: 151.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='rupture', description=None) |
 

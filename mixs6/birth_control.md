@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | birth control |
 | **Mappings:** | | MIXS:0000286 |
 | **Comments:** | | Expected value: medication name |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 5 |
+|  | | Position: 5.0 |
 |  | | This field is used uniquely in: human-vaginal |
 | **Examples:** | | Example(value='', description=None) |
 

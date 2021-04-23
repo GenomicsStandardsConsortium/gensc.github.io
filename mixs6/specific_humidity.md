@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: gram of air, kilogram of air |
 |  | | Occurrence: 1 |
-|  | | Position: 131 |
+|  | | Position: 131.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='15 per kilogram of air', description=None) |
 

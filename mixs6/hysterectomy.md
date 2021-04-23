@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | hysterectomy |
 | **Mappings:** | | MIXS:0000287 |
 | **Comments:** | | Expected value: hysterectomy status |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 8 |
+|  | | Position: 8.0 |
 |  | | This field is used uniquely in: human-vaginal |
 | **Examples:** | | Example(value='no', description=None) |
 

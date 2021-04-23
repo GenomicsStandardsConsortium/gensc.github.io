@@ -7,7 +7,7 @@ Combinatorial checklist Minimal Information about a Genome Sequence: cultured ba
 URI: [mixs.vocab:Human-skinMIGSVirus](https://w3id.org/mixs/vocab/Human-skinMIGSVirus)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Human-skinMIGSVirus&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;num_replicons:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;health_disease_stat:health_disease_stat_enum%20%3F;propagation:string;encoded_traits:string%20%3F;isol_growth_condt:string;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;virus_enrich_appr:virus_enrich_appr_enum%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;dermatology_disord(i):string%20%3F;time_since_last_wash(i):string%20%3F;dominant_hand(i):dominant_hand_enum%20%3F;host_subject_id(i):string%20%3F;host_sex(i):host_sex_enum%20%3F;host_disease_stat(i):string%20%3F;ihmc_medication_code(i):string%20%3F;chem_administration(i):string%20%3F;host_body_site(i):string%20%3F;host_body_product(i):string%20%3F;host_diet(i):string%20%3F;host_last_meal(i):string%20%3F;host_family_relationship(i):string%20%3F;host_genotype(i):string%20%3F;host_phenotype(i):string%20%3F;ihmc_ethnicity(i):string%20%3F;host_occupation(i):string%20%3F;medic_hist_perform(i):string%20%3F;perturbation(i):string%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;organism_count(i):organism_count_enum%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;misc_param(i):string%20%3F]uses%20-.->[MIGSVirus],[Human-skin]^-[Human-skinMIGSVirus],[Human-skin],[MIGSVirus])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Human-skinMIGSVirus&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;num_replicons:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;health_disease_stat:health_disease_stat_enum%20%3F;propagation:string;encoded_traits:string%20%3F;isol_growth_condt:string;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;virus_enrich_appr:virus_enrich_appr_enum%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):date%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;dermatology_disord(i):string%20%3F;time_since_last_wash(i):string%20%3F;dominant_hand(i):dominant_hand_enum%20%3F;host_subject_id(i):string%20%3F;host_sex(i):host_sex_enum%20%3F;host_disease_stat(i):string%20%3F;ihmc_medication_code(i):string%20%3F;chem_administration(i):string%20%3F;host_body_site(i):string%20%3F;host_body_product(i):string%20%3F;host_diet(i):string%20%3F;host_last_meal(i):string%20%3F;host_family_relationship(i):string%20%3F;host_genotype(i):string%20%3F;host_phenotype(i):string%20%3F;ihmc_ethnicity(i):string%20%3F;host_occupation(i):string%20%3F;medic_hist_perform(i):string%20%3F;perturbation(i):string%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;organism_count(i):organism_count_enum%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;host_symbiont(i):string%20%3F;misc_param(i):string%20%3F]uses%20-.->[MIGSVirus],[Human-skin]^-[Human-skinMIGSVirus],[Human-skin],[MIGSVirus])
 
 ## Parents
 
@@ -23,7 +23,7 @@ URI: [mixs.vocab:Human-skinMIGSVirus](https://w3id.org/mixs/vocab/Human-skinMIGS
 ### Inherited from human-skin:
 
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [chem_administration](chem_administration.md)  <sub>OPT</sub>
@@ -32,10 +32,10 @@ URI: [mixs.vocab:Human-skinMIGSVirus](https://w3id.org/mixs/vocab/Human-skinMIGS
      * Example: agar [CHEBI:2509];2018-05-11T20:00Z None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [dermatology_disord](dermatology_disord.md)  <sub>OPT</sub>
@@ -130,6 +130,10 @@ URI: [mixs.vocab:Human-skinMIGSVirus](https://w3id.org/mixs/vocab/Human-skinMIGS
      * Description: A unique identifier by which each subject can be referred to, de-identified, e.g. #131
      * range: [String](types/String.md)
      * Example: MPI123 None
+ * [host_symbiont](host_symbiont.md)  <sub>OPT</sub>
+     * Description: The taxonomic name of the organism(s) found living in mutualistic, commensalistic, or parasitic symbiosis with the specific host.
+     * range: [String](types/String.md)
+     * Example: flukeworms None
  * [host_tot_mass](host_tot_mass.md)  <sub>OPT</sub>
      * Description: Total mass of the host at collection, the unit depends on host
      * range: [QuantityValue](QuantityValue.md)
@@ -352,11 +356,6 @@ URI: [mixs.vocab:Human-skinMIGSVirus](https://w3id.org/mixs/vocab/Human-skinMIGS
 
 ### Mixed in from MIGS virus:
 
- * [MIGS virus➞samp_collect_device](MIGS_virus_samp_collect_device.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
-
-### Mixed in from MIGS virus:
-
  * [MIGS virus➞samp_mat_process](MIGS_virus_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
@@ -367,7 +366,17 @@ URI: [mixs.vocab:Human-skinMIGSVirus](https://w3id.org/mixs/vocab/Human-skinMIGS
 
 ### Mixed in from MIGS virus:
 
- * [MIGS virus➞sample_name](MIGS_virus_sample_name.md)  <sub>OPT</sub>
+ * [MIGS virus➞sample_collect_device](MIGS_virus_sample_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MIGS virus:
+
+ * [MIGS virus➞sample_collect_method](MIGS_virus_sample_collect_method.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MIGS virus:
+
+ * [MIGS virus➞sample_name](MIGS_virus_sample_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
 ### Mixed in from MIGS virus:

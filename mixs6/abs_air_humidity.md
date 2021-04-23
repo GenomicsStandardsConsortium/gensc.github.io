@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: gram per gram, kilogram per kilogram, kilogram, pound |
 |  | | Occurrence: 1 |
-|  | | Position: 4 |
+|  | | Position: 4.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='9 gram per gram', description=None) |
 

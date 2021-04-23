@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host common name |
 | **Mappings:** | | MIXS:0000248 |
 | **Comments:** | | Expected value: common name |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 4 |
+|  | | Position: 4.0 |
 |  | | This field is used in: 2 packages: host-associated, plant-associated |
 | **Examples:** | | Example(value='mussel', description=None) |
 

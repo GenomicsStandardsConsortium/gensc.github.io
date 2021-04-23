@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | depositional environment |
 | **Mappings:** | | MIXS:0000992 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 13 |
+|  | | Position: 13.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='Continental - Alluvial', description=None) |
 

@@ -114,7 +114,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: milliequivalent per liter, milligram per liter |
 |  | | Occurrence: 1 |
-|  | | Position: 56 |
+|  | | Position: 56.0 |
 |  | | This field is used in: 7 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs, microbial mat_biofilm, miscellaneous natural or artificial environment, sediment, wastewater_sludge, water |
 | **Examples:** | | Example(value='50 milligram per liter', description=None) |
 

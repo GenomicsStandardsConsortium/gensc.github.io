@@ -7,7 +7,7 @@ human-vaginal
 URI: [mixs.vocab:Human-vaginal](https://w3id.org/mixs/vocab/Human-vaginal)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Human-vaginalMIUVIG],[Human-vaginalMISAG],[Human-vaginalMIMARKSSurvey],[Human-vaginalMIMARKSSpecimen],[Human-vaginalMIMAG],[Human-vaginalMIGSVirus],[Human-vaginalMIGSPlant],[Human-vaginalMIGSOrg],[Human-vaginalMIGSEukaryote],[Human-vaginalMIGSBacteria],[Human-vaginalME],[QuantityValue]<samp_store_temp%200..1-++[Human-vaginal&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:string%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;menarche:string%20%3F;sexual_act:string%20%3F;pregnancy:string%20%3F;douche:string%20%3F;birth_control:string%20%3F;menopause:string%20%3F;hrt:string%20%3F;hysterectomy:string%20%3F;gynecologic_disord:string%20%3F;urogenit_disord:string%20%3F;host_subject_id:string%20%3F;host_sex:host_sex_enum%20%3F;host_disease_stat:string%20%3F;ihmc_medication_code:string%20%3F;chem_administration:string%20%3F;host_body_site:string%20%3F;host_body_product:string%20%3F;host_diet:string%20%3F;host_last_meal:string%20%3F;host_family_relationship:string%20%3F;host_genotype:string%20%3F;host_phenotype:string%20%3F;ihmc_ethnicity:string%20%3F;host_occupation:string%20%3F;medic_hist_perform:string%20%3F;perturbation:string%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;organism_count:organism_count_enum%20%3F;samp_store_loc:string%20%3F;samp_store_dur:string%20%3F;misc_param:string%20%3F],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Human-vaginal],[QuantityValue]<temp%200..1-++[Human-vaginal],[QuantityValue]<samp_salinity%200..1-++[Human-vaginal],[QuantityValue]<host_pulse%200..1-++[Human-vaginal],[QuantityValue]<host_body_mass_index%200..1-++[Human-vaginal],[QuantityValue]<host_body_temp%200..1-++[Human-vaginal],[QuantityValue]<host_height%200..1-++[Human-vaginal],[QuantityValue]<host_tot_mass%200..1-++[Human-vaginal],[QuantityValue]<host_age%200..1-++[Human-vaginal],[QuantityValue]<elev%200..1-++[Human-vaginal],[QuantityValue]<alt%200..1-++[Human-vaginal],[Human-vaginal]^-[Human-vaginalMIUVIG],[Human-vaginal]^-[Human-vaginalMISAG],[Human-vaginal]^-[Human-vaginalMIMARKSSurvey],[Human-vaginal]^-[Human-vaginalMIMARKSSpecimen],[Human-vaginal]^-[Human-vaginalMIMAG],[Human-vaginal]^-[Human-vaginalMIGSVirus],[Human-vaginal]^-[Human-vaginalMIGSPlant],[Human-vaginal]^-[Human-vaginalMIGSOrg],[Human-vaginal]^-[Human-vaginalMIGSEukaryote],[Human-vaginal]^-[Human-vaginalMIGSBacteria],[Human-vaginal]^-[Human-vaginalME])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Human-vaginalMIUVIG],[Human-vaginalMISAG],[Human-vaginalMIMARKSSurvey],[Human-vaginalMIMARKSSpecimen],[Human-vaginalMIMAG],[Human-vaginalMIGSVirus],[Human-vaginalMIGSPlant],[Human-vaginalMIGSOrg],[Human-vaginalMIGSEukaryote],[Human-vaginalMIGSBacteria],[Human-vaginalME],[QuantityValue]<samp_store_temp%200..1-++[Human-vaginal&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:date%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;menarche:date%20%3F;sexual_act:string%20%3F;pregnancy:date%20%3F;douche:date%20%3F;birth_control:string%20%3F;menopause:date%20%3F;hrt:date%20%3F;hysterectomy:string%20%3F;gynecologic_disord:string%20%3F;urogenit_disord:string%20%3F;host_subject_id:string%20%3F;host_sex:host_sex_enum%20%3F;host_disease_stat:string%20%3F;ihmc_medication_code:string%20%3F;chem_administration:string%20%3F;host_body_site:string%20%3F;host_body_product:string%20%3F;host_diet:string%20%3F;host_last_meal:string%20%3F;host_family_relationship:string%20%3F;host_genotype:string%20%3F;host_phenotype:string%20%3F;ihmc_ethnicity:string%20%3F;host_occupation:string%20%3F;medic_hist_perform:string%20%3F;perturbation:string%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;organism_count:organism_count_enum%20%3F;samp_store_loc:string%20%3F;samp_store_dur:string%20%3F;host_symbiont:string%20%3F;misc_param:string%20%3F],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Human-vaginal],[QuantityValue]<temp%200..1-++[Human-vaginal],[QuantityValue]<samp_salinity%200..1-++[Human-vaginal],[QuantityValue]<host_pulse%200..1-++[Human-vaginal],[QuantityValue]<host_body_mass_index%200..1-++[Human-vaginal],[QuantityValue]<host_body_temp%200..1-++[Human-vaginal],[QuantityValue]<host_height%200..1-++[Human-vaginal],[QuantityValue]<host_tot_mass%200..1-++[Human-vaginal],[QuantityValue]<host_age%200..1-++[Human-vaginal],[QuantityValue]<elev%200..1-++[Human-vaginal],[QuantityValue]<alt%200..1-++[Human-vaginal],[Human-vaginal]^-[Human-vaginalMIUVIG],[Human-vaginal]^-[Human-vaginalMISAG],[Human-vaginal]^-[Human-vaginalMIMARKSSurvey],[Human-vaginal]^-[Human-vaginalMIMARKSSpecimen],[Human-vaginal]^-[Human-vaginalMIMAG],[Human-vaginal]^-[Human-vaginalMIGSVirus],[Human-vaginal]^-[Human-vaginalMIGSPlant],[Human-vaginal]^-[Human-vaginalMIGSOrg],[Human-vaginal]^-[Human-vaginalMIGSEukaryote],[Human-vaginal]^-[Human-vaginalMIGSBacteria],[Human-vaginal]^-[Human-vaginalME])
 
 ## Children
 
@@ -32,7 +32,7 @@ URI: [mixs.vocab:Human-vaginal](https://w3id.org/mixs/vocab/Human-vaginal)
 ### Own
 
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [birth_control](birth_control.md)  <sub>OPT</sub>
@@ -45,15 +45,15 @@ URI: [mixs.vocab:Human-vaginal](https://w3id.org/mixs/vocab/Human-vaginal)
      * Example: agar [CHEBI:2509];2018-05-11T20:00Z None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [douche](douche.md)  <sub>OPT</sub>
      * Description: Date of most recent douche
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11 None
  * [elev](elev.md)  <sub>OPT</sub>
      * Description: Elevation of the sampling site is its height above a fixed reference point, most commonly the mean sea level. Elevation is mainly used when referring to points on the earth's surface, while altitude is used for points above the surface, such as an aircraft in flight or a spacecraft in orbit
@@ -143,13 +143,17 @@ URI: [mixs.vocab:Human-vaginal](https://w3id.org/mixs/vocab/Human-vaginal)
      * Description: A unique identifier by which each subject can be referred to, de-identified, e.g. #131
      * range: [String](types/String.md)
      * Example: MPI123 None
+ * [host_symbiont](host_symbiont.md)  <sub>OPT</sub>
+     * Description: The taxonomic name of the organism(s) found living in mutualistic, commensalistic, or parasitic symbiosis with the specific host.
+     * range: [String](types/String.md)
+     * Example: flukeworms None
  * [host_tot_mass](host_tot_mass.md)  <sub>OPT</sub>
      * Description: Total mass of the host at collection, the unit depends on host
      * range: [QuantityValue](QuantityValue.md)
      * Example: 2500 gram None
  * [hrt](hrt.md)  <sub>OPT</sub>
      * Description: Whether subject had hormone replacement theraphy, and if yes start date
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11 None
  * [hysterectomy](hysterectomy.md)  <sub>OPT</sub>
      * Description: Specification of whether hysterectomy was performed
@@ -173,11 +177,11 @@ URI: [mixs.vocab:Human-vaginal](https://w3id.org/mixs/vocab/Human-vaginal)
      * Example: TRUE None
  * [menarche](menarche.md)  <sub>OPT</sub>
      * Description: Date of most recent menstruation
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11 None
  * [menopause](menopause.md)  <sub>OPT</sub>
      * Description: Date of onset of menopause
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11 None
  * [misc_param](misc_param.md)  <sub>OPT</sub>
      * Description: Any other measurement performed or parameter collected, that is not listed here
@@ -197,7 +201,7 @@ URI: [mixs.vocab:Human-vaginal](https://w3id.org/mixs/vocab/Human-vaginal)
      * Example: antibiotic addition;R2/2018-05-11T14:30Z/2018-05-11T19:30Z/P1H30M None
  * [pregnancy](pregnancy.md)  <sub>OPT</sub>
      * Description: Date due of pregnancy
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11 None
  * [samp_salinity](samp_salinity.md)  <sub>OPT</sub>
      * Description: Salinity is the total concentration of all dissolved salts in a liquid or solid (in the form of an extract obtained by centrifugation) sample. While salinity can be measured by a complete chemical analysis, this method is difficult and time consuming. More often, it is instead derived from the conductivity measurement. This is known as practical salinity. These derivations compare the specific conductance of the sample to a salinity standard such as seawater

@@ -9,7 +9,7 @@ URI: [mixs.vocab:date_last_rain](https://w3id.org/mixs/vocab/date_last_rain)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [Date](types/Date.md)
 
 ## Parents
 
@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | date last rain |
 | **Mappings:** | | MIXS:0000786 |
 | **Comments:** | | Expected value: timestamp |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 49 |
+|  | | Position: 49.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='2018-05-11:T14:30Z', description=None) |
 

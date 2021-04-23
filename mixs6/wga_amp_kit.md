@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | WGA amplification kit |
 | **Comments:** | | Expected value: kit name |
-|  | | Preferred unit:  |
 |  | | Position: 78.0 |
 | **Examples:** | | Example(value='qiagen repli-g', description=None) |
 

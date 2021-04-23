@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | nose/mouth/teeth/throat disorder |
 | **Mappings:** | | MIXS:0000283 |
 | **Comments:** | | Expected value: disorder name |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: human-oral |
 | **Examples:** | | Example(value='', description=None) |
 

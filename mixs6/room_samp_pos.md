@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | room sampling position |
 | **Mappings:** | | MIXS:0000824 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 112 |
+|  | | Position: 112.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='south corner', description=None) |
 

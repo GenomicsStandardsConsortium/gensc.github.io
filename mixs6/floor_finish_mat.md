@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | floor finish material |
 | **Mappings:** | | MIXS:0000804 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 73 |
+|  | | Position: 73.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='carpet', description=None) |
 

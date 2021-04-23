@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | rooms connected by a doorway |
 | **Mappings:** | | MIXS:0000826 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 116 |
+|  | | Position: 116.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='office', description=None) |
 

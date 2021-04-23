@@ -66,7 +66,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: phaeopigment name;measurement value |
 |  | | Preferred unit: milligram per cubic meter |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 3 packages: microbial mat_biofilm, sediment, water |
 | **Examples:** | | Example(value='2.5 milligram per cubic meter', description=None) |
 

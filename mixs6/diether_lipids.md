@@ -78,7 +78,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: diether lipid name;measurement value |
 |  | | Preferred unit: nanogram per liter |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 4 packages: microbial mat_biofilm, miscellaneous natural or artificial environment, sediment, water |
 | **Examples:** | | Example(value='0.2 nanogram per liter', description=None) |
 

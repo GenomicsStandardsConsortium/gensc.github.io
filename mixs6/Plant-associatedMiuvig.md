@@ -7,7 +7,7 @@ Combinatorial checklist Minimum Information About an Uncultivated Virus Genome w
 URI: [mixs.vocab:Plant-associatedMIUVIG](https://w3id.org/mixs/vocab/Plant-associatedMIUVIG)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Plant-associatedMIUVIG&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;source_uvig:source_uvig_enum;virus_enrich_appr:virus_enrich_appr_enum;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;compl_appr:compl_appr_enum%20%3F;sort_tech:sort_tech_enum%20%3F;single_cell_lysis_appr:single_cell_lysis_appr_enum%20%3F;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string%20%3F;wga_amp_kit:string%20%3F;bin_param:bin_param_enum%20%3F;bin_software:bin_software_enum%20%3F;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;vir_ident_software:string;pred_genome_type:pred_genome_type_enum;pred_genome_struc:pred_genome_struc_enum;detec_type:string;votu_class_appr:string%20%3F;votu_seq_comp_appr:string%20%3F;votu_db:string%20%3F;host_pred_appr:host_pred_appr_enum%20%3F;host_pred_est_acc:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;air_temp_regm(i):string%20%3F;ances_data(i):string%20%3F;antibiotic_regm(i):string%20%3F;biol_stat(i):biol_stat_enum%20%3F;biotic_regm(i):string%20%3F;chem_administration(i):string%20%3F;chem_mutagen(i):string%20%3F;climate_environment(i):string%20%3F;cult_root_med(i):string%20%3F;fertilizer_regm(i):string%20%3F;fungicide_regm(i):string%20%3F;gaseous_environment(i):string%20%3F;genetic_mod(i):string%20%3F;gravity(i):string%20%3F;growth_facil(i):string%20%3F;growth_habit(i):growth_habit_enum%20%3F;growth_hormone_regm(i):string%20%3F;herbicide_regm(i):string%20%3F;host_common_name(i):string%20%3F;host_disease_stat(i):string%20%3F;host_genotype(i):string%20%3F;host_infra_specific_name(i):string%20%3F;host_infra_specific_rank(i):string%20%3F;host_life_stage(i):string%20%3F;host_phenotype(i):string%20%3F;host_taxid(i):string%20%3F;humidity_regm(i):string%20%3F;light_regm(i):string%20%3F;mechanical_damage(i):string%20%3F;mineral_nutr_regm(i):string%20%3F;misc_param(i):string%20%3F;non_mineral_nutr_regm(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;ph_regm(i):string%20%3F;perturbation(i):string%20%3F;pesticide_regm(i):string%20%3F;plant_growth_med(i):plant_growth_med_enum%20%3F;plant_product(i):string%20%3F;plant_sex(i):plant_sex_enum%20%3F;plant_struc(i):string%20%3F;radiation_regm(i):string%20%3F;rainfall_regm(i):string%20%3F;root_cond(i):string%20%3F;root_med_carbon(i):string%20%3F;root_med_macronutr(i):string%20%3F;root_med_micronutr(i):string%20%3F;root_med_suppl(i):string%20%3F;root_med_ph(i):double%20%3F;root_med_regl(i):string%20%3F;root_med_solid(i):string%20%3F;salt_regm(i):string%20%3F;samp_capt_status(i):samp_capt_status_enum%20%3F;samp_dis_stage(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;season_environment(i):string%20%3F;standing_water_regm(i):string%20%3F;tiss_cult_growth_med(i):string%20%3F;water_temp_regm(i):string%20%3F;watering_regm(i):string%20%3F]uses%20-.->[MIUVIG],[Plant-associated]^-[Plant-associatedMIUVIG],[Plant-associated],[MIUVIG])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Plant-associatedMIUVIG&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;source_uvig:source_uvig_enum;virus_enrich_appr:virus_enrich_appr_enum;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;compl_appr:compl_appr_enum%20%3F;sort_tech:sort_tech_enum%20%3F;single_cell_lysis_appr:single_cell_lysis_appr_enum%20%3F;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string%20%3F;wga_amp_kit:string%20%3F;bin_param:bin_param_enum%20%3F;bin_software:bin_software_enum%20%3F;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;vir_ident_software:string;pred_genome_type:pred_genome_type_enum;pred_genome_struc:pred_genome_struc_enum;detec_type:string;votu_class_appr:string%20%3F;votu_seq_comp_appr:string%20%3F;votu_db:string%20%3F;host_pred_appr:host_pred_appr_enum%20%3F;host_pred_est_acc:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):date%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;air_temp_regm(i):string%20%3F;ances_data(i):string%20%3F;antibiotic_regm(i):string%20%3F;biol_stat(i):biol_stat_enum%20%3F;biotic_regm(i):string%20%3F;chem_administration(i):string%20%3F;chem_mutagen(i):string%20%3F;climate_environment(i):string%20%3F;cult_root_med(i):string%20%3F;fertilizer_regm(i):string%20%3F;fungicide_regm(i):string%20%3F;gaseous_environment(i):string%20%3F;genetic_mod(i):string%20%3F;gravity(i):string%20%3F;growth_facil(i):string%20%3F;growth_habit(i):growth_habit_enum%20%3F;growth_hormone_regm(i):string%20%3F;herbicide_regm(i):string%20%3F;host_common_name(i):string%20%3F;host_disease_stat(i):string%20%3F;host_genotype(i):string%20%3F;host_infra_specific_name(i):string%20%3F;host_infra_specific_rank(i):string%20%3F;host_life_stage(i):string%20%3F;host_phenotype(i):string%20%3F;host_taxid(i):string%20%3F;humidity_regm(i):string%20%3F;light_regm(i):string%20%3F;mechanical_damage(i):string%20%3F;mineral_nutr_regm(i):string%20%3F;misc_param(i):string%20%3F;non_mineral_nutr_regm(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;ph_regm(i):string%20%3F;perturbation(i):string%20%3F;pesticide_regm(i):string%20%3F;plant_growth_med(i):plant_growth_med_enum%20%3F;plant_product(i):string%20%3F;plant_sex(i):plant_sex_enum%20%3F;plant_struc(i):string%20%3F;radiation_regm(i):string%20%3F;rainfall_regm(i):string%20%3F;root_cond(i):string%20%3F;root_med_carbon(i):string%20%3F;root_med_macronutr(i):string%20%3F;root_med_micronutr(i):string%20%3F;root_med_suppl(i):string%20%3F;root_med_ph(i):double%20%3F;root_med_regl(i):string%20%3F;root_med_solid(i):string%20%3F;salt_regm(i):string%20%3F;samp_capt_status(i):samp_capt_status_enum%20%3F;samp_dis_stage(i):samp_dis_stage_enum%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;season_environment(i):string%20%3F;standing_water_regm(i):string%20%3F;tiss_cult_growth_med(i):string%20%3F;water_temp_regm(i):string%20%3F;watering_regm(i):string%20%3F;host_symbiont(i):string%20%3F]uses%20-.->[MIUVIG],[Plant-associated]^-[Plant-associatedMIUVIG],[Plant-associated],[MIUVIG])
 
 ## Parents
 
@@ -27,7 +27,7 @@ URI: [mixs.vocab:Plant-associatedMIUVIG](https://w3id.org/mixs/vocab/Plant-assoc
      * range: [String](types/String.md)
      * Example: 25 degree Celsius;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [ances_data](ances_data.md)  <sub>OPT</sub>
@@ -39,7 +39,7 @@ URI: [mixs.vocab:Plant-associatedMIUVIG](https://w3id.org/mixs/vocab/Plant-assoc
      * range: [String](types/String.md)
      * Example: penicillin;5 milligram;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
  * [biol_stat](biol_stat.md)  <sub>OPT</sub>
-     * Description: The level of genome modification
+     * Description: The level of genome modification.
      * range: 
      * Example: natural None
  * [biotic_regm](biotic_regm.md)  <sub>OPT</sub>
@@ -60,14 +60,14 @@ URI: [mixs.vocab:Plant-associatedMIUVIG](https://w3id.org/mixs/vocab/Plant-assoc
      * Example: tropical climate;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [cult_root_med](cult_root_med.md)  <sub>OPT</sub>
      * Description: Name or reference for the hydroponic or in vitro culture rooting medium; can be the name of a commonly used medium or reference to a specific medium, e.g. Murashige and Skoog medium. If the medium has not been formally published, use the rooting medium descriptors.
      * range: [String](types/String.md)
      * Example: http://himedialabs.com/TD/PT158.pdf None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [elev](elev.md)  <sub>OPT</sub>
@@ -170,6 +170,10 @@ URI: [mixs.vocab:Plant-associatedMIUVIG](https://w3id.org/mixs/vocab/Plant-assoc
      * Description: Phenotype of human or other host. For phenotypic quality ontology (pato) (v 2018-03-27) terms, please see http://purl.bioontology.org/ontology/pato. For Human Phenotype Ontology (HP) (v 2018-06-13) please see http://purl.bioontology.org/ontology/HP
      * range: [String](types/String.md)
      * Example: elongated [PATO:0001154] None
+ * [host_symbiont](host_symbiont.md)  <sub>OPT</sub>
+     * Description: The taxonomic name of the organism(s) found living in mutualistic, commensalistic, or parasitic symbiosis with the specific host.
+     * range: [String](types/String.md)
+     * Example: flukeworms None
  * [host_taxid](host_taxid.md)  <sub>OPT</sub>
      * Description: NCBI taxon id of the host, e.g. 9606
      * range: [String](types/String.md)
@@ -296,7 +300,7 @@ URI: [mixs.vocab:Plant-associatedMIUVIG](https://w3id.org/mixs/vocab/Plant-assoc
      * Example: farm sample None
  * [samp_dis_stage](samp_dis_stage.md)  <sub>OPT</sub>
      * Description: Stage of the disease at the time of sample collection, e.g. inoculation, penetration, infection, growth and reproduction, dissemination of pathogen.
-     * range: [String](types/String.md)
+     * range: 
      * Example: infection None
  * [samp_salinity](samp_salinity.md)  <sub>OPT</sub>
      * Description: Salinity is the total concentration of all dissolved salts in a liquid or solid (in the form of an extract obtained by centrifugation) sample. While salinity can be measured by a complete chemical analysis, this method is difficult and time consuming. More often, it is instead derived from the conductivity measurement. This is known as practical salinity. These derivations compare the specific conductance of the sample to a salinity standard such as seawater
@@ -530,11 +534,6 @@ URI: [mixs.vocab:Plant-associatedMIUVIG](https://w3id.org/mixs/vocab/Plant-assoc
 
 ### Mixed in from MIUVIG:
 
- * [MIUVIG➞samp_collect_device](MIUVIG_samp_collect_device.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
-
-### Mixed in from MIUVIG:
-
  * [MIUVIG➞samp_mat_process](MIUVIG_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
@@ -545,7 +544,17 @@ URI: [mixs.vocab:Plant-associatedMIUVIG](https://w3id.org/mixs/vocab/Plant-assoc
 
 ### Mixed in from MIUVIG:
 
- * [MIUVIG➞sample_name](MIUVIG_sample_name.md)  <sub>OPT</sub>
+ * [MIUVIG➞sample_collect_device](MIUVIG_sample_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MIUVIG:
+
+ * [MIUVIG➞sample_collect_method](MIUVIG_sample_collect_method.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MIUVIG:
+
+ * [MIUVIG➞sample_name](MIUVIG_sample_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
 ### Mixed in from MIUVIG:

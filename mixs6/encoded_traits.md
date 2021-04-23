@@ -31,7 +31,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | encoded traits |
 | **Comments:** | | Expected value: for plasmid: antibiotic resistance; for phage: converting genes |
-|  | | Preferred unit:  |
 |  | | Position: 28.0 |
 | **Examples:** | | Example(value='beta-lactamase class A', description=None) |
 

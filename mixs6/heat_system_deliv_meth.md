@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | heating system delivery method |
 | **Mappings:** | | MIXS:0000812 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 84 |
+|  | | Position: 84.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='radiant', description=None) |
 

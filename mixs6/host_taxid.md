@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host taxid |
 | **Mappings:** | | MIXS:0000250 |
 | **Comments:** | | Expected value: NCBI taxon identifier |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 7 |
+|  | | Position: 7.0 |
 |  | | This field is used in: 2 packages: host-associated, plant-associated |
 | **Examples:** | | Example(value='7955', description=None) |
 

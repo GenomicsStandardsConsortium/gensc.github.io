@@ -39,7 +39,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | environmental package |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 13.0 |
 | **Examples:** | | Example(value='soil', description=None) |
 | **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/64 |

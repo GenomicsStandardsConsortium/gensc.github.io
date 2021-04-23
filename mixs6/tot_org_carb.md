@@ -66,7 +66,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: gram Carbon per kilogram sample material |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 3 packages: microbial mat_biofilm, sediment, soil |
 | **Examples:** | | Example(value='', description=None) |
 

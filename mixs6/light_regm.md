@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: exposure type;light intensity;light quality |
 |  | | Preferred unit: lux; micrometer, nanometer, angstrom |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='incandescant light;10 lux;450 nanometer', description=None) |
 

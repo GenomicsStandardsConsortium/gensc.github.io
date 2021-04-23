@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | mechanical damage |
 | **Mappings:** | | MIXS:0001052 |
 | **Comments:** | | Expected value: damage type;body site |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='pruning;bark', description=None) |
 

@@ -7,7 +7,7 @@ Minimal Information about a Genome Sequence: org
 URI: [mixs.vocab:MIGSOrg](https://w3id.org/mixs/vocab/MIGSOrg)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[QuantityValue]<samp_size%200..1-++[MIGSOrg&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;lat_lon:string;geo_loc_name:string;collection_date:string;env_broad_scale:string;env_local_scale:string;env_medium:string;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;extrachrom_elements:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;isol_growth_condt:string;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;url:string%20%3F;sop:string%20%3F],[WaterMIGSOrg]uses%20-.->[MIGSOrg],[WastewaterSludgeMIGSOrg]uses%20-.->[MIGSOrg],[SoilMIGSOrg]uses%20-.->[MIGSOrg],[SedimentMIGSOrg]uses%20-.->[MIGSOrg],[Plant-associatedMIGSOrg]uses%20-.->[MIGSOrg],[MiscellaneousNaturalOrArtificialEnvironmentMIGSOrg]uses%20-.->[MIGSOrg],[MicrobialMatBiofilmMIGSOrg]uses%20-.->[MIGSOrg],[HydrocarbonResources-fluidsSwabsMIGSOrg]uses%20-.->[MIGSOrg],[HydrocarbonResources-coresMIGSOrg]uses%20-.->[MIGSOrg],[Human-vaginalMIGSOrg]uses%20-.->[MIGSOrg],[Human-skinMIGSOrg]uses%20-.->[MIGSOrg],[Human-oralMIGSOrg]uses%20-.->[MIGSOrg],[Human-gutMIGSOrg]uses%20-.->[MIGSOrg],[Human-associatedMIGSOrg]uses%20-.->[MIGSOrg],[Host-associatedMIGSOrg]uses%20-.->[MIGSOrg],[BuiltEnvironmentMIGSOrg]uses%20-.->[MIGSOrg],[AirMIGSOrg]uses%20-.->[MIGSOrg],[WaterMIGSOrg],[WastewaterSludgeMIGSOrg],[SoilMIGSOrg],[SedimentMIGSOrg],[Plant-associatedMIGSOrg],[MiscellaneousNaturalOrArtificialEnvironmentMIGSOrg],[MicrobialMatBiofilmMIGSOrg],[HydrocarbonResources-fluidsSwabsMIGSOrg],[HydrocarbonResources-coresMIGSOrg],[Human-vaginalMIGSOrg],[Human-skinMIGSOrg],[Human-oralMIGSOrg],[Human-gutMIGSOrg],[Human-associatedMIGSOrg],[Host-associatedMIGSOrg],[BuiltEnvironmentMIGSOrg],[AirMIGSOrg])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[QuantityValue]<samp_size%200..1-++[MIGSOrg&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string;project_name:string;experimental_factor:string%20%3F;lat_lon:string;geo_loc_name:string;collection_date:date;env_broad_scale:string;env_local_scale:string;env_medium:string;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;extrachrom_elements:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;isol_growth_condt:string;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;url:string%20%3F;sop:string%20%3F],[WaterMIGSOrg]uses%20-.->[MIGSOrg],[WastewaterSludgeMIGSOrg]uses%20-.->[MIGSOrg],[SoilMIGSOrg]uses%20-.->[MIGSOrg],[SedimentMIGSOrg]uses%20-.->[MIGSOrg],[Plant-associatedMIGSOrg]uses%20-.->[MIGSOrg],[MiscellaneousNaturalOrArtificialEnvironmentMIGSOrg]uses%20-.->[MIGSOrg],[MicrobialMatBiofilmMIGSOrg]uses%20-.->[MIGSOrg],[HydrocarbonResources-fluidsSwabsMIGSOrg]uses%20-.->[MIGSOrg],[HydrocarbonResources-coresMIGSOrg]uses%20-.->[MIGSOrg],[Human-vaginalMIGSOrg]uses%20-.->[MIGSOrg],[Human-skinMIGSOrg]uses%20-.->[MIGSOrg],[Human-oralMIGSOrg]uses%20-.->[MIGSOrg],[Human-gutMIGSOrg]uses%20-.->[MIGSOrg],[Human-associatedMIGSOrg]uses%20-.->[MIGSOrg],[Host-associatedMIGSOrg]uses%20-.->[MIGSOrg],[BuiltEnvironmentMIGSOrg]uses%20-.->[MIGSOrg],[AirMIGSOrg]uses%20-.->[MIGSOrg],[WaterMIGSOrg],[WastewaterSludgeMIGSOrg],[SoilMIGSOrg],[SedimentMIGSOrg],[Plant-associatedMIGSOrg],[MiscellaneousNaturalOrArtificialEnvironmentMIGSOrg],[MicrobialMatBiofilmMIGSOrg],[HydrocarbonResources-fluidsSwabsMIGSOrg],[HydrocarbonResources-coresMIGSOrg],[Human-vaginalMIGSOrg],[Human-skinMIGSOrg],[Human-oralMIGSOrg],[Human-gutMIGSOrg],[Human-associatedMIGSOrg],[Host-associatedMIGSOrg],[BuiltEnvironmentMIGSOrg],[AirMIGSOrg])
 
 ## Mixin for
 
@@ -48,7 +48,7 @@ URI: [mixs.vocab:MIGSOrg](https://w3id.org/mixs/vocab/MIGSOrg)
  * [MIGS org➞assembly_software](MIGS_org_assembly_software.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
  * [MIGS org➞collection_date](MIGS_org_collection_date.md)  <sub>REQ</sub>
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
  * [MIGS org➞compl_score](MIGS_org_compl_score.md)  <sub>OPT</sub>
      * range: 
  * [MIGS org➞compl_software](MIGS_org_compl_software.md)  <sub>OPT</sub>
@@ -99,13 +99,15 @@ URI: [mixs.vocab:MIGSOrg](https://w3id.org/mixs/vocab/MIGSOrg)
      * range: [String](types/String.md)
  * [MIGS org➞ref_db](MIGS_org_ref_db.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
- * [MIGS org➞samp_collect_device](MIGS_org_samp_collect_device.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
  * [MIGS org➞samp_mat_process](MIGS_org_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
  * [MIGS org➞samp_size](MIGS_org_samp_size.md)  <sub>OPT</sub>
      * range: [QuantityValue](QuantityValue.md)
- * [MIGS org➞sample_name](MIGS_org_sample_name.md)  <sub>OPT</sub>
+ * [MIGS org➞sample_collect_device](MIGS_org_sample_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+ * [MIGS org➞sample_collect_method](MIGS_org_sample_collect_method.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+ * [MIGS org➞sample_name](MIGS_org_sample_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
  * [MIGS org➞seq_meth](MIGS_org_seq_meth.md)  <sub>REQ</sub>
      * range: 

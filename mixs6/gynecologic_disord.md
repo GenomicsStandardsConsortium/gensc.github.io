@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | gynecological disorder |
 | **Mappings:** | | MIXS:0000288 |
 | **Comments:** | | Expected value: gynecological disorder |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 9 |
+|  | | Position: 9.0 |
 |  | | This field is used uniquely in: human-vaginal |
 | **Examples:** | | Example(value='', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | architectural structure |
 | **Mappings:** | | MIXS:0000774 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 31 |
+|  | | Position: 31.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='shed', description=None) |
 

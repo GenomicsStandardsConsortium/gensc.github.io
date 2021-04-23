@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | plant growth medium |
 | **Mappings:** | | MIXS:0001057 |
 | **Comments:** | | Expected value: EO or enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='hydroponic plant culture media [EO:0007067]', description=None) |
 

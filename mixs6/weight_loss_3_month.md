@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: weight loss specification;measurement value |
 |  | | Preferred unit: kilogram, gram |
 |  | | Occurrence: 1 |
-|  | | Position: 22 |
+|  | | Position: 22.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='yes;5 kilogram', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | indoor space |
 | **Mappings:** | | MIXS:0000763 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 15 |
+|  | | Position: 15.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='foyer', description=None) |
 

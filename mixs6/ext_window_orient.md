@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | orientations of exterior window |
 | **Mappings:** | | MIXS:0000818 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 97 |
+|  | | Position: 97.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='southwest', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | drug usage |
 | **Mappings:** | | MIXS:0000894 |
 | **Comments:** | | Expected value: drug name;frequency |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 19 |
+|  | | Position: 19.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='Lipitor;2/day', description=None) |
 

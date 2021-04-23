@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: degree Celsius |
 |  | | Occurrence: 1 |
-|  | | Position: 133 |
+|  | | Position: 133.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='5 degree Celsius', description=None) |
 

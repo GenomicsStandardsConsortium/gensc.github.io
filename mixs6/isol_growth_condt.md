@@ -34,7 +34,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | isolation and growth condition |
 | **Comments:** | | Expected value: PMID,DOI or URL |
-|  | | Preferred unit:  |
 |  | | Position: 30.0 |
 | **Examples:** | | Example(value='doi: 10.1016/j.syapm.2018.01.009', description=None) |
 

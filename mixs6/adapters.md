@@ -38,7 +38,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | adapters |
 | **Comments:** | | Expected value: adapter A and B sequence |
-|  | | Preferred unit:  |
 |  | | Position: 48.0 |
 | **Examples:** | | Example(value='AATGATACGGCGACCACCGAGATCTACACGCT;CAAGCAGAAGACGGCATACGAGAT', description=None) |
 

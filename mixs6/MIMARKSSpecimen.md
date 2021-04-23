@@ -7,7 +7,7 @@ Minimal Information about a Marker Specimen: specimen
 URI: [mixs.vocab:MIMARKSSpecimen](https://w3id.org/mixs/vocab/MIMARKSSpecimen)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[QuantityValue]<samp_size%200..1-++[MIMARKSSpecimen&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;lat_lon:string;geo_loc_name:string;collection_date:string;env_broad_scale:string;env_local_scale:string;env_medium:string;env_package:env_package_enum%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;target_gene:string;target_subfragment:string%20%3F;pcr_primers:string%20%3F;mid:string%20%3F;adapters:string%20%3F;pcr_cond:string%20%3F;seq_meth:seq_meth_enum;seq_quality_check:string%20%3F;chimera_check:string%20%3F;assembly_software:string%20%3F;url:string%20%3F;sop:string%20%3F],[WaterMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[WastewaterSludgeMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[SoilMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[SedimentMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Plant-associatedMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[MiscellaneousNaturalOrArtificialEnvironmentMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[MicrobialMatBiofilmMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[HydrocarbonResources-fluidsSwabsMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[HydrocarbonResources-coresMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Human-vaginalMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Human-skinMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Human-oralMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Human-gutMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Human-associatedMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Host-associatedMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[BuiltEnvironmentMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[AirMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[WaterMIMARKSSpecimen],[WastewaterSludgeMIMARKSSpecimen],[SoilMIMARKSSpecimen],[SedimentMIMARKSSpecimen],[Plant-associatedMIMARKSSpecimen],[MiscellaneousNaturalOrArtificialEnvironmentMIMARKSSpecimen],[MicrobialMatBiofilmMIMARKSSpecimen],[HydrocarbonResources-fluidsSwabsMIMARKSSpecimen],[HydrocarbonResources-coresMIMARKSSpecimen],[Human-vaginalMIMARKSSpecimen],[Human-skinMIMARKSSpecimen],[Human-oralMIMARKSSpecimen],[Human-gutMIMARKSSpecimen],[Human-associatedMIMARKSSpecimen],[Host-associatedMIMARKSSpecimen],[BuiltEnvironmentMIMARKSSpecimen],[AirMIMARKSSpecimen])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[QuantityValue]<samp_size%200..1-++[MIMARKSSpecimen&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string;project_name:string;experimental_factor:string%20%3F;lat_lon:string;geo_loc_name:string;collection_date:date;env_broad_scale:string;env_local_scale:string;env_medium:string;env_package:env_package_enum%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;target_gene:string;target_subfragment:string%20%3F;pcr_primers:string%20%3F;mid:string%20%3F;adapters:string%20%3F;pcr_cond:string%20%3F;seq_meth:seq_meth_enum;seq_quality_check:string%20%3F;chimera_check:string%20%3F;assembly_software:string%20%3F;url:string%20%3F;sop:string%20%3F],[WaterMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[WastewaterSludgeMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[SoilMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[SedimentMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Plant-associatedMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[MiscellaneousNaturalOrArtificialEnvironmentMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[MicrobialMatBiofilmMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[HydrocarbonResources-fluidsSwabsMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[HydrocarbonResources-coresMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Human-vaginalMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Human-skinMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Human-oralMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Human-gutMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Human-associatedMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[Host-associatedMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[BuiltEnvironmentMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[AirMIMARKSSpecimen]uses%20-.->[MIMARKSSpecimen],[WaterMIMARKSSpecimen],[WastewaterSludgeMIMARKSSpecimen],[SoilMIMARKSSpecimen],[SedimentMIMARKSSpecimen],[Plant-associatedMIMARKSSpecimen],[MiscellaneousNaturalOrArtificialEnvironmentMIMARKSSpecimen],[MicrobialMatBiofilmMIMARKSSpecimen],[HydrocarbonResources-fluidsSwabsMIMARKSSpecimen],[HydrocarbonResources-coresMIMARKSSpecimen],[Human-vaginalMIMARKSSpecimen],[Human-skinMIMARKSSpecimen],[Human-oralMIMARKSSpecimen],[Human-gutMIMARKSSpecimen],[Human-associatedMIMARKSSpecimen],[Host-associatedMIMARKSSpecimen],[BuiltEnvironmentMIMARKSSpecimen],[AirMIMARKSSpecimen])
 
 ## Mixin for
 
@@ -44,7 +44,7 @@ URI: [mixs.vocab:MIMARKSSpecimen](https://w3id.org/mixs/vocab/MIMARKSSpecimen)
  * [MIMARKS specimen➞chimera_check](MIMARKS_specimen_chimera_check.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
  * [MIMARKS specimen➞collection_date](MIMARKS_specimen_collection_date.md)  <sub>REQ</sub>
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
  * [MIMARKS specimen➞env_broad_scale](MIMARKS_specimen_env_broad_scale.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
  * [MIMARKS specimen➞env_local_scale](MIMARKS_specimen_env_local_scale.md)  <sub>REQ</sub>
@@ -85,13 +85,15 @@ URI: [mixs.vocab:MIMARKSSpecimen](https://w3id.org/mixs/vocab/MIMARKSSpecimen)
      * range: [String](types/String.md)
  * [MIMARKS specimen➞rel_to_oxygen](MIMARKS_specimen_rel_to_oxygen.md)  <sub>OPT</sub>
      * range: 
- * [MIMARKS specimen➞samp_collect_device](MIMARKS_specimen_samp_collect_device.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
  * [MIMARKS specimen➞samp_mat_process](MIMARKS_specimen_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
  * [MIMARKS specimen➞samp_size](MIMARKS_specimen_samp_size.md)  <sub>OPT</sub>
      * range: [QuantityValue](QuantityValue.md)
- * [MIMARKS specimen➞sample_name](MIMARKS_specimen_sample_name.md)  <sub>OPT</sub>
+ * [MIMARKS specimen➞sample_collect_device](MIMARKS_specimen_sample_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+ * [MIMARKS specimen➞sample_collect_method](MIMARKS_specimen_sample_collect_method.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+ * [MIMARKS specimen➞sample_name](MIMARKS_specimen_sample_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
  * [MIMARKS specimen➞seq_meth](MIMARKS_specimen_seq_meth.md)  <sub>REQ</sub>
      * range: 

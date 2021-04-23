@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | floor condition |
 | **Mappings:** | | MIXS:0000803 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 71 |
+|  | | Position: 71.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='new', description=None) |
 

@@ -2,7 +2,7 @@
 # Slot: biol_stat
 
 
-The level of genome modification
+The level of genome modification.
 
 URI: [mixs.vocab:biol_stat](https://w3id.org/mixs/vocab/biol_stat)
 
@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | biological status |
 | **Mappings:** | | MIXS:0000858 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 2 |
+|  | | Position: 2.0 |
 |  | | This field is used in: 2 packages: host-associated, plant-associated |
 | **Examples:** | | Example(value='natural', description=None) |
 

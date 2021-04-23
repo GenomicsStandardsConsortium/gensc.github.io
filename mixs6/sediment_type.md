@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | sediment type |
 | **Mappings:** | | MIXS:0001078 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: sediment |
 | **Examples:** | | Example(value='biogenous', description=None) |
 

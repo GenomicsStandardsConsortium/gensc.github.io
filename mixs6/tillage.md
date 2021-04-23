@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | history/tillage |
 | **Mappings:** | | MIXS:0001081 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 8 |
+|  | | Position: 8.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='chisel', description=None) |
 

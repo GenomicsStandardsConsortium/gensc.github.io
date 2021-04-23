@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | soil_taxonomic/local classification |
 | **Mappings:** | | MIXS:0000330 |
 | **Comments:** | | Expected value: local classification name |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 27 |
+|  | | Position: 27.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

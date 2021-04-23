@@ -112,9 +112,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host phenotype |
 | **Mappings:** | | MIXS:0000874 |
 | **Comments:** | | Expected value: PATO or HP |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 28 |
+|  | | Position: 28.0 |
 |  | | This field is used in: 7 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, plant-associated |
 | **Examples:** | | Example(value='elongated [PATO:0001154]', description=None) |
 

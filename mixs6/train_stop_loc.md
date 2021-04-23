@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | train stop collection location |
 | **Mappings:** | | MIXS:0000839 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 136 |
+|  | | Position: 136.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='end', description=None) |
 

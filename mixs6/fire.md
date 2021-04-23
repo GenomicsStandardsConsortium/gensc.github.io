@@ -9,7 +9,7 @@ URI: [mixs.vocab:fire](https://w3id.org/mixs/vocab/fire)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [Date](types/Date.md)
 
 ## Parents
 
@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | history/fire |
 | **Mappings:** | | MIXS:0001086 |
 | **Comments:** | | Expected value: date |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 9 |
+|  | | Position: 9.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | pH regimen |
 | **Mappings:** | | MIXS:0001056 |
 | **Comments:** | | Expected value: measurement value;treatment interval and duration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='7.6;R2/2018-05-11:T14:30/2018-05-11T19:30/P1H30M', description=None) |
 

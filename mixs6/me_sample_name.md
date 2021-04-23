@@ -9,7 +9,7 @@ URI: [mixs.vocab:ME_sample_name](https://w3id.org/mixs/vocab/ME_sample_name)
 
 ## Domain and Range
 
-[ME](ME.md) ->  <sub>OPT</sub> [String](types/String.md)
+[ME](ME.md) ->  <sub>REQ</sub> [String](types/String.md)
 
 ## Parents
 

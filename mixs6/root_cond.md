@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | rooting conditions |
 | **Mappings:** | | MIXS:0001061 |
 | **Comments:** | | Expected value: PMID,DOI,url or free text |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='http://himedialabs.com/TD/PT158.pdf', description=None) |
 

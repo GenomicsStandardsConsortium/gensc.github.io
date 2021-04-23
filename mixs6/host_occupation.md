@@ -88,9 +88,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host occupation |
 | **Mappings:** | | MIXS:0000896 |
 | **Comments:** | | Expected value: IHMC code |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 24 |
+|  | | Position: 24.0 |
 |  | | This field is used in: 5 packages: human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='veterinary', description=None) |
 

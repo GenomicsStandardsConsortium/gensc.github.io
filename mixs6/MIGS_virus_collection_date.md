@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIGS_virus_collection_date](https://w3id.org/mixs/vocab/MIGS_vi
 
 ## Domain and Range
 
-[MIGSVirus](MIGSVirus.md) ->  <sub>REQ</sub> [String](types/String.md)
+[MIGSVirus](MIGSVirus.md) ->  <sub>REQ</sub> [Date](types/Date.md)
 
 ## Parents
 

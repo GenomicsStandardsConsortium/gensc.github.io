@@ -243,7 +243,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | geographic location (country and/or sea,region) |
 | **Comments:** | | Expected value: country or sea name (INSDC or GAZ);region(GAZ);specific location name |
-|  | | Preferred unit:  |
 |  | | Position: 8.0 |
 | **Examples:** | | Example(value='Germany;North Rhine-Westphalia;Eifel National Park', description=None) |
 | **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/17 |

@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | sample capture status |
 | **Mappings:** | | MIXS:0000860 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 5 |
+|  | | Position: 5.0 |
 |  | | This field is used in: 2 packages: host-associated, plant-associated |
 | **Examples:** | | Example(value='farm sample', description=None) |
 

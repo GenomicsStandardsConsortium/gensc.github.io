@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: square meter |
 |  | | Occurrence: 1 |
-|  | | Position: 40 |
+|  | | Position: 40.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='25 square meter', description=None) |
 

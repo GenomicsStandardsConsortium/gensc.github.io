@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Aliases:** | | texture |
 | **Mappings:** | | MIXS:0000335 |
 | **Comments:** | | Expected value: measurement value |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 35 |
+|  | | Position: 35.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

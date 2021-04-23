@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | wall surface treatment |
 | **Mappings:** | | MIXS:0000845 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 144 |
+|  | | Position: 144.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='paneling', description=None) |
 

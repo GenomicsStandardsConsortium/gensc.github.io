@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host color |
 | **Mappings:** | | MIXS:0000260 |
 | **Comments:** | | Expected value: color |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 33 |
+|  | | Position: 33.0 |
 |  | | This field is used uniquely in: host-associated |
 | **Examples:** | | Example(value='', description=None) |
 

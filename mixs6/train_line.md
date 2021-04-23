@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | train line |
 | **Mappings:** | | MIXS:0000837 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 134 |
+|  | | Position: 134.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='red', description=None) |
 

@@ -31,7 +31,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | propagation |
 | **Comments:** | | Expected value: for virus: lytic, lysogenic, temperate, obligately lytic; for plasmid: incompatibility group; for eukaryote: asexual, sexual |
-|  | | Preferred unit:  |
 |  | | Position: 27.0 |
 | **Examples:** | | Example(value='lytic', description=None) |
 | **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/88 |

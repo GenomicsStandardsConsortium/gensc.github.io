@@ -7,7 +7,7 @@ air
 URI: [mixs.vocab:Air](https://w3id.org/mixs/vocab/Air)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[AirMIUVIG],[AirMISAG],[AirMIMARKSSurvey],[AirMIMARKSSpecimen],[AirMIMAG],[AirMIGSVirus],[AirMIGSPlant],[AirMIGSOrg],[AirMIGSEukaryote],[AirMIGSBacteria],[AirME],[QuantityValue]<wind_speed%200..1-++[Air&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:string%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;chem_administration:string%20%3F;misc_param:string%20%3F;organism_count:organism_count_enum%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;perturbation:string%20%3F;pollutants:string%20%3F;resp_part_matter:string%20%3F;samp_store_dur:string%20%3F;samp_store_loc:string%20%3F;ventilation_type:string%20%3F;volatile_org_comp:string%20%3F;wind_direction:string%20%3F],[QuantityValue]<ventilation_rate%200..1-++[Air],[QuantityValue]<temp%200..1-++[Air],[QuantityValue]<solar_irradiance%200..1-++[Air],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Air],[QuantityValue]<samp_store_temp%200..1-++[Air],[QuantityValue]<samp_salinity%200..1-++[Air],[QuantityValue]<oxygen%200..1-++[Air],[QuantityValue]<methane%200..1-++[Air],[QuantityValue]<humidity%200..1-++[Air],[QuantityValue]<carb_monoxide%200..1-++[Air],[QuantityValue]<carb_dioxide%200..1-++[Air],[QuantityValue]<barometric_press%200..1-++[Air],[QuantityValue]<elev%200..1-++[Air],[QuantityValue]<alt%200..1-++[Air],[Air]^-[AirMIUVIG],[Air]^-[AirMISAG],[Air]^-[AirMIMARKSSurvey],[Air]^-[AirMIMARKSSpecimen],[Air]^-[AirMIMAG],[Air]^-[AirMIGSVirus],[Air]^-[AirMIGSPlant],[Air]^-[AirMIGSOrg],[Air]^-[AirMIGSEukaryote],[Air]^-[AirMIGSBacteria],[Air]^-[AirME])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[AirMIUVIG],[AirMISAG],[AirMIMARKSSurvey],[AirMIMARKSSpecimen],[AirMIMAG],[AirMIGSVirus],[AirMIGSPlant],[AirMIGSOrg],[AirMIGSEukaryote],[AirMIGSBacteria],[AirME],[QuantityValue]<wind_speed%200..1-++[Air&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:date%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;chem_administration:string%20%3F;organism_count:organism_count_enum%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;perturbation:string%20%3F;pollutants:string%20%3F;resp_part_matter:string%20%3F;samp_store_dur:string%20%3F;samp_store_loc:string%20%3F;ventilation_type:string%20%3F;volatile_org_comp:string%20%3F;wind_direction:string%20%3F;misc_param:string%20%3F],[QuantityValue]<ventilation_rate%200..1-++[Air],[QuantityValue]<temp%200..1-++[Air],[QuantityValue]<solar_irradiance%200..1-++[Air],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Air],[QuantityValue]<samp_store_temp%200..1-++[Air],[QuantityValue]<samp_salinity%200..1-++[Air],[QuantityValue]<oxygen%200..1-++[Air],[QuantityValue]<methane%200..1-++[Air],[QuantityValue]<humidity%200..1-++[Air],[QuantityValue]<carb_monoxide%200..1-++[Air],[QuantityValue]<carb_dioxide%200..1-++[Air],[QuantityValue]<barometric_press%200..1-++[Air],[QuantityValue]<elev%200..1-++[Air],[QuantityValue]<alt%200..1-++[Air],[Air]^-[AirMIUVIG],[Air]^-[AirMISAG],[Air]^-[AirMIMARKSSurvey],[Air]^-[AirMIMARKSSpecimen],[Air]^-[AirMIMAG],[Air]^-[AirMIGSVirus],[Air]^-[AirMIGSPlant],[Air]^-[AirMIGSOrg],[Air]^-[AirMIGSEukaryote],[Air]^-[AirMIGSBacteria],[Air]^-[AirME])
 
 ## Children
 
@@ -32,7 +32,7 @@ URI: [mixs.vocab:Air](https://w3id.org/mixs/vocab/Air)
 ### Own
 
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [barometric_press](barometric_press.md)  <sub>OPT</sub>
@@ -53,10 +53,10 @@ URI: [mixs.vocab:Air](https://w3id.org/mixs/vocab/Air)
      * Example: agar [CHEBI:2509];2018-05-11T20:00Z None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [elev](elev.md)  <sub>OPT</sub>

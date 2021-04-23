@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | visual media |
 | **Mappings:** | | MIXS:0000840 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 137 |
+|  | | Position: 137.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='3D scans', description=None) |
 

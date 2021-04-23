@@ -184,9 +184,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | chemical administration |
 | **Mappings:** | | MIXS:0000751 |
 | **Comments:** | | Expected value: CHEBI;timestamp |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 13 packages: air, host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, microbial mat_biofilm, miscellaneous natural or artificial environment, plant-associated, sediment, wastewater_sludge, water |
 | **Examples:** | | Example(value='agar [CHEBI:2509];2018-05-11T20:00Z', description=None) |
 

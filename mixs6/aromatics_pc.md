@@ -54,7 +54,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: name;measurement value |
 |  | | Preferred unit: percent |
 |  | | Occurrence: 1 |
-|  | | Position: 90 |
+|  | | Position: 90.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='', description=None) |
 

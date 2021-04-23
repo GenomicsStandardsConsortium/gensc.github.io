@@ -16,7 +16,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Children
 
- *  [sample_name](sample_name.md)
 
 ## Used by
 

@@ -100,9 +100,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host family relationship |
 | **Mappings:** | | MIXS:0000872 |
 | **Comments:** | | Expected value: relationship type;arbitrary identifier |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 24 |
+|  | | Position: 24.0 |
 |  | | This field is used in: 6 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='offspring;Mussel25', description=None) |
 

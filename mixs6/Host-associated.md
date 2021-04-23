@@ -7,7 +7,7 @@ host-associated
 URI: [mixs.vocab:Host-associated](https://w3id.org/mixs/vocab/Host-associated)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Host-associatedMIUVIG],[Host-associatedMISAG],[Host-associatedMIMARKSSurvey],[Host-associatedMIMARKSSpecimen],[Host-associatedMIMAG],[Host-associatedMIGSVirus],[Host-associatedMIGSPlant],[Host-associatedMIGSOrg],[Host-associatedMIGSEukaryote],[Host-associatedMIGSBacteria],[Host-associatedME],[QuantityValue]<samp_store_temp%200..1-++[Host-associated&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:string%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;ances_data:string%20%3F;biol_stat:biol_stat_enum%20%3F;genetic_mod:string%20%3F;host_common_name:string%20%3F;samp_capt_status:samp_capt_status_enum%20%3F;samp_dis_stage:string%20%3F;host_taxid:string%20%3F;host_subject_id:string%20%3F;host_life_stage:string%20%3F;host_sex:host_sex_enum%20%3F;host_disease_stat:string%20%3F;chem_administration:string%20%3F;host_body_habitat:string%20%3F;host_body_site:string%20%3F;host_body_product:string%20%3F;host_diet:string%20%3F;host_last_meal:string%20%3F;host_growth_cond:string%20%3F;host_substrate:string%20%3F;host_family_relationship:string%20%3F;host_infra_specific_name:string%20%3F;host_infra_specific_rank:string%20%3F;host_genotype:string%20%3F;host_phenotype:string%20%3F;host_color:string%20%3F;host_shape:string%20%3F;gravidity:string%20%3F;perturbation:string%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;organism_count:organism_count_enum%20%3F;samp_store_dur:string%20%3F;samp_store_loc:string%20%3F;misc_param:string%20%3F],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Host-associated],[QuantityValue]<temp%200..1-++[Host-associated],[QuantityValue]<samp_salinity%200..1-++[Host-associated],[QuantityValue]<host_blood_press_syst%200..1-++[Host-associated],[QuantityValue]<host_blood_press_diast%200..1-++[Host-associated],[QuantityValue]<host_dry_mass%200..1-++[Host-associated],[QuantityValue]<host_body_temp%200..1-++[Host-associated],[QuantityValue]<host_length%200..1-++[Host-associated],[QuantityValue]<host_height%200..1-++[Host-associated],[QuantityValue]<host_tot_mass%200..1-++[Host-associated],[QuantityValue]<host_age%200..1-++[Host-associated],[QuantityValue]<elev%200..1-++[Host-associated],[QuantityValue]<alt%200..1-++[Host-associated],[Host-associated]^-[Host-associatedMIUVIG],[Host-associated]^-[Host-associatedMISAG],[Host-associated]^-[Host-associatedMIMARKSSurvey],[Host-associated]^-[Host-associatedMIMARKSSpecimen],[Host-associated]^-[Host-associatedMIMAG],[Host-associated]^-[Host-associatedMIGSVirus],[Host-associated]^-[Host-associatedMIGSPlant],[Host-associated]^-[Host-associatedMIGSOrg],[Host-associated]^-[Host-associatedMIGSEukaryote],[Host-associated]^-[Host-associatedMIGSBacteria],[Host-associated]^-[Host-associatedME])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Host-associatedMIUVIG],[Host-associatedMISAG],[Host-associatedMIMARKSSurvey],[Host-associatedMIMARKSSpecimen],[Host-associatedMIMAG],[Host-associatedMIGSVirus],[Host-associatedMIGSPlant],[Host-associatedMIGSOrg],[Host-associatedMIGSEukaryote],[Host-associatedMIGSBacteria],[Host-associatedME],[QuantityValue]<samp_store_temp%200..1-++[Host-associated&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:date%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;ances_data:string%20%3F;biol_stat:biol_stat_enum%20%3F;genetic_mod:string%20%3F;host_common_name:string%20%3F;samp_capt_status:samp_capt_status_enum%20%3F;samp_dis_stage:samp_dis_stage_enum%20%3F;host_taxid:string%20%3F;host_subject_id:string%20%3F;host_life_stage:string%20%3F;host_sex:host_sex_enum%20%3F;host_disease_stat:string%20%3F;chem_administration:string%20%3F;host_body_habitat:string%20%3F;host_body_site:string%20%3F;host_body_product:string%20%3F;host_diet:string%20%3F;host_last_meal:string%20%3F;host_growth_cond:string%20%3F;host_substrate:string%20%3F;host_family_relationship:string%20%3F;host_infra_specific_name:string%20%3F;host_infra_specific_rank:string%20%3F;host_genotype:string%20%3F;host_phenotype:string%20%3F;host_color:string%20%3F;host_shape:string%20%3F;gravidity:string%20%3F;perturbation:string%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;organism_count:organism_count_enum%20%3F;samp_store_dur:string%20%3F;samp_store_loc:string%20%3F;host_symbiont:string%20%3F;misc_param:string%20%3F],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Host-associated],[QuantityValue]<temp%200..1-++[Host-associated],[QuantityValue]<samp_salinity%200..1-++[Host-associated],[QuantityValue]<host_blood_press_syst%200..1-++[Host-associated],[QuantityValue]<host_blood_press_diast%200..1-++[Host-associated],[QuantityValue]<host_dry_mass%200..1-++[Host-associated],[QuantityValue]<host_body_temp%200..1-++[Host-associated],[QuantityValue]<host_length%200..1-++[Host-associated],[QuantityValue]<host_height%200..1-++[Host-associated],[QuantityValue]<host_tot_mass%200..1-++[Host-associated],[QuantityValue]<host_age%200..1-++[Host-associated],[QuantityValue]<elev%200..1-++[Host-associated],[QuantityValue]<alt%200..1-++[Host-associated],[Host-associated]^-[Host-associatedMIUVIG],[Host-associated]^-[Host-associatedMISAG],[Host-associated]^-[Host-associatedMIMARKSSurvey],[Host-associated]^-[Host-associatedMIMARKSSpecimen],[Host-associated]^-[Host-associatedMIMAG],[Host-associated]^-[Host-associatedMIGSVirus],[Host-associated]^-[Host-associatedMIGSPlant],[Host-associated]^-[Host-associatedMIGSOrg],[Host-associated]^-[Host-associatedMIGSEukaryote],[Host-associated]^-[Host-associatedMIGSBacteria],[Host-associated]^-[Host-associatedME])
 
 ## Children
 
@@ -32,7 +32,7 @@ URI: [mixs.vocab:Host-associated](https://w3id.org/mixs/vocab/Host-associated)
 ### Own
 
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [ances_data](ances_data.md)  <sub>OPT</sub>
@@ -40,7 +40,7 @@ URI: [mixs.vocab:Host-associated](https://w3id.org/mixs/vocab/Host-associated)
      * range: [String](types/String.md)
      * Example: A/3*B None
  * [biol_stat](biol_stat.md)  <sub>OPT</sub>
-     * Description: The level of genome modification
+     * Description: The level of genome modification.
      * range: 
      * Example: natural None
  * [chem_administration](chem_administration.md)  <sub>OPT</sub>
@@ -49,10 +49,10 @@ URI: [mixs.vocab:Host-associated](https://w3id.org/mixs/vocab/Host-associated)
      * Example: agar [CHEBI:2509];2018-05-11T20:00Z None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [elev](elev.md)  <sub>OPT</sub>
@@ -187,6 +187,10 @@ URI: [mixs.vocab:Host-associated](https://w3id.org/mixs/vocab/Host-associated)
      * Description: The growth substrate of the host
      * range: [String](types/String.md)
      * Example: rock None
+ * [host_symbiont](host_symbiont.md)  <sub>OPT</sub>
+     * Description: The taxonomic name of the organism(s) found living in mutualistic, commensalistic, or parasitic symbiosis with the specific host.
+     * range: [String](types/String.md)
+     * Example: flukeworms None
  * [host_taxid](host_taxid.md)  <sub>OPT</sub>
      * Description: NCBI taxon id of the host, e.g. 9606
      * range: [String](types/String.md)
@@ -221,7 +225,7 @@ URI: [mixs.vocab:Host-associated](https://w3id.org/mixs/vocab/Host-associated)
      * Example: farm sample None
  * [samp_dis_stage](samp_dis_stage.md)  <sub>OPT</sub>
      * Description: Stage of the disease at the time of sample collection, e.g. inoculation, penetration, infection, growth and reproduction, dissemination of pathogen.
-     * range: [String](types/String.md)
+     * range: 
      * Example: infection None
  * [samp_salinity](samp_salinity.md)  <sub>OPT</sub>
      * Description: Salinity is the total concentration of all dissolved salts in a liquid or solid (in the form of an extract obtained by centrifugation) sample. While salinity can be measured by a complete chemical analysis, this method is difficult and time consuming. More often, it is instead derived from the conductivity measurement. This is known as practical salinity. These derivations compare the specific conductance of the sample to a salinity standard such as seawater

@@ -39,7 +39,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | experimental factor |
 | **Comments:** | | Expected value: text or EFO and/or OBI |
-|  | | Preferred unit:  |
 |  | | Position: 4.0 |
 | **Examples:** | | Example(value='time series design [EFO:EFO_0001779]', description=None) |
 

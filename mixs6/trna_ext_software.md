@@ -31,7 +31,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | tRNA extraction software |
 | **Comments:** | | Expected value: names and versions of software(s), parameters used |
-|  | | Preferred unit:  |
 |  | | Position: 66.0 |
 | **Examples:** | | Example(value='infernal;v2;default parameters', description=None) |
 

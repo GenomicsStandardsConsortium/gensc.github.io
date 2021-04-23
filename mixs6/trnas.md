@@ -31,7 +31,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | number of standard tRNAs extracted |
 | **Comments:** | | Expected value: value from 0-21 |
-|  | | Preferred unit:  |
 |  | | Position: 65.0 |
 | **Examples:** | | Example(value='18', description=None) |
 

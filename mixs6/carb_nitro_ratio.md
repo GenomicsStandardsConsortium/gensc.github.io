@@ -64,9 +64,8 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Aliases:** | | carbon/nitrogen ratio |
 | **Mappings:** | | MIXS:0000310 |
 | **Comments:** | | Expected value: measurement value |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 3 packages: microbial mat_biofilm, sediment, water |
 | **Examples:** | | Example(value='0.417361111', description=None) |
 

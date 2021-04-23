@@ -72,7 +72,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
  *  [wga_amp_appr](wga_amp_appr.md)
  *  [wga_amp_kit](wga_amp_kit.md)
  *  [x_16s_recover](x_16s_recover.md)
- *  [x_16s_recover_software](x_16s_recover_software.md)
 
 ## Used by
 

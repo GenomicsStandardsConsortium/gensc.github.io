@@ -32,7 +32,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | extrachromosomal elements |
 | **Comments:** | | Expected value: number of extrachromosmal elements |
-|  | | Preferred unit:  |
 |  | | Position: 17.0 |
 | **Examples:** | | Example(value='5', description=None) |
 

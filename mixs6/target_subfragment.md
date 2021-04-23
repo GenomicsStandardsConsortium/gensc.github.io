@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | target subfragment |
 | **Comments:** | | Expected value: gene fragment name |
-|  | | Preferred unit:  |
 |  | | Position: 45.0 |
 | **Examples:** | | Example(value='V6, V9, ITS', description=None) |
 

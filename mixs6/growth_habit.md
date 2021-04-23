@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | growth habit |
 | **Mappings:** | | MIXS:0001044 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='spreading', description=None) |
 

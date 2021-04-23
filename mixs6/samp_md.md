@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: measurement value;enumeration |
 |  | | Preferred unit: meter |
 |  | | Occurrence: 1 |
-|  | | Position: 43 |
+|  | | Position: 43.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-cores |
 | **Examples:** | | Example(value='1534 meter;MSL', description=None) |
 

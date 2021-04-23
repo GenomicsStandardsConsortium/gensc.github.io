@@ -2,7 +2,7 @@
 # Slot: samp_mat_process
 
 
-Any processing applied to the sample during or after retrieving the sample from environment. This field accepts OBI, for a browser of OBI (v 2018-02-12) terms please see http://purl.bioontology.org/ontology/OBI
+A brief description of any processing applied to the sample during or after retrieving the sample from environment, or a link to the relevant protocol(s) performed.
 
 URI: [mixs.vocab:samp_mat_process](https://w3id.org/mixs/vocab/samp_mat_process)
 
@@ -38,8 +38,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 |  |  |  |
 | --- | --- | --- |
 | **Aliases:** | | sample material processing |
-| **Comments:** | | Expected value: text or OBI |
-|  | | Preferred unit:  |
+| **Comments:** | | Expected value: text |
 |  | | Position: 32.0 |
 | **Examples:** | | Example(value='filtering of seawater, storing samples in ethanol', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | ceiling texture |
 | **Mappings:** | | MIXS:0000783 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 45 |
+|  | | Position: 45.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='popcorn', description=None) |
 

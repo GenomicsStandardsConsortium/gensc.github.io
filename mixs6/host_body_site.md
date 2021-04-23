@@ -100,9 +100,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host body site |
 | **Mappings:** | | MIXS:0000867 |
 | **Comments:** | | Expected value: FMA or UBERON |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 15 |
+|  | | Position: 15.0 |
 |  | | This field is used in: 6 packages: host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='gill [UBERON:0002535]', description=None) |
 

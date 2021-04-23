@@ -29,7 +29,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | ploidy |
 | **Comments:** | | Expected value: PATO |
-|  | | Preferred unit:  |
 |  | | Position: 15.0 |
 | **Examples:** | | Example(value='allopolyploidy [PATO:0001379]', description=None) |
 

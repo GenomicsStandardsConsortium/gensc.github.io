@@ -208,9 +208,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | sample storage location |
 | **Mappings:** | | MIXS:0000755 |
 | **Comments:** | | Expected value: location name |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 15 packages: air, host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs, microbial mat_biofilm, miscellaneous natural or artificial environment, plant-associated, sediment, wastewater_sludge, water |
 | **Examples:** | | Example(value='Freezer no:5', description=None) |
 

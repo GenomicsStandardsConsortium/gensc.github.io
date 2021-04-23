@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | sample subtype |
 | **Mappings:** | | MIXS:0000999 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 38 |
+|  | | Position: 38.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='biofilm', description=None) |
 

@@ -9,7 +9,7 @@ URI: [mixs.vocab:MISAG_collection_date](https://w3id.org/mixs/vocab/MISAG_collec
 
 ## Domain and Range
 
-[MISAG](MISAG.md) ->  <sub>REQ</sub> [String](types/String.md)
+[MISAG](MISAG.md) ->  <sub>REQ</sub> [Date](types/Date.md)
 
 ## Parents
 

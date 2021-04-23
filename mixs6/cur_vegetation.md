@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | current vegetation |
 | **Mappings:** | | MIXS:0000312 |
 | **Comments:** | | Expected value: current vegetation type |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 2 |
+|  | | Position: 2.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

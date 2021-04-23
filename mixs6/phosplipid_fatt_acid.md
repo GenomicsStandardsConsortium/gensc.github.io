@@ -78,7 +78,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: phospholipid fatty acid name;measurement value |
 |  | | Preferred unit: mole per gram, mole per liter |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 4 packages: microbial mat_biofilm, miscellaneous natural or artificial environment, sediment, water |
 | **Examples:** | | Example(value='2.98 milligram per liter', description=None) |
 

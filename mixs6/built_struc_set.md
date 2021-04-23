@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | built structure setting |
 | **Mappings:** | | MIXS:0000778 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 38 |
+|  | | Position: 38.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='rural', description=None) |
 

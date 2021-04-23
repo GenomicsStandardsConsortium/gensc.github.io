@@ -34,7 +34,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | relationship to oxygen |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 29.0 |
 | **Examples:** | | Example(value='aerobe', description=None) |
 

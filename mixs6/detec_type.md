@@ -29,7 +29,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | detection type |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 86.0 |
 | **Examples:** | | Example(value='independent sequence (UViG)', description=None) |
 

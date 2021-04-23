@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | storage conditions (fresh/frozen/other) |
 | **Mappings:** | | MIXS:0000327 |
 | **Comments:** | | Expected value: storage condition type;duration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 19 |
+|  | | Position: 19.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='-20 degree Celsius freezer;P2Y10D', description=None) |
 

@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | hydrocarbon resource geological age |
 | **Mappings:** | | MIXS:0000993 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 14 |
+|  | | Position: 14.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='Silurian', description=None) |
 

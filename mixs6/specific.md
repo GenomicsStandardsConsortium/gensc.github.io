@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | specifications |
 | **Mappings:** | | MIXS:0000836 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 132 |
+|  | | Position: 132.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='construction', description=None) |
 

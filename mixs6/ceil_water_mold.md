@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | ceiling signs of water/mold |
 | **Mappings:** | | MIXS:0000781 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 43 |
+|  | | Position: 43.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='presence of mold visible', description=None) |
 

@@ -232,7 +232,6 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | --- | --- | --- |
 | **Aliases:** | | elevation |
 | **Comments:** | | Expected value: measurement value |
-|  | | Preferred unit:  |
 |  | | Position: 7.0 |
 |  | | This field is used in: 9 packages: air, host-associated, hydrocarbon resources-cores, microbial mat_biofilm, miscellaneous natural or artificial environment, plant-associated, sediment, soil, water |
 | **Examples:** | | Example(value='100 meter', description=None) |

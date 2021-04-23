@@ -33,7 +33,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | observed biotic relationship |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Position: 22.0 |
 | **Examples:** | | Example(value='free living', description=None) |
 

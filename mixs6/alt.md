@@ -2,7 +2,7 @@
 # Slot: alt
 
 
-Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
 
 URI: [mixs.vocab:alt](https://w3id.org/mixs/vocab/alt)
 
@@ -232,8 +232,6 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | --- | --- | --- |
 | **Aliases:** | | altitude |
 | **Comments:** | | Expected value: measurement value |
-|  | | Preferred unit:  |
-|  | | Position:  |
 |  | | This field is used in: 3 packages: air, host-associated, miscellaneous natural or artificial environment |
 | **Examples:** | | Example(value='100 meter', description=None) |
 

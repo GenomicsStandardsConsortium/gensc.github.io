@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | amniotic fluid/maternal health status |
 | **Mappings:** | | MIXS:0000273 |
 | **Comments:** | | Expected value: health status |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 37 |
+|  | | Position: 37.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='', description=None) |
 

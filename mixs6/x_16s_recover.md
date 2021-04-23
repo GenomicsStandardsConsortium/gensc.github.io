@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | 16S recovered |
 | **Comments:** | | Expected value: boolean |
-|  | | Preferred unit:  |
 |  | | Position: 63.0 |
 | **Examples:** | | Example(value='yes', description=None) |
 

@@ -243,7 +243,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | local environmental context |
 | **Comments:** | | Expected value: Add terms that identify environmental entities having causal influences upon the entity at time of sampling, multiple terms can be separated by pipes, e.g.: shoreline [ENVO:00000486]|intertidal zone [ENVO:00000316] |
-|  | | Preferred unit:  |
 |  | | Position: 11.0 |
 | **Examples:** | | Example(value='litter layer [ENVO:01000338]', description=None) |
 

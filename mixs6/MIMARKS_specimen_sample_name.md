@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIMARKS_specimen_sample_name](https://w3id.org/mixs/vocab/MIMAR
 
 ## Domain and Range
 
-[MIMARKSSpecimen](MIMARKSSpecimen.md) ->  <sub>OPT</sub> [String](types/String.md)
+[MIMARKSSpecimen](MIMARKSSpecimen.md) ->  <sub>REQ</sub> [String](types/String.md)
 
 ## Parents
 

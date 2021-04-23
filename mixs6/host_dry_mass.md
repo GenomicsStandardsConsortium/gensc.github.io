@@ -54,7 +54,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: kilogram, gram |
 |  | | Occurrence: 1 |
-|  | | Position: 30 |
+|  | | Position: 30.0 |
 |  | | This field is used in: 2 packages: host-associated, plant-associated |
 | **Examples:** | | Example(value='500 gram', description=None) |
 

@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: measurement value;frequency;duration;duration |
 |  | | Preferred unit: milligram per liter |
 |  | | Occurrence: 1 |
-|  | | Position: 33 |
+|  | | Position: 33.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='', description=None) |
 

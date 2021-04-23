@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | escalator count |
 | **Mappings:** | | MIXS:0000800 |
 | **Comments:** | | Expected value: value |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 64 |
+|  | | Position: 64.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='4', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | window type |
 | **Mappings:** | | MIXS:0000856 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 159 |
+|  | | Position: 159.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='fixed window', description=None) |
 

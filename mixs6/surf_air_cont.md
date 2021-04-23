@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | surface-air contaminant |
 | **Mappings:** | | MIXS:0000759 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 2 |
+|  | | Position: 2.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='radon', description=None) |
 

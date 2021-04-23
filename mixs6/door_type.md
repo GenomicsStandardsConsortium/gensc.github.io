@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | door type |
 | **Mappings:** | | MIXS:0000794 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 58 |
+|  | | Position: 58.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='wooden', description=None) |
 

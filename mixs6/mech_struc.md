@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | mechanical structure |
 | **Mappings:** | | MIXS:0000815 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 91 |
+|  | | Position: 91.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='elevator', description=None) |
 

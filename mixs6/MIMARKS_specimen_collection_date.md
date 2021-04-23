@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIMARKS_specimen_collection_date](https://w3id.org/mixs/vocab/M
 
 ## Domain and Range
 
-[MIMARKSSpecimen](MIMARKSSpecimen.md) ->  <sub>REQ</sub> [String](types/String.md)
+[MIMARKSSpecimen](MIMARKSSpecimen.md) ->  <sub>REQ</sub> [Date](types/Date.md)
 
 ## Parents
 

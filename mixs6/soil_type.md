@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | soil type |
 | **Mappings:** | | MIXS:0000332 |
 | **Comments:** | | Expected value: soil type name |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 29 |
+|  | | Position: 29.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

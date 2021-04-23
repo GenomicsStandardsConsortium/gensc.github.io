@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | plant structure |
 | **Mappings:** | | MIXS:0001060 |
 | **Comments:** | | Expected value: PO |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='epidermis [PO:0005679]', description=None) |
 

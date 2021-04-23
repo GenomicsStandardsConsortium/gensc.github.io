@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | season |
 | **Mappings:** | | MIXS:0000829 |
 | **Comments:** | | Expected value: NCIT:C94729 |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 124 |
+|  | | Position: 124.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='autumn [NCIT:C94733]', description=None) |
 

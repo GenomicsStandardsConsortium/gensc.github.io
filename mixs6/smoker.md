@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | smoker |
 | **Mappings:** | | MIXS:0000262 |
 | **Comments:** | | Expected value: smoking status |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 17 |
+|  | | Position: 17.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='yes', description=None) |
 

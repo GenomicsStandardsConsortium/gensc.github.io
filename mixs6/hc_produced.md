@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | hydrocarbon type produced |
 | **Mappings:** | | MIXS:0000989 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 2 |
+|  | | Position: 2.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='Gas', description=None) |
 

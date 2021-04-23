@@ -7,7 +7,7 @@ human-skin
 URI: [mixs.vocab:Human-skin](https://w3id.org/mixs/vocab/Human-skin)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Human-skinMIUVIG],[Human-skinMISAG],[Human-skinMIMARKSSurvey],[Human-skinMIMARKSSpecimen],[Human-skinMIMAG],[Human-skinMIGSVirus],[Human-skinMIGSPlant],[Human-skinMIGSOrg],[Human-skinMIGSEukaryote],[Human-skinMIGSBacteria],[Human-skinME],[QuantityValue]<samp_store_temp%200..1-++[Human-skin&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:string%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;dermatology_disord:string%20%3F;time_since_last_wash:string%20%3F;dominant_hand:dominant_hand_enum%20%3F;host_subject_id:string%20%3F;host_sex:host_sex_enum%20%3F;host_disease_stat:string%20%3F;ihmc_medication_code:string%20%3F;chem_administration:string%20%3F;host_body_site:string%20%3F;host_body_product:string%20%3F;host_diet:string%20%3F;host_last_meal:string%20%3F;host_family_relationship:string%20%3F;host_genotype:string%20%3F;host_phenotype:string%20%3F;ihmc_ethnicity:string%20%3F;host_occupation:string%20%3F;medic_hist_perform:string%20%3F;perturbation:string%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;organism_count:organism_count_enum%20%3F;samp_store_dur:string%20%3F;samp_store_loc:string%20%3F;misc_param:string%20%3F],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Human-skin],[QuantityValue]<temp%200..1-++[Human-skin],[QuantityValue]<samp_salinity%200..1-++[Human-skin],[QuantityValue]<host_pulse%200..1-++[Human-skin],[QuantityValue]<host_body_mass_index%200..1-++[Human-skin],[QuantityValue]<host_body_temp%200..1-++[Human-skin],[QuantityValue]<host_height%200..1-++[Human-skin],[QuantityValue]<host_tot_mass%200..1-++[Human-skin],[QuantityValue]<host_age%200..1-++[Human-skin],[QuantityValue]<elev%200..1-++[Human-skin],[QuantityValue]<alt%200..1-++[Human-skin],[Human-skin]^-[Human-skinMIUVIG],[Human-skin]^-[Human-skinMISAG],[Human-skin]^-[Human-skinMIMARKSSurvey],[Human-skin]^-[Human-skinMIMARKSSpecimen],[Human-skin]^-[Human-skinMIMAG],[Human-skin]^-[Human-skinMIGSVirus],[Human-skin]^-[Human-skinMIGSPlant],[Human-skin]^-[Human-skinMIGSOrg],[Human-skin]^-[Human-skinMIGSEukaryote],[Human-skin]^-[Human-skinMIGSBacteria],[Human-skin]^-[Human-skinME])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[Human-skinMIUVIG],[Human-skinMISAG],[Human-skinMIMARKSSurvey],[Human-skinMIMARKSSpecimen],[Human-skinMIMAG],[Human-skinMIGSVirus],[Human-skinMIGSPlant],[Human-skinMIGSOrg],[Human-skinMIGSEukaryote],[Human-skinMIGSBacteria],[Human-skinME],[QuantityValue]<samp_store_temp%200..1-++[Human-skin&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:date%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;dermatology_disord:string%20%3F;time_since_last_wash:string%20%3F;dominant_hand:dominant_hand_enum%20%3F;host_subject_id:string%20%3F;host_sex:host_sex_enum%20%3F;host_disease_stat:string%20%3F;ihmc_medication_code:string%20%3F;chem_administration:string%20%3F;host_body_site:string%20%3F;host_body_product:string%20%3F;host_diet:string%20%3F;host_last_meal:string%20%3F;host_family_relationship:string%20%3F;host_genotype:string%20%3F;host_phenotype:string%20%3F;ihmc_ethnicity:string%20%3F;host_occupation:string%20%3F;medic_hist_perform:string%20%3F;perturbation:string%20%3F;oxy_stat_samp:oxy_stat_samp_enum%20%3F;organism_count:organism_count_enum%20%3F;samp_store_dur:string%20%3F;samp_store_loc:string%20%3F;host_symbiont:string%20%3F;misc_param:string%20%3F],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Human-skin],[QuantityValue]<temp%200..1-++[Human-skin],[QuantityValue]<samp_salinity%200..1-++[Human-skin],[QuantityValue]<host_pulse%200..1-++[Human-skin],[QuantityValue]<host_body_mass_index%200..1-++[Human-skin],[QuantityValue]<host_body_temp%200..1-++[Human-skin],[QuantityValue]<host_height%200..1-++[Human-skin],[QuantityValue]<host_tot_mass%200..1-++[Human-skin],[QuantityValue]<host_age%200..1-++[Human-skin],[QuantityValue]<elev%200..1-++[Human-skin],[QuantityValue]<alt%200..1-++[Human-skin],[Human-skin]^-[Human-skinMIUVIG],[Human-skin]^-[Human-skinMISAG],[Human-skin]^-[Human-skinMIMARKSSurvey],[Human-skin]^-[Human-skinMIMARKSSpecimen],[Human-skin]^-[Human-skinMIMAG],[Human-skin]^-[Human-skinMIGSVirus],[Human-skin]^-[Human-skinMIGSPlant],[Human-skin]^-[Human-skinMIGSOrg],[Human-skin]^-[Human-skinMIGSEukaryote],[Human-skin]^-[Human-skinMIGSBacteria],[Human-skin]^-[Human-skinME])
 
 ## Children
 
@@ -32,7 +32,7 @@ URI: [mixs.vocab:Human-skin](https://w3id.org/mixs/vocab/Human-skin)
 ### Own
 
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [chem_administration](chem_administration.md)  <sub>OPT</sub>
@@ -41,10 +41,10 @@ URI: [mixs.vocab:Human-skin](https://w3id.org/mixs/vocab/Human-skin)
      * Example: agar [CHEBI:2509];2018-05-11T20:00Z None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [dermatology_disord](dermatology_disord.md)  <sub>OPT</sub>
@@ -139,6 +139,10 @@ URI: [mixs.vocab:Human-skin](https://w3id.org/mixs/vocab/Human-skin)
      * Description: A unique identifier by which each subject can be referred to, de-identified, e.g. #131
      * range: [String](types/String.md)
      * Example: MPI123 None
+ * [host_symbiont](host_symbiont.md)  <sub>OPT</sub>
+     * Description: The taxonomic name of the organism(s) found living in mutualistic, commensalistic, or parasitic symbiosis with the specific host.
+     * range: [String](types/String.md)
+     * Example: flukeworms None
  * [host_tot_mass](host_tot_mass.md)  <sub>OPT</sub>
      * Description: Total mass of the host at collection, the unit depends on host
      * range: [QuantityValue](QuantityValue.md)

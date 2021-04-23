@@ -39,7 +39,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | submitted to insdc |
 | **Comments:** | | Expected value: boolean |
-|  | | Preferred unit:  |
 |  | | Position: 1.0 |
 | **Examples:** | | Example(value='yes', description=None) |
 

@@ -29,7 +29,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | vOTU classification approach |
 | **Comments:** | | Expected value: cutoffs and method used |
-|  | | Preferred unit:  |
 |  | | Position: 87.0 |
 | **Examples:** | | Example(value='95% ANI;85% AF; greedy incremental clustering', description=None) |
 

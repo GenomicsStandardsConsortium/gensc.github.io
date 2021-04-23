@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | source rock kerogen type |
 | **Mappings:** | | MIXS:0000994 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 19 |
+|  | | Position: 19.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-cores |
 | **Examples:** | | Example(value='Type IV', description=None) |
 

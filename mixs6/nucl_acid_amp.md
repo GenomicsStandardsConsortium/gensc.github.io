@@ -39,7 +39,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | nucleic acid amplification |
 | **Comments:** | | Expected value: PMID, DOI or URL |
-|  | | Preferred unit:  |
 |  | | Position: 38.0 |
 | **Examples:** | | Example(value='https://phylogenomics.me/protocols/16s-pcr-protocol/', description=None) |
 

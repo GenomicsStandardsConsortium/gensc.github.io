@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | wall finish material |
 | **Mappings:** | | MIXS:0000842 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 140 |
+|  | | Position: 140.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='wood', description=None) |
 

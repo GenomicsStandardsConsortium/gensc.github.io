@@ -9,7 +9,7 @@ URI: [mixs.vocab:extreme_event](https://w3id.org/mixs/vocab/extreme_event)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [Date](types/Date.md)
 
 ## Parents
 
@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | history/extreme events |
 | **Mappings:** | | MIXS:0000320 |
 | **Comments:** | | Expected value: date |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 11 |
+|  | | Position: 11.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

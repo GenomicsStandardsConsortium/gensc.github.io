@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | biotic regimen |
 | **Mappings:** | | MIXS:0001038 |
 | **Comments:** | | Expected value: free text |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='sample inoculated with Rhizobium spp. Culture', description=None) |
 

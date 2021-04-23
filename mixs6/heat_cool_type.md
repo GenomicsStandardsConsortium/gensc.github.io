@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | heating and cooling system type |
 | **Mappings:** | | MIXS:0000766 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 18 |
+|  | | Position: 18.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='heat pump', description=None) |
 

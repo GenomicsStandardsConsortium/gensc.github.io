@@ -39,7 +39,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | relevant electronic resources |
 | **Comments:** | | Expected value: URL |
-|  | | Preferred unit:  |
 |  | | Position: 92.0 |
 | **Examples:** | | Example(value='http://www.earthmicrobiome.org/', description=None) |
 | **See also:** | | https://github.com/GenomicsStandardsConsortium/mixs/issues/67 |

@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: heavy metal name;measurement value |
 |  | | Preferred unit: microgram per gram |
 |  | | Occurrence: m |
-|  | | Position: 48 |
+|  | | Position: 48.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

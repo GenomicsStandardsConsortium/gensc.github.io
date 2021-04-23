@@ -54,7 +54,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: centimeter, millimeter, meter |
 |  | | Occurrence: 1 |
-|  | | Position: 19 |
+|  | | Position: 19.0 |
 |  | | This field is used in: 2 packages: host-associated, plant-associated |
 | **Examples:** | | Example(value='1 meter', description=None) |
 

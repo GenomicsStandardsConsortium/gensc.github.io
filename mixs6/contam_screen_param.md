@@ -30,7 +30,6 @@ None ->  <sub>OPT</sub>
 | --- | --- | --- |
 | **Aliases:** | | contamination screening parameters |
 | **Comments:** | | Expected value: enumeration;value or name |
-|  | | Preferred unit:  |
 |  | | Position: 72.0 |
 | **Examples:** | | Example(value='kmer', description=None) |
 

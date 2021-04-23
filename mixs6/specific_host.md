@@ -33,7 +33,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | specific host |
 | **Comments:** | | Expected value: host taxid, unknown, environmental |
-|  | | Preferred unit:  |
 |  | | Position: 23.0 |
 | **Examples:** | | Example(value='9606', description=None) |
 

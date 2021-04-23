@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | lithology |
 | **Mappings:** | | MIXS:0000990 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 12 |
+|  | | Position: 12.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='Volcanic', description=None) |
 

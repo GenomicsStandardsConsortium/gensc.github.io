@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | window covering |
 | **Mappings:** | | MIXS:0000850 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 152 |
+|  | | Position: 152.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='curtains', description=None) |
 

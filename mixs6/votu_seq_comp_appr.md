@@ -29,7 +29,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | vOTU sequence comparison approach |
 | **Comments:** | | Expected value: software name, version and relevant parameters |
-|  | | Preferred unit:  |
 |  | | Position: 88.0 |
 | **Examples:** | | Example(value='blastn;2.6.0+;e-value cutoff: 0.001', description=None) |
 

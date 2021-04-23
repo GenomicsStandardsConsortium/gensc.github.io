@@ -33,7 +33,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | size fraction selected |
 | **Comments:** | | Expected value: filter size value range |
-|  | | Preferred unit:  |
 |  | | Position: 33.0 |
 | **Examples:** | | Example(value='0-0.22 micrometer', description=None) |
 

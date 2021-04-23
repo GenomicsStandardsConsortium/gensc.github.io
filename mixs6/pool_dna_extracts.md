@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | pooling of DNA extracts (if done) |
 | **Mappings:** | | MIXS:0000325 |
 | **Comments:** | | Expected value: pooling status;number of pooled extracts |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 18 |
+|  | | Position: 18.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='yes;5', description=None) |
 

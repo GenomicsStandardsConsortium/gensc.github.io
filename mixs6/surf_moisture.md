@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: parts per million, gram per cubic meter, gram per square meter |
 |  | | Occurrence: 1 |
-|  | | Position: 10 |
+|  | | Position: 10.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='0.01 gram per square meter', description=None) |
 

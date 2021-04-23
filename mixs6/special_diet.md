@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | special diet |
 | **Mappings:** | | MIXS:0000905 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 3 |
+|  | | Position: 3.0 |
 |  | | This field is used uniquely in: human-gut |
 | **Examples:** | | Example(value='other:vegan', description=None) |
 

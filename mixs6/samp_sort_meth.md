@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | sample size sorting method |
 | **Mappings:** | | MIXS:0000216 |
 | **Comments:** | | Expected value: description of method |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 22 |
+|  | | Position: 22.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | composite design/sieving (if any) |
 | **Mappings:** | | MIXS:0000322 |
 | **Comments:** | | Expected value: design name and/or size;amount |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 14 |
+|  | | Position: 14.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

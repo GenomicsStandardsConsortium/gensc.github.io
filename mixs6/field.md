@@ -52,9 +52,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | field name |
 | **Mappings:** | | MIXS:0000291 |
 | **Comments:** | | Expected value: name |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 4 |
+|  | | Position: 4.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='', description=None) |
 

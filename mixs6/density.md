@@ -90,7 +90,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: gram per cubic meter, gram per cubic centimeter |
 |  | | Occurrence: 1 |
-|  | | Position: 77 |
+|  | | Position: 77.0 |
 |  | | This field is used in: 5 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs, miscellaneous natural or artificial environment, sediment, water |
 | **Examples:** | | Example(value='1000 kilogram per cubic meter', description=None) |
 

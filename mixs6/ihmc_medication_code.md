@@ -88,9 +88,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | IHMC medication code |
 | **Mappings:** | | MIXS:0000884 |
 | **Comments:** | | Expected value: IHMC code |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 5 |
+|  | | Position: 5.0 |
 |  | | This field is used in: 5 packages: human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='810', description=None) |
 

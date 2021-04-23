@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: pollutant name;measurement value |
 |  | | Preferred unit: gram, mole per liter, milligram per liter, microgram per cubic meter |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: air |
 | **Examples:** | | Example(value='lead;0.15 microgram per cubic meter', description=None) |
 

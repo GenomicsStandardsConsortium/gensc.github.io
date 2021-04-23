@@ -9,7 +9,7 @@ URI: [mixs.vocab:flooding](https://w3id.org/mixs/vocab/flooding)
 
 ## Domain and Range
 
-None ->  <sub>OPT</sub> [String](types/String.md)
+None ->  <sub>OPT</sub> [Date](types/Date.md)
 
 ## Parents
 
@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | history/flooding |
 | **Mappings:** | | MIXS:0000319 |
 | **Comments:** | | Expected value: date |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 10 |
+|  | | Position: 10.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='', description=None) |
 

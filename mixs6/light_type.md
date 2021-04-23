@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | light type |
 | **Mappings:** | | MIXS:0000769 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 21 |
+|  | | Position: 21.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='desk lamp', description=None) |
 

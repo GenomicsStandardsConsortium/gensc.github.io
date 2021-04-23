@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | amniotic fluid/color |
 | **Mappings:** | | MIXS:0000276 |
 | **Comments:** | | Expected value: color |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 39 |
+|  | | Position: 39.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | floor structure |
 | **Mappings:** | | MIXS:0000806 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 75 |
+|  | | Position: 75.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='concrete', description=None) |
 

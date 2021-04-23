@@ -222,7 +222,7 @@ None ->  <sub>OPT</sub>
 | **Comments:** | | Expected value: organism name;measurement value;enumeration |
 |  | | Preferred unit: number of cells per cubic meter, number of cells per milliliter, number of cells per cubic centimeter |
 |  | | Occurrence: m |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 16 packages: air, built environment, host-associated, human-associated, human-gut, human-oral, human-skin, human-vaginal, hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs, microbial mat_biofilm, miscellaneous natural or artificial environment, plant-associated, sediment, wastewater_sludge, water |
 | **Examples:** | | Example(value='total prokaryotes;3.5e7 cells per milliliter;qPCR', description=None) |
 

@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | gravidity |
 | **Mappings:** | | MIXS:0000875 |
 | **Comments:** | | Expected value: gravidity status;timestamp |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 35 |
+|  | | Position: 35.0 |
 |  | | This field is used uniquely in: host-associated |
 | **Examples:** | | Example(value='yes;due date:2018-05-11', description=None) |
 

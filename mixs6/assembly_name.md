@@ -37,7 +37,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | assembly name |
 | **Comments:** | | Expected value: name and version of assembly |
-|  | | Preferred unit:  |
 |  | | Position: 55.0 |
 | **Examples:** | | Example(value='HuRef, JCVI_ISG_i3_1.0', description=None) |
 

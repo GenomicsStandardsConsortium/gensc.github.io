@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [Double](types/Double.md)
 | **Aliases:** | | occupant density at sampling |
 | **Mappings:** | | MIXS:0000217 |
 | **Comments:** | | Expected value: measurement value |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 26 |
+|  | | Position: 26.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='', description=None) |
 

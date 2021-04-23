@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | occupancy documentation |
 | **Mappings:** | | MIXS:0000816 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 95 |
+|  | | Position: 95.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='estimate', description=None) |
 

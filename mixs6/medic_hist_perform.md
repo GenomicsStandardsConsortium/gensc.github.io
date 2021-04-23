@@ -88,9 +88,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | medical history performed |
 | **Mappings:** | | MIXS:0000897 |
 | **Comments:** | | Expected value: true or false |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 28 |
+|  | | Position: 28.0 |
 |  | | This field is used in: 5 packages: human-associated, human-gut, human-oral, human-skin, human-vaginal |
 | **Examples:** | | Example(value='TRUE', description=None) |
 

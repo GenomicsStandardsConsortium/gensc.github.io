@@ -66,7 +66,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: micromole per liter, parts per billion, parts per million |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 3 packages: air, microbial mat_biofilm, sediment |
 | **Examples:** | | Example(value='1800 parts per billion', description=None) |
 

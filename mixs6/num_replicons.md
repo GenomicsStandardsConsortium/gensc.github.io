@@ -31,7 +31,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | number of replicons |
 | **Comments:** | | Expected value: for eukaryotes and bacteria: chromosomes (haploid count); for viruses: segments |
-|  | | Preferred unit:  |
 |  | | Position: 16.0 |
 | **Examples:** | | Example(value='2', description=None) |
 

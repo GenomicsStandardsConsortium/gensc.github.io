@@ -2,7 +2,7 @@
 # Slot: tvdss_of_hcr_pressure
 
 
-True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original pressure was measured (e.g. 1578 m )
+True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original pressure was measured (e.g. 1578 m).
 
 URI: [mixs.vocab:tvdss_of_hcr_pressure](https://w3id.org/mixs/vocab/tvdss_of_hcr_pressure)
 
@@ -54,7 +54,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: meter |
 |  | | Occurrence: 1 |
-|  | | Position: 9 |
+|  | | Position: 9.0 |
 |  | | This field is used in: 2 packages: hydrocarbon resources-cores, hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='', description=None) |
 

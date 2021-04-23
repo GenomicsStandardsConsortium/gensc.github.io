@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | host body habitat |
 | **Mappings:** | | MIXS:0000866 |
 | **Comments:** | | Expected value: free text |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 14 |
+|  | | Position: 14.0 |
 |  | | This field is used uniquely in: host-associated |
 | **Examples:** | | Example(value='nasopharynx', description=None) |
 

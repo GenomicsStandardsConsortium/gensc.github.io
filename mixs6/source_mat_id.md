@@ -39,7 +39,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | source material identifiers |
 | **Comments:** | | Expected value: for cultures of microorganisms: identifiers for two culture collections; for other material a unique arbitrary identifer |
-|  | | Preferred unit:  |
 |  | | Position: 20.0 |
 | **Examples:** | | Example(value='MPI012345', description=None) |
 

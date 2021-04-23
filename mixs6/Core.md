@@ -7,7 +7,7 @@ Core package. Do not use this directly, this is used to build other packages
 URI: [mixs.vocab:Core](https://w3id.org/mixs/vocab/Core)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[QuantityValue]<samp_size%200..1-++[Core&#124;submitted_to_insdc:string%20%3F;investigation_type:investigation_type_enum%20%3F;sample_name:string%20%3F;project_name:string%20%3F;experimental_factor:string%20%3F;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:string%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;ploidy:string%20%3F;num_replicons:string%20%3F;extrachrom_elements:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;health_disease_stat:health_disease_stat_enum%20%3F;trophic_level:trophic_level_enum%20%3F;propagation:string%20%3F;encoded_traits:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;isol_growth_condt:string%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;source_uvig:source_uvig_enum%20%3F;virus_enrich_appr:virus_enrich_appr_enum%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;target_gene:string%20%3F;target_subfragment:string%20%3F;pcr_primers:string%20%3F;mid:string%20%3F;adapters:string%20%3F;pcr_cond:string%20%3F;seq_meth:seq_meth_enum%20%3F;seq_quality_check:string%20%3F;chimera_check:string%20%3F;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string%20%3F;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;x_16s_recover_software:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;compl_appr:compl_appr_enum%20%3F;contam_score:string%20%3F;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;sort_tech:sort_tech_enum%20%3F;single_cell_lysis_appr:single_cell_lysis_appr_enum%20%3F;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string%20%3F;wga_amp_kit:string%20%3F;bin_param:bin_param_enum%20%3F;bin_software:bin_software_enum%20%3F;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;vir_ident_software:string%20%3F;pred_genome_type:pred_genome_type_enum%20%3F;pred_genome_struc:pred_genome_struc_enum%20%3F;detec_type:string%20%3F;votu_class_appr:string%20%3F;votu_seq_comp_appr:string%20%3F;votu_db:string%20%3F;host_pred_appr:host_pred_appr_enum%20%3F;host_pred_est_acc:string%20%3F;url:string%20%3F;sop:string%20%3F],[QuantityValue]<elev%200..1-++[Core],[QuantityValue]<alt%200..1-++[Core])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[QuantityValue]<samp_size%200..1-++[Core&#124;submitted_to_insdc:string%20%3F;investigation_type:investigation_type_enum%20%3F;sample_name:string%20%3F;project_name:string%20%3F;experimental_factor:string%20%3F;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:date%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;env_package:env_package_enum%20%3F;subspecf_gen_lin:string%20%3F;ploidy:string%20%3F;num_replicons:string%20%3F;extrachrom_elements:string%20%3F;estimated_size:string%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;pathogenicity:string%20%3F;biotic_relationship:biotic_relationship_enum%20%3F;specific_host:string%20%3F;host_spec_range:string%20%3F;health_disease_stat:health_disease_stat_enum%20%3F;trophic_level:trophic_level_enum%20%3F;propagation:string%20%3F;encoded_traits:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;isol_growth_condt:string%20%3F;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;source_uvig:source_uvig_enum%20%3F;virus_enrich_appr:virus_enrich_appr_enum%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;target_gene:string%20%3F;target_subfragment:string%20%3F;pcr_primers:string%20%3F;mid:string%20%3F;adapters:string%20%3F;pcr_cond:string%20%3F;seq_meth:seq_meth_enum%20%3F;seq_quality_check:string%20%3F;chimera_check:string%20%3F;tax_ident:tax_ident_enum%20%3F;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string%20%3F;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum%20%3F;compl_software:string%20%3F;compl_appr:compl_appr_enum%20%3F;contam_score:string%20%3F;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;sort_tech:sort_tech_enum%20%3F;single_cell_lysis_appr:single_cell_lysis_appr_enum%20%3F;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string%20%3F;wga_amp_kit:string%20%3F;bin_param:bin_param_enum%20%3F;bin_software:bin_software_enum%20%3F;reassembly_bin:string%20%3F;mag_cov_software:mag_cov_software_enum%20%3F;vir_ident_software:string%20%3F;pred_genome_type:pred_genome_type_enum%20%3F;pred_genome_struc:pred_genome_struc_enum%20%3F;detec_type:string%20%3F;votu_class_appr:string%20%3F;votu_seq_comp_appr:string%20%3F;votu_db:string%20%3F;host_pred_appr:host_pred_appr_enum%20%3F;host_pred_est_acc:string%20%3F;url:string%20%3F;sop:string%20%3F],[QuantityValue]<elev%200..1-++[Core],[QuantityValue]<alt%200..1-++[Core])
 
 ## Attributes
 
@@ -19,7 +19,7 @@ URI: [mixs.vocab:Core](https://w3id.org/mixs/vocab/Core)
      * range: [String](types/String.md)
      * Example: AATGATACGGCGACCACCGAGATCTACACGCT;CAAGCAGAAGACGGCATACGAGAT None
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [annot](annot.md)  <sub>OPT</sub>
@@ -56,7 +56,7 @@ URI: [mixs.vocab:Core](https://w3id.org/mixs/vocab/Core)
      * Example: uchime;v4.1;default parameters None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [compl_appr](compl_appr.md)  <sub>OPT</sub>
      * Description: The approach used to determine the completeness of a given SAG or MAG, which would typically make use of a set of conserved marker genes or a closely related reference genome. For UViG completeness, include reference genome or group used, and contig feature suggesting a complete genome
@@ -87,7 +87,7 @@ URI: [mixs.vocab:Core](https://w3id.org/mixs/vocab/Core)
      * range: 
      * Example: anvi'o None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [detec_type](detec_type.md)  <sub>OPT</sub>
@@ -258,22 +258,26 @@ URI: [mixs.vocab:Core](https://w3id.org/mixs/vocab/Core)
      * Description: Is this organism an aerobe, anaerobe? Please note that aerobic and anaerobic are valid descriptors for microbial environments
      * range: 
      * Example: aerobe None
- * [samp_collect_device](samp_collect_device.md)  <sub>OPT</sub>
-     * Description: The method or device employed for collecting the sample
-     * range: [String](types/String.md)
-     * Example: environmental swab sampling, biopsy, niskin bottle, push core None
  * [samp_mat_process](samp_mat_process.md)  <sub>OPT</sub>
-     * Description: Any processing applied to the sample during or after retrieving the sample from environment. This field accepts OBI, for a browser of OBI (v 2018-02-12) terms please see http://purl.bioontology.org/ontology/OBI
+     * Description: A brief description of any processing applied to the sample during or after retrieving the sample from environment, or a link to the relevant protocol(s) performed.
      * range: [String](types/String.md)
      * Example: filtering of seawater, storing samples in ethanol None
  * [samp_size](samp_size.md)  <sub>OPT</sub>
      * Description: Amount or size of sample (volume, mass or area) that was collected
      * range: [QuantityValue](QuantityValue.md)
      * Example: 5 liter None
+ * [sample_collect_device](sample_collect_device.md)  <sub>OPT</sub>
+     * Description: The device used to collect an environmental sample. This field accepts terms listed under environmental sampling device (http://purl.obolibrary.org/obo/ENVO). This field also accepts terms listed under specimen collection device (http://purl.obolibrary.org/obo/GENEPIO_0002094).
+     * range: [String](types/String.md)
+     * Example: swab, biopsy, niskin bottle, push core, drag swab [GENEPIO:0002713] None
+ * [sample_collect_method](sample_collect_method.md)  <sub>OPT</sub>
+     * Description: The method employed for collecting the sample.
+     * range: [String](types/String.md)
+     * Example: swabbing None
  * [sample_name](sample_name.md)  <sub>OPT</sub>
      * Description: Sample Name is a name that you choose for the sample. It can have any format, but we suggest that you make it concise, unique and consistent within your lab, and as informative as possible. Every Sample Name from a single Submitter must be unique. 
      * range: [String](types/String.md)
-     * Example:  None
+     * Example: ISDsoil1 None
  * [seq_meth](seq_meth.md)  <sub>OPT</sub>
      * Description: Sequencing method used; e.g. Sanger, ABI-solid
      * range: 
@@ -389,7 +393,3 @@ URI: [mixs.vocab:Core](https://w3id.org/mixs/vocab/Core)
      * Description: Can a 16S gene be recovered from the submitted SAG or MAG?
      * range: [String](types/String.md)
      * Example: yes None
- * [x_16s_recover_software](x_16s_recover_software.md)  <sub>OPT</sub>
-     * Description: Tools used for 16S rRNA gene extraction
-     * range: [String](types/String.md)
-     * Example: rambl;v2;default parameters None

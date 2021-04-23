@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | plant sex |
 | **Mappings:** | | MIXS:0001059 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used uniquely in: plant-associated |
 | **Examples:** | | Example(value='Hermaphroditic', description=None) |
 

@@ -66,7 +66,7 @@ None ->  <sub>OPT</sub> [QuantityValue](QuantityValue.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: micromole per liter |
 |  | | Occurrence: 1 |
-|  | | Position: 1 |
+|  | | Position: 1.0 |
 |  | | This field is used in: 3 packages: microbial mat_biofilm, sediment, water |
 | **Examples:** | | Example(value='0.05 micromole per liter', description=None) |
 

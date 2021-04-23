@@ -9,7 +9,7 @@ URI: [mixs.vocab:MIGS_plant_collection_date](https://w3id.org/mixs/vocab/MIGS_pl
 
 ## Domain and Range
 
-[MIGSPlant](MIGSPlant.md) ->  <sub>REQ</sub> [String](types/String.md)
+[MIGSPlant](MIGSPlant.md) ->  <sub>REQ</sub> [Date](types/Date.md)
 
 ## Parents
 

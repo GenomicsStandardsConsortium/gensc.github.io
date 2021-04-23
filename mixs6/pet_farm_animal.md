@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | presence of pets or farm animals |
 | **Mappings:** | | MIXS:0000267 |
 | **Comments:** | | Expected value: presence status;type of animal or pet |
-|  | | Preferred unit:  |
 |  | | Occurrence: m |
-|  | | Position: 25 |
+|  | | Position: 25.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='yes; 5 cats', description=None) |
 

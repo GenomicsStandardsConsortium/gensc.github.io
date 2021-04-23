@@ -7,7 +7,7 @@ Metagenome or Environmental
 URI: [mixs.vocab:ME](https://w3id.org/mixs/vocab/ME)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[QuantityValue]<samp_size%200..1-++[ME&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;lat_lon:string;geo_loc_name:string;collection_date:string;env_broad_scale:string;env_local_scale:string;env_medium:string;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string%20%3F;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;url:string%20%3F;sop:string%20%3F],[WaterME]uses%20-.->[ME],[WastewaterSludgeME]uses%20-.->[ME],[SoilME]uses%20-.->[ME],[SedimentME]uses%20-.->[ME],[Plant-associatedME]uses%20-.->[ME],[MiscellaneousNaturalOrArtificialEnvironmentME]uses%20-.->[ME],[MicrobialMatBiofilmME]uses%20-.->[ME],[HydrocarbonResources-fluidsSwabsME]uses%20-.->[ME],[HydrocarbonResources-coresME]uses%20-.->[ME],[Human-vaginalME]uses%20-.->[ME],[Human-skinME]uses%20-.->[ME],[Human-oralME]uses%20-.->[ME],[Human-gutME]uses%20-.->[ME],[Human-associatedME]uses%20-.->[ME],[Host-associatedME]uses%20-.->[ME],[BuiltEnvironmentME]uses%20-.->[ME],[AirME]uses%20-.->[ME],[WaterME],[WastewaterSludgeME],[SoilME],[SedimentME],[Plant-associatedME],[MiscellaneousNaturalOrArtificialEnvironmentME],[MicrobialMatBiofilmME],[HydrocarbonResources-fluidsSwabsME],[HydrocarbonResources-coresME],[Human-vaginalME],[Human-skinME],[Human-oralME],[Human-gutME],[Human-associatedME],[Host-associatedME],[BuiltEnvironmentME],[AirME])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[QuantityValue]<samp_size%200..1-++[ME&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string;project_name:string;experimental_factor:string%20%3F;lat_lon:string;geo_loc_name:string;collection_date:date;env_broad_scale:string;env_local_scale:string;env_medium:string;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;assembly_qual:assembly_qual_enum%20%3F;assembly_name:string%20%3F;assembly_software:string%20%3F;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;url:string%20%3F;sop:string%20%3F],[WaterME]uses%20-.->[ME],[WastewaterSludgeME]uses%20-.->[ME],[SoilME]uses%20-.->[ME],[SedimentME]uses%20-.->[ME],[Plant-associatedME]uses%20-.->[ME],[MiscellaneousNaturalOrArtificialEnvironmentME]uses%20-.->[ME],[MicrobialMatBiofilmME]uses%20-.->[ME],[HydrocarbonResources-fluidsSwabsME]uses%20-.->[ME],[HydrocarbonResources-coresME]uses%20-.->[ME],[Human-vaginalME]uses%20-.->[ME],[Human-skinME]uses%20-.->[ME],[Human-oralME]uses%20-.->[ME],[Human-gutME]uses%20-.->[ME],[Human-associatedME]uses%20-.->[ME],[Host-associatedME]uses%20-.->[ME],[BuiltEnvironmentME]uses%20-.->[ME],[AirME]uses%20-.->[ME],[WaterME],[WastewaterSludgeME],[SoilME],[SedimentME],[Plant-associatedME],[MiscellaneousNaturalOrArtificialEnvironmentME],[MicrobialMatBiofilmME],[HydrocarbonResources-fluidsSwabsME],[HydrocarbonResources-coresME],[Human-vaginalME],[Human-skinME],[Human-oralME],[Human-gutME],[Human-associatedME],[Host-associatedME],[BuiltEnvironmentME],[AirME])
 
 ## Mixin for
 
@@ -48,7 +48,7 @@ URI: [mixs.vocab:ME](https://w3id.org/mixs/vocab/ME)
  * [ME➞assembly_software](ME_assembly_software.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
  * [ME➞collection_date](ME_collection_date.md)  <sub>REQ</sub>
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
  * [ME➞env_broad_scale](ME_env_broad_scale.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
  * [ME➞env_local_scale](ME_env_local_scale.md)  <sub>REQ</sub>
@@ -93,13 +93,15 @@ URI: [mixs.vocab:ME](https://w3id.org/mixs/vocab/ME)
      * range: [String](types/String.md)
  * [ME➞rel_to_oxygen](ME_rel_to_oxygen.md)  <sub>OPT</sub>
      * range: 
- * [ME➞samp_collect_device](ME_samp_collect_device.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
  * [ME➞samp_mat_process](ME_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
  * [ME➞samp_size](ME_samp_size.md)  <sub>OPT</sub>
      * range: [QuantityValue](QuantityValue.md)
- * [ME➞sample_name](ME_sample_name.md)  <sub>OPT</sub>
+ * [ME➞sample_collect_device](ME_sample_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+ * [ME➞sample_collect_method](ME_sample_collect_method.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+ * [ME➞sample_name](ME_sample_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
  * [ME➞seq_meth](ME_seq_meth.md)  <sub>REQ</sub>
      * range: 

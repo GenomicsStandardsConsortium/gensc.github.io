@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: measurement value |
 |  | | Preferred unit: square feet, square meter |
 |  | | Occurrence: 1 |
-|  | | Position: 110 |
+|  | | Position: 110.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='', description=None) |
 

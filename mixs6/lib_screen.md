@@ -38,7 +38,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | library screening strategy |
 | **Comments:** | | Expected value: screening strategy name |
-|  | | Preferred unit:  |
 |  | | Position: 43.0 |
 | **Examples:** | | Example(value='enriched, screened, normalized', description=None) |
 

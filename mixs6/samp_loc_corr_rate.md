@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: measurement value range |
 |  | | Preferred unit: millimeter per year |
 |  | | Occurrence: 1 |
-|  | | Position: 34 |
+|  | | Position: 34.0 |
 |  | | This field is used uniquely in: hydrocarbon resources-fluids_swabs |
 | **Examples:** | | Example(value='', description=None) |
 

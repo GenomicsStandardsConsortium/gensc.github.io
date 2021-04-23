@@ -42,7 +42,7 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Comments:** | | Expected value: agrochemical name;agrochemical amount;timestamp |
 |  | | Preferred unit: gram, mole per liter, milligram per liter |
 |  | | Occurrence: m |
-|  | | Position: 7 |
+|  | | Position: 7.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='roundup;5 milligram per liter;2018-06-21', description=None) |
 

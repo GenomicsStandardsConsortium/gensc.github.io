@@ -7,7 +7,7 @@ Combinatorial checklist Minimum Information About a Single Amplified Genome with
 URI: [mixs.vocab:AirMISAG](https://w3id.org/mixs/vocab/AirMISAG)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[AirMISAG&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string%20%3F;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;samp_collect_device:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;x_16s_recover_software:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum;compl_software:string;compl_appr:compl_appr_enum%20%3F;contam_score:string;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;sort_tech:sort_tech_enum;single_cell_lysis_appr:single_cell_lysis_appr_enum;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string;wga_amp_kit:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):string%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;chem_administration(i):string%20%3F;misc_param(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;perturbation(i):string%20%3F;pollutants(i):string%20%3F;resp_part_matter(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;ventilation_type(i):string%20%3F;volatile_org_comp(i):string%20%3F;wind_direction(i):string%20%3F]uses%20-.->[MISAG],[Air]^-[AirMISAG],[Air],[MISAG])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[QuantityValue],[AirMISAG&#124;submitted_to_insdc:string;investigation_type:investigation_type_enum;sample_name:string;project_name:string;experimental_factor:string%20%3F;env_package:env_package_enum%20%3F;ref_biomaterial:string%20%3F;source_mat_id:string%20%3F;rel_to_oxygen:rel_to_oxygen_enum%20%3F;sample_collect_device:string%20%3F;sample_collect_method:string%20%3F;samp_mat_process:string%20%3F;size_frac:string%20%3F;nucl_acid_ext:string%20%3F;nucl_acid_amp:string%20%3F;lib_size:string%20%3F;lib_reads_seqd:string%20%3F;lib_layout:lib_layout_enum%20%3F;lib_vector:string%20%3F;lib_screen:string%20%3F;mid:string%20%3F;adapters:string%20%3F;seq_meth:seq_meth_enum;tax_ident:tax_ident_enum;assembly_qual:assembly_qual_enum;assembly_name:string%20%3F;assembly_software:string;annot:string%20%3F;number_contig:string%20%3F;feat_pred:string%20%3F;ref_db:string%20%3F;sim_search_meth:string%20%3F;tax_class:string%20%3F;x_16s_recover:string%20%3F;trnas:string%20%3F;trna_ext_software:string%20%3F;compl_score:compl_score_enum;compl_software:string;compl_appr:compl_appr_enum%20%3F;contam_score:string;contam_screen_input:string%20%3F;contam_screen_param:contam_screen_param_enum%20%3F;decontam_software:decontam_software_enum%20%3F;sort_tech:sort_tech_enum;single_cell_lysis_appr:single_cell_lysis_appr_enum;single_cell_lysis_prot:string%20%3F;wga_amp_appr:string;wga_amp_kit:string%20%3F;url:string%20%3F;sop:string%20%3F;lat_lon(i):string%20%3F;depth(i):string%20%3F;geo_loc_name(i):string%20%3F;collection_date(i):date%20%3F;env_broad_scale(i):string%20%3F;env_local_scale(i):string%20%3F;env_medium(i):string%20%3F;chem_administration(i):string%20%3F;organism_count(i):organism_count_enum%20%3F;oxy_stat_samp(i):oxy_stat_samp_enum%20%3F;perturbation(i):string%20%3F;pollutants(i):string%20%3F;resp_part_matter(i):string%20%3F;samp_store_dur(i):string%20%3F;samp_store_loc(i):string%20%3F;ventilation_type(i):string%20%3F;volatile_org_comp(i):string%20%3F;wind_direction(i):string%20%3F;misc_param(i):string%20%3F]uses%20-.->[MISAG],[Air]^-[AirMISAG],[Air],[MISAG])
 
 ## Parents
 
@@ -23,7 +23,7 @@ URI: [mixs.vocab:AirMISAG](https://w3id.org/mixs/vocab/AirMISAG)
 ### Inherited from air:
 
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [barometric_press](barometric_press.md)  <sub>OPT</sub>
@@ -44,10 +44,10 @@ URI: [mixs.vocab:AirMISAG](https://w3id.org/mixs/vocab/AirMISAG)
      * Example: agar [CHEBI:2509];2018-05-11T20:00Z None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [elev](elev.md)  <sub>OPT</sub>
@@ -306,11 +306,6 @@ URI: [mixs.vocab:AirMISAG](https://w3id.org/mixs/vocab/AirMISAG)
 
 ### Mixed in from MISAG:
 
- * [MISAG➞samp_collect_device](MISAG_samp_collect_device.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
-
-### Mixed in from MISAG:
-
  * [MISAG➞samp_mat_process](MISAG_samp_mat_process.md)  <sub>OPT</sub>
      * range: [String](types/String.md)
 
@@ -321,7 +316,17 @@ URI: [mixs.vocab:AirMISAG](https://w3id.org/mixs/vocab/AirMISAG)
 
 ### Mixed in from MISAG:
 
- * [MISAG➞sample_name](MISAG_sample_name.md)  <sub>OPT</sub>
+ * [MISAG➞sample_collect_device](MISAG_sample_collect_device.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MISAG:
+
+ * [MISAG➞sample_collect_method](MISAG_sample_collect_method.md)  <sub>OPT</sub>
+     * range: [String](types/String.md)
+
+### Mixed in from MISAG:
+
+ * [MISAG➞sample_name](MISAG_sample_name.md)  <sub>REQ</sub>
      * range: [String](types/String.md)
 
 ### Mixed in from MISAG:
@@ -407,9 +412,4 @@ URI: [mixs.vocab:AirMISAG](https://w3id.org/mixs/vocab/AirMISAG)
 ### Mixed in from MISAG:
 
  * [MISAG➞x_16s_recover](MISAG_x_16s_recover.md)  <sub>OPT</sub>
-     * range: [String](types/String.md)
-
-### Mixed in from MISAG:
-
- * [MISAG➞x_16s_recover_software](MISAG_x_16s_recover_software.md)  <sub>OPT</sub>
      * range: [String](types/String.md)

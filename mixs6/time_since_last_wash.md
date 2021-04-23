@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | time since last wash |
 | **Mappings:** | | MIXS:0000943 |
 | **Comments:** | | Expected value: duration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 2 |
+|  | | Position: 2.0 |
 |  | | This field is used uniquely in: human-skin |
 | **Examples:** | | Example(value='P1D', description=None) |
 

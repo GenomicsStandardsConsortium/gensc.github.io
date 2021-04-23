@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub>
 | **Aliases:** | | profile position |
 | **Mappings:** | | MIXS:0001084 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 33 |
+|  | | Position: 33.0 |
 |  | | This field is used uniquely in: soil |
 | **Examples:** | | Example(value='summit', description=None) |
 

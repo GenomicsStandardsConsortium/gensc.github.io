@@ -29,7 +29,6 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | --- | --- | --- |
 | **Aliases:** | | host prediction estimated accuracy |
 | **Comments:** | | Expected value: false discovery rate |
-|  | | Preferred unit:  |
 |  | | Position: 91.0 |
 | **Examples:** | | Example(value='CRISPR spacer match: 0 or 1 mismatches, estimated 8% FDR at the host genus rank (Edwards et al. 2016 doi:10.1093/femsre/fuv048)', description=None) |
 

@@ -7,7 +7,7 @@ soil
 URI: [mixs.vocab:Soil](https://w3id.org/mixs/vocab/Soil)
 
 
-![img](http://yuml.me/diagram/nofunky;dir:TB/class/[SoilMIUVIG],[SoilMISAG],[SoilMIMARKSSurvey],[SoilMIMARKSSpecimen],[SoilMIMAG],[SoilMIGSVirus],[SoilMIGSPlant],[SoilMIGSOrg],[SoilMIGSEukaryote],[SoilMIGSBacteria],[SoilME],[QuantityValue]<al_sat%200..1-++[Soil&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:string%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;cur_land_use:cur_land_use_enum%20%3F;cur_vegetation:string%20%3F;cur_vegetation_meth:string%20%3F;previous_land_use:string%20%3F;previous_land_use_meth:string%20%3F;crop_rotation:string%20%3F;agrochem_addition:string%20%3F;tillage:tillage_enum%20%3F;fire:string%20%3F;flooding:string%20%3F;extreme_event:string%20%3F;horizon:horizon_enum%20%3F;horizon_meth:string%20%3F;sieving:string%20%3F;water_content_soil_meth:string%20%3F;pool_dna_extracts:string%20%3F;store_cond:string%20%3F;link_climate_info:string%20%3F;link_class_info:string%20%3F;fao_class:fao_class_enum%20%3F;local_class:string%20%3F;local_class_meth:string%20%3F;soil_type:string%20%3F;soil_type_meth:string%20%3F;profile_position:profile_position_enum%20%3F;drainage_class:drainage_class_enum%20%3F;texture_meth:string%20%3F;ph:double%20%3F;ph_meth:string%20%3F;tot_org_c_meth:string%20%3F;tot_nitro_content_meth:string%20%3F;microbial_biomass_meth:string%20%3F;link_addit_analys:string%20%3F;salinity_meth:string%20%3F;heavy_metals:string%20%3F;heavy_metals_meth:string%20%3F;al_sat_meth:string%20%3F;misc_param:string%20%3F],[QuantityValue]<extreme_salinity%200..1-++[Soil],[QuantityValue]<microbial_biomass%200..1-++[Soil],[QuantityValue]<tot_nitro_content%200..1-++[Soil],[QuantityValue]<tot_org_carb%200..1-++[Soil],[QuantityValue]<texture%200..1-++[Soil],[QuantityValue]<slope_aspect%200..1-++[Soil],[QuantityValue]<slope_gradient%200..1-++[Soil],[QuantityValue]<season_precpt%200..1-++[Soil],[QuantityValue]<annual_precpt%200..1-++[Soil],[QuantityValue]<season_temp%200..1-++[Soil],[QuantityValue]<annual_temp%200..1-++[Soil],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Soil],[QuantityValue]<water_content%200..1-++[Soil],[QuantityValue]<elev%200..1-++[Soil],[QuantityValue]<alt%200..1-++[Soil],[Soil]^-[SoilMIUVIG],[Soil]^-[SoilMISAG],[Soil]^-[SoilMIMARKSSurvey],[Soil]^-[SoilMIMARKSSpecimen],[Soil]^-[SoilMIMAG],[Soil]^-[SoilMIGSVirus],[Soil]^-[SoilMIGSPlant],[Soil]^-[SoilMIGSOrg],[Soil]^-[SoilMIGSEukaryote],[Soil]^-[SoilMIGSBacteria],[Soil]^-[SoilME],[QuantityValue])
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/[SoilMIUVIG],[SoilMISAG],[SoilMIMARKSSurvey],[SoilMIMARKSSpecimen],[SoilMIMAG],[SoilMIGSVirus],[SoilMIGSPlant],[SoilMIGSOrg],[SoilMIGSEukaryote],[SoilMIGSBacteria],[SoilME],[QuantityValue]<al_sat%200..1-++[Soil&#124;lat_lon:string%20%3F;depth:string%20%3F;geo_loc_name:string%20%3F;collection_date:date%20%3F;env_broad_scale:string%20%3F;env_local_scale:string%20%3F;env_medium:string%20%3F;cur_land_use:cur_land_use_enum%20%3F;cur_vegetation:string%20%3F;cur_vegetation_meth:string%20%3F;previous_land_use:string%20%3F;previous_land_use_meth:string%20%3F;crop_rotation:string%20%3F;agrochem_addition:string%20%3F;tillage:tillage_enum%20%3F;fire:date%20%3F;flooding:date%20%3F;extreme_event:date%20%3F;horizon:horizon_enum%20%3F;horizon_meth:string%20%3F;sieving:string%20%3F;water_content_soil_meth:string%20%3F;pool_dna_extracts:string%20%3F;store_cond:string%20%3F;link_climate_info:string%20%3F;link_class_info:string%20%3F;fao_class:fao_class_enum%20%3F;local_class:string%20%3F;local_class_meth:string%20%3F;soil_type:string%20%3F;soil_type_meth:string%20%3F;profile_position:profile_position_enum%20%3F;drainage_class:drainage_class_enum%20%3F;texture_meth:string%20%3F;ph:double%20%3F;ph_meth:string%20%3F;tot_org_c_meth:string%20%3F;tot_nitro_content_meth:string%20%3F;microbial_biomass_meth:string%20%3F;link_addit_analys:string%20%3F;salinity_meth:string%20%3F;heavy_metals:string%20%3F;heavy_metals_meth:string%20%3F;al_sat_meth:string%20%3F;misc_param:string%20%3F],[QuantityValue]<extreme_salinity%200..1-++[Soil],[QuantityValue]<microbial_biomass%200..1-++[Soil],[QuantityValue]<tot_nitro_content%200..1-++[Soil],[QuantityValue]<tot_org_carb%200..1-++[Soil],[QuantityValue]<texture%200..1-++[Soil],[QuantityValue]<slope_aspect%200..1-++[Soil],[QuantityValue]<slope_gradient%200..1-++[Soil],[QuantityValue]<season_precpt%200..1-++[Soil],[QuantityValue]<annual_precpt%200..1-++[Soil],[QuantityValue]<season_temp%200..1-++[Soil],[QuantityValue]<annual_temp%200..1-++[Soil],[QuantityValue]<samp_vol_we_dna_ext%200..1-++[Soil],[QuantityValue]<water_content%200..1-++[Soil],[QuantityValue]<elev%200..1-++[Soil],[QuantityValue]<alt%200..1-++[Soil],[Soil]^-[SoilMIUVIG],[Soil]^-[SoilMISAG],[Soil]^-[SoilMIMARKSSurvey],[Soil]^-[SoilMIMARKSSpecimen],[Soil]^-[SoilMIMAG],[Soil]^-[SoilMIGSVirus],[Soil]^-[SoilMIGSPlant],[Soil]^-[SoilMIGSOrg],[Soil]^-[SoilMIGSEukaryote],[Soil]^-[SoilMIGSBacteria],[Soil]^-[SoilME],[QuantityValue])
 
 ## Children
 
@@ -44,7 +44,7 @@ URI: [mixs.vocab:Soil](https://w3id.org/mixs/vocab/Soil)
      * range: [String](types/String.md)
      * Example:  None
  * [alt](alt.md)  <sub>OPT</sub>
-     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth‚Äôs surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
+     * Description: Altitude is a term used to identify heights of objects such as airplanes, space shuttles, rockets, atmospheric balloons and heights of places such as atmospheric layers and clouds. It is used to measure the height of an object which is above the earth's surface. In this context, the altitude measurement is the vertical distance between the earth's surface above sea level and the sampled position in the air
      * range: [QuantityValue](QuantityValue.md)
      * Example: 100 meter None
  * [annual_precpt](annual_precpt.md)  <sub>OPT</sub>
@@ -57,7 +57,7 @@ URI: [mixs.vocab:Soil](https://w3id.org/mixs/vocab/Soil)
      * Example: 12.5 degree Celsius None
  * [collection_date](collection_date.md)  <sub>OPT</sub>
      * Description: The time of sampling, either as an instance (single point in time) or interval. In case no exact time is available, the date/time can be right truncated i.e. all of these are valid times: 2008-01-23T19:23:10+00:00; 2008-01-23T19:23:10; 2008-01-23; 2008-01; 2008; Except: 2008-01; 2008 all are ISO8601 compliant
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example: 2018-05-11T10:00:00+01:00 None
  * [crop_rotation](crop_rotation.md)  <sub>OPT</sub>
      * Description: Whether or not crop is rotated, and if yes, rotation schedule
@@ -76,7 +76,7 @@ URI: [mixs.vocab:Soil](https://w3id.org/mixs/vocab/Soil)
      * range: [String](types/String.md)
      * Example:  None
  * [depth](depth.md)  <sub>OPT</sub>
-     * Description: Please refer to the definitions of depth in the environmental packages
+     * Description: The vertical distance below local surface, e.g. For sediment or soil samples depth is measured from sediment or soil surface, respectively. Depth can be reported as an interval for subsurface samples.
      * range: [String](types/String.md)
      * Example:  None
  * [drainage_class](drainage_class.md)  <sub>OPT</sub>
@@ -101,7 +101,7 @@ URI: [mixs.vocab:Soil](https://w3id.org/mixs/vocab/Soil)
      * Example: soil [ENVO:00001998] None
  * [extreme_event](extreme_event.md)  <sub>OPT</sub>
      * Description: Unusual physical events that may have affected microbial populations
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example:  None
  * [extreme_salinity](extreme_salinity.md)  <sub>OPT</sub>
      * Description: Measured salinity
@@ -113,11 +113,11 @@ URI: [mixs.vocab:Soil](https://w3id.org/mixs/vocab/Soil)
      * Example: Luvisols None
  * [fire](fire.md)  <sub>OPT</sub>
      * Description: Historical and/or physical evidence of fire
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example:  None
  * [flooding](flooding.md)  <sub>OPT</sub>
      * Description: Historical and/or physical evidence of flooding
-     * range: [String](types/String.md)
+     * range: [Date](types/Date.md)
      * Example:  None
  * [geo_loc_name](geo_loc_name.md)  <sub>OPT</sub>
      * Description: The geographical origin of the sample as defined by the country or sea name followed by specific region name. Country or sea names should be chosen from the INSDC country list (http://insdc.org/country.html), or the GAZ ontology (v 1.512) (http://purl.bioontology.org/ontology/GAZ)

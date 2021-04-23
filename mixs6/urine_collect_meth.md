@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [String](types/String.md)
 | **Aliases:** | | urine/collection method |
 | **Mappings:** | | MIXS:0000899 |
 | **Comments:** | | Expected value: enumeration |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 43 |
+|  | | Position: 43.0 |
 |  | | This field is used uniquely in: human-associated |
 | **Examples:** | | Example(value='catheter', description=None) |
 

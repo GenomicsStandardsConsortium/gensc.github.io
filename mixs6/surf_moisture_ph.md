@@ -40,9 +40,8 @@ None ->  <sub>OPT</sub> [Double](types/Double.md)
 | **Aliases:** | | surface moisture pH |
 | **Mappings:** | | MIXS:0000760 |
 | **Comments:** | | Expected value: measurement value |
-|  | | Preferred unit:  |
 |  | | Occurrence: 1 |
-|  | | Position: 8 |
+|  | | Position: 8.0 |
 |  | | This field is used uniquely in: built environment |
 | **Examples:** | | Example(value='7', description=None) |
 
