@@ -3,7 +3,12 @@
 
 # GSC Minimum Information about any Sequence (MIxS)
 
-The GSC family of minimum information standards (checklists) – Minimum Information about any (x) Sequence (MIxS)
+The GSC family of minimum information standards (checklists) are collectively referred to as MIxS (Minimum Information about any (x) Sequence).
+
+We have defined a set of core descriptors for genomes, metagenomes and the samples thereof. The intention is to enable the capture of an extended level of metadata to that already captured by the INSDC archives. 
+
+In addition to the sequence related metadata that forms the core of the checklists, we also provide environmental package "extensions" of recomended terms that aim to standardize sets of measurements and observations describing particular sampling events and habitats. These extensions are applicable across any and all of MIxS checklists. 
+
 
 ## Checklists
 
@@ -24,7 +29,7 @@ MIGS and MIMARKS are further divided into additional subchecklists, based on the
 - MIMARKS-SU: MIMARKS-specimen for marker gene sequences from cultured or voucher-identifiable specimens
 
 
-## Core and specific descriptors
+## Core and type-specific descriptors
 All checklists share the same central set of core (Minimum) descriptors, which are:
 - **investigation type**
 - **project name**
