@@ -6,7 +6,8 @@
 
 ## **Upcoming meetings:**
 
-*   [GSC22, Bangkok, Thailand, July 13-17, 2020](meetings/current.html)
+*   [GSC22 Moorea, Nov 9-12, 2021](https://genomicsstandardsconsortium.github.io/GSC22-Moorea/)
+*   [GSC23, Bangkok, Thailand, (Date:TBA), 2022](meetings/planned.html)
 
 ## **Past meetings:**
 
