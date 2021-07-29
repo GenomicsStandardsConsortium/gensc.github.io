@@ -18,6 +18,7 @@ As of release 5.0, the following checklists are under the MIxS umbrella:
 - MIMARKS: Minimum information about a marker gene sequence. see [publication](https://pubmed.ncbi.nlm.nih.gov/21552244/)
 - MISAG: Minimum information about a single amplified genome sequence. see [publication]()
 - MIMAG: Minimum information about a metagenome-assembled genome sequence. see [publication]()
+- MIUViG: Minimum Information about an Uncultivated Virus Genome, see [publication]( https://pubmed.ncbi.nlm.nih.gov/30556814/)
 
 MIGS and MIMARKS are further divided into additional subchecklists, based on the genome sequence in question, or the sequencing type.
 - MIGS-EU: MIGS for eukaryotic genome sequences
@@ -31,13 +32,14 @@ MIGS and MIMARKS are further divided into additional subchecklists, based on the
 
 ## Core and type-specific descriptors
 All checklists share the same central set of core (Minimum) descriptors, which are:
-- **investigation type**
-- **project name**
-- **geographic location (latitude and longitude)**
-- **geographic location (country and/or sea,region)**
-- **collection date**
-- **environment (biome, feature, and material)**
-- **sequencing method**
+- **Project name**
+- **Sample name**
+- **Taxonomy ID of DNA sample**
+- **Geographic location (latitude and longitude)**
+- **Geographic location (country and/or sea,region)**
+- **Collection date**
+- **Environment (biome, feature, and material)**
+- **Sequencing method**
 
 Each checklist is then defined by additional type-specific descriptors. These specific descriptors are summarized below for each checklist and subchecklist. Please note that this summary only includes minimum information for each sequence type, meaning that other conditional and optional descriptors are not included here. 
 
@@ -98,6 +100,11 @@ MIMAG
 - contamination score 
 - binning parameters
 - binning software
+
+MIUViG
+- source of UViGs
+- virus enrichment approach
+
 
 ## Extensions
 In order to encourage more comprehensive metadata inclusion with sequence data the GSC have facilitated the development of many extensions that can be used in addition to the Minimum Information for each checklist. These extensions consist of many recomended terms that have been compiled by experts in the relevant field of research. Explore all the ready made checklist extensions that we have [available](standards/mixs-ext-and-profiles.html).
