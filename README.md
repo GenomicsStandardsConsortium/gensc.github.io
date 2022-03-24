@@ -104,4 +104,16 @@ This GitHub pages site will use the layout and styles from the Jekyll theme, the
 ## To Do
 There are some "projects" that include numerous issue tickets that are hopefully small enough for volunteers to take and do in a reasonably short period of time as and when people have a spare 30mins to work on this website.
 
-There is also a [to-do.md](to-do.md) file with a generic list of things that have not been done yet, eventually @only1chunts will convert these to individual tickets!
+1. The integration of the new MIxS v6 checklists and packages which will be auto generated from the new LinkML MIxS codebase. (https://github.com/GenomicsStandardsConsortium/gensc.github.io/issues/11)
+2. Update the pages under the "Standards" heading  (https://github.com/GenomicsStandardsConsortium/gensc.github.io/issues/2 & https://github.com/GenomicsStandardsConsortium/gensc.github.io/issues/54) currently it has some duplication and the navigation is awkward
+3. the new usage of LinkML as the source of truth (SoT) for the standard should be documented here somewhere.
+4. Update the Funding page (https://github.com/GenomicsStandardsConsortium/gensc.github.io/issues/49)
+5. Update the Board members page with any changes after the annual meeting (https://github.com/GenomicsStandardsConsortium/gensc.github.io/issues/50)
+6. Copy-editing of all text on all pages
+7. Re-organise/format the projects page (https://github.com/GenomicsStandardsConsortium/gensc.github.io/issues/51) (could be done after the initial release)
+8. Website search function to search all of gensc.org (https://github.com/GenomicsStandardsConsortium/gensc.github.io/issues/55) (could be done after the initial release)
+9. A MIxS term quick-lookup function (https://github.com/GenomicsStandardsConsortium/gensc.github.io/issues/60) (could be done after the initial release)
+
+
+
+
