@@ -23,7 +23,7 @@ Current Board Members
     <td><img src="../../images/board/Ramona_Walls-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td><a href=https://www.linkedin.com/in/lynn-schriml-1753609/ target=_blank>Lynn Schriml, University of Maryland</a> (Sept 2009) Treasurer (2010–2015). President (May 2015 –)</td>
+    <td><a href=https://www.linkedin.com/in/lynn-schriml-1753609/ target=_blank>Lynn Schriml</a>, University of Maryland (Sept 2009) Treasurer (2010–2015). President (May 2015 –)</td>
     <td><a href="https://www.linkedin.com/in/scott-tighe-094058a/" target=_blank>Scott Tighe</a>, University of Vermont (2019–). Treasurer (2022- )</td>
     <td><a href="https://www.linkedin.com/in/ramona-walls-41aa7599/" target=_blank>Ramona Walls</a>, Critical Path Institute (2019-) Secretary (2022-) </td>
 </tr>
