@@ -24,8 +24,8 @@ Current Board Members
   </tr>
   <tr>
     <td>Bonnie Hurwitz, University of Arizona (May 2019-)</td>
-    <td>Christopher Hunter, GigaScience (May 2018 -)</td>
-    <td>Emiley Eloe-Fadrosh, DOE JGI (May 2018 -)</td>
+    <td>Christopher Hunter, GigaScience (May 2018-)</td>
+    <td>Emiley Eloe-Fadrosh, DOE JGI (May 2018-)</td>
 </tr>
   <tr>
     <td><img src="../../images/board/Folker_Meyer-400x400.jpg" width="200" height="200" /></td>
@@ -33,9 +33,9 @@ Current Board Members
     <td><img src="../../images/board/Lynn_Schriml-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Folker Meyer, Argonne (August 2009 -). Treasurer (2015 -)</td>
-    <td>Granger Sutton, J. Craig Venter Institute (September 2015 -)</td>
-  <td>Lynn Schriml, University of Maryland (Sept 2009) (Treasurer of GSC (April 2010 – May 2015). President (May 2015 –)</td>
+    <td>Folker Meyer, Argonne (August 2009-). Treasurer (2015-2022)</td>
+    <td>Granger Sutton, J. Craig Venter Institute (September 2015-)</td>
+  <td>Lynn Schriml, University of Maryland (Sept 2009) (Treasurer 2010–2015). President (May 2015 –)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Maria_Chuvochina-400x400.jpg" width="200" height="200" /></td>
@@ -44,7 +44,7 @@ Current Board Members
   </tr>
   <tr>
     <td>Maria Chuvochina, Australian Centre for Ecogenomics (May 2019-)</td>
-    <td>Neil Davies, Berkeley (Sept 2011 -)</td>
+    <td>Neil Davies, Berkeley (Sept 2011-)</td>
     <td>Nikos Kyrpides, DOE JGI (April 2009-)</td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Current Board Members
   <tr>
     <td>Philip Hugenholtz, The University of Queensland (September 2015-)</td>
     <td>Pier Buttigier, MPI for Marine Microbiology, Bremen. (2020 -)</td>
-  <td>Ramona Walls, CyVerse, University of Arizona (February 2019 -)</td>
+    <td>Ramona Walls, CyVerse, University of Arizona (February 2019 -) Secretary (2022-) </td>
   </tr>
   <tr>
     <td><img src="../../images/board/Rob_Finn-400x400.jpg" width="200" height="200" /></td>
@@ -64,16 +64,31 @@ Current Board Members
   </tr>
   <tr>
     <td>Rob Finn, EMBL-EBI (May 2019- )</td>
-    <td>Scott Tighe, University of Vermont (May 2019 – )</td>
+    <td>Scott Tighe, University of Vermont (May 2019 – ). Treasurer (2022 - )</td>
     <td>Susanna Sansone, University of Oxford (April 2009-)</td>
   </tr>
+  <tr>
+    <td><img src="../../images/board/Alice_McHardy-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Scott_Jackson-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Joao_Setubal-400x400.jpg" width="200" height="200" /></td>
+  </tr>
+  <tr>
+    <td>Alice McHardy, [Helmholtz Centre for Infection Research](https://www.helmholtz-hzi.de/en/research/research-topics/bacterial-and-viral-pathogens/computational-biology-of-infection-research/alice-mchardy/) (2022- )</td>
+    <td>Scott Jackson, [NIST](https://www.nist.gov/mml/bbd/microbial-metrology)-[IMMSA](https://www.microbialstandards.org/) (2022 – )</td>
+    <td>Joao Setubal, [Sao Paolo University](http://www.iq.usp.br/setubal/index-en.html) (2022-)</td>
+  </tr> 
+  <tr>
+    <td><img src="../../images/board/Ilene_Mizrachi-400x400.jpg" width="200" height="200" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ilene Mizrachi, NCBI/GenBank. (2009-) Secretary (2019-2022)</td>
+    <td></td>
+    <td></td>
+  </tr>   
 </table>
 
-
-Institutional Liasons to the GSC Board
---------------------------------------
-
-<img src="../../images/board/Ilene_Mizrachi-400x400.jpg" width="200" height="200" /> Ilene Mizrachi (NCBI/GenBank)
 
 Advisory Board members
 ----------------------
