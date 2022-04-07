@@ -23,9 +23,9 @@ Current Board Members
     <td><img src="../../images/board/Ramona_Walls-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Lynn Schriml, University of Maryland (Sept 2009) Treasurer (2010–2015). President (May 2015 –)</td>
-    <td>Scott Tighe, University of Vermont (2019–). Treasurer (2022- )</td>
-    <td>Ramona Walls, CyVerse, University of Arizona (2019-) Secretary (2022-) </td>
+    <td><a href=https://www.linkedin.com/in/lynn-schriml-1753609/ target=_blank>Lynn Schriml, University of Maryland</a> (Sept 2009) Treasurer (2010–2015). President (May 2015 –)</td>
+    <td><a href="https://www.linkedin.com/in/scott-tighe-094058a/" target=_blank>Scott Tighe</a>, University of Vermont (2019–). Treasurer (2022- )</td>
+    <td><a href="https://www.linkedin.com/in/ramona-walls-41aa7599/" target=_blank>Ramona Walls</a>, CyVerse, University of Arizona (2019-) Secretary (2022-) </td>
 </tr>
   <tr>
     <td><img src="../../images/board/Folker_Meyer-400x400.jpg" width="200" height="200" /></td>
@@ -33,9 +33,9 @@ Current Board Members
     <td><img src="../../images/board/Bonnie_Hurwitz-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Folker Meyer, Argonne (2009-). Treasurer (2015-2022)</td>
-    <td>Granger Sutton, J. Craig Venter Institute (2015-)</td>
-    <td>Bonnie Hurwitz, University of Arizona (2019-)</td>
+    <td><a href="https://www.linkedin.com/in/folker-meyer-3849521b9/" target=_blank>Folker Meyer</a>, University of Duisburg-Essen (2009-). Treasurer (2015-2022)</td>
+    <td><a href="https://www.linkedin.com/in/granger-sutton-7844b81/" target=_blank>Granger Sutton</a>, J. Craig Venter Institute (2015-)</td>
+    <td><a href="https://www.linkedin.com/in/bonnie-hurwitz-a1a1911/" target=_blank>Bonnie Hurwitz</a>, University of Arizona (2019-)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Maria_Chuvochina-400x400.jpg" width="200" height="200" /></td>
@@ -43,9 +43,9 @@ Current Board Members
     <td><img src="../../images/board/Nikos_Kyrpides-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Maria Chuvochina, Australian Centre for Ecogenomics (2019-)</td>
-    <td>Neil Davies, Berkeley (2011-)</td>
-    <td>Nikos Kyrpides, DOE JGI (2009-)</td>
+    <td><a href="https://www.linkedin.com/in/maria-chuvochina-4b9555124/" target=_blank>Maria Chuvochina</a>, Australian Centre for Ecogenomics (2019-)</td>
+    <td><a href="https://www.linkedin.com/in/neiltahiti/" target=_blank>Neil Davies</a>, Berkeley (2011-)</td>
+    <td><a href="https://www.linkedin.com/in/nikoskyrpides/" target=_blank>Nikos Kyrpides</a>, DOE JGI (2009-)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Phil_Hugenholtz-400x400.jpg" width="200" height="200" /></td>
@@ -53,9 +53,9 @@ Current Board Members
     <td><img src="../../images/board/Eloe_Fadrosh-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Philip Hugenholtz, The University of Queensland (2015-)</td>
-    <td>Pier Buttigier, MPI for Marine Microbiology, Bremen. (2020 -)</td>
-    <td>Emiley Eloe-Fadrosh, DOE JGI (2018-)</td>
+    <td><a href="https://www.linkedin.com/in/philip-hugenholtz-a91b784/" target=_blank>Philip Hugenholtz</a>, The University of Queensland (2015-)</td>
+    <td><a href="https://www.linkedin.com/in/pier-luigi-buttigieg/" target=_blank>Pier Buttigier</a>, MPI for Marine Microbiology, Bremen. (2020 -)</td>
+    <td><a href="https://www.linkedin.com/in/emiley-eloe-fadrosh-30670996/" target=_blank>Emiley Eloe-Fadrosh</a>, DOE JGI (2018-)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Rob_Finn-400x400.jpg" width="200" height="200" /></td>
@@ -63,9 +63,9 @@ Current Board Members
     <td><img src="../../images/board/Susanna_Sansone-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Rob Finn, EMBL-EBI (2019- )</td>
-    <td>Christopher Hunter, GigaScience (2018-)</td>
-    <td>Susanna Sansone, University of Oxford (2009-)</td>
+    <td><a href="https://www.linkedin.com/in/rob-finn-35a3562/" target=_blank>Rob Finn</a>, EMBL-EBI (2019- )</td>
+    <td><a href="https://www.linkedin.com/in/chr1shunter/" target=_blank>Christopher Hunter</a>, GigaScience (2018-)</td>
+    <td><a href="https://www.linkedin.com/in/sasansone/" target=_blank>Susanna Sansone</a>, University of Oxford (2009-)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Alice_McHardy-400x400.jpg" width="200" height="200" /></td>
@@ -73,9 +73,9 @@ Current Board Members
     <td><img src="../../images/board/Joao_Setubal-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Alice McHardy, <a href="https://www.helmholtz-hzi.de/en/research/research-topics/bacterial-and-viral-pathogens/computational-biology-of-infection-research/alice-mchardy/" target=_blank>Helmholtz Centre for Infection Research</a> (2022- )</td>
-    <td>Scott Jackson, <a href="https://www.nist.gov/mml/bbd/microbial-metrology)-[IMMSA](https://www.microbialstandards.org" target=_blank >NIST</a> (2022 – )</td>
-    <td>Joao Setubal, <a href="http://www.iq.usp.br/setubal/index-en.html" target=_blank>Sao Paolo University</a> (2022-)</td>
+    <td><a href="https://www.helmholtz-hzi.de/en/research/research-topics/bacterial-and-viral-pathogens/computational-biology-of-infection-research/alice-mchardy/" target=_blank>Alice McHardy</a>, Helmholtz Centre for Infection Research (2022- )</td>
+    <td><a href="https://www.linkedin.com/in/scottjackson26/" target=_blank>Scott Jackson</a>, NIST</a> (2022 – )</td>
+    <td><a href="https://www.linkedin.com/in/joao-carlos-setubal-2015734/" target=_blank>Joao Setubal</a>, Sao Paolo University (2022-)</td>
   </tr> 
   <tr>
     <td><img src="../../images/board/Ilene_Mizrachi-400x400.jpg" width="200" height="200" /></td>
@@ -83,7 +83,7 @@ Current Board Members
     <td></td>
   </tr>
   <tr>
-    <td>Ilene Mizrachi, NCBI/GenBank. (2009-) Secretary (2019-2022)</td>
+    <td><a href="https://www.linkedin.com/in/ilene-mizrachi-a7167717/" target=_blank>Ilene Mizrachi</a>, NCBI/GenBank. (2009-) Secretary (2019-2022)</td>
     <td></td>
     <td></td>
   </tr>   
