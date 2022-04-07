@@ -18,24 +18,24 @@ Current Board Members
 ---------------------
 <table style="width:100%">
   <tr>
-    <td><img src="../../images/board/Bonnie_Hurwitz-400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Christopher_Hunter-400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Eloe_Fadrosh-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Lynn_Schriml-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Scott_Tighe-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Ramona_Walls-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Bonnie Hurwitz, University of Arizona (May 2019-)</td>
-    <td>Christopher Hunter, GigaScience (May 2018-)</td>
-    <td>Emiley Eloe-Fadrosh, DOE JGI (May 2018-)</td>
+    <td>Lynn Schriml, University of Maryland (Sept 2009) Treasurer (2010–2015). President (May 2015 –)</td>
+    <td>Scott Tighe, University of Vermont (2019–). Treasurer (2022- )</td>
+    <td>Ramona Walls, CyVerse, University of Arizona (2019-) Secretary (2022-) </td>
 </tr>
   <tr>
     <td><img src="../../images/board/Folker_Meyer-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Granger_Sutton400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Lynn_Schriml-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Bonnie_Hurwitz-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Folker Meyer, Argonne (August 2009-). Treasurer (2015-2022)</td>
-    <td>Granger Sutton, J. Craig Venter Institute (September 2015-)</td>
-  <td>Lynn Schriml, University of Maryland (Sept 2009) (Treasurer 2010–2015). President (May 2015 –)</td>
+    <td>Folker Meyer, Argonne (2009-). Treasurer (2015-2022)</td>
+    <td>Granger Sutton, J. Craig Venter Institute (2015-)</td>
+    <td>Bonnie Hurwitz, University of Arizona (2019-)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Maria_Chuvochina-400x400.jpg" width="200" height="200" /></td>
@@ -43,29 +43,29 @@ Current Board Members
     <td><img src="../../images/board/Nikos_Kyrpides-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Maria Chuvochina, Australian Centre for Ecogenomics (May 2019-)</td>
-    <td>Neil Davies, Berkeley (Sept 2011-)</td>
-    <td>Nikos Kyrpides, DOE JGI (April 2009-)</td>
+    <td>Maria Chuvochina, Australian Centre for Ecogenomics (2019-)</td>
+    <td>Neil Davies, Berkeley (2011-)</td>
+    <td>Nikos Kyrpides, DOE JGI (2009-)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Phil_Hugenholtz-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Pier_Buttigier-400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Ramona_Walls-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Eloe_Fadrosh-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Philip Hugenholtz, The University of Queensland (September 2015-)</td>
+    <td>Philip Hugenholtz, The University of Queensland (2015-)</td>
     <td>Pier Buttigier, MPI for Marine Microbiology, Bremen. (2020 -)</td>
-    <td>Ramona Walls, CyVerse, University of Arizona (February 2019 -) Secretary (2022-) </td>
+    <td>Emiley Eloe-Fadrosh, DOE JGI (2018-)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Rob_Finn-400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Scott_Tighe-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Christopher_Hunter-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Susanna_Sansone-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Rob Finn, EMBL-EBI (May 2019- )</td>
-    <td>Scott Tighe, University of Vermont (May 2019 – ). Treasurer (2022 - )</td>
-    <td>Susanna Sansone, University of Oxford (April 2009-)</td>
+    <td>Rob Finn, EMBL-EBI (2019- )</td>
+    <td>Christopher Hunter, GigaScience (2018-)</td>
+    <td>Susanna Sansone, University of Oxford (2009-)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Alice_McHardy-400x400.jpg" width="200" height="200" /></td>
@@ -73,9 +73,9 @@ Current Board Members
     <td><img src="../../images/board/Joao_Setubal-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td>Alice McHardy, [Helmholtz Centre for Infection Research](https://www.helmholtz-hzi.de/en/research/research-topics/bacterial-and-viral-pathogens/computational-biology-of-infection-research/alice-mchardy/) (2022- )</td>
-    <td>Scott Jackson, [NIST](https://www.nist.gov/mml/bbd/microbial-metrology)-[IMMSA](https://www.microbialstandards.org/) (2022 – )</td>
-    <td>Joao Setubal, [Sao Paolo University](http://www.iq.usp.br/setubal/index-en.html) (2022-)</td>
+    <td>Alice McHardy, <a href="https://www.helmholtz-hzi.de/en/research/research-topics/bacterial-and-viral-pathogens/computational-biology-of-infection-research/alice-mchardy/" target=_blank>Helmholtz Centre for Infection Research</a> (2022- )</td>
+    <td>Scott Jackson, <a href="https://www.nist.gov/mml/bbd/microbial-metrology)-[IMMSA](https://www.microbialstandards.org" target=_blank >NIST</a> (2022 – )</td>
+    <td>Joao Setubal, <a href="http://www.iq.usp.br/setubal/index-en.html" target=_blank>Sao Paolo University</a> (2022-)</td>
   </tr> 
   <tr>
     <td><img src="../../images/board/Ilene_Mizrachi-400x400.jpg" width="200" height="200" /></td>
