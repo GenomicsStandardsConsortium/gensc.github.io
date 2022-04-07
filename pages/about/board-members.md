@@ -23,7 +23,7 @@ Current Board Members
     <td><img src="../../images/board/Ramona_Walls-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td><a href="https://www.linkedin.com/in/lynn-schriml-1753609/" target=_blank>Lynn Schriml</a>, University of Maryland (Sept 2009) Treasurer (2010–2015). President (2015–)</td>
+    <td><a href="https://www.linkedin.com/in/lynn-schriml-1753609/" target=_blank>Lynn Schriml</a>, University of Maryland (2009-) Treasurer (2010–2015). President (2015–)</td>
     <td><a href="https://www.linkedin.com/in/scott-tighe-094058a/" target=_blank>Scott Tighe</a>, University of Vermont (2019–). Treasurer (2022-)</td>
     <td><a href="https://www.linkedin.com/in/ramona-walls-41aa7599/" target=_blank>Ramona Walls</a>, Critical Path Institute (2019-) Secretary (2022-) </td>
 </tr>
@@ -75,7 +75,7 @@ Current Board Members
   <tr>
     <td><a href="https://www.helmholtz-hzi.de/en/research/research-topics/bacterial-and-viral-pathogens/computational-biology-of-infection-research/alice-mchardy/" target=_blank>Alice McHardy</a>, Helmholtz Centre for Infection Research (2022-)</td>
     <td><a href="https://www.linkedin.com/in/scottjackson26/" target=_blank>Scott Jackson</a>, NIST (2022–)</td>
-    <td><a href="https://www.linkedin.com/in/joao-carlos-setubal-2015734/" target=_blank>Joao Setubal</a>, Sao Paolo University (2022-)</td>
+    <td><a href="https://www.linkedin.com/in/joao-carlos-setubal-2015734/" target=_blank>Joao Setubal</a>, University of São Paulo (2022-)</td>
   </tr> 
   <tr>
     <td><img src="../../images/board/Ilene_Mizrachi-400x400.jpg" width="200" height="200" /></td>
