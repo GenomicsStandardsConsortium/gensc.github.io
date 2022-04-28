@@ -5,7 +5,7 @@ Contact Us
 
 For general enquiries you can contact the group mailing lists:
 [GenomicsStandardsConsortium](mailto:gensc-cig@googlegroups.com?subject=[GSC-contact-us])
-Or you can request to join the [google-group] (https://groups.google.com/u/0/g/genomic-standards-consortium/about) to receive updates about the GSC activities.
+Or you can request to join the [google-group](https://groups.google.com/u/0/g/genomic-standards-consortium/about) to receive updates about the GSC activities.
 
 To contact individual GSC representative please look up the relevant person on the [GSC board page](about/board-members.html)
 
