@@ -1,6 +1,13 @@
 {% include header.html %}
 
-Stub of page, needs completing with correct information.
+# Join the GSC
+The GSC is an open membership community and membership is currently defined by participation. If you would like to join the GSC and receive email updates, invitations to meeting, etc. please request to be added to the [google-group](https://groups.google.com/u/2/g/genomic-standards-consortium) where all general emails about GSC meetings and comunications are diseminated. 
 
-# Join GSC
-The GSC is an open membership community and membership is currently defined by participation. If you would like to join the GSC and receive email updates, invitations to meeting, etc… please contact the Secretary of the GSC. You can use the form on the Contact tab.
+In addition to the general mailing list, there are 2 working groups within the GSC, and both are always welcoming new members, whether that be for just a few sessions or more often, everyone can help. 
+
+## Compliance and Interoperability Working Group (CIG)
+The CIG meet on the 4th Tuesday of each month via Zoom. The primary function is to discuss, evaluate and implement changes and updates to any of MIxS checklists, packages or terms. The majority of the regular members to this group are biologists and no informatics skills are required.
+This group has its own [gensc-cig google-group](https://groups.google.com/u/2/g/gensc-cig) where monthly meeting reminders are sent along with discussions on compliance and useage of the standards.
+
+## Technical Working Group (TWG)
+The TWG meet on the 2nd Tuesday of each month via Zoom. The primary function is to discuss, evaluate and implement changes and updates to the technological aspects of how the standards are implemented using LinkML. The majority of the regular members to this group are bioinformatician or IT people from other backgrounds and no biological knowledge is required.
