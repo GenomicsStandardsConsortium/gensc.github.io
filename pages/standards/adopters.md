@@ -1,56 +1,8 @@
 {% include header.html %}
 
-# **NEEDS UPDATING, STILL HAS SIGS at bottom**
+# Adopters
 
-# MIxS Compliance and Implementation
-
-**What is metadata?**
-
-Metadata is ‘data’ about data. In practical terms, metadata is the information describing a sampling event and subsequent sequencing efforts.
-
-**Why use metadata standards?**
-
-Utilizing metadata standards to annotate the data describing the sample, sampling environment and sequencing methodology will vastly improve our ability to mine and integrate our sequence data collection for knowledge and application driven research. Collection and reporting of a common, minimal set of metadata across different projects will foster data comparisons and analysis. Combining studies in a standard way will allow for more powerful analyses of data.
-
-[General Information](#gen-info)  
-[Contacts](#contact)  
-[Further Compliance and Submission Help](#adopt)
-
-[Databases](#dbs)  
-[Tools](#tools)  
-[Others](#others)
-
-Compliance with the core MIxS is very easy – it only consists of **11** metadata items, and can be filled in very quickly prior to sequence submission to public databases.
-
-[![minimal_mixs](/images/Slide1-mics-core.jpg)](/images/Slide1-mixs-core.jpg)
-
-Below are examples of MIxS compliant metadata lists for a genome sequence, a metagenomic sample, and a marker gene survey. They have varying degree of detail, but ultimately what makes them MIxS-compliant are the common items marked in bold red font.
-
-[![migs](/images/migs-1024x507.jpg)](/images/migs-1024x507.jpg)
-
-Genome sequencing of _Sediminibacterium_ sp. – note the use of conditional metadata items from the MIGS checklist
-
-[![mims](/images/mims-1024x672.jpg)](/images/mims-1024x672.jpg)
-
-A metagenome (WGS) sequencing sample from sea water – here the sample is extensively characterized by using parameters from environmental package “water”
-
-[![mimarks](/images/mimarks-1024x621.jpg)](/images/mimarks-1024x621.jpg)
-
-Marker gene survey on dsrA sequences and the accompanying MIMARKS-survey metadata – note the use of MIMARKS checklist conditional mandatory metadata items
-
-## Contacts
-
-For help with any compliance or curation issues, as well as to suggest improvements to MIxS, you can either write us a ticket at:
-
-**[MIxS checklist trac](https://projects.mpi-bremen.de/mixs/trac/wiki)**
-
-For help with compliance and implementation of MIxS standards in your own systems the Compliance and Interoperability Group can be contacted at:
-
-**gensc-developers\[at\]lists.gensc.org**
-
-## Adopters
-
-Despite the relative simplicity of MIxS checklists, it may still not be trivial to prepare the right data in the right format. We compiled a list of databases and tools that help support MIxS to assist submitters further.
+Despite the relative simplicity of MIxS checklists, it may still not be trivial to prepare the right data in the right format. Here we compiled a list of databases and tools that help support MIxS to assist submitters further.
 
 ## Databases
 
@@ -69,6 +21,14 @@ The Genomes Online Database ([GOLD](https://gold.jgi-psf.org/)) displays a wide 
 ### MG-RAST
 
 MG-RAST has implemented the use of MIxS by using simple spreadsheets to capture metadata, with a minimal number of required fields (in red in the spreadsheets) and a number of optional fields. The spreadsheet is separated into multiple tabs representing the different metadata categories. A more detailed explanation can be found in the [MG-RAST blog](http://blog.metagenomics.anl.gov/metadata-in-mg-rast/).
+
+### NMDC
+The National Microbiome Data Collaborative ([NMDC](https://microbiomedata.org/)) supports the long-term advancement of microbiome science, and is building an agile, integrated data ecosystem, utilising the GSC MIxS standards.
+
+### GigaDB
+
+The GigaScience Press database, [GigaDB](http://gigadb.org) hosts datasets linked to manuscripts published in <i>[GigaScience](https://www.gigasciencejournal.com)</i> and <i>[GigaByte](https://www.gigabytejournal.com)</i> journals. Where appropriate the sample metadata is curated using the MIxS checklists.
+
 
 ## Tools
 
@@ -109,12 +69,7 @@ Qiita (_canonically pronounced cheetah_) is an entirely open-source microbiome s
 
 [RDP’s Google Sheets](http://rdp.cme.msu.edu/misc/googleSheetsHelp.jsp) assist researchers by providing easy online accessible data entry and storage for metadata conforming to the MIxS and the MIMARKS specifications for all 14 current environments. After you collect your metadata, you can export your MIMARKS-compliant data by selecting the menu item “MIMARKS Export” and choose your desired output: WebIN or Sequin. The RDP SRA Prepkit is no longer available. Please use the new SRA prep/submission tools hosted by ENA or NCBI to complete data submission. RDP users should contact RDP Staff if you have questions or need assistance to begin the process involved in preparing metadata documents that are required for submission to the Sequence Read Archive (SRA).
 
-### EBI Metagenomics Portal
+### EBI Metagenomics Portal (MGNify)
 
 The [EBI Metagenomics](http://www.ebi.ac.uk/metagenomics/) service is an automated pipeline for the analysis and archiving of metagenomic data that aims to provide insights into the functional and metabolic potential of a sample. Until October 2012, the EBI Metagenomics service offered a manually-assisted submission route, with help available to ensure data and metadata formatting complied with the Sequence Read Archive (SRA) data schema and the Genomic Standards Consortium (GSC) sample metadata guidelines respectively, allowing harmonisation of analysis efforts across the wider genomics community. From October 2012, submitters of metagenomic datasets are encouraged to make use of [ENA’s SRA Webin submission service](https://www.ebi.ac.uk/ena/about/submit_and_update), which supports all of the MIxS checklists.
 
-## Others
-
-### The SIGS Journal
-
-The “Standards in Genomic Sciences” ([SIGS](http://www.standardsingenomics.com/)) journal is the first journal to require MIGS for the publication of all genome papers. SIGS has published over 50 MIGS-compliant genome reports.
