@@ -18,14 +18,11 @@ Without specific guidelines, most genomic, metagenomic and marker gene sequences
 The GSC has defined a set of core descriptors for genomes and metagenomes in the form of MIGS/MIMS specification. MIGS/MIMS extends the minimum information already captured by the INSDC. More recently introduced MIMARKS captures information about marker genes. Additionally, we also introduced "environmental packages" that standardize sets of measurements and observations describing particular habitats that are applicable across all GSC checklists and beyond. We define ‘environment’ as any location in which a sample or organism is found, e.g., soil, air, water, human-associated, plant-associated or laboratory. The environmental packages are relevant to any sequence of known origin and are designed to be used in combination with MIGS, MIMS and MIMARKS checklists.
 
 
-## [Governance and Bylaws](about/governance.html)
-
-Please see our [Governance and Bylaws](about/governance.html) section for details of how the GSC is governed and the bylaws the consortium abide by.
-
-
-## [Board](about/board-members.html)
-The GSC Board was established in April 2009 to improve communication within the GSC, build GSC strategy, help move this community towards formalization (long-term sustainability, transparency and vision), improve community-level representation and help foster strategic partnerships with other communities. 
-The current GSC board, Alumni Board Members as well as members of our Advisory Board are all listed on [this](about/board-members.html) page.
-
-## [Community](about/community.html)
-The GSC has an open membership policy. If you would like to join the GSC, please contact the Secretary by clicking on [Contact](about/contact.html) on the menubar. We also recommend that you subscribe to the GSC’s general mailing list.
+## Related pages
+ - [Governance and Bylaws](about/governance.html). Please see our Governance and Bylaws section for details of how the GSC is governed and the bylaws the consortium abide by.
+ - [Board](about/board-members.html). The current GSC board, Alumni Board Members as well as members of our Advisory Board are all listed here.
+ - [Community](membership.html). The GSC has an open membership policy. Find details of how to work with us here.
+ - [Adopters](standards/compliance.html). The list of current implementers of the GSC MIxS standards
+ - [Funding](about/funding.html). Acknowledging the various funders that have provided money to assist with hosting GSC conferences over the years.
+ - [Publications](about/publication-list.html). Details of publications about the GSC MIxS standards.
+ 
