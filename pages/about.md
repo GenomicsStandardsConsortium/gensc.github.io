@@ -31,6 +31,7 @@ The GSC has defined a set of core descriptors for genomes and metagenomes in the
  - [Board](about/board-members.html). The current GSC board, Alumni Board Members as well as members of our Advisory Board are all listed here.
  - [Community](membership.html). The GSC has an open membership policy. Find details of how to work with us here.
  - [Adopters](standards/adopters.html). The list of current implementers of the GSC MIxS standards
+ - [Compliance](about/compliance.html). How to comply with the basic MIxS checklists.
  - [Funding](about/funding.html). Acknowledging the various funders that have provided money to assist with hosting GSC conferences over the years.
  - [Publications](about/publication-list.html). Details of publications about the GSC MIxS standards.
  
