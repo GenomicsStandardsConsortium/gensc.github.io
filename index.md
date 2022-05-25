@@ -1,9 +1,5 @@
 {% include header.html %}
 
-<br>
-<p style="font-size:30px; color:red" >THIS IS A DEVELOPMENT VERSION OF THE GSC Website<br><br>
-For the live website, please visit <a href="https://gensc.org/">https://gensc.org/</a>.</p>
-<br>
 
 {% include carousel.html height="50" unit="%" duration="5" %}
 
