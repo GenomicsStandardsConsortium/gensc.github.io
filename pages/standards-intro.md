@@ -112,14 +112,11 @@ If there is not a suitable checklist already available and you are interested in
 
 
 ## [The checklists](standards/mixs.html)
-The current versions of the checklists are available [here](standards/mixs.html). 
-We have a github repository where the next versions are being developed and discussed, please feel free to join the discussion using the github issue tracker.
+The current versions of the checklists are available in our [GitHub repository here](https://github.com/GenomicsStandardsConsortium/mixs). 
+The github repository is also where future versions are developed and discussed, please feel free to join the discussion using the github issue tracker.
 In addition there are more techincal speficication available in the [GitHub Wiki](https://github.com/GenomicsStandardsConsortium/mixs/wiki)
 
-You can find all previous versions of the checklistsin our [mixs-legacy GitHub](https://github.com/GenomicsStandardsConsortium/mixs-legacy) repository.
-
-## [Compliance and Implementation](standards/compliance.html)
-Details of how to comply with the standard, and which repositories and institutions are currently making use of them
+You can find all previous versions of the checklists in our [mixs-legacy GitHub](https://github.com/GenomicsStandardsConsortium/mixs-legacy) repository.
 
 
 ## [The Terms](standards/all-terms.html)

@@ -2,20 +2,9 @@
 
 # MIxS Extensions and Profiles
 
-[General Information](#gen-info)  
-[Current Extensions](#current)
-
-[Built Environment Package](#be)  
-[MIBiG](#mibig)  
-[Hydrocarbon Resources Package](#hcr)
-
-[Current Profiles](#profile)  
-[Planned Extensions](#plan)  
-[Developing Extensions](#develop)
-
 The MIxS standard is designed as an overarching framework, in order to create a single entry point to all minimum information checklists from the GSC and to the environmental packages. MIxS includes the technology-specific checklists from the previous MIGS and MIMS standards, provides a way of introducing additional checklists such as MIMARKS, and also allows annotation of sample data using environmental packages. With this modular and extensible framework, both horizontal (i.e new environmental packages) and vertical extension (i.e. new checklists) development is possible and encouraged.
 
-[![mixs_ext_graphic](http://press3.mcs.anl.gov/gensc/files/2015/07/mixs_ext_graphic.png)](http://press3.mcs.anl.gov/gensc/files/2015/07/mixs_ext_graphic.png)
+[![mixs_ext_graphic](/images/mixs_ext_graphic-1024x731.png)
 
 ## Current Extensions
 
@@ -26,8 +15,6 @@ The Sloan Foundation has established the Microbiology of the Built Environment (
 The initial [BE package](http://gensc.org/projects/mixs-indoor-gsc-project/ "MIxS Indoor GSC Project") represents a minimal metadata description of the built environment to be collected and reported for each sequenced sample. The BE package includes core terms for surface material, humidity, temperature, moisture and occupancy type along with specific metadata terms describing the indoor air, building and sample properties. Samples collected, sequenced and annotated with MIxS-BE metadata from waste-water, air filters, air and surfaces of indoor spaces provides a rigorous and structured tool for analysis of microbial sequences and ecosystems of the indoor and outdoor environments.
 
 The BE package is currently being expanded to comprise a full representation of all metadata describing the building, building materials, samples, building environment, and occupants.
-
-You can download the BE package separately **[here](http://press3.mcs.anl.gov/gensc/files/2015/07/built_environment-metadata-terms-v51.xls "MIxS-BE")**.
 
 **Contact**
 

@@ -13,6 +13,14 @@ The mission of the GSC is to work towards:
 
 ## Background
 
+**What is metadata?**
+
+Metadata is ‘data’ about data. In practical terms, metadata is the information describing a sampling event and subsequent sequencing efforts.
+
+**Why use metadata standards?**
+
+Utilizing metadata standards to annotate the data describing the sample, sampling environment and sequencing methodology will vastly improve our ability to mine and integrate our sequence data collection for knowledge and application driven research. Collection and reporting of a common, minimal set of metadata across different projects will foster data comparisons and analysis. Combining studies in a standard way will allow for more powerful analyses of data.
+
 Without specific guidelines, most genomic, metagenomic and marker gene sequences in databases are sparsely annotated with the information required to guide data integration, comparative studies and knowledge generation. Even with complex keyword searches, it is currently impossible to reliably retrieve sequences that have originated from certain environments or particular locations on Earth—for example, all sequences from "soil" or "freshwater lakes" in a certain region of the world. Because public sequence repositories (INSDC, MG-RAST, GOLD...) depend on author-submitted information to enrich the value of sequence data sets, we argue that the only way to change the current practice is to establish a standard of reporting that requires contextual (meta)data to be deposited at the time of sequence submission. The adoption of such a standard would elevate the quality, accessibility and utility of information that can be collected from INSDC or any other data repository.
 
 The GSC has defined a set of core descriptors for genomes and metagenomes in the form of MIGS/MIMS specification. MIGS/MIMS extends the minimum information already captured by the INSDC. More recently introduced MIMARKS captures information about marker genes. Additionally, we also introduced "environmental packages" that standardize sets of measurements and observations describing particular habitats that are applicable across all GSC checklists and beyond. We define ‘environment’ as any location in which a sample or organism is found, e.g., soil, air, water, human-associated, plant-associated or laboratory. The environmental packages are relevant to any sequence of known origin and are designed to be used in combination with MIGS, MIMS and MIMARKS checklists.
