@@ -14,7 +14,7 @@
   expectedValue: "device name"
   valueSyntax: "{termLabel} {[termID]}|{text}"
   example: "swab, biopsy, niskin bottle, push core, drag swab [GENEPIO:0002713]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000003"
   label: "isolation and growth condition"
@@ -22,8 +22,8 @@
   definition: "Publication reference in the form of pubmed ID (pmid), digital object identifier (doi) or url for isolation and growth condition specifications of the organism/material"
   expectedValue: "PMID,DOI or URL"
   valueSyntax: "{PMID|DOI|URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000008"
   label: "experimental factor"
@@ -32,7 +32,7 @@
   expectedValue: "text or EFO and/or OBI"
   valueSyntax: "{termLabel} {[termID]}|{text}"
   example: "time series design [EFO:0001779]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000009"
   label: "geographic location (latitude and longitude)"
@@ -41,7 +41,7 @@
   expectedValue: "decimal degrees, limit to 8 decimal points"
   valueSyntax: "{float} {float}"
   example: "50.586825 6.408977"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000010"
   label: "geographic location (country and/or sea,region)"
@@ -50,7 +50,7 @@
   expectedValue: "country or sea name (INSDC or GAZ): region(GAZ), specific location name"
   valueSyntax: "{term}: {term}, {text}"
   example: "USA: Maryland, Bethesda"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000011"
   label: "collection date"
@@ -59,7 +59,7 @@
   expectedValue: "date and time"
   valueSyntax: "{timestamp}"
   example: "2018-05-11T10:00:00+01:00; 2018-05-11"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000012"
   label: "broad-scale environmental context"
@@ -68,7 +68,7 @@
   expectedValue: "Add terms that identify the major environment type(s) where your sample was collected. Recommend subclasses of biome [ENVO:00000428]. Multiple terms can be separated by one or more pipes e.g.: mangrove biome [ENVO:01000181]|estuarine biome [ENVO:01000020]"
   valueSyntax: "{termLabel} {[termID]}"
   example: "forest biome [ENVO:01000174]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000013"
   label: "local environmental context"
@@ -77,7 +77,7 @@
   expectedValue: "Add terms that identify environmental entities having causal influences upon the entity at time of sampling, multiple terms can be separated by pipes, e.g.: shoreline [ENVO:00000486]|intertidal zone [ENVO:00000316]"
   valueSyntax: "{termLabel} {[termID]}"
   example: "litter layer [ENVO:01000338]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000014"
   label: "environmental medium"
@@ -87,7 +87,7 @@
   expectedValue: "The material displaced by the entity at time of sampling. Recommend subclasses of environmental material [ENVO:00010483]."
   valueSyntax: "{termLabel} {[termID]}"
   example: "intestine environment [ENVO:2100002]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000016"
   label: "sample material processing"
@@ -96,7 +96,7 @@
   expectedValue: "text or OBI"
   valueSyntax: "{text|term}"
   example: "filtering of seawater, storing samples in ethanol"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000018"
   label: "depth"
@@ -114,7 +114,7 @@
   expectedValue: "genetic lineage below lowest rank of NCBI taxonomy, which is subspecies, e.g. serovar, biotype, ecotype, variety, cultivar"
   valueSyntax: "{rank name}:{text}"
   example: "serovar:Newport"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000026"
   label: "source material identifiers"
@@ -123,7 +123,7 @@
   expectedValue: "for cultures of microorganisms: identifiers for two culture collections; for other material a unique arbitrary identifer"
   valueSyntax: "{text}"
   example: "MPI012345"
-  preferredUnit: "
+  preferredUnit: 
   occurence: ""
 - mixsId: "MIXS:0000027"
   label: "known pathogenicity"
@@ -132,7 +132,7 @@
   expectedValue: "CV"
   valueSyntax: "{term}"
   example: "human, animal, plant, fungi, bacteria"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000028"
   label: "observed biotic relationship"
@@ -140,8 +140,8 @@
   definition: "Description of relationship(s) between the subject organism and other organism(s) it is associated with. E.g., parasite on species X; mutualist with species Y. The target organism is the subject of the relationship, and the other organism(s) is the object"
   expectedValue: "enumeration"
   valueSyntax: "[free living|parasite|commensal|symbiont]"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000029"
   label: "host scientific name"
@@ -150,7 +150,7 @@
   expectedValue: "host scientific name, taxonomy ID"
   valueSyntax: "{text}|{NCBI taxid}"
   example: "Homo sapiens and/or 9606"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000030"
   label: "host specificity or range"
@@ -158,8 +158,8 @@
   definition: "The range and diversity of host species that an organism is capable of infecting, defined by NCBI taxonomy identifier."
   expectedValue: "NCBI taxid"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000031"
   label: "host disease status"
@@ -168,7 +168,7 @@
   expectedValue: "disease name or Disease Ontology term"
   valueSyntax: "{termLabel} {[termID]}|{text}"
   example: "rabies [DOID:11260]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000032"
   label: "trophic level"
@@ -176,8 +176,8 @@
   definition: "Trophic levels are the feeding position in a food chain. Microbes can be a range of producers (e.g. chemolithotroph)"
   expectedValue: "enumeration"
   valueSyntax: "[autotroph| carboxydotroph| chemoautotroph| chemoheterotroph| chemolithoautotroph| chemolithotroph| chemoorganoheterotroph| chemoorganotroph| chemosynthetic| chemotroph| copiotroph| diazotroph| facultative| autotroph| heterotroph| lithoautotroph| lithoheterotroph| lithotroph| methanotroph| methylotroph| mixotroph| obligate| chemoautolithotroph| oligotroph| organoheterotroph| organotroph| photoautotroph| photoheterotroph| photolithoautotroph| photolithotroph| photosynthetic| phototroph]"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000037"
   label: "nucleic acid extraction"
@@ -186,7 +186,7 @@
   expectedValue: "PMID, DOI or URL"
   valueSyntax: "{PMID}|{DOI}|{URL}"
   example: "https://mobio.com/media/wysiwyg/pdfs/protocols/12888.pdf"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000038"
   label: "nucleic acid amplification"
@@ -194,8 +194,8 @@
   definition: "A link to a literature reference, electronic resource or a standard operating procedure (SOP), that describes the enzymatic amplification (PCR, TMA, NASBA) of specific nucleic acids"
   expectedValue: "reference to amplification method; clean-up method"
   valueSyntax: "{PMID|DOI|URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000039"
   label: "library size"
@@ -203,8 +203,8 @@
   definition: "Total number of clones in the library prepared for the project"
   expectedValue: "number of clones"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000040"
   label: "library reads sequenced"
@@ -212,8 +212,8 @@
   definition: "Total number of clones sequenced from the library"
   expectedValue: "number of reads sequenced"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000041"
   label: "library layout"
@@ -222,7 +222,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[paired|single|vector|other]"
   example: "paired"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000042"
   label: "library vector"
@@ -230,8 +230,8 @@
   definition: "Cloning vector type(s) used in construction of libraries"
   expectedValue: "vector"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000043"
   label: "library screening strategy"
@@ -240,7 +240,7 @@
   expectedValue: "screening strategy name"
   valueSyntax: "{text}"
   example: "enriched, screened, normalized"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000044"
   label: "target gene"
@@ -249,7 +249,7 @@
   expectedValue: "gene name"
   valueSyntax: "{text}"
   example: "16S rRNA, 18S rRNA, nif, amoA, rpo"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000045"
   label: "target subfragment"
@@ -258,16 +258,16 @@
   expectedValue: "gene fragment name"
   valueSyntax: "{text}"
   example: "V6, V9, ITS"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000046"
   label: "pcr primers"
   structuredCommentName: "pcr_primers"
   definition: "PCR primers that were used to amplify the sequence of the targeted gene, locus or subfragment. This field should contain all the primers used for a single PCR reaction if multiple forward or reverse primers are present in a single PCR reaction. The primer sequence should be reported in uppercase letters"
   expectedValue: "FWD:{dna} REV:{dna}"
-  valueSyntax: "
+  valueSyntax: 
   example: "FWD: forward primer sequence REV:reverse primer sequence"
-  preferredUnit: "
+  preferredUnit: 
   occurence: ""
 - mixsId: "MIXS:0000047"
   label: "multiplex identifiers"
@@ -275,8 +275,8 @@
   definition: "Molecular barcodes, called Multiplex Identifiers (MIDs), that are used to specifically tag unique samples in a sequencing run. Sequence should be reported in uppercase letters"
   expectedValue: "multiplex identifier sequence"
   valueSyntax: "{dna}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000048"
   label: "adapters"
@@ -284,8 +284,8 @@
   definition: "Adapters provide priming sequences for both amplification and sequencing of the sample-library fragments. Both adapters should be reported; in uppercase letters"
   expectedValue: "adapter A and B sequence"
   valueSyntax: "{dna},{dna}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000049"
   label: "pcr conditions"
@@ -293,8 +293,8 @@
   definition: "Description of reaction conditions and components of PCR in the form of 'initial denaturation:94degC_1.5min; annealing=...'"
   expectedValue: "initial denaturation:degrees_minutes; annealing:degrees_minutes; elongation: degrees_minutes; final elongation:degrees_minutes; total cycles"
   valueSyntax: "initial denaturation:degrees_minutes; annealing:degrees_minutes; elongation: degrees_minutes; final elongation:degrees_minutes; total cycles"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000050"
   label: "sequencing method"
@@ -303,7 +303,7 @@
   expectedValue: "Text or OBI"
   valueSyntax: "{termLabel} {[termID]}|{text}"
   example: "454 Genome Sequencer FLX [OBI:0000702]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000051"
   label: "sequence quality check"
@@ -311,8 +311,8 @@
   definition: "Indicate if the sequence has been called by automatic systems (none) or undergone a manual editing procedure (e.g. by inspecting the raw data or chromatograms). Applied only for sequences that are not submitted to SRA,ENA or DRA"
   expectedValue: "none or manually edited"
   valueSyntax: "[none|manually edited]"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000052"
   label: "chimera check"
@@ -320,8 +320,8 @@
   definition: "Tool(s) used for chimera checking, including version number and parameters, to discover and remove chimeric sequences. A chimeric sequence is comprised of two or more phylogenetically distinct parent sequences."
   expectedValue: "name and version of software"
   valueSyntax: "{text} {text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000056"
   label: "assembly software"
@@ -330,7 +330,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Finished genome|High-quality draft genome|Medium-quality draft genome|Low-quality draft genome|Genome fragment(s)]"
   example: "High-quality draft genome"
-  preferredUnit: "
+  preferredUnit: 
   occurence: ""
 - mixsId: "MIXS:0000057"
   label: "assembly name"
@@ -339,7 +339,7 @@
   expectedValue: "name and version of assemby"
   valueSyntax: "{text} {text}"
   example: "HuRef, JCVI_ISG_i3_1.0"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000058"
   label: "assembly quality"
@@ -348,7 +348,7 @@
   expectedValue: "name and version of software, parameters used"
   valueSyntax: "{software};{version};{parameters}"
   example: "metaSPAdes;3.11.0;kmer set 21,33,55,77,99,121, default parameters otherwise"
-  preferredUnit: "
+  preferredUnit: 
   occurence: ""
 - mixsId: "MIXS:0000059"
   label: "annotation"
@@ -356,8 +356,8 @@
   definition: "Tool used for annotation, or for cases where annotation was provided by a community jamboree or model organism database rather than by a specific submitter"
   expectedValue: "annotation source description"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000090"
   label: "relevant standard operating procedures"
@@ -365,8 +365,8 @@
   definition: "Standard operating procedures used in assembly and/or annotation of genomes, metagenomes or environmental sequences"
   expectedValue: "reference to SOP"
   valueSyntax: "{PMID|DOI|URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000091"
   label: "relevant electronic resources"
@@ -374,8 +374,8 @@
   definition: "A related resource that is referenced, cited, or otherwise associated to the sequence."
   expectedValue: "URL"
   valueSyntax: "{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000092"
   label: "project name"
@@ -384,7 +384,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "Forest soil metagenome"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000093"
   label: "elevation"
@@ -437,7 +437,7 @@
   definition: "If qpcr was used for the cell count, the target gene name, the primer sequence and the cycling conditions should also be provided. (Example: 16S rrna; FWD:ACGTAGCTATGACGT REV:GTGCTAGTCGAGTAC; initial denaturation:90C_5min; denaturation:90C_2min; annealing:52C_30 sec; elongation:72C_30 sec; 90 C for 1 min; final elongation:72C_5min; 30 cycles)"
   expectedValue: "gene name;FWD:forward primer sequence;REV:reverse primer sequence;initial denaturation:degrees_minutes;denaturation:degrees_minutes;annealing:degrees_minutes;elongation:degrees_minutes;final elongation:degrees_minutes; total cycles"
   valueSyntax: "{text};FWD:{dna};REV:{dna};initial denaturation:degrees_minutes;denaturation:degrees_minutes;annealing:degrees_minutes;elongation:degrees_minutes;final elongation:degrees_minutes; total cycles"
-  example: "
+  example: 
   preferredUnit: "number of cells per gram (or ml or cm^2)"
   occurence: "1"
 - mixsId: "MIXS:0000100"
@@ -491,7 +491,7 @@
   definition: "Concentration of total iron in the sample"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter, milligram per kilogram"
   occurence: "1"
 - mixsId: "MIXS:0000106"
@@ -591,7 +591,7 @@
   expectedValue: "duration"
   valueSyntax: "{duration}"
   example: "P1Y6M"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000117"
   label: "total phosphorus"
@@ -626,7 +626,7 @@
   definition: "Total Acid Number¬†(TAN) is a measurement of acidity that is determined by the amount of¬†potassium hydroxide¬†in milligrams that is needed to neutralize the acids in one gram of oil.¬†It is an important quality measurement of¬†crude oil. (source: https://en.wikipedia.org/wiki/Total_acid_number)"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter"
   occurence: "1"
 - mixsId: "MIXS:0000121"
@@ -680,7 +680,7 @@
   definition: "A measure of oil's resistance¬†to gradual deformation by¬†shear stress¬†or¬†tensile stress (e.g. 3.5 cp; 100 ¬∞C)"
   expectedValue: "measurement value;measurement value"
   valueSyntax: "{float} {unit};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "cP at degree Celsius"
   occurence: "1"
 - mixsId: "MIXS:0000127"
@@ -689,7 +689,7 @@
   definition: "Temperature at which a liquid becomes semi solid and loses its flow characteristics. In crude oil a high¬†pour point¬†is generally associated with a high paraffin content, typically found in crude deriving from a larger proportion of plant material. (soure: https://en.wikipedia.org/wiki/pour_point)"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "degree Celsius"
   occurence: "1"
 - mixsId: "MIXS:0000128"
@@ -716,7 +716,7 @@
   definition: "Saturate, Aromatic, Resin and Asphaltene¬†(SARA) is an analysis method that divides¬†crude oil¬†components according to their polarizability and polarity. There are three main methods to obtain SARA results. The most popular one is known as the Iatroscan TLC-FID and is referred to as IP-143 (source: https://en.wikipedia.org/wiki/Saturate,_aromatic,_resin_and_asphaltene)"
   expectedValue: "name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "percent"
   occurence: "1"
 - mixsId: "MIXS:0000133"
@@ -725,7 +725,7 @@
   definition: "Saturate, Aromatic, Resin and Asphaltene¬†(SARA) is an analysis method that divides¬†crude oil¬†components according to their polarizability and polarity. There are three main methods to obtain SARA results. The most popular one is known as the Iatroscan TLC-FID and is referred to as IP-143 (source: https://en.wikipedia.org/wiki/Saturate,_aromatic,_resin_and_asphaltene)"
   expectedValue: "name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "percent"
   occurence: "1"
 - mixsId: "MIXS:0000134"
@@ -734,7 +734,7 @@
   definition: "Saturate, Aromatic, Resin and Asphaltene¬†(SARA) is an analysis method that divides¬†crude oil¬†components according to their polarizability and polarity. There are three main methods to obtain SARA results. The most popular one is known as the Iatroscan TLC-FID and is referred to as IP-143 (source: https://en.wikipedia.org/wiki/Saturate,_aromatic,_resin_and_asphaltene)"
   expectedValue: "name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "percent"
   occurence: "1"
 - mixsId: "MIXS:0000135"
@@ -743,7 +743,7 @@
   definition: "Saturate, Aromatic, Resin and Asphaltene¬†(SARA) is an analysis method that divides¬†crude oil¬†components according to their polarizability and polarity. There are three main methods to obtain SARA results. The most popular one is known as the Iatroscan TLC-FID and is referred to as IP-143 (source: https://en.wikipedia.org/wiki/Saturate,_aromatic,_resin_and_asphaltene)"
   expectedValue: "name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "percent"
   occurence: "1"
 - mixsId: "MIXS:0000136"
@@ -752,7 +752,7 @@
   definition: "Metal corrosion rate is the speed of metal deterioration due to environmental conditions. As environmental conditions change corrosion rates change accordingly. Therefore, long term corrosion rates are generally more informative than short term rates and for that reason they are preferred during reporting. In the case of suspected MIC, corrosion rate measurements at the time of sampling might provide insights into the involvement of certain microbial community members in MIC as well as potential microbial interplays"
   expectedValue: "measurement value range"
   valueSyntax: "{float} - {float} {unit}"
-  example: "
+  example: 
   preferredUnit: "millimeter per year"
   occurence: "1"
 - mixsId: "MIXS:0000137"
@@ -770,7 +770,7 @@
   definition: "Concentration of dissolved iron in the sample"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter"
   occurence: "1"
 - mixsId: "MIXS:0000140"
@@ -779,7 +779,7 @@
   definition: "The unit of illuminance and luminous emittance, measuring luminous flux per unit area"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "lux, lumens per square meter"
   occurence: "1"
 - mixsId: "MIXS:0000141"
@@ -806,7 +806,7 @@
   definition: "The ability of the ceiling to provide inertia against temperature fluctuations. Generally this means concrete that is exposed. A metal deck that supports a concrete slab will act thermally as long as it is exposed to room air flow"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "joule per degree Celsius"
   occurence: "1"
 - mixsId: "MIXS:0000144"
@@ -815,7 +815,7 @@
   definition: "The amount of exposed ductwork in the room"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "square meter"
   occurence: "1"
 - mixsId: "MIXS:0000145"
@@ -842,7 +842,7 @@
   definition: "Concentration of substances including a wide variety of material, such as silt, decaying plant and animal matter; can include multiple substances"
   expectedValue: "suspended solid name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "gram, microgram, milligram per liter, mole per liter, gram per liter, part per million"
   occurence: "m"
 - mixsId: "MIXS:0000152"
@@ -851,7 +851,7 @@
   definition: "Concentration of Volatile Fatty Acids in the sample"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter, parts per million"
   occurence: "1"
 - mixsId: "MIXS:0000153"
@@ -860,7 +860,7 @@
   definition: "Concentration of benzene in the sample"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter, parts per million"
   occurence: "1"
 - mixsId: "MIXS:0000154"
@@ -869,7 +869,7 @@
   definition: "Concentration of toluene in the sample"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter, parts per million"
   occurence: "1"
 - mixsId: "MIXS:0000155"
@@ -878,7 +878,7 @@
   definition: "Concentration of ethylbenzene in the sample"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter, parts per million"
   occurence: "1"
 - mixsId: "MIXS:0000156"
@@ -887,7 +887,7 @@
   definition: "Concentration of xylene in the sample"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter, parts per million"
   occurence: "1"
 - mixsId: "MIXS:0000157"
@@ -896,7 +896,7 @@
   definition: "API gravity is a measure of how heavy or light a petroleum liquid is compared to water (source: https://en.wikipedia.org/wiki/API_gravity) (e.g. 31.1¬∞ API)"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "degrees API"
   occurence: "1"
 - mixsId: "MIXS:0000158"
@@ -923,7 +923,7 @@
   definition: "The time period since installment of the carpet or flooring"
   expectedValue: "value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "years, weeks, days"
   occurence: "1"
 - mixsId: "MIXS:0000165"
@@ -932,7 +932,7 @@
   definition: "The area of the floor space within the room"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "square meter"
   occurence: "1"
 - mixsId: "MIXS:0000166"
@@ -941,7 +941,7 @@
   definition: "The ability of the floor to provide inertia against temperature fluctuations"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "joule per degree Celsius"
   occurence: "1"
 - mixsId: "MIXS:0000167"
@@ -950,7 +950,7 @@
   definition: "The average carpet fiber height in the indoor environment"
   expectedValue: "value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "centimeter"
   occurence: "1"
 - mixsId: "MIXS:0000168"
@@ -959,7 +959,7 @@
   definition: "The recorded value at sampling time (power density)"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "kilowatt per square metre"
   occurence: "1"
 - mixsId: "MIXS:0000169"
@@ -968,7 +968,7 @@
   definition: "The rate at which outside air replaces indoor air in a given space"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "liter per hour"
   occurence: "1"
 - mixsId: "MIXS:0000170"
@@ -977,8 +977,8 @@
   definition: "The number of exterior doors in the built structure"
   expectedValue: "value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000172"
   label: "aminopeptidase activity"
@@ -1103,7 +1103,7 @@
   definition: "Water content measurement"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "gram per gram or cubic centimeter per cubic centimeter"
   occurence: "1"
 - mixsId: "MIXS:0000188"
@@ -1130,7 +1130,7 @@
   definition: "The length, width and height of sampling room"
   expectedValue: "measurement value"
   valueSyntax: "{integer} {unit} x {integer} {unit} x {integer} {unit}"
-  example: "
+  example: 
   preferredUnit: "meter"
   occurence: "1"
 - mixsId: "MIXS:0000193"
@@ -1139,7 +1139,7 @@
   definition: "Distance between doors (meters) in the hallway between the sampling room and adjacent rooms"
   expectedValue: "measurement value"
   valueSyntax: "{integer} {unit}"
-  example: "
+  example: 
   preferredUnit: "meter"
   occurence: "1"
 - mixsId: "MIXS:0000194"
@@ -1148,7 +1148,7 @@
   definition: "The net floor area of sampling room. Net area excludes wall thicknesses"
   expectedValue: "measurement value"
   valueSyntax: "{integer} {unit}"
-  example: "
+  example: 
   preferredUnit: "square feet, square meter"
   occurence: "1"
 - mixsId: "MIXS:0000195"
@@ -1157,7 +1157,7 @@
   definition: "Volume of sampling room"
   expectedValue: "measurement value"
   valueSyntax: "{integer} {unit}"
-  example: "
+  example: 
   preferredUnit: "cubic feet, cubic meter"
   occurence: "1"
 - mixsId: "MIXS:0000196"
@@ -1166,7 +1166,7 @@
   definition: "The recent and long term history of outside sampling"
   expectedValue: "time"
   valueSyntax: "{float}"
-  example: "
+  example: 
   preferredUnit: "hour"
   occurence: "1"
 - mixsId: "MIXS:0000197"
@@ -1184,7 +1184,7 @@
   definition: "The total area of the sampled room's walls"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "square meter"
   occurence: "1"
 - mixsId: "MIXS:0000203"
@@ -1220,7 +1220,7 @@
   definition: "Particles are classified, based on their size, into six general categories:clay, silt, sand, gravel, cobbles, and boulders; should include amount of particle preceded by the name of the particle type; can include multiple values"
   expectedValue: "particle name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "micrometer"
   occurence: "m"
 - mixsId: "MIXS:0000211"
@@ -1229,7 +1229,7 @@
   definition: "Porosity of deposited sediment is volume of voids divided by the total volume of sample"
   expectedValue: "measurement value or range"
   valueSyntax: "{float} - {float} {unit}"
-  example: "
+  example: 
   preferredUnit: "percentage"
   occurence: "1"
 - mixsId: "MIXS:0000214"
@@ -1247,8 +1247,8 @@
   definition: "Type of wastewater treatment plant as municipial or industrial"
   expectedValue: "sewage type name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000216"
   label: "sample size sorting method"
@@ -1256,8 +1256,8 @@
   definition: "Method by which samples are sorted; open face filter collecting total suspended particles, prefilter to remove particles larger than X micrometers in diameter, where common values of X would be 10 and 2.5 full size sorting in a cascade impactor."
   expectedValue: "description of method"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000217"
   label: "occupant density at sampling"
@@ -1265,8 +1265,8 @@
   definition: "Average number of occupants at time of sampling per square footage"
   expectedValue: "measurement value"
   valueSyntax: "{float}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000218"
   label: "address"
@@ -1274,8 +1274,8 @@
   definition: "The street name and building number where the sampling occurred."
   expectedValue: "value"
   valueSyntax: "{integer}{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000219"
   label: "adjacent rooms"
@@ -1283,8 +1283,8 @@
   definition: "List of rooms (room number, room name) immediately adjacent to the sampling room"
   expectedValue: "room name;room number"
   valueSyntax: "{text};{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000220"
   label: "exposed pipes"
@@ -1292,8 +1292,8 @@
   definition: "The number of exposed pipes in the room"
   expectedValue: "measurement value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000221"
   label: "wall height"
@@ -1301,7 +1301,7 @@
   definition: "The average height of the walls in the sampled room"
   expectedValue: "value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "centimeter"
   occurence: "1"
 - mixsId: "MIXS:0000222"
@@ -1310,7 +1310,7 @@
   definition: "The ability of the wall to provide inertia against temperature fluctuations. Generally this means concrete or concrete block that is either exposed or covered only with paint"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "joule per degree Celsius"
   occurence: "1"
 - mixsId: "MIXS:0000223"
@@ -1319,7 +1319,7 @@
   definition: "The size of the water feature"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "square meter"
   occurence: "1"
 - mixsId: "MIXS:0000224"
@@ -1328,7 +1328,7 @@
   definition: "The window's length and width"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit} x {float} {unit}"
-  example: "
+  example: 
   preferredUnit: "inch, meter"
   occurence: "1"
 - mixsId: "MIXS:0000225"
@@ -1337,8 +1337,8 @@
   definition: "The number of floors in the building, including basements and mechanical penthouse"
   expectedValue: "value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000226"
   label: "frequency of cleaning"
@@ -1346,8 +1346,8 @@
   definition: "The number of times the sample location is cleaned. Frequency of cleaning might be on a Daily basis, Weekly, Monthly, Quarterly or Annually."
   expectedValue: "enumeration or {text}"
   valueSyntax: "[ Daily| Weekly| Monthly| Quarterly | Annually| other]"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000227"
   label: "frequency of cooking"
@@ -1355,8 +1355,8 @@
   definition: "The number of times a meal is cooked per week"
   expectedValue: "measurement value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000228"
   label: "hallway/corridor count"
@@ -1364,8 +1364,8 @@
   definition: "The total count of hallways and cooridors in the built structure"
   expectedValue: "value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000229"
   label: "maximum occupancy"
@@ -1373,8 +1373,8 @@
   definition: "The maximum amount of people allowed in the indoor environment"
   expectedValue: "measurement value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000230"
   label: "number of houseplants"
@@ -1382,8 +1382,8 @@
   definition: "The number of plant(s) in the sampling space"
   expectedValue: "measurement value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000231"
   label: "number of pets"
@@ -1391,8 +1391,8 @@
   definition: "The number of pets residing in the sampled space"
   expectedValue: "measurement value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000232"
   label: "number of residents"
@@ -1400,8 +1400,8 @@
   definition: "The number of individuals currently occupying in the sampling location"
   expectedValue: "measurement value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000233"
   label: "room architectural elements"
@@ -1409,8 +1409,8 @@
   definition: "The unique details and component parts that, together, form the architecture of a distinguisahable space within a built structure"
   expectedValue: "free text"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000234"
   label: "room count"
@@ -1418,8 +1418,8 @@
   definition: "The total count of rooms in the built structure including all room types"
   expectedValue: "value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000235"
   label: "room moisture damage or mold history"
@@ -1427,8 +1427,8 @@
   definition: "The history of moisture damage or mold in the past 12 months. Number of events of moisture damage or mold observed"
   expectedValue: "value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000236"
   label: "room occupancy"
@@ -1436,8 +1436,8 @@
   definition: "Count of room occupancy at time of sampling"
   expectedValue: "measurement value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000237"
   label: "room window count"
@@ -1445,8 +1445,8 @@
   definition: "Number of windows in the room"
   expectedValue: "value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000238"
   label: "rooms that are on the same hallway"
@@ -1454,8 +1454,8 @@
   definition: "List of room(s) (room number, room name) located in the same hallway as sampling room"
   expectedValue: "room name;room number"
   valueSyntax: "{text};{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000242"
   label: "rooms that share a door with sampling room"
@@ -1463,8 +1463,8 @@
   definition: "List of room(s) (room number, room name) sharing a door with the sampling room"
   expectedValue: "room name;room number"
   valueSyntax: "{text};{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000243"
   label: "rooms that share a wall with sampling room"
@@ -1472,8 +1472,8 @@
   definition: "List of room(s) (room number, room name) sharing a wall with the sampling room"
   expectedValue: "room name;room number"
   valueSyntax: "{text};{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000244"
   label: "sampling room ID or name"
@@ -1481,8 +1481,8 @@
   definition: "Sampling room number. This ID should be consistent with the designations on the building floor plans"
   expectedValue: "value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000245"
   label: "shading device material"
@@ -1490,8 +1490,8 @@
   definition: "The material the shading device is composed of"
   expectedValue: "material name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000246"
   label: "window open frequency"
@@ -1499,8 +1499,8 @@
   definition: "The number of times windows are opened per week"
   expectedValue: "value"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000247"
   label: "ancestral data"
@@ -1509,7 +1509,7 @@
   expectedValue: "free text"
   valueSyntax: "{text}"
   example: "A/3*B"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000248"
   label: "host common name"
@@ -1518,7 +1518,7 @@
   expectedValue: "common name"
   valueSyntax: "{text}"
   example: "human"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000249"
   label: "sample disease stage"
@@ -1527,7 +1527,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[dissemination|growth and reproduction|infection|inoculation|penetration|other]"
   example: "infection"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000250"
   label: "host taxid"
@@ -1536,7 +1536,7 @@
   expectedValue: "NCBI taxon identifier"
   valueSyntax: "{NCBI taxid}"
   example: "7955"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000251"
   label: "host life stage"
@@ -1545,7 +1545,7 @@
   expectedValue: "stage"
   valueSyntax: "{text}"
   example: "adult"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000252"
   label: "host substrate"
@@ -1554,7 +1554,7 @@
   expectedValue: "substrate name"
   valueSyntax: "{text}"
   example: "rock"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000253"
   label: "host infra-specific name"
@@ -1562,8 +1562,8 @@
   definition: "Taxonomic information about the host below subspecies level."
   expectedValue: "name of the symbiotic organism (host of the samples)"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000254"
   label: "host infra-specific rank"
@@ -1571,8 +1571,8 @@
   definition: "Taxonomic rank information about the host below subspecies level, such as variety, form, rank etc."
   expectedValue: "rank of the symbiotic organism (host of the samples)"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000255"
   label: "host age"
@@ -1607,7 +1607,7 @@
   definition: "Resting diastolic blood pressure, measured as mm mercury"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "millimeter mercury"
   occurence: "1"
 - mixsId: "MIXS:0000259"
@@ -1616,7 +1616,7 @@
   definition: "Resting systolic blood pressure, measured as mm mercury"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "millimeter mercury"
   occurence: "1"
 - mixsId: "MIXS:0000260"
@@ -1625,8 +1625,8 @@
   definition: "The color of host"
   expectedValue: "color"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000261"
   label: "host shape"
@@ -1635,7 +1635,7 @@
   expectedValue: "shape"
   valueSyntax: "{text}"
   example: "round"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000262"
   label: "smoker"
@@ -1644,7 +1644,7 @@
   expectedValue: "smoking status"
   valueSyntax: "{boolean}"
   example: "yes"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000263"
   label: "host total mass"
@@ -1671,7 +1671,7 @@
   expectedValue: "HIV status;HAART initiation status"
   valueSyntax: "{boolean};{boolean}"
   example: "yes;yes"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000266"
   label: "major diet change in last six months"
@@ -1680,7 +1680,7 @@
   expectedValue: "diet change;current diet"
   valueSyntax: "{boolean};{text}"
   example: "yes;vegetarian diet"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000267"
   label: "presence of pets or farm animals"
@@ -1689,7 +1689,7 @@
   expectedValue: "presence status;type of animal or pet"
   valueSyntax: "{boolean};{text}"
   example: "yes; 5 cats"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000268"
   label: "travel outside the country in last six months"
@@ -1697,8 +1697,8 @@
   definition: "Specification of the countries travelled in the last six months; can include multiple travels"
   expectedValue: "country name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000269"
   label: "lung/pulmonary disorder"
@@ -1706,8 +1706,8 @@
   definition: "History of pulmonary disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, lung disease (https://disease-ontology.org/?id=DOID:850)."
   expectedValue: "disorder name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000270"
   label: "lung/nose-throat disorder"
@@ -1715,8 +1715,8 @@
   definition: "History of nose-throat disorders; can include multiple disorders,  The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, lung disease (https://disease-ontology.org/?id=DOID:850), upper respiratory tract disease (https://disease-ontology.org/?id=DOID:974)."
   expectedValue: "disorder name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000271"
   label: "blood/blood disorder"
@@ -1724,8 +1724,8 @@
   definition: "History of blood disorders; can include multiple disorders.  The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, hematopoietic system disease (https://disease-ontology.org/?id=DOID:74)."
   expectedValue: "disorder name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000272"
   label: "amniotic fluid/gestation state"
@@ -1733,8 +1733,8 @@
   definition: "Specification of the gestation state"
   expectedValue: "gestation state"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000273"
   label: "amniotic fluid/maternal health status"
@@ -1742,8 +1742,8 @@
   definition: "Specification of the maternal health status"
   expectedValue: "health status"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000274"
   label: "host body temperature"
@@ -1760,8 +1760,8 @@
   definition: "Specification of foetal health status, should also include abortion"
   expectedValue: "health status"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000276"
   label: "amniotic fluid/color"
@@ -1769,8 +1769,8 @@
   definition: "Specification of the color of the amniotic fluid sample"
   expectedValue: "color"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000277"
   label: "urine/kidney disorder"
@@ -1778,8 +1778,8 @@
   definition: "History of kidney disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, kidney disease (https://disease-ontology.org/?id=DOID:557). "
   expectedValue: "disorder name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000278"
   label: "urine/urogenital tract disorder"
@@ -1787,8 +1787,8 @@
   definition: "History of urogenital tract disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, urinary system disease (https://disease-ontology.org/?id=DOID:18). "
   expectedValue: "disorder name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000280"
   label: "gastrointestinal tract disorder"
@@ -1796,8 +1796,8 @@
   definition: "History of gastrointestinal tract disorders; can include multiple disorders. History of blood disorders; can include multiple disorders.  The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, gastrointestinal system disease (https://disease-ontology.org/?id=DOID:77)."
   expectedValue: "disorder name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000282"
   label: "liver disorder"
@@ -1805,8 +1805,8 @@
   definition: "History of liver disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, liver disease (https://disease-ontology.org/?id=DOID:409)."
   expectedValue: "disorder name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000283"
   label: "nose/mouth/teeth/throat disorder"
@@ -1814,8 +1814,8 @@
   definition: "History of nose/mouth/teeth/throat disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, nose disease (https://disease-ontology.org/?id=DOID:2825), mouth disease (https://disease-ontology.org/?id=DOID:403), tooth disease (https://disease-ontology.org/?id=DOID:1091), or upper respiratory tract disease (https://disease-ontology.org/?id=DOID:974)."
   expectedValue: "disorder name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000284"
   label: "dermatology disorder"
@@ -1823,8 +1823,8 @@
   definition: "History of dermatology disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, skin disease (https://disease-ontology.org/?id=DOID:37)."
   expectedValue: "disorder name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000285"
   label: "sexual activity"
@@ -1832,8 +1832,8 @@
   definition: "Current sexual partner and frequency of sex"
   expectedValue: "partner sex;frequency"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000286"
   label: "birth control"
@@ -1841,8 +1841,8 @@
   definition: "Specification of birth control medication used"
   expectedValue: "medication name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000287"
   label: "hysterectomy"
@@ -1851,7 +1851,7 @@
   expectedValue: "hysterectomy status"
   valueSyntax: "{boolean}"
   example: "no"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000288"
   label: "gynecological disorder"
@@ -1859,8 +1859,8 @@
   definition: "History of gynecological disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, female reproductive system disease (https://disease-ontology.org/?id=DOID:229)."
   expectedValue: "gynecological disorder"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000289"
   label: "urogenital disorder"
@@ -1868,8 +1868,8 @@
   definition: "History of urogenital disorders, can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, reproductive system disease (https://disease-ontology.org/?id=DOID:15) or urinary system disease (https://disease-ontology.org/?id=DOID:18). "
   expectedValue: "disorder name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000290"
   label: "basin name"
@@ -1877,8 +1877,8 @@
   definition: "Name of the basin (e.g. Campos)"
   expectedValue: "name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000291"
   label: "field name"
@@ -1886,8 +1886,8 @@
   definition: "Name of the hydrocarbon field (e.g. Albacora)"
   expectedValue: "name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000295"
   label: "weight loss in last three months"
@@ -1904,8 +1904,8 @@
   definition: "Name of the well (e.g. BXA1123) where sample was taken"
   expectedValue: "name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000297"
   label: "well identification number"
@@ -1913,8 +1913,8 @@
   definition: "A unique identifier of a well or wellbore. This is part of the Global Framework for Well Identification initiative which is compiled by the Professional Petroleum Data Management Association (PPDM) in an effort to improve well identification systems. (Supporting information: https://ppdm.org/ and http://dl.ppdm.org/dl/690)"
   expectedValue: "text"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000298"
   label: "alkalinity method"
@@ -1923,7 +1923,7 @@
   expectedValue: "description of method"
   valueSyntax: "{text}"
   example: "titration"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000300"
   label: "additional info"
@@ -1931,8 +1931,8 @@
   definition: "Information that doesn't fit anywhere else. Can also be used to propose new entries for fields with controlled vocabulary"
   expectedValue: "text"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000303"
   label: "reservoir name"
@@ -1940,8 +1940,8 @@
   definition: "Name of the reservoir (e.g. Carapebus)"
   expectedValue: "name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000310"
   label: "carbon/nitrogen ratio"
@@ -1950,7 +1950,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
   example: "0.417361111"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000312"
   label: "current vegetation"
@@ -1958,8 +1958,8 @@
   definition: "Vegetation classification from one or more standard classification systems, or agricultural crop"
   expectedValue: "current vegetation type"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000314"
   label: "current vegetation method"
@@ -1967,8 +1967,8 @@
   definition: "Reference or method used in vegetation classification"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000315"
   label: "history/previous land use"
@@ -1976,8 +1976,8 @@
   definition: "Previous land use and dates"
   expectedValue: "land use name;date"
   valueSyntax: "{text};{timestamp}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000316"
   label: "history/previous land use method"
@@ -1985,8 +1985,8 @@
   definition: "Reference or method used in determining previous land use and dates"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000317"
   label: "host body-mass index"
@@ -2004,7 +2004,7 @@
   expectedValue: "crop rotation status;schedule"
   valueSyntax: "{boolean};{Rn/start_time/end_time/duration}"
   example: "yes;R2/2017-01-01/2018-12-31/P6M"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000319"
   label: "history/flooding"
@@ -2012,8 +2012,8 @@
   definition: "Historical and/or physical evidence of flooding"
   expectedValue: "date"
   valueSyntax: "{timestamp}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000320"
   label: "history/extreme events"
@@ -2021,8 +2021,8 @@
   definition: "Unusual physical events that may have affected microbial populations"
   expectedValue: "date"
   valueSyntax: "{timestamp}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000321"
   label: "soil horizon method"
@@ -2030,8 +2030,8 @@
   definition: "Reference or method used in determining the horizon"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000322"
   label: "composite design/sieving"
@@ -2039,8 +2039,8 @@
   definition: "Collection design of pooled samples and/or sieve size and amount of sample sieved"
   expectedValue: "design name and/or size;amount"
   valueSyntax: "{{text}|{float} {unit}};{float} {unit}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000323"
   label: "water content method"
@@ -2048,8 +2048,8 @@
   definition: "Reference or method used in determining the water content of soil"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000324"
   label: "extreme_unusual_properties/Al saturation method"
@@ -2057,8 +2057,8 @@
   definition: "Reference or method used in determining Al saturation"
   expectedValue: "PMID,DOI or URL"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000325"
   label: "pooling of DNA extracts (if done)"
@@ -2067,7 +2067,7 @@
   expectedValue: "pooling status;number of pooled extracts"
   valueSyntax: "{boolean};{integer}"
   example: "yes;5"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000326"
   label: "twin sibling presence"
@@ -2076,7 +2076,7 @@
   expectedValue: "presence status"
   valueSyntax: "{boolean}"
   example: "yes"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000327"
   label: "storage conditions"
@@ -2085,7 +2085,7 @@
   expectedValue: "storage condition type;duration"
   valueSyntax: "{text};{duration}"
   example: "-20 degree Celsius freezer;P2Y10D"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000328"
   label: "link to climate information"
@@ -2093,8 +2093,8 @@
   definition: "Link to climate resource"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000329"
   label: "link to classification information"
@@ -2102,8 +2102,8 @@
   definition: "Link to digitized soil maps or other soil classification information"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000330"
   label: "soil_taxonomic/local classification"
@@ -2111,8 +2111,8 @@
   definition: "Soil classification based on local soil classification system"
   expectedValue: "local classification name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000331"
   label: "soil_taxonomic/local classification method"
@@ -2120,8 +2120,8 @@
   definition: "Reference or method used in determining the local soil classification"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000332"
   label: "soil type"
@@ -2131,7 +2131,7 @@
   valueSyntax: "{termLabel} {[termID]}
 "
   example: "plinthosol [ENVO:00002250]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000333"
   label: "host pulse"
@@ -2148,8 +2148,8 @@
   definition: "Reference or method used in determining soil series name or other lower-level classification"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000335"
   label: "soil texture measurement"
@@ -2157,8 +2157,8 @@
   definition: "The relative proportion of different grain sizes of mineral particles in a soil, as described using a standard system; express as % sand (50 um to 2 mm), silt (2 um to 50 um), and clay (<2 um) with textural name (e.g., silty clay loam) optional."
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000336"
   label: "soil texture method"
@@ -2166,8 +2166,8 @@
   definition: "Reference or method used in determining soil texture"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000337"
   label: "total organic carbon method"
@@ -2175,8 +2175,8 @@
   definition: "Reference or method used in determining total organic carbon"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000338"
   label: "total nitrogen content method"
@@ -2184,8 +2184,8 @@
   definition: "Reference or method used in determining the total nitrogen"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000339"
   label: "microbial biomass method"
@@ -2193,8 +2193,8 @@
   definition: "Reference or method used in determining microbial biomass"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000340"
   label: "links to additional analysis"
@@ -2202,8 +2202,8 @@
   definition: "Link to additional analysis results performed on the sample"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000341"
   label: "salinity method"
@@ -2211,8 +2211,8 @@
   definition: "Reference or method used in determining salinity"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000343"
   label: "extreme_unusual_properties/heavy metals method"
@@ -2220,8 +2220,8 @@
   definition: "Reference or method used in determining heavy metals"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000348"
   label: "pre-treatment"
@@ -2229,8 +2229,8 @@
   definition: "The process of pre-treatment removes materials that can be easily collected from the raw wastewater"
   expectedValue: "pre-treatment type"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000349"
   label: "primary treatment"
@@ -2238,8 +2238,8 @@
   definition: "The process to produce both a generally homogeneous liquid capable of being treated biologically and a sludge that can be separately treated or processed"
   expectedValue: "primary treatment type"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000350"
   label: "reactor type"
@@ -2247,8 +2247,8 @@
   definition: "Anaerobic digesters can be designed and engineered to operate using a number of different process configurations, as batch or continuous, mesophilic, high solid or low solid, and single stage or multistage"
   expectedValue: "reactor type name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000351"
   label: "secondary treatment"
@@ -2256,8 +2256,8 @@
   definition: "The process for substantially degrading the biological content of the sewage"
   expectedValue: "secondary treatment type"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000352"
   label: "tertiary treatment"
@@ -2265,8 +2265,8 @@
   definition: "The process providing a final treatment stage to raise the effluent quality before it is discharged to the receiving environment"
   expectedValue: "tertiary treatment type"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000353"
   label: "wastewater type"
@@ -2274,8 +2274,8 @@
   definition: "The origin of wastewater such as human waste, rainfall, storm drains, etc."
   expectedValue: "wastewater type name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000365"
   label: "host genotype"
@@ -2284,7 +2284,7 @@
   expectedValue: "genotype"
   valueSyntax: "{text}"
   example: "C57BL/6"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000393"
   label: "hydrocarbon resource original temperature"
@@ -2301,7 +2301,7 @@
   definition: "True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original temperature was measured (e.g. 1345 m)."
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "meter"
   occurence: "1"
 - mixsId: "MIXS:0000395"
@@ -2310,7 +2310,7 @@
   definition: "Original pressure of the hydrocarbon resource"
   expectedValue: "measurement value range"
   valueSyntax: "{float} - {float} {unit}"
-  example: "
+  example: 
   preferredUnit: "atmosphere, kilopascal"
   occurence: "1"
 - mixsId: "MIXS:0000397"
@@ -2319,7 +2319,7 @@
   definition: "True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original pressure was measured (e.g. 1578 m)."
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "meter"
   occurence: "1"
 - mixsId: "MIXS:0000404"
@@ -2328,7 +2328,7 @@
   definition: "Measure of the ability of a hydrocarbon resource to allow fluids to pass through it. (Additional information: https://en.wikipedia.org/wiki/Permeability_(earth_sciences))"
   expectedValue: "measurement value range"
   valueSyntax: "{integer} - {integer} {unit}"
-  example: "
+  example: 
   preferredUnit: "mD"
   occurence: "1"
 - mixsId: "MIXS:0000405"
@@ -2337,7 +2337,7 @@
   definition: "Depth of the original oil water contact (OWC) zone (average) (m TVDSS)"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "meter"
   occurence: "1"
 - mixsId: "MIXS:0000406"
@@ -2346,7 +2346,7 @@
   definition: "Original formation water salinity (prior to secondary recovery e.g. Waterflooding) expressed as TDS"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter"
   occurence: "1"
 - mixsId: "MIXS:0000407"
@@ -2355,7 +2355,7 @@
   definition: "Original sulfate concentration in the hydrocarbon resource"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter"
   occurence: "1"
 - mixsId: "MIXS:0000408"
@@ -2364,7 +2364,7 @@
   definition: "Original volatile fatty acid concentration in the hydrocarbon resource"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter"
   occurence: "1"
 - mixsId: "MIXS:0000409"
@@ -2373,7 +2373,7 @@
   definition: "Depth of the sample i.e. The vertical distance between the sea level and the sampled position in the subsurface. Depth can be reported as an interval for subsurface samples e.g. 1325.75-1362.25 m"
   expectedValue: "measurement value or measurement value range"
   valueSyntax: "{float}-{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "meter"
   occurence: "1"
 - mixsId: "MIXS:0000410"
@@ -2409,7 +2409,7 @@
   definition: "Concentration of total sulfur in the sample"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter, parts per million"
   occurence: "1"
 - mixsId: "MIXS:0000421"
@@ -2553,7 +2553,7 @@
   definition: "Concentration of dissolved oxygen in the oil field produced fluids as it contributes to oxgen-corrosion and microbial activity (e.g. Mic)."
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "micromole per kilogram, milligram per liter"
   occurence: "1"
 - mixsId: "MIXS:0000452"
@@ -2562,7 +2562,7 @@
   definition: "Oil and/or gas production rates per well (e.g. 524 m3 / day)"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "cubic meter per day"
   occurence: "1"
 - mixsId: "MIXS:0000453"
@@ -2571,7 +2571,7 @@
   definition: "Water production rates per well (e.g. 987 m3 / day)"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "cubic meter per day"
   occurence: "1"
 - mixsId: "MIXS:0000454"
@@ -2580,7 +2580,7 @@
   definition: "Current amount of water (%) in a produced fluid stream; or the average of the combined streams"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "percent"
   occurence: "1"
 - mixsId: "MIXS:0000455"
@@ -2589,7 +2589,7 @@
   definition: "Proportion of the produced fluids derived from injected water at the time of sampling. (e.g. 87%)"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "percent"
   occurence: "1"
 - mixsId: "MIXS:0000456"
@@ -2598,7 +2598,7 @@
   definition: "Method of biocide administration (dose, frequency, duration, time elapsed between last biociding and sampling) (e.g. 150 mg/l; weekly; 4 hr; 3 days)"
   expectedValue: "measurement value;frequency;duration;duration"
   valueSyntax: "{float} {unit};{Rn/start_time/end_time/duration};{duration}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter"
   occurence: "1"
 - mixsId: "MIXS:0000457"
@@ -2607,7 +2607,7 @@
   definition: "Method of chemical administration(dose, frequency, duration, time elapsed between administration and sampling) (e.g. 50 mg/l; twice a week; 1 hr; 0 days)"
   expectedValue: "measurement value;frequency;duration;duration"
   valueSyntax: "{float} {unit};{Rn/start_time/end_time/duration};{duration};{duration}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter"
   occurence: "1"
 - mixsId: "MIXS:0000463"
@@ -2616,7 +2616,7 @@
   definition: "Preservative added to the sample (e.g. Rnalater, alcohol, formaldehyde, etc.). Where appropriate include volume added (e.g. Rnalater; 2 ml)"
   expectedValue: "name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milliliter"
   occurence: "1"
 - mixsId: "MIXS:0000490"
@@ -2706,7 +2706,7 @@
   definition: "Total carbon content"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "microgram per liter"
   occurence: "1"
 - mixsId: "MIXS:0000530"
@@ -2715,7 +2715,7 @@
   definition: "Total nitrogen content of the sample"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "microgram per liter, micromole per liter, milligram per liter"
   occurence: "1"
 - mixsId: "MIXS:0000533"
@@ -2724,7 +2724,7 @@
   definition: "Definition for soil: total organic carbon content of the soil, definition otherwise: total organic carbon content"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "gram Carbon per kilogram sample material"
   occurence: "1"
 - mixsId: "MIXS:0000551"
@@ -2958,7 +2958,7 @@
   definition: "Aluminum saturation (esp. For tropical soils)"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "percentage"
   occurence: "1"
 - mixsId: "MIXS:0000634"
@@ -3003,7 +3003,7 @@
   definition: "The average of all annual precipitation values known, or an estimated equivalent value derived by such methods as regional indexes or Isohyetal maps."
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "millimeter"
   occurence: "1"
 - mixsId: "MIXS:0000645"
@@ -3012,7 +3012,7 @@
   definition: "The average of all seasonal precipitation values known, or an estimated equivalent value derived by such methods as regional indexes or Isohyetal maps."
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "millimeter"
   occurence: "1"
 - mixsId: "MIXS:0000646"
@@ -3021,7 +3021,7 @@
   definition: "Commonly called 'slope'. The angle between ground surface and a horizontal line (in percent). This is the direction that overland water would flow. This measure is usually taken with a hand level meter or clinometer"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "percentage"
   occurence: "1"
 - mixsId: "MIXS:0000647"
@@ -3030,7 +3030,7 @@
   definition: "The direction a slope faces. While looking down a slope use a compass to record the direction you are facing (direction or degrees); e.g., nw or 315 degrees. This measure provides an indication of sun and wind exposure that will influence soil temperature and evapotranspiration."
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "degree"
   occurence: "1"
 - mixsId: "MIXS:0000650"
@@ -3039,7 +3039,7 @@
   definition: "The part of the organic matter in the soil that constitutes living microorganisms smaller than 5-10 micrometer. If you keep this, you would need to have correction factors used for conversion to the final units"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "ton, kilogram, gram per kilogram soil"
   occurence: "1"
 - mixsId: "MIXS:0000652"
@@ -3057,7 +3057,7 @@
   definition: "Amount of dissolved oxygen needed by aerobic biological organisms in a body of water to break down organic material present in a given water sample at certain temperature over a specific time period"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter"
   occurence: "1"
 - mixsId: "MIXS:0000656"
@@ -3066,7 +3066,7 @@
   definition: "A measure of the capacity of water to consume oxygen during the decomposition of organic matter and the oxidation of inorganic chemicals such as ammonia and nitrite"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "milligram per liter"
   occurence: "1"
 - mixsId: "MIXS:0000657"
@@ -3075,7 +3075,7 @@
   definition: "Percentage of volatile solids removed from the anaerobic digestor"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "micromole per liter"
   occurence: "1"
 - mixsId: "MIXS:0000660"
@@ -3084,7 +3084,7 @@
   definition: "Amount or concentration of substances such as paints, adhesives, mayonnaise, hair colorants, emulsified oils, etc.; can include multiple emulsion types"
   expectedValue: "emulsion name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "gram per liter"
   occurence: "m"
 - mixsId: "MIXS:0000661"
@@ -3093,7 +3093,7 @@
   definition: "Amount or concentration of substances such as hydrogen sulfide, carbon dioxide, methane, etc.; can include multiple substances"
   expectedValue: "gaseous substance name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "micromole per liter"
   occurence: "m"
 - mixsId: "MIXS:0000662"
@@ -3102,7 +3102,7 @@
   definition: "Percentage of industrial effluents received by wastewater treatment plant"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "percentage"
   occurence: "1"
 - mixsId: "MIXS:0000664"
@@ -3111,7 +3111,7 @@
   definition: "Concentration of particles such as sand, grit, metal particles, ceramics, etc.; can include multiple particles"
   expectedValue: "inorganic particle name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "mole per liter, milligram per liter"
   occurence: "m"
 - mixsId: "MIXS:0000665"
@@ -3120,7 +3120,7 @@
   definition: "Concentration of particles such as faeces, hairs, food, vomit, paper fibers, plant material, humus, etc."
   expectedValue: "particle name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "gram per liter"
   occurence: "m"
 - mixsId: "MIXS:0000669"
@@ -3129,7 +3129,7 @@
   definition: "The time activated sludge remains in reactor"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "hours"
   occurence: "1"
 - mixsId: "MIXS:0000672"
@@ -3138,7 +3138,7 @@
   definition: "Concentration of substances such as ammonia, road-salt, sea-salt, cyanide, hydrogen sulfide, thiocyanates, thiosulfates, etc."
   expectedValue: "soluble inorganic material name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "gram, microgram, mole per liter, gram per liter, parts per million"
   occurence: "m"
 - mixsId: "MIXS:0000673"
@@ -3147,7 +3147,7 @@
   definition: "Concentration of substances such as urea, fruit sugars, soluble proteins, drugs, pharmaceuticals, etc."
   expectedValue: "soluble organic material name;measurement value"
   valueSyntax: "{text};{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "gram, microgram, mole per liter, gram per liter, parts per million"
   occurence: "m"
 - mixsId: "MIXS:0000683"
@@ -3174,7 +3174,7 @@
   definition: "Total amount or concentration of phosphate"
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "microgram per liter, micromole per liter"
   occurence: "1"
 - mixsId: "MIXS:0000692"
@@ -3237,8 +3237,8 @@
   definition: "A physical structure that is a body or assemblage of bodies in space to form a system capable of supporting loads"
   expectedValue: "free text"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000725"
   label: "photon flux"
@@ -3328,7 +3328,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[low tide|ebb tide|flood tide|high tide]"
   example: "high tide"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000751"
   label: "chemical administration"
@@ -3337,7 +3337,7 @@
   expectedValue: "CHEBI;timestamp"
   valueSyntax: "{termLabel} {[termID]};{timestamp}"
   example: "agar [CHEBI:2509];2018-05-11T20:00Z"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000752"
   label: "miscellaneous parameter"
@@ -3346,7 +3346,7 @@
   expectedValue: "parameter name;measurement value"
   valueSyntax: "{text};{float} {unit}"
   example: "Bicarbonate ion concentration;2075 micromole per kilogram"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000753"
   label: "oxygenation status of sample"
@@ -3355,7 +3355,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[aerobic|anaerobic|other]"
   example: "aerobic"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000754"
   label: "perturbation"
@@ -3364,7 +3364,7 @@
   expectedValue: "perturbation type name;perturbation interval and duration"
   valueSyntax: "{text};{Rn/start_time/end_time/duration}"
   example: "antibiotic addition;R2/2018-05-11T14:30Z/2018-05-11T19:30Z/P1H30M"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000755"
   label: "sample storage location"
@@ -3373,7 +3373,7 @@
   expectedValue: "location name"
   valueSyntax: "{text}"
   example: "Freezer no:5"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000756"
   label: "ventilation type"
@@ -3382,7 +3382,7 @@
   expectedValue: "ventilation type name"
   valueSyntax: "{text}"
   example: "Operable windows"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000757"
   label: "wind direction"
@@ -3391,7 +3391,7 @@
   expectedValue: "wind direction name"
   valueSyntax: "{text}"
   example: "Northwest"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000758"
   label: "surface material"
@@ -3400,7 +3400,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[adobe|carpet|cinder blocks|concrete|hay bales|glass|metal|paint|plastic|stainless steel|stone|stucco|tile|vinyl|wood]"
   example: "wood"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000759"
   label: "surface-air contaminant"
@@ -3409,7 +3409,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[dust|organic matter|particulate matter|volatile organic compounds|biological contaminants|radon|nutrients|biocides]"
   example: "radon"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000760"
   label: "surface moisture pH"
@@ -3418,7 +3418,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float}"
   example: "7"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000761"
   label: "building occupancy type"
@@ -3427,7 +3427,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[office|market|restaurant|residence|school|residential|commercial|low rise|high rise|wood framed|office|health care|school|airport|sports complex]"
   example: "market"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000763"
   label: "indoor space"
@@ -3436,7 +3436,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[bedroom|office|bathroom|foyer|kitchen|locker room|hallway|elevator]"
   example: "foyer"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000764"
   label: "indoor surface"
@@ -3445,7 +3445,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[cabinet|ceiling|counter top|door|shelving|vent cover|window|wall]"
   example: "wall"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000765"
   label: "filter type"
@@ -3454,7 +3454,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[particulate air filter|chemical air filter|low-MERV pleated media|HEPA|electrostatic|gas-phase or ultraviolet air treatments]"
   example: "HEPA"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000766"
   label: "heating and cooling system type"
@@ -3463,7 +3463,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[radiant system|heat pump|forced air system|steam forced heat|wood stove]"
   example: "heat pump"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000767"
   label: "substructure type"
@@ -3472,7 +3472,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[crawlspace|slab on grade|basement]"
   example: "basement"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000768"
   label: "building setting"
@@ -3481,7 +3481,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[urban|suburban|exurban|rural]"
   example: "rural"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000769"
   label: "light type"
@@ -3490,7 +3490,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[natural light|electric light|desk lamp|flourescent lights|natural light|none]"
   example: "desk lamp"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000770"
   label: "space typical state"
@@ -3499,7 +3499,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[typically occupied|typically unoccupied]"
   example: "typically occupied"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000771"
   label: "typical occupant density"
@@ -3508,7 +3508,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float}"
   example: "25"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000772"
   label: "occupancy at sampling"
@@ -3517,7 +3517,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{integer}"
   example: "10"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000773"
   label: "aerospace structure"
@@ -3526,7 +3526,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[plane|glider]"
   example: "plane"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000774"
   label: "architectural structure"
@@ -3535,7 +3535,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[building|shed|home]"
   example: "shed"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000775"
   label: "average daily occupancy"
@@ -3544,7 +3544,7 @@
   expectedValue: "value"
   valueSyntax: "{float}"
   example: "2"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000776"
   label: "bathroom count"
@@ -3553,7 +3553,7 @@
   expectedValue: "value"
   valueSyntax: "{integer}"
   example: "1"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000777"
   label: "bedroom count"
@@ -3562,7 +3562,7 @@
   expectedValue: "value"
   valueSyntax: "{integer}"
   example: "2"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000778"
   label: "built structure setting"
@@ -3571,7 +3571,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[urban|rural]"
   example: "rural"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000779"
   label: "ceiling condition"
@@ -3580,7 +3580,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[new|visible wear|needs repair|damaged|rupture]"
   example: "damaged"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000780"
   label: "ceiling finish material"
@@ -3589,7 +3589,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[drywall|mineral fibre|tiles|PVC|plasterboard|metal|fiberglass|stucco|mineral wool/calcium silicate|wood]"
   example: "stucco"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000781"
   label: "ceiling signs of water/mold"
@@ -3598,7 +3598,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[presence of mold visible|no presence of mold visible]"
   example: "presence of mold visible"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000782"
   label: "ceiling structure"
@@ -3607,7 +3607,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[wood frame|concrete]"
   example: "concrete"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000783"
   label: "ceiling texture"
@@ -3616,7 +3616,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[crows feet|crows-foot stomp|double skip|hawk and trowel|knockdown|popcorn|orange peel|rosebud stomp|Santa-Fe texture|skip trowel|smooth|stomp knockdown|swirl]"
   example: "popcorn"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000784"
   label: "ceiling type"
@@ -3625,7 +3625,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[cathedral|dropped|concave|barrel-shaped|coffered|cove|stretched]"
   example: "coffered"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000785"
   label: "cooling system identifier"
@@ -3634,7 +3634,7 @@
   expectedValue: "unique identifier"
   valueSyntax: "{integer}"
   example: "12345"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000786"
   label: "date last rain"
@@ -3643,7 +3643,7 @@
   expectedValue: "timestamp"
   valueSyntax: "{timestamp}"
   example: "2018-05-11:T14:30Z"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000787"
   label: "design, construction, and operation documents"
@@ -3652,7 +3652,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[building information model|commissioning report|complaint logs|contract administration|cost estimate|janitorial schedules or logs|maintenance plans|schedule|sections|shop drawings|submittals|ventilation system|windows]"
   example: "maintenance plans"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000788"
   label: "door condition"
@@ -3661,7 +3661,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[damaged|needs repair|new|rupture|visible wear]"
   example: "new"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000789"
   label: "door direction of opening"
@@ -3670,7 +3670,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[inward|outward|sideways]"
   example: "inward"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000790"
   label: "door location"
@@ -3679,7 +3679,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[north|south|east|west]"
   example: "north"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000791"
   label: "door material"
@@ -3688,7 +3688,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[aluminum|cellular PVC|engineered plastic|fiberboard|fiberglass|metal|thermoplastic alloy|vinyl|wood|wood/plastic composite]"
   example: "wood"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000792"
   label: "door movement"
@@ -3697,7 +3697,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[collapsible|folding|revolving|rolling shutter|sliding|swinging]"
   example: "swinging"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000793"
   label: "door signs of water/mold"
@@ -3706,7 +3706,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[presence of mold visible|no presence of mold visible]"
   example: "presence of mold visible"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000794"
   label: "door type"
@@ -3715,7 +3715,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[composite|metal|wooden]"
   example: "wooden"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000795"
   label: "door type, composite"
@@ -3724,7 +3724,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[metal covered|revolving|sliding|telescopic]"
   example: "revolving"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000796"
   label: "door type, metal"
@@ -3733,7 +3733,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[collapsible|corrugated steel|hollow|rolling shutters|steel plate]"
   example: "hollow"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000797"
   label: "door type, wood"
@@ -3742,7 +3742,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[bettened and ledged|battened|ledged and braced|battened|ledged and framed|battened|ledged, braced and frame|framed and paneled|glashed or sash|flush|louvered|wire gauged]"
   example: "battened"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000798"
   label: "drawings"
@@ -3751,7 +3751,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[operation|as built|construction|bid|design|building navigation map|diagram|sketch]"
   example: "sketch"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000799"
   label: "elevator count"
@@ -3760,7 +3760,7 @@
   expectedValue: "value"
   valueSyntax: "{integer}"
   example: "2"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000800"
   label: "escalator count"
@@ -3769,7 +3769,7 @@
   expectedValue: "value"
   valueSyntax: "{integer}"
   example: "4"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000802"
   label: "fireplace type"
@@ -3778,7 +3778,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[gas burning|wood burning]"
   example: "wood burning"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000803"
   label: "floor condition"
@@ -3787,7 +3787,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[new|visible wear|needs repair|damaged|rupture]"
   example: "new"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000804"
   label: "floor finish material"
@@ -3796,7 +3796,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[tile|wood strip or parquet|carpet|rug|laminate wood|lineoleum|vinyl composition tile|sheet vinyl|stone|bamboo|cork|terrazo|concrete|none;specify unfinished|sealed|clear finish|paint]"
   example: "carpet"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000805"
   label: "floor signs of water/mold"
@@ -3805,7 +3805,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[mold odor|wet floor|water stains|wall discoloration|floor discoloration|ceiling discoloration|peeling paint or wallpaper|bulging walls|condensation]"
   example: "ceiling discoloration"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000806"
   label: "floor structure"
@@ -3814,7 +3814,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[balcony|floating floor|glass floor|raised floor|sprung floor|wood-framed|concrete]"
   example: "concrete"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000807"
   label: "furniture"
@@ -3823,7 +3823,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[cabinet|chair|desks]"
   example: "chair"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000808"
   label: "gender of restroom"
@@ -3832,7 +3832,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[all gender|female|gender neurtral|male|male and female|unisex]"
   example: "male"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000809"
   label: "handidness"
@@ -3841,7 +3841,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[ambidexterity|left handedness|mixed-handedness|right handedness]"
   example: "right handedness"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000810"
   label: "heating delivery locations"
@@ -3850,7 +3850,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[north|south|east|west]"
   example: "north"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000811"
   label: "host sex"
@@ -3860,7 +3860,7 @@
   valueSyntax: "[female|hermaphrodite|non-binary|male|transgender|transgender (female to male)|transgender (male to female)
 |undeclared]"
   example: "non-binary"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000812"
   label: "heating system delivery method"
@@ -3869,7 +3869,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[conductive|radiant]"
   example: "radiant"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000813"
   label: "interior wall condition"
@@ -3878,7 +3878,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[new|visible wear|needs repair|damaged|rupture]"
   example: "damaged"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000814"
   label: "last time swept/mopped/vacuumed"
@@ -3887,7 +3887,7 @@
   expectedValue: "timestamp"
   valueSyntax: "{timestamp}"
   example: "2018-05-11:T14:30Z"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000815"
   label: "mechanical structure"
@@ -3896,7 +3896,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[subway|coach|carriage|elevator|escalator|boat|train|car|bus]"
   example: "elevator"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000816"
   label: "occupancy documentation"
@@ -3905,7 +3905,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[automated count|estimate|manual count|videos]"
   example: "estimate"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000817"
   label: "orientations of exterior wall"
@@ -3914,7 +3914,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[north|south|east|west|northeast|southeast|southwest|northwest]"
   example: "northwest"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000818"
   label: "orientations of exterior window"
@@ -3923,7 +3923,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[north|south|east|west|northeast|southeast|southwest|northwest]"
   example: "southwest"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000819"
   label: "presence of pets, animals, or insects"
@@ -3932,7 +3932,7 @@
   expectedValue: "enumeration;count"
   valueSyntax: "[cat|dog|rodent|snake|other];{integer}"
   example: "cat;5"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000820"
   label: "quadrant position"
@@ -3941,7 +3941,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[North side|West side|South side|East side]"
   example: "West side"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000821"
   label: "relative sampling location"
@@ -3950,7 +3950,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[edge of car|center of car|under a seat]"
   example: "center of car"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000822"
   label: "room condition"
@@ -3959,7 +3959,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[new|visible wear|needs repair|damaged|rupture|visible signs of mold/mildew]"
   example: "new"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000823"
   label: "room location in building"
@@ -3968,7 +3968,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[corner room|interior room|exterior wall]"
   example: "interior room"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000824"
   label: "room sampling position"
@@ -3977,7 +3977,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[north corner|south corner|west corner|east corner|northeast corner|northwest corner|southeast corner|southwest corner|center]"
   example: "south corner"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000825"
   label: "room type"
@@ -3986,7 +3986,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[attic|bathroom|closet|conference room|elevator|examining room|hallway|kitchen|mail room|private office|open office|stairwell|,restroom|lobby|vestibule|mechanical or electrical room|data center|laboratory_wet|laboratory_dry|gymnasium|natatorium|auditorium|lockers|cafe|warehouse]"
   example: "bathroom"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000826"
   label: "rooms connected by a doorway"
@@ -3995,7 +3995,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[attic|bathroom|closet|conference room|elevator|examining room|hallway|kitchen|mail room|office|stairwell]"
   example: "office"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000827"
   label: "sampling day weather"
@@ -4004,7 +4004,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[clear sky|cloudy|foggy|hail|rain|snow|sleet|sunny|windy]"
   example: "foggy"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000828"
   label: "sampling floor"
@@ -4013,7 +4013,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[1st floor|2nd floor|{integer} floor|basement|lobby]"
   example: "4th floor"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000829"
   label: "season"
@@ -4022,7 +4022,7 @@
   expectedValue: "NCIT:C94729"
   valueSyntax: "{termLabel} {[termID]}"
   example: "autumn [NCIT:C94733]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000830"
   label: "seasonal use"
@@ -4031,7 +4031,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Spring|Summer|Fall|Winter]"
   example: "Winter"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000831"
   label: "shading device condition"
@@ -4040,7 +4040,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[damaged|needs repair|new|rupture|visible wear]"
   example: "new"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000832"
   label: "shading device location"
@@ -4049,7 +4049,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[exterior|interior]"
   example: "exterior"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000833"
   label: "heating system identifier"
@@ -4057,8 +4057,8 @@
   definition: "The heating system identifier"
   expectedValue: "unique identifier"
   valueSyntax: "{integer}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000834"
   label: "shading device signs of water/mold"
@@ -4067,7 +4067,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[presence of mold visible|no presence of mold visible]"
   example: "no presence of mold visible"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000835"
   label: "shading device type"
@@ -4076,7 +4076,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[bahama shutters|exterior roll blind|gambrel awning|hood awning|porchroller awning|sarasota shutters|slatted aluminum|solid aluminum awning|sun screen|tree|trellis|venetian awning]"
   example: "slatted aluminum awning"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000836"
   label: "specifications"
@@ -4085,7 +4085,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[operation|as built|construction|bid|design|photos]"
   example: "construction"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000837"
   label: "train line"
@@ -4094,7 +4094,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[red|green|orange]"
   example: "red"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000838"
   label: "train station collection location"
@@ -4103,7 +4103,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[south station above ground|south station underground|south station amtrak|forest hills|riverside]"
   example: "forest hills"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000839"
   label: "train stop collection location"
@@ -4112,7 +4112,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[end|mid|downtown]"
   example: "end"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000840"
   label: "visual media"
@@ -4121,7 +4121,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[photos|videos|commonly of the building|site context (adjacent buildings, vegetation, terrain, streets)|interiors|equipment|3D scans]"
   example: "3D scans"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000841"
   label: "wall construction type"
@@ -4130,7 +4130,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[frame construction|joisted masonry|light noncombustible|masonry noncombustible|modified fire resistive|fire resistive]"
   example: "fire resistive"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000842"
   label: "wall finish material"
@@ -4139,7 +4139,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[plaster|gypsum plaster|veneer plaster|gypsum board|tile|terrazzo|stone facing|acoustical treatment|wood|metal|masonry]"
   example: "wood"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000843"
   label: "wall location"
@@ -4148,7 +4148,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[north|south|east|west]"
   example: "north"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000844"
   label: "wall signs of water/mold"
@@ -4157,7 +4157,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[presence of mold visible|no presence of mold visible]"
   example: "no presence of mold visible"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000845"
   label: "wall surface treatment"
@@ -4166,7 +4166,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[painted|wall paper|no treatment|paneling|stucco|fabric]"
   example: "paneling"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000846"
   label: "wall texture"
@@ -4175,7 +4175,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[crows feet|crows-foot stomp||double skip|hawk and trowel|knockdown|popcorn|orange peel|rosebud stomp|Santa-Fe texture|skip trowel|smooth|stomp knockdown|swirl]"
   example: "popcorn"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000847"
   label: "water feature type"
@@ -4184,7 +4184,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[fountain|pool|standing feature|stream|waterfall]"
   example: "stream"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000848"
   label: "weekday"
@@ -4193,7 +4193,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday]"
   example: "Sunday"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000849"
   label: "window condition"
@@ -4202,7 +4202,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[damaged|needs repair|new|rupture|visible wear]"
   example: "rupture"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000850"
   label: "window covering"
@@ -4211,7 +4211,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[blinds|curtains|none]"
   example: "curtains"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000851"
   label: "window horizontal position"
@@ -4220,7 +4220,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[left|middle|right]"
   example: "middle"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000852"
   label: "window location"
@@ -4229,7 +4229,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[north|south|east|west]"
   example: "west"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000853"
   label: "window material"
@@ -4238,7 +4238,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[clad|fiberglass|metal|vinyl|wood]"
   example: "wood"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000854"
   label: "window signs of water/mold"
@@ -4247,7 +4247,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[presence of mold visible|no presence of mold visible]"
   example: "no presence of mold visible"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000855"
   label: "window status"
@@ -4256,7 +4256,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[closed|open]"
   example: "open"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000856"
   label: "window type"
@@ -4265,7 +4265,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[single-hung sash window|horizontal sash window|fixed window]"
   example: "fixed window"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000857"
   label: "window vertical position"
@@ -4274,7 +4274,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[bottom|middle|top|low|middle|high]"
   example: "middle"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000858"
   label: "biological status"
@@ -4283,7 +4283,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[wild|natural|semi-natural|inbred line|breeder's line|hybrid|clonal selection|mutant]"
   example: "natural"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000859"
   label: "genetic modification"
@@ -4292,7 +4292,7 @@
   expectedValue: "PMID,DOI,url or free text"
   valueSyntax: "{PMID}|{DOI}|{URL}|{text}"
   example: "aox1A transgenic"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000860"
   label: "sample capture status"
@@ -4301,7 +4301,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[active surveillance in response to an outbreak|active surveillance not initiated by an outbreak|farm sample|market sample|other]"
   example: "farm sample"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000861"
   label: "host subject id"
@@ -4310,7 +4310,7 @@
   expectedValue: "unique identifier"
   valueSyntax: "{text}"
   example: "MPI123"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000862"
   label: "host sex"
@@ -4318,8 +4318,8 @@
   definition: "Physical sex of the host."
   expectedValue: "sex of the symbiotic organism (host of the samples); enumeration"
   valueSyntax: "[female|hermaphrodite|male|neuter]"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000866"
   label: "host body habitat"
@@ -4328,7 +4328,7 @@
   expectedValue: "free text"
   valueSyntax: "{text}"
   example: "nasopharynx"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000867"
   label: "host body site"
@@ -4337,7 +4337,7 @@
   expectedValue: "FMA or UBERON"
   valueSyntax: "{termLabel} {[termID]}"
   example: "gill [UBERON:0002535]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000868"
   label: "host body product"
@@ -4346,7 +4346,7 @@
   expectedValue: "body substance of the symbiotic organism (host of the samples) where the samples was obtained from; FMA or UBERON"
   valueSyntax: "{termLabel} {[termID]}"
   example: "Portion of mucus [fma66938]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000869"
   label: "host diet"
@@ -4355,7 +4355,7 @@
   expectedValue: "diet type"
   valueSyntax: "{text}"
   example: "herbivore"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000870"
   label: "host last meal"
@@ -4364,7 +4364,7 @@
   expectedValue: "content;duration"
   valueSyntax: "{text};{duration}"
   example: "corn feed;P2H"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000871"
   label: "host growth conditions"
@@ -4373,7 +4373,7 @@
   expectedValue: "PMID,DOI,url or free text"
   valueSyntax: "{PMID}|{DOI}|{URL}|{text}"
   example: "https://academic.oup.com/icesjms/article/68/2/349/617247"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000872"
   label: "host family relationship"
@@ -4382,7 +4382,7 @@
   expectedValue: "relationship type;arbitrary identifier"
   valueSyntax: "{text};{text}"
   example: "offspring;Mussel25"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000874"
   label: "host phenotype"
@@ -4391,7 +4391,7 @@
   expectedValue: "PATO or HP"
   valueSyntax: "{termLabel} {[termID]}"
   example: "elongated [PATO:0001154]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000875"
   label: "gravidity"
@@ -4400,7 +4400,7 @@
   expectedValue: "gravidity status;timestamp"
   valueSyntax: "{boolean};{timestamp}"
   example: "yes;due date:2018-05-11"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000884"
   label: "IHMC medication code"
@@ -4409,7 +4409,7 @@
   expectedValue: "IHMC code"
   valueSyntax: "{integer}"
   example: "810"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000888"
   label: "host body product"
@@ -4418,7 +4418,7 @@
   expectedValue: "FMA or UBERON"
   valueSyntax: "{termLabel} {[termID]}"
   example: "Portion of mucus [fma66938]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000894"
   label: "drug usage"
@@ -4427,7 +4427,7 @@
   expectedValue: "drug name;frequency"
   valueSyntax: "{text};{integer}/[year|month|week|day|hour]"
   example: "Lipitor;2/day"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000895"
   label: "ethnicity"
@@ -4436,7 +4436,7 @@
   expectedValue: "text recommend from Wikipedia list"
   valueSyntax: "{text}"
   example: "native american"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000896"
   label: "host occupation"
@@ -4445,7 +4445,7 @@
   expectedValue: "IHMC code"
   valueSyntax: "{integer}"
   example: "veterinary"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000897"
   label: "medical history performed"
@@ -4454,7 +4454,7 @@
   expectedValue: "true or false"
   valueSyntax: "{boolean}"
   example: "TRUE"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000898"
   label: "study completion status"
@@ -4463,7 +4463,7 @@
   expectedValue: "YES or NO due to (1)adverse event (2) non-compliance (3) lost to follow up (4)other-specify"
   valueSyntax: "{boolean};[adverse event|non-compliance|lost to follow up|other-specify]"
   example: "no;non-compliance"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000899"
   label: "urine/collection method"
@@ -4472,7 +4472,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[clean catch|catheter]"
   example: "catheter"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000905"
   label: "special diet"
@@ -4481,7 +4481,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[low carb|reduced calorie|vegetarian|other(to be specified)]"
   example: "other:vegan"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0000924"
   label: "time since last toothbrushing"
@@ -4490,7 +4490,7 @@
   expectedValue: "duration"
   valueSyntax: "{duration}"
   example: "P2H45M"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000943"
   label: "time since last wash"
@@ -4499,7 +4499,7 @@
   expectedValue: "duration"
   valueSyntax: "{duration}"
   example: "P1D"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000944"
   label: "dominant hand"
@@ -4508,7 +4508,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[left|right|ambidextrous]"
   example: "right"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000965"
   label: "menarche"
@@ -4517,7 +4517,7 @@
   expectedValue: "timestamp"
   valueSyntax: "{timestamp}"
   example: "43231"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000966"
   label: "pregnancy"
@@ -4526,7 +4526,7 @@
   expectedValue: "timestamp"
   valueSyntax: "{timestamp}"
   example: "43231"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000967"
   label: "douche"
@@ -4535,7 +4535,7 @@
   expectedValue: "timestamp"
   valueSyntax: "{timestamp}"
   example: "43231"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000968"
   label: "menopause"
@@ -4544,7 +4544,7 @@
   expectedValue: "timestamp"
   valueSyntax: "{timestamp}"
   example: "43231"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000969"
   label: "HRT"
@@ -4553,7 +4553,7 @@
   expectedValue: "timestamp"
   valueSyntax: "{timestamp}"
   example: "43231"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000988"
   label: "hydrocarbon resource type"
@@ -4562,7 +4562,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Oil Reservoir|Gas Reservoir|Oil Sand|Coalbed|Shale|Tight Oil Reservoir|Tight Gas Reservoir|other]"
   example: "Oil Sand"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000989"
   label: "hydrocarbon type produced"
@@ -4571,7 +4571,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Oil|Gas-Condensate|Gas|Bitumen|Coalbed Methane|other]"
   example: "Gas"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000990"
   label: "lithology"
@@ -4580,7 +4580,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Basement|Chalk|Chert|Coal|Conglomerate|Diatomite|Dolomite|Limestone|Sandstone|Shale|Siltstone|Volcanic|other]"
   example: "Volcanic"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000992"
   label: "depositional environment"
@@ -4589,7 +4589,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Continental - Alluvial|Continental - Aeolian|Continental - Fluvial|Continental - Lacustrine|Transitional - Deltaic|Transitional - Tidal|Transitional - Lagoonal|Transitional - Beach|Transitional - Lake|Marine - Shallow|Marine - Deep|Marine - Reef|Other - Evaporite|Other - Glacial|Other - Volcanic|other]"
   example: "Continental - Alluvial"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000993"
   label: "hydrocarbon resource geological age"
@@ -4598,7 +4598,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Archean|Cambrian|Carboniferous|Cenozoic|Cretaceous|Devonian|Jurassic|Mesozoic|Neogene|Ordovician|Paleogene|Paleozoic|Permian|Precambrian|Proterozoic|Silurian|Triassic|other]"
   example: "Silurian"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000994"
   label: "source rock kerogen type"
@@ -4607,7 +4607,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Type I|Type II|Type III|Type IV|other]"
   example: "Type IV"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000995"
   label: "source rock lithology"
@@ -4616,7 +4616,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Clastic|Carbonate|Coal|Biosilicieous|other]"
   example: "Coal"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000996"
   label: "source rock depositional environment"
@@ -4625,7 +4625,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Lacustine|Fluvioldeltaic|Fluviomarine|Marine|other]"
   example: "Marine"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000997"
   label: "source rock geological age"
@@ -4634,7 +4634,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Archean|Cambrian|Carboniferous|Cenozoic|Cretaceous|Devonian|Jurassic|Mesozoic|Neogene|Ordovician|Paleogene|Paleozoic|Permian|Precambrian|Proterozoic|Silurian|Triassic|other]"
   example: "Silurian"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000998"
   label: "sample type"
@@ -4643,7 +4643,7 @@
   expectedValue: "GENEPIO:0001246"
   valueSyntax: "{termLabel} {[termID]}"
   example: "built environment sample [GENEPIO:0001248]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0000999"
   label: "sample subtype"
@@ -4652,7 +4652,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[oil phase|water phase|biofilm|not applicable|other]"
   example: "biofilm"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001001"
   label: "pH"
@@ -4661,7 +4661,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float}"
   example: "7.2"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001008"
   label: "production start date"
@@ -4670,7 +4670,7 @@
   expectedValue: "timestamp"
   valueSyntax: "{timestamp}"
   example: "43231"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001009"
   label: "secondary and tertiary recovery methods and start date"
@@ -4679,7 +4679,7 @@
   expectedValue: "enumeration;timestamp"
   valueSyntax: "[Water Injection|Dump Flood|Gas Injection|Wag Immiscible Injection|Polymer Addition|Surfactant Addition|Not Applicable|other];{timestamp}"
   example: "Polymer Addition;2018-06-21T14:30Z"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001010"
   label: "injection water breakthrough date of specific well"
@@ -4688,7 +4688,7 @@
   expectedValue: "timestamp"
   valueSyntax: "{timestamp}"
   example: "43231"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001011"
   label: "biocide administration"
@@ -4697,7 +4697,7 @@
   expectedValue: "name;name;timestamp"
   valueSyntax: "{text};{text};{timestamp}"
   example: "ALPHA 1427;Baker Hughes;2008-01-23"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001012"
   label: "chemical treatment"
@@ -4706,7 +4706,7 @@
   expectedValue: "name;name;timestamp"
   valueSyntax: "{text};{text};{timestamp}"
   example: "ACCENT 1125;DOW;2010-11-17"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001015"
   label: "sample collection point"
@@ -4715,7 +4715,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[well|test well|drilling rig|wellhead|separator|storage tank|other]"
   example: "well"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001038"
   label: "biotic regimen"
@@ -4724,7 +4724,7 @@
   expectedValue: "free text"
   valueSyntax: "{text}"
   example: "sample inoculated with Rhizobium spp. Culture"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001040"
   label: "climate environment"
@@ -4733,7 +4733,7 @@
   expectedValue: "climate name;treatment interval and duration"
   valueSyntax: "{text};{Rn/start_time/end_time/duration}"
   example: "tropical climate;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001041"
   label: "culture rooting medium"
@@ -4742,7 +4742,7 @@
   expectedValue: "name, PMID,DOI or url"
   valueSyntax: "{text}|{PMID}|{DOI}|{URL}"
   example: "http://himedialabs.com/TD/PT158.pdf"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001043"
   label: "growth facility"
@@ -4751,7 +4751,7 @@
   expectedValue: "free text or CO"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "Growth chamber [CO_715:0000189]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001044"
   label: "growth habit"
@@ -4760,7 +4760,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[erect|semi-erect|spreading|prostrate]"
   example: "spreading"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001052"
   label: "mechanical damage"
@@ -4769,7 +4769,7 @@
   expectedValue: "damage type;body site"
   valueSyntax: "{text};{text}"
   example: "pruning;bark"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001056"
   label: "pH regimen"
@@ -4778,7 +4778,7 @@
   expectedValue: "measurement value;treatment interval and duration"
   valueSyntax: "{float};{Rn/start_time/end_time/duration}"
   example: "7.6;R2/2018-05-11:T14:30/2018-05-11T19:30/P1H30M"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001057"
   label: "plant growth medium"
@@ -4787,7 +4787,7 @@
   expectedValue: "EO or enumeration"
   valueSyntax: "{termLabel} {[termID]} or [husk|other artificial liquid medium|other artificial solid medium|peat moss|perlite|pumice|sand|soil|vermiculite|water]"
   example: "hydroponic plant culture media [EO:0007067]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001058"
   label: "plant product"
@@ -4796,7 +4796,7 @@
   expectedValue: "product name"
   valueSyntax: "{text}"
   example: "xylem sap [PO:0025539]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001059"
   label: "plant sex"
@@ -4805,7 +4805,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Androdioecious|Androecious|Androgynous|Androgynomonoecious|Andromonoecious|Bisexual|Dichogamous|Diclinous|Dioecious|Gynodioecious|Gynoecious|Gynomonoecious|Hermaphroditic|Imperfect|Monoclinous|Monoecious|Perfect|Polygamodioecious|Polygamomonoecious|Polygamous|Protandrous|Protogynous|Subandroecious|Subdioecious|Subgynoecious|Synoecious|Trimonoecious|Trioecious|Unisexual]"
   example: "Hermaphroditic"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001060"
   label: "plant structure"
@@ -4814,7 +4814,7 @@
   expectedValue: "PO"
   valueSyntax: "{termLabel} {[termID]}"
   example: "epidermis [PO:0005679]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001061"
   label: "rooting conditions"
@@ -4823,7 +4823,7 @@
   expectedValue: "PMID,DOI,url or free text"
   valueSyntax: "{PMID}|{DOI}|{URL}|{text}"
   example: "http://himedialabs.com/TD/PT158.pdf"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001062"
   label: "rooting medium pH"
@@ -4832,7 +4832,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float}"
   example: "7.5"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001063"
   label: "rooting medium solidifier"
@@ -4841,7 +4841,7 @@
   expectedValue: "name"
   valueSyntax: "{text}"
   example: "agar"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001068"
   label: "seasonal environment"
@@ -4850,7 +4850,7 @@
   expectedValue: "seasonal environment name;treatment interval and duration"
   valueSyntax: "{text};{Rn/start_time/end_time/duration}"
   example: "rainy;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001069"
   label: "standing water regimen"
@@ -4859,7 +4859,7 @@
   expectedValue: "standing water type;treatment interval and duration"
   valueSyntax: "{text};{Rn/start_time/end_time/duration}"
   example: "standing water;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001070"
   label: "tissue culture growth media"
@@ -4868,7 +4868,7 @@
   expectedValue: "PMID,DOI,url or free text"
   valueSyntax: "{PMID}|{DOI}|{URL}|{text}"
   example: "https://link.springer.com/content/pdf/10.1007/BF02796489.pdf"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001078"
   label: "sediment type"
@@ -4877,7 +4877,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[biogenous|cosmogenous|hydrogenous|lithogenous]"
   example: "biogenous"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001080"
   label: "current land use"
@@ -4886,7 +4886,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[cities|farmstead|industrial areas|roads/railroads|rock|sand|gravel|mudflats|salt flats|badlands|permanent snow or ice|saline seeps|mines/quarries|oil waste areas|small grains|row crops|vegetable crops|horticultural plants (e.g. tulips)|marshlands (grass,sedges,rushes)|tundra (mosses,lichens)|rangeland|pastureland (grasslands used for livestock grazing)|hayland|meadows (grasses,alfalfa,fescue,bromegrass,timothy)|shrub land (e.g. mesquite,sage-brush,creosote bush,shrub oak,eucalyptus)|successional shrub land (tree saplings,hazels,sumacs,chokecherry,shrub dogwoods,blackberries)|shrub crops (blueberries,nursery ornamentals,filberts)|vine crops (grapes)|conifers (e.g. pine,spruce,fir,cypress)|hardwoods (e.g. oak,hickory,elm,aspen)|intermixed hardwood and conifers|tropical (e.g. mangrove,palms)|rainforest (evergreen forest receiving >406 cm annual rainfall)|swamp (permanent or semi-permanent water body dominated by woody plants)|crop trees (nuts,fruit,christmas trees,nursery trees)]"
   example: "conifers"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001081"
   label: "history/tillage"
@@ -4895,7 +4895,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[drill|cutting disc|ridge till|strip tillage|zonal tillage|chisel|tined|mouldboard|disc plough]"
   example: "chisel"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001082"
   label: "soil horizon"
@@ -4904,7 +4904,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[O horizon|A horizon|E horizon|B horizon|C horizon|R layer|Permafrost]"
   example: "A horizon"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001083"
   label: "soil_taxonomic/FAO classification"
@@ -4913,7 +4913,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[Acrisols|Andosols|Arenosols|Cambisols|Chernozems|Ferralsols|Fluvisols|Gleysols|Greyzems|Gypsisols|Histosols|Kastanozems|Lithosols|Luvisols|Nitosols|Phaeozems|Planosols|Podzols|Podzoluvisols|Rankers|Regosols|Rendzinas|Solonchaks|Solonetz|Vertisols|Yermosols]"
   example: "Luvisols"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001084"
   label: "profile position"
@@ -4922,7 +4922,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[summit|shoulder|backslope|footslope|toeslope]"
   example: "summit"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001085"
   label: "drainage classification"
@@ -4931,7 +4931,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[very poorly|poorly|somewhat poorly|moderately well|well|excessively drained]"
   example: "well"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001086"
   label: "history/fire"
@@ -4939,8 +4939,8 @@
   definition: "Historical and/or physical evidence of fire"
   expectedValue: "date"
   valueSyntax: "{timestamp}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001097"
   label: "atmospheric data"
@@ -4949,7 +4949,7 @@
   expectedValue: "atmospheric data name;measurement value"
   valueSyntax: "{text};{float} {unit}"
   example: "wind speed;9 knots"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001106"
   label: "pH method"
@@ -4957,8 +4957,8 @@
   definition: "Reference or method used in determining ph"
   expectedValue: "PMID,DOI or url"
   valueSyntax: "{PMID}|{DOI}|{URL}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001107"
   label: "sample name "
@@ -4967,7 +4967,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "ISDsoil1"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001108"
   label: "growth medium"
@@ -4976,7 +4976,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "LB broth"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001110"
   label: "farm watering water source"
@@ -4985,7 +4985,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[freshwater|brackish|saline|natural|manmade|estuary|lake|pond|canal|stream|river|melt pond|well|ditch|reservior|collected rainwater|municipal|storage tank]"
   example: "water well (ENVO:01000002)"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001111"
   label: "plant water delivery method"
@@ -4994,7 +4994,7 @@
   expectedValue: "AGRO_00000006"
   valueSyntax: "{termLabel} {[termID]}"
   example: "drip irrigation process [AGRO:00000056]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001113"
   label: "animal feeding equipment"
@@ -5003,7 +5003,7 @@
   expectedValue: "EOL:0001757"
   valueSyntax: "{termLabel} {[termID]}"
   example: "self feeding [EOL:0001645]| straight feed trough [EOL:0001661]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001114"
   label: "animal intrusion near sample source"
@@ -5012,7 +5012,7 @@
   expectedValue: "NCIT:C14250 or NCBI taxid"
   valueSyntax: "{termLabel} {[termID]}|{integer}"
   example: "Thripidae [NCBITaxon:45053]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001115"
   label: "animal water delivery method"
@@ -5021,7 +5021,7 @@
   expectedValue: "EOL_0001653"
   valueSyntax: "{termLabel} {[termID]}"
   example: "water trough [EOL:0001618]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001116"
   label: "crop yield"
@@ -5039,7 +5039,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[absent|active|inactive|negative|no|present|positive|yes]"
   example: "positive"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001118"
   label: "culture result organism"
@@ -5048,7 +5048,7 @@
   expectedValue: "NCIT:C14250 or NCBI taxid"
   valueSyntax: "{termLabel} {[termID]}|{integer}"
   example: "Listeria monocytogenes [NCIT:C86502]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001119"
   label: "culture target microbial analyte"
@@ -5057,7 +5057,7 @@
   expectedValue: "NCIT:C14250 or NCBI taxid or culture independent"
   valueSyntax: "{termLabel} {[termID]}|{integer}"
   example: "Listeria monocytogenes [NCIT:C86502]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001120"
   label: "degree of plant part maturity"
@@ -5066,7 +5066,7 @@
   expectedValue: "FOODON:03530050"
   valueSyntax: "{term label}{term ID}"
   example: "ripe or mature [FOODON:03530052]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001121"
   label: "environment adjacent to site"
@@ -5075,7 +5075,7 @@
   expectedValue: "ENVO_01001110 or ENVO_00000070"
   valueSyntax: "{termLabel}{[termID]}"
   example: "estuarine biome [ENVO:01000020]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001122"
   label: "environmental feature adjacent water source"
@@ -5084,7 +5084,7 @@
   expectedValue: "ENVO_01001110 or ENVO_00000070"
   valueSyntax: "{text}"
   example: "feedlot [ENVO:01000627]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001123"
   label: "equipment shared with other farms"
@@ -5093,7 +5093,7 @@
   expectedValue: "AGRO:00000416"
   valueSyntax: "{termLabel} {[termID]}"
   example: "combine harvester [AGRO:00000473]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001124"
   label: "farm equipment sanitization"
@@ -5111,7 +5111,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "Biweekly"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001126"
   label: "farm equipment used"
@@ -5120,7 +5120,7 @@
   expectedValue: "AGRO:00000416"
   valueSyntax: "{termLabel} {[termID]}"
   example: "combine harvester [AGRO:00000473]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001127"
   label: "fertilizer administration"
@@ -5129,7 +5129,7 @@
   expectedValue: "AGRO_00002062"
   valueSyntax: "{termLabel} {[termID]}"
   example: "fish emulsion [AGRO:00000082]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001128"
   label: "fertilizer administration date"
@@ -5138,7 +5138,7 @@
   expectedValue: "date and time"
   valueSyntax: "{timestamp}"
   example: "2018-05-11T10:00:00+01:00"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001129"
   label: "food animal group size"
@@ -5147,7 +5147,7 @@
   expectedValue: "value"
   valueSyntax: "{integer}"
   example: "80"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001130"
   label: "food animal source diet"
@@ -5156,7 +5156,7 @@
   expectedValue: "text or FOODON_03309997"
   valueSyntax: "{text}"
   example: "Hay [FOODON:03301763]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001131"
   label: "food contact surface"
@@ -5165,7 +5165,7 @@
   expectedValue: "FOODON:03500010"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "cellulose acetate [FOODON:03500034]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001132"
   label: "food container or wrapping"
@@ -5174,7 +5174,7 @@
   expectedValue: "FOODON:03490100"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "Plastic shrink-pack [FOODON:03490137]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001133"
   label: "Food harvesting process"
@@ -5183,7 +5183,7 @@
   expectedValue: "free text"
   valueSyntax: "{text}"
   example: "hand-picked"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001134"
   label: "food packing medium"
@@ -5192,7 +5192,7 @@
   expectedValue: "FOODON:03480020"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "vacuum-packed[FOODON:03480027]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001135"
   label: "food preservation process"
@@ -5201,7 +5201,7 @@
   expectedValue: "FOODON:03470107"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "food slow freezing [FOODON:03470128]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001136"
   label: "food production characteristics"
@@ -5210,7 +5210,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "wild caught"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001137"
   label: "food shipping transportation method"
@@ -5219,7 +5219,7 @@
   expectedValue: "GENEPIO:0001064"
   valueSyntax: "{termLabel} {[termID]}"
   example: "train travel [GENEPIO:0001060]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001138"
   label: "Food shipping transportation vehicle"
@@ -5228,7 +5228,7 @@
   expectedValue: "ENVO:01000604"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "aircraft [ENVO:01001488]|car [ENVO:01000605]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001139"
   label: "food source"
@@ -5237,7 +5237,7 @@
   expectedValue: "FOODON term"
   valueSyntax: "{termLabel} {[termID]}"
   example: "giant tiger prawn [FOODON:03412612]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001140"
   label: "food treatment process"
@@ -5246,7 +5246,7 @@
   expectedValue: "FOODON:03460111"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "gluten removal process [FOODON:03460750]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001141"
   label: "extreme weather event"
@@ -5255,7 +5255,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[drought|dust storm|extreme cold|extreme heat|flood|frost|hail|high precipitationhigh winds]"
   example: "hail"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001142"
   label: "extreme weather date"
@@ -5264,7 +5264,7 @@
   expectedValue: "date"
   valueSyntax: "{timestamp}"
   example: "2018-05-11:T14:30Z"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001144"
   label: "intended consumer"
@@ -5273,7 +5273,7 @@
   expectedValue: "FOODON_03510136 or NCBI taxid"
   valueSyntax: "{integer}|{termLabel} {[termID]}        "
   example: "9606 o rsenior as food consumer [FOODON:03510254] "
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001145"
   label: "library preparation kit"
@@ -5282,7 +5282,7 @@
   expectedValue: "name of library preparation kit"
   valueSyntax: "{text}"
   example: "Illumina DNA Prep"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001146"
   label: "local air flow impediments"
@@ -5291,7 +5291,7 @@
   expectedValue: "enumeration;obstruction type; distance from sampling device"
   valueSyntax: "[obstructed|unobstructed]; {text}; {measurement value}"
   example: "obstructed;hay bales; 2 m"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001147"
   label: "lot number"
@@ -5300,7 +5300,7 @@
   expectedValue: "lot number, item"
   valueSyntax: "{integer}, {text}"
   example: "1239ABC01A, split Cornish hens"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001148"
   label: "mean seasonal humidity"
@@ -5309,7 +5309,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
   example: "0.25"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001149"
   label: "part of plant or animal"
@@ -5318,7 +5318,7 @@
   expectedValue: "FOODON:03420116"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "chuck [FOODON:03530021]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001150"
   label: "plant reproductive part"
@@ -5327,7 +5327,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[plant cutting|pregerminated seed|ratoon|seed|seedling|whole mature plant]"
   example: "seedling"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001151"
   label: "purpose of sampling"
@@ -5336,7 +5336,7 @@
   expectedValue: "enumeration or {text}"
   valueSyntax: "[active surveillance in response to an outbreak|active surveillance not initiated by an outbreak|clinical trial|cluster investigation|environmental assessment|farm sample|field trial|for cause|industry internal investigation|market sample|passive surveillance|population based studies|research|research and development] or {text}"
   example: "field trial"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001152"
   label: "repository name"
@@ -5345,7 +5345,7 @@
   expectedValue: "Institution"
   valueSyntax: "{text}"
   example: "FDA CFSAN Microbiology Laboratories"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001153"
   label: "sample pooling"
@@ -5354,7 +5354,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "5uL of extracted genomic DNA from 5 leaves were pooled"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001154"
   label: "sample source material category"
@@ -5363,7 +5363,7 @@
   expectedValue: "GENEPIO:0001237"
   valueSyntax: "{termLabel} {[termID]}"
   example: "environmental (swab or sampling) [GENEPIO:0001732]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001155"
   label: "sequencing kit"
@@ -5372,7 +5372,7 @@
   expectedValue: "name of sequencing kit used"
   valueSyntax: "{text}"
   example: "NextSeq 500/550 High Output Kit v2.5 (75 Cycles)"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001156"
   label: "sequencing location"
@@ -5381,7 +5381,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "University of Maryland Genomics Resource Center"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001157"
   label: "serovar or serotype"
@@ -5390,7 +5390,7 @@
   expectedValue: "NCIT:C14250 or NCBI taxid"
   valueSyntax: "{termLabel} {[termID]}|{integer}"
   example: "Escherichia coli strain O157:H7 [NCIT:C86883]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001158"
   label: "soil conductivity"
@@ -5408,7 +5408,7 @@
   expectedValue: "ENVO:00010483"
   valueSyntax: "{termLabel} {[termID]}"
   example: "bare soil [ENVO01001616]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001160"
   label: "soil pH"
@@ -5417,7 +5417,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float}"
   example: "7.2"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001161"
   label: "relative location of sample"
@@ -5426,7 +5426,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "furrow"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001162"
   label: "soil sediment porosity"
@@ -5453,7 +5453,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[clay|clay loam|loam|loamy sand|sand|sandy clay|sandy clay loam|sandy loam|silt|silty clay|silty clay loam|silt loam]"
   example: "silty clay loam"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001167"
   label: "spike in organism"
@@ -5462,7 +5462,7 @@
   expectedValue: "NCIT:C14250 or NCBI taxid"
   valueSyntax: "{termLabel} {[termID]}|{integer}"
   example: "Listeria monocytogenes [NCIT:C86502]|28901"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001168"
   label: "spike-in bacterial serovar or serotype"
@@ -5471,7 +5471,7 @@
   expectedValue: "NCIT:C14250 or antigenic formula or serovar name"
   valueSyntax: "{termLabel} {[termID]}|{integer}"
   example: "Escherichia coli strain O157:H7 [NCIT:C86883]|83334"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001169"
   label: "spike-in growth medium"
@@ -5480,7 +5480,7 @@
   expectedValue: "MICRO:0000067"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "LB broth [MCO:0000036]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001170"
   label: "spike-in microbial strain"
@@ -5489,7 +5489,7 @@
   expectedValue: "NCIT:C14250 or NCBI taxid or text"
   valueSyntax: "{termLabel} {[termID]}|{integer}"
   example: "169963"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001171"
   label: "spike-in with antibiotics"
@@ -5498,7 +5498,7 @@
   expectedValue: "drug name; concentration"
   valueSyntax: "{text} {integer}"
   example: "Tetracycline at 5 mg/ml"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001172"
   label: "spike-in with heavy metals"
@@ -5507,7 +5507,7 @@
   expectedValue: "heavy metal name or chemical symbol; concentration"
   valueSyntax: "{text} {integer}"
   example: "Cd at 20 ppm"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001173"
   label: "timepoint"
@@ -5534,7 +5534,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float}"
   example: "7.2"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001176"
   label: "water source shared"
@@ -5543,7 +5543,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[multiple users, agricutural|multiple users, other|no sharing]"
   example: "no sharing"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001177"
   label: "enrichment protocol"
@@ -5552,7 +5552,7 @@
   expectedValue: "PMID,DOI,url or free text"
   valueSyntax: "{PMID}|{DOI}|{URL}|{text}"
   example: "BAM Chapter 4: Enumeration of Escherichia coli and the Coliform Bacteria"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001178"
   label: "food quality date"
@@ -5561,7 +5561,7 @@
   expectedValue: "enumeration, date"
   valueSyntax: "[best by|best if used by|freeze by||use by]; date"
   example: "best by 2020-05-24"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001179"
   label: "Interagency Food Safety Analytics Collaboration (IFSAC) category"
@@ -5570,7 +5570,7 @@
   expectedValue: "IFSAC term"
   valueSyntax: "{text}"
   example: "Plants:Produce:Vegetables:Herbs:Dried Herbs"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001180"
   label: "animal housing system"
@@ -5579,7 +5579,7 @@
   expectedValue: "EOL:0001605"
   valueSyntax: "{termLabel} {[termID]}"
   example: "pen rearing system [EOL:0001636]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001181"
   label: "culture isolation date"
@@ -5588,7 +5588,7 @@
   expectedValue: "date and time"
   valueSyntax: "{timestamp}"
   example: "2018-05-11T10:00:00+01:00"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001182"
   label: "food cleaning process"
@@ -5597,7 +5597,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[drum and drain|manual spinner|rinsed with sanitizer solution|rinsed with water|scrubbed with brush|scrubbed with hand|soaking]"
   example: "rinsed with water|scrubbed with brush"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001183"
   label: "collection site geographic feature"
@@ -5606,7 +5606,7 @@
   expectedValue: "ENVO:00000002 or ENVO:00000070"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "grocery store [ENVO:01000984]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001184"
   label: "food product type"
@@ -5615,7 +5615,7 @@
   expectedValue: "FOODON:00001002 or FOODON:03309997"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "shrimp (peeled, deep-frozen) [FOODON:03317171]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001185"
   label: "fermentation chemical additives"
@@ -5624,7 +5624,7 @@
   expectedValue: "chemical ingredient"
   valueSyntax: "{float} {unit}"
   example: "salt"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001186"
   label: "fermentation chemical additives percentage"
@@ -5651,7 +5651,7 @@
   expectedValue: "growth medium"
   valueSyntax: "{text}"
   example: "molasses"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001189"
   label: "fermentation pH"
@@ -5660,7 +5660,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float}"
   example: "4.5"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001190"
   label: "fermentation relative humidity"
@@ -5696,7 +5696,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "steel drum"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001194"
   label: "bacteria density"
@@ -5732,7 +5732,7 @@
   expectedValue: "date and time"
   valueSyntax: "{timestamp}"
   example: "43799"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001198"
   label: "quantity purchased"
@@ -5741,7 +5741,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{integer} {unit}"
   example: "5 cans"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001199"
   label: "dietary claim or use"
@@ -5750,7 +5750,7 @@
   expectedValue: "FOODON:03510023"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "No preservatives [FOODON:03510113]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001200"
   label: "food additive"
@@ -5759,7 +5759,7 @@
   expectedValue: "FOODON:03412972"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "xanthan gum [FOODON:03413321]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001201"
   label: "food allergen labeling"
@@ -5768,7 +5768,7 @@
   expectedValue: "FOODON:03510213"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "food allergen labelling about crustaceans and products thereof [FOODON:03510215]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001202"
   label: "food cooking process"
@@ -5777,7 +5777,7 @@
   expectedValue: "FOODON:03450002"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "food blanching [FOODON:03470175]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001203"
   label: "food distribution point geographic location"
@@ -5786,7 +5786,7 @@
   expectedValue: "country: region, specific location (city)"
   valueSyntax: "{term}: {term}, {text}"
   example: "USA: Delmarva Peninsula or USA: Georgia, Atlanta [GAZ:00004445]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001204"
   label: "food distribution point geographic location (city)"
@@ -5795,7 +5795,7 @@
   expectedValue: "GAZ:00000448"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "Atlanta[GAZ:00004445]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: ""
 - mixsId: "MIXS:0001205"
   label: "food ingredient"
@@ -5804,7 +5804,7 @@
   expectedValue: "FOODON"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "bean (whole) [FOODON:00002753]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001206"
   label: "food product name legal status"
@@ -5813,7 +5813,7 @@
   expectedValue: "FOODON:03530087"
   valueSyntax: "{termLabel} {[termID]}"
   example: "protected geographic indication [FOODON:03530256]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001207"
   label: "food product origin geographic location"
@@ -5822,7 +5822,7 @@
   expectedValue: "country: region, specific location"
   valueSyntax: "{term}: {term}, {text}"
   example: "USA: Delmarva, Peninsula"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001208"
   label: "food package capacity"
@@ -5840,7 +5840,7 @@
   expectedValue: "FOODON:03530218"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "food packing medium compromised [FOODON:00002517]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001210"
   label: "material of contact prior to food packaging"
@@ -5849,7 +5849,7 @@
   expectedValue: "FOODON:03530077"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "processed in stainless steel container [FOODON:03530081]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001211"
   label: "food production system characteristics"
@@ -5858,7 +5858,7 @@
   expectedValue: "FOODON:03530206"
   valueSyntax: "{termLabel} {[termID]}"
   example: "organic plant cultivation [FOODON:03530253]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001212"
   label: "food product synonym"
@@ -5867,7 +5867,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "pinot gris"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001213"
   label: "food product by quality"
@@ -5876,7 +5876,7 @@
   expectedValue: "FOODON:00002454"
   valueSyntax: "{termLabel} {[termID]}"
   example: "raw [FOODON:03311126]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001214"
   label: "food traceability list category"
@@ -5885,7 +5885,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[cheeses-other than hard cheeses|cucumbers|crustaceans|finfish-including smoked finfish|fruits and vegetables-fresh cut|herbs-fresh|leafy greens-including fresh cut leafy greens|melons|mollusks-bivalves|nut butter|peppers|ready to eat deli salads|sprouts|tomatoes|tropical tree fruits|shell eggs]"
   example: "tropical tree fruits"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001215"
   label: "Hazard Analysis Critical Control Points (HACCP) guide food safety term"
@@ -5894,7 +5894,7 @@
   expectedValue: "FOODON:03530221"
   valueSyntax: "{termLabel} {[termID]}"
   example: "tetrodotoxic poisoning [FOODON:03530249]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001216"
   label: "microbiological culture medium"
@@ -5903,7 +5903,7 @@
   expectedValue: "MICRO:0000067"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "brain heart infusion agar [MICRO:0000566]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001217"
   label: "microbial starter"
@@ -5912,7 +5912,7 @@
   expectedValue: "FOODON:03544453"
   valueSyntax: "{term label} {[termID]}|{text}"
   example: "starter cultures [FOODON:03544454]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001218"
   label: "microbial starter organism count"
@@ -5939,7 +5939,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "liquid starter culture, propagated 3 cycles in milk prior to inoculation"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001221"
   label: "microbial starter source"
@@ -5948,7 +5948,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "backslopped, GetCulture"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001222"
   label: "microbial starter NCBI taxonomy ID"
@@ -5957,7 +5957,7 @@
   expectedValue: "NCIT:C14250 or NCBI taxid"
   valueSyntax: "{termLabel} {[termID]}|{integer}"
   example: "Lactobacillus rhamnosus [NCIT:C123495]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001223"
   label: "nucleic acid extraction kit"
@@ -5966,7 +5966,7 @@
   expectedValue: "The name of an extraction kit"
   valueSyntax: "{text}"
   example: "Qiagen PowerSoil Kit"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001224"
   label: "number of samples collected"
@@ -5975,7 +5975,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
   example: "116 samples"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001225"
   label: "sample collection method"
@@ -5984,7 +5984,7 @@
   expectedValue: "PMID,DOI,url , or text"
   valueSyntax: "{PMID}|{DOI}|{URL}|{text}"
   example: "environmental swab sampling"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001226"
   label: "biological sample replicate"
@@ -5993,7 +5993,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
   example: "6 replicates"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001227"
   label: "technical sample replicate"
@@ -6002,7 +6002,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
   example: "10 replicates"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001228"
   label: "sample storage device"
@@ -6011,7 +6011,7 @@
   expectedValue: "NCIT:C4318"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "Whirl Pak sampling bag [GENEPIO:0002122]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001229"
   label: "sample storage media"
@@ -6020,7 +6020,7 @@
   expectedValue: "MICRO:0000067"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "peptone water medium [MICRO:0000548]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001230"
   label: "sample transport  container"
@@ -6029,7 +6029,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[bottle|cooler|glass vial|plastic vial||vendor supplied container]"
   example: "cooler"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001231"
   label: "sample transport duration"
@@ -6056,7 +6056,7 @@
   expectedValue: "FOODON:03510136"
   valueSyntax: "{termLabel} {[termID]}"
   example: "senior as food consumer [FOODON:03510254]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001235"
   label: "antimicrobial phenotype of spike-in bacteria"
@@ -6065,7 +6065,7 @@
   expectedValue: "measurement value ARO:3004299"
   valueSyntax: "{float} {unit};{termLabel} {[termID]}"
   example: "wild type [ARO:3004432]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001236"
   label: "study design"
@@ -6074,7 +6074,7 @@
   expectedValue: "OBI:0500000"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "in vitro design [OBI:0001285]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001237"
   label: "study incubation duration"
@@ -6110,7 +6110,7 @@
   expectedValue: "MCO:0000866"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "Factor A|spike-in|levels high, medium, low"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001243"
   label: "food animal antimicrobial"
@@ -6119,7 +6119,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "tetracycline"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001244"
   label: "food animal antimicrobial duration"
@@ -6128,7 +6128,7 @@
   expectedValue: "value"
   valueSyntax: "{float} {day}"
   example: "3 days"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001245"
   label: "food animal antimicrobial frequency"
@@ -6137,7 +6137,7 @@
   expectedValue: "value"
   valueSyntax: "{float} {unit}"
   example: "once daily"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001246"
   label: "food animal antimicrobial route of administration"
@@ -6146,7 +6146,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "oral-feed"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001247"
   label: "food animal antimicrobial intended use"
@@ -6155,7 +6155,7 @@
   expectedValue: "text"
   valueSyntax: "{text}"
   example: "shipping fever"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001248"
   label: "food animal body condition"
@@ -6164,7 +6164,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[normal|over conditioned|under conditioned]"
   example: "under conditioned"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001249"
   label: "food animal source sex category"
@@ -6173,7 +6173,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[castrated female|castrated male|intact female|intact male]"
   example: "castrated male"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001251"
   label: "food source age"
@@ -6191,7 +6191,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[ambient storage|caterer-catering point|distribution|frozen storage|importer-broker|interstate conveyance|labeler-relabeler|manufacturing-processing|packaging|refrigerated storage|storage]"
   example: "manufacturing-processing"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001253"
   label: "hygienic food production area"
@@ -6200,7 +6200,7 @@
   expectedValue: "ENVO"
   valueSyntax: "{termLabel} {[termID]}"
   example: "Low Hygiene Area"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001254"
   label: "food production environmental monitoring zone"
@@ -6209,7 +6209,7 @@
   expectedValue: "ENVO"
   valueSyntax: "{termLabel} {[termID]}"
   example: "Zone 1"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001255"
   label: "area sampled size"
@@ -6227,7 +6227,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[intermittent moisture|not present|submerged]"
   example: "submerged"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001257"
   label: "sample location condition"
@@ -6236,7 +6236,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[damaged|new|rupture|visible signs of mold-mildew|visible weariness repair]"
   example: "new"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001258"
   label: "biocide"
@@ -6245,7 +6245,7 @@
   expectedValue: "commercial name of biocide, active ingredient in biocide or class of biocide"
   valueSyntax: "{text}"
   example: "Quaternary ammonium compound|SterBac"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001259"
   label: "sampling room sterilization method"
@@ -6254,7 +6254,7 @@
   expectedValue: "ENVO:01001026"
   valueSyntax: "{text}|{termLabel} {[termID]}"
   example: "ultraviolet radiation [ENVO:21001216]|infrared radiation [ENVO:21001214]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001291"
   label: "soil horizon"
@@ -6263,7 +6263,7 @@
   expectedValue: "enumeration"
   valueSyntax: "enumeration"
   example: "[O horizon|A horizon|E horizon|B horizon|C horizon|R layer|Permafrost]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001296"
   label: "photosynthetic activity"
@@ -6281,7 +6281,7 @@
   expectedValue: "species name or common name"
   valueSyntax: "{text}"
   example: "flukeworms"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001299"
   label: "duration of association with the host"
@@ -6289,7 +6289,7 @@
   definition: "Time spent in host of the symbiotic organism at the time of sampling; relevant scale depends on symbiotic organism and study."
   expectedValue: "value"
   valueSyntax: "{float} {unit}"
-  example: "
+  example: 
   preferredUnit: "year, day, hour"
   occurence: "1"
 - mixsId: "MIXS:0001300"
@@ -6299,7 +6299,7 @@
   expectedValue: "type of life cycle of the symbiotic organism (host of the samples)"
   valueSyntax: "[complex life cycle | simple life cycle]"
   example: "complex life cycle"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001303"
   label: "host of the symbiont role"
@@ -6308,7 +6308,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[accidental|dead-end|definitive|intermediate|paratenic|reservoir|single host]"
   example: "intermediate"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001305"
   label: "host number individual"
@@ -6317,7 +6317,7 @@
   expectedValue: "count"
   valueSyntax: "{float} m"
   example: "3"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001306"
   label: "host of the symbiotic host taxon id"
@@ -6326,7 +6326,7 @@
   expectedValue: "NCBI taxon identifier of the host of the symbiotic taxon organism"
   valueSyntax: "{integer}"
   example: "145637"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001307"
   label: "type of symbiosis"
@@ -6335,7 +6335,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[commensalistic|mutualistic|parasitic]"
   example: "parasitic"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001308"
   label: "host specificity"
@@ -6344,7 +6344,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[family-specific|generalist||genus-specific|species-specific]"
   example: "species-specific"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001309"
   label: "observed host symbionts"
@@ -6353,7 +6353,7 @@
   expectedValue: "symbionts of the symbiotic organism (host of the samples). e.g.: annotating a sample collected from a trematode with a nematomorpha cyst consider: species name of the nematomorph; {species name} or {common name}"
   valueSyntax: "{text}"
   example: "Paragordius varius"
-  preferredUnit: "
+  preferredUnit: 
   occurence: ""
 - mixsId: "MIXS:0001310"
   label: "observed coinfecting organisms in host of host"
@@ -6362,7 +6362,7 @@
   expectedValue: "species name of coinfecting organism(s)"
   valueSyntax: "{text}"
   example: "Maritrema novaezealandense"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001312"
   label: "mode of transmission"
@@ -6371,7 +6371,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[horizontal:castrator|horizontal:directly transmitted|horizontal:micropredator|horizontal:parasitoid|horizontal:trophically transmitted|horizontal:vector transmitted|vertical]"
   example: "horizontal:castrator"
-  preferredUnit: "
+  preferredUnit: 
   occurence: ""
 - mixsId: "MIXS:0001313"
   label: "host cellular location"
@@ -6380,7 +6380,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[intracellular|extracellular|not determined]"
   example: "extracellular"
-  preferredUnit: "
+  preferredUnit: 
   occurence: ""
 - mixsId: "MIXS:0001315"
   label: "host dependence"
@@ -6389,7 +6389,7 @@
   expectedValue: "enumeration"
   valueSyntax: "[facultative|obligate]"
   example: "obligate"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001316"
   label: "route of transmission"
@@ -6397,8 +6397,8 @@
   definition: "Description of path taken by the symbiotic host organism being sampled in order to establish a symbiotic relationship with the host (with which it was observed at the time of sampling) via a mode of transmission (specified in mode_transmission)."
   expectedValue: "enumeration"
   valueSyntax: "[environmental:faecal-oral|transplacental|vector-borne:vector penetration]"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001317"
   label: "sample storage solution"
@@ -6407,7 +6407,7 @@
   expectedValue: "solution name"
   valueSyntax: "{text}"
   example: "5% ethanol"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001318"
   label: "host subspecific genetic lineage"
@@ -6416,7 +6416,7 @@
   expectedValue: "Genetic lineage below lowest rank of NCBI taxonomy, which is subspecies, e.g. serovar, biotype, ecotype, variety, cultivar."
   valueSyntax: "{rank name}:{text}"
   example: "serovar:Newport, variety:glabrum, cultivar: Red Delicious"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001319"
   label: "host of the symbiotic host disease status"
@@ -6425,7 +6425,7 @@
   expectedValue: "disease name or Disease Ontology term"
   valueSyntax: "{termLabel} {[termID]}|{text}"
   example: "rabies [DOID:11260]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001324"
   label: "host of the symbiotic host common name"
@@ -6434,7 +6434,7 @@
   expectedValue: "common name"
   valueSyntax: "{text}"
   example: "snail"
-  preferredUnit: "
+  preferredUnit: 
   occurence: ""
 - mixsId: "MIXS:0001325"
   label: "host of the symbiotic host local environmental context"
@@ -6443,7 +6443,7 @@
   expectedValue: "UBERON term(s), multiple values can be separated by pipes."
   valueSyntax: "{termLabel} {[termID]}"
   example: "small intestine[uberon:0002108]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001326"
   label: "host of the symbiotic host environemental medium"
@@ -6452,7 +6452,7 @@
   expectedValue: "An ontology term for a material such as a tissue type or excreted substance."
   valueSyntax: "{termLabel} {[termID]}"
   example: "feces[uberon:0001988]"
-  preferredUnit: "
+  preferredUnit: 
   occurence: ""
 - mixsId: "MIXS:0001327"
   label: "host of the symbiotic host subject id"
@@ -6461,7 +6461,7 @@
   expectedValue: "unique identifier"
   valueSyntax: "{text}"
   example: "H3"
-  preferredUnit: "
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001328"
   label: "host of the symbiotic host family relationship"
@@ -6469,8 +6469,8 @@
   definition: "Familial relationship of the host of the symbiotic host organisms to other hosts of symbiotic host organism in the same study; can include multiple relationships."
   expectedValue: "relationship type;arbitrary identifier"
   valueSyntax: "{text};{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
 - mixsId: "MIXS:0001329"
   label: "host of the symbiotic host infra-specific name"
@@ -6478,8 +6478,8 @@
   definition: "Taxonomic name information of the host of the symbiotic host organism below subspecies level."
   expectedValue: "name"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001330"
   label: "host of the symbiotic host infra-specific rank"
@@ -6487,8 +6487,8 @@
   definition: "Taxonomic rank information about the host of the symbiotic host organism below subspecies level, such as variety, form, rank etc."
   expectedValue: "rank"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001331"
   label: "host of the symbiotic host genotype"
@@ -6496,8 +6496,8 @@
   definition: "Observed genotype of the host of the symbiotic host organism."
   expectedValue: "genotype"
   valueSyntax: "{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001332"
   label: "host of the symbiotic host phenotype"
@@ -6505,8 +6505,8 @@
   definition: "Phenotype of the host of the symbiotic host organism. For phenotypic quality ontology (PATO) terms, see http://purl.bioontology.org/ontology/pato."
   expectedValue: "phenotype of the host of the symbiotic organism; PATO"
   valueSyntax: "{term}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001333"
   label: "host of the symbiotic host gravidity"
@@ -6514,8 +6514,8 @@
   definition: "Whether or not the host of the symbiotic host organism is gravid, and if yes date due or date post-conception, specifying which is used."
   expectedValue: "gravidity status;timestamp"
   valueSyntax: "{boolean};{timestamp}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001334"
   label: "host of the symbiotic host total mass"
@@ -6523,8 +6523,8 @@
   definition: "Total mass of the host of the symbiotic host organism at collection, the unit depends on the host."
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "1"
 - mixsId: "MIXS:0001335"
   label: "spike-in organism count"
@@ -6541,6 +6541,6 @@
   definition: "Reference or method used in measurement of photosythetic activity "
   expectedValue: "PMID,DOI,url , or text"
   valueSyntax: "{PMID}|{DOI}|{URL}|{text}"
-  example: "
-  preferredUnit: "
+  example: 
+  preferredUnit: 
   occurence: "m"
