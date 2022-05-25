@@ -5,7 +5,7 @@
   expectedValue: "measurement value"
   valueSyntax: "{float} {unit}"
   example: "5 liters"
-  preferredUnit: "liter, gram, cm^2"
+  preferredUnit: "liter, gram, cm2"
   occurence: "1"
 - mixsId: "MIXS:0000002"
   label: "sample collection device"
