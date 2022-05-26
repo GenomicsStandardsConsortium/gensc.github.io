@@ -19,7 +19,7 @@
     "expectedValue":"device name",
     "valueSyntax":"{termLabel} {[termID]}|{text}",
     "example":"swab, biopsy, niskin bottle, push core, drag swab [GENEPIO:0002713]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000002"
   },
@@ -30,8 +30,8 @@
     "definition":"Publication reference in the form of pubmed ID (pmid), digital object identifier (doi) or url for isolation and growth condition specifications of the organism/material",
     "expectedValue":"PMID,DOI or URL",
     "valueSyntax":"{PMID|DOI|URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000003"
   },
@@ -43,7 +43,7 @@
     "expectedValue":"text or EFO and/or OBI",
     "valueSyntax":"{termLabel} {[termID]}|{text}",
     "example":"time series design [EFO:0001779]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000008"
   },
@@ -55,7 +55,7 @@
     "expectedValue":"decimal degrees, limit to 8 decimal points",
     "valueSyntax":"{float} {float}",
     "example":"50.586825 6.408977",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000009"
   },
@@ -67,7 +67,7 @@
     "expectedValue":"country or sea name (INSDC or GAZ): region(GAZ), specific location name",
     "valueSyntax":"{term}: {term}, {text}",
     "example":"USA: Maryland, Bethesda",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000010"
   },
@@ -79,7 +79,7 @@
     "expectedValue":"date and time",
     "valueSyntax":"{timestamp}",
     "example":"2018-05-11T10:00:00+01:00; 2018-05-11",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000011"
   },
@@ -91,7 +91,7 @@
     "expectedValue":"Add terms that identify the major environment type(s) where your sample was collected. Recommend subclasses of biome [ENVO:00000428]. Multiple terms can be separated by one or more pipes e.g.: mangrove biome [ENVO:01000181]|estuarine biome [ENVO:01000020]",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"forest biome [ENVO:01000174]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000012"
   },
@@ -103,7 +103,7 @@
     "expectedValue":"Add terms that identify environmental entities having causal influences upon the entity at time of sampling, multiple terms can be separated by pipes, e.g.: shoreline [ENVO:00000486]|intertidal zone [ENVO:00000316]",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"litter layer [ENVO:01000338]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000013"
   },
@@ -116,7 +116,7 @@
     "expectedValue":"The material displaced by the entity at time of sampling. Recommend subclasses of environmental material [ENVO:00010483].",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"intestine environment [ENVO:2100002]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000014"
   },
@@ -128,7 +128,7 @@
     "expectedValue":"text or OBI",
     "valueSyntax":"{text|term}",
     "example":"filtering of seawater, storing samples in ethanol",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000016"
   },
@@ -152,7 +152,7 @@
     "expectedValue":"genetic lineage below lowest rank of NCBI taxonomy, which is subspecies, e.g. serovar, biotype, ecotype, variety, cultivar",
     "valueSyntax":"{rank name}:{text}",
     "example":"serovar:Newport",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000020"
   },
@@ -164,8 +164,8 @@
     "expectedValue":"for cultures of microorganisms: identifiers for two culture collections; for other material a unique arbitrary identifer",
     "valueSyntax":"{text}",
     "example":"MPI012345",
-    "preferredUnit":" ",
-    "occurence":" ",
+    "preferredUnit":"",
+    "occurence":"",
     "url":"https://w3id.org/gensc/terms/MIXS_0000026"
   },
   {
@@ -176,7 +176,7 @@
     "expectedValue":"CV",
     "valueSyntax":"{term}",
     "example":"human, animal, plant, fungi, bacteria",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000027"
   },
@@ -187,8 +187,8 @@
     "definition":"Description of relationship(s) between the subject organism and other organism(s) it is associated with. E.g., parasite on species X; mutualist with species Y. The target organism is the subject of the relationship, and the other organism(s) is the object",
     "expectedValue":"enumeration",
     "valueSyntax":"[free living|parasite|commensal|symbiont]",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000028"
   },
@@ -200,7 +200,7 @@
     "expectedValue":"host scientific name, taxonomy ID",
     "valueSyntax":"{text}|{NCBI taxid}",
     "example":"Homo sapiens and/or 9606",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000029"
   },
@@ -211,8 +211,8 @@
     "definition":"The range and diversity of host species that an organism is capable of infecting, defined by NCBI taxonomy identifier.",
     "expectedValue":"NCBI taxid",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000030"
   },
@@ -224,7 +224,7 @@
     "expectedValue":"disease name or Disease Ontology term",
     "valueSyntax":"{termLabel} {[termID]}|{text}",
     "example":"rabies [DOID:11260]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000031"
   },
@@ -235,8 +235,8 @@
     "definition":"Trophic levels are the feeding position in a food chain. Microbes can be a range of producers (e.g. chemolithotroph)",
     "expectedValue":"enumeration",
     "valueSyntax":"[autotroph| carboxydotroph| chemoautotroph| chemoheterotroph| chemolithoautotroph| chemolithotroph| chemoorganoheterotroph| chemoorganotroph| chemosynthetic| chemotroph| copiotroph| diazotroph| facultative| autotroph| heterotroph| lithoautotroph| lithoheterotroph| lithotroph| methanotroph| methylotroph| mixotroph| obligate| chemoautolithotroph| oligotroph| organoheterotroph| organotroph| photoautotroph| photoheterotroph| photolithoautotroph| photolithotroph| photosynthetic| phototroph]",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000032"
   },
@@ -248,7 +248,7 @@
     "expectedValue":"PMID, DOI or URL",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
     "example":"https://mobio.com/media/wysiwyg/pdfs/protocols/12888.pdf",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000037"
   },
@@ -259,8 +259,8 @@
     "definition":"A link to a literature reference, electronic resource or a standard operating procedure (SOP), that describes the enzymatic amplification (PCR, TMA, NASBA) of specific nucleic acids",
     "expectedValue":"reference to amplification method; clean-up method",
     "valueSyntax":"{PMID|DOI|URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000038"
   },
@@ -271,8 +271,8 @@
     "definition":"Total number of clones in the library prepared for the project",
     "expectedValue":"number of clones",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000039"
   },
@@ -283,8 +283,8 @@
     "definition":"Total number of clones sequenced from the library",
     "expectedValue":"number of reads sequenced",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000040"
   },
@@ -296,7 +296,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[paired|single|vector|other]",
     "example":"paired",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000041"
   },
@@ -307,8 +307,8 @@
     "definition":"Cloning vector type(s) used in construction of libraries",
     "expectedValue":"vector",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000042"
   },
@@ -320,7 +320,7 @@
     "expectedValue":"screening strategy name",
     "valueSyntax":"{text}",
     "example":"enriched, screened, normalized",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000043"
   },
@@ -332,7 +332,7 @@
     "expectedValue":"gene name",
     "valueSyntax":"{text}",
     "example":"16S rRNA, 18S rRNA, nif, amoA, rpo",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000044"
   },
@@ -344,7 +344,7 @@
     "expectedValue":"gene fragment name",
     "valueSyntax":"{text}",
     "example":"V6, V9, ITS",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000045"
   },
@@ -354,10 +354,10 @@
     "label":"pcr primers",
     "definition":"PCR primers that were used to amplify the sequence of the targeted gene, locus or subfragment. This field should contain all the primers used for a single PCR reaction if multiple forward or reverse primers are present in a single PCR reaction. The primer sequence should be reported in uppercase letters",
     "expectedValue":"FWD:{dna} REV:{dna}",
-    "valueSyntax":" ",
+    "valueSyntax":"",
     "example":"FWD: forward primer sequence REV:reverse primer sequence",
-    "preferredUnit":" ",
-    "occurence":" ",
+    "preferredUnit":"",
+    "occurence":"",
     "url":"https://w3id.org/gensc/terms/MIXS_0000046"
   },
   {
@@ -367,8 +367,8 @@
     "definition":"Molecular barcodes, called Multiplex Identifiers (MIDs), that are used to specifically tag unique samples in a sequencing run. Sequence should be reported in uppercase letters",
     "expectedValue":"multiplex identifier sequence",
     "valueSyntax":"{dna}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000047"
   },
@@ -379,8 +379,8 @@
     "definition":"Adapters provide priming sequences for both amplification and sequencing of the sample-library fragments. Both adapters should be reported; in uppercase letters",
     "expectedValue":"adapter A and B sequence",
     "valueSyntax":"{dna},{dna}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000048"
   },
@@ -391,8 +391,8 @@
     "definition":"Description of reaction conditions and components of PCR in the form of 'initial denaturation:94degC_1.5min; annealing=...'",
     "expectedValue":"initial denaturation:degrees_minutes; annealing:degrees_minutes; elongation: degrees_minutes; final elongation:degrees_minutes; total cycles",
     "valueSyntax":"initial denaturation:degrees_minutes; annealing:degrees_minutes; elongation: degrees_minutes; final elongation:degrees_minutes; total cycles",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000049"
   },
@@ -404,7 +404,7 @@
     "expectedValue":"Text or OBI",
     "valueSyntax":"{termLabel} {[termID]}|{text}",
     "example":"454 Genome Sequencer FLX [OBI:0000702]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000050"
   },
@@ -415,8 +415,8 @@
     "definition":"Indicate if the sequence has been called by automatic systems (none) or undergone a manual editing procedure (e.g. by inspecting the raw data or chromatograms). Applied only for sequences that are not submitted to SRA,ENA or DRA",
     "expectedValue":"none or manually edited",
     "valueSyntax":"[none|manually edited]",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000051"
   },
@@ -427,8 +427,8 @@
     "definition":"Tool(s) used for chimera checking, including version number and parameters, to discover and remove chimeric sequences. A chimeric sequence is comprised of two or more phylogenetically distinct parent sequences.",
     "expectedValue":"name and version of software",
     "valueSyntax":"{text} {text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000052"
   },
@@ -440,8 +440,8 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Finished genome|High-quality draft genome|Medium-quality draft genome|Low-quality draft genome|Genome fragment(s)]",
     "example":"High-quality draft genome",
-    "preferredUnit":" ",
-    "occurence":" ",
+    "preferredUnit":"",
+    "occurence":"",
     "url":"https://w3id.org/gensc/terms/MIXS_0000056"
   },
   {
@@ -452,7 +452,7 @@
     "expectedValue":"name and version of assemby",
     "valueSyntax":"{text} {text}",
     "example":"HuRef, JCVI_ISG_i3_1.0",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000057"
   },
@@ -464,8 +464,8 @@
     "expectedValue":"name and version of software, parameters used",
     "valueSyntax":"{software};{version};{parameters}",
     "example":"metaSPAdes;3.11.0;kmer set 21,33,55,77,99,121, default parameters otherwise",
-    "preferredUnit":" ",
-    "occurence":" ",
+    "preferredUnit":"",
+    "occurence":"",
     "url":"https://w3id.org/gensc/terms/MIXS_0000058"
   },
   {
@@ -475,8 +475,8 @@
     "definition":"Tool used for annotation, or for cases where annotation was provided by a community jamboree or model organism database rather than by a specific submitter",
     "expectedValue":"annotation source description",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000059"
   },
@@ -487,8 +487,8 @@
     "definition":"Standard operating procedures used in assembly and/or annotation of genomes, metagenomes or environmental sequences",
     "expectedValue":"reference to SOP",
     "valueSyntax":"{PMID|DOI|URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000090"
   },
@@ -499,8 +499,8 @@
     "definition":"A related resource that is referenced, cited, or otherwise associated to the sequence.",
     "expectedValue":"URL",
     "valueSyntax":"{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000091"
   },
@@ -512,7 +512,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"Forest soil metagenome",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000092"
   },
@@ -583,7 +583,7 @@
     "definition":"If qpcr was used for the cell count, the target gene name, the primer sequence and the cycling conditions should also be provided. (Example: 16S rrna; FWD:ACGTAGCTATGACGT REV:GTGCTAGTCGAGTAC; initial denaturation:90C_5min; denaturation:90C_2min; annealing:52C_30 sec; elongation:72C_30 sec; 90 C for 1 min; final elongation:72C_5min; 30 cycles)",
     "expectedValue":"gene name;FWD:forward primer sequence;REV:reverse primer sequence;initial denaturation:degrees_minutes;denaturation:degrees_minutes;annealing:degrees_minutes;elongation:degrees_minutes;final elongation:degrees_minutes; total cycles",
     "valueSyntax":"{text};FWD:{dna};REV:{dna};initial denaturation:degrees_minutes;denaturation:degrees_minutes;annealing:degrees_minutes;elongation:degrees_minutes;final elongation:degrees_minutes; total cycles",
-    "example":" ",
+    "example":"",
     "preferredUnit":"number of cells per gram (or ml or cm^2)",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000099"
@@ -655,7 +655,7 @@
     "definition":"Concentration of total iron in the sample",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter, milligram per kilogram",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000105"
@@ -788,7 +788,7 @@
     "expectedValue":"duration",
     "valueSyntax":"{duration}",
     "example":"P1Y6M",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000116"
   },
@@ -835,7 +835,7 @@
     "definition":"Total Acid Number¬†(TAN) is a measurement of acidity that is determined by the amount of¬†potassium hydroxide¬†in milligrams that is needed to neutralize the acids in one gram of oil.¬†It is an important quality measurement of¬†crude oil. (source: https://en.wikipedia.org/wiki/Total_acid_number)",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000120"
@@ -907,7 +907,7 @@
     "definition":"A measure of oil's resistance¬†to gradual deformation by¬†shear stress¬†or¬†tensile stress (e.g. 3.5 cp; 100 ¬∞C)",
     "expectedValue":"measurement value;measurement value",
     "valueSyntax":"{float} {unit};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"cP at degree Celsius",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000126"
@@ -919,7 +919,7 @@
     "definition":"Temperature at which a liquid becomes semi solid and loses its flow characteristics. In crude oil a high¬†pour point¬†is generally associated with a high paraffin content, typically found in crude deriving from a larger proportion of plant material. (soure: https://en.wikipedia.org/wiki/pour_point)",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"degree Celsius",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000127"
@@ -955,7 +955,7 @@
     "definition":"Saturate, Aromatic, Resin and Asphaltene¬†(SARA) is an analysis method that divides¬†crude oil¬†components according to their polarizability and polarity. There are three main methods to obtain SARA results. The most popular one is known as the Iatroscan TLC-FID and is referred to as IP-143 (source: https://en.wikipedia.org/wiki/Saturate,_aromatic,_resin_and_asphaltene)",
     "expectedValue":"name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"percent",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000131"
@@ -967,7 +967,7 @@
     "definition":"Saturate, Aromatic, Resin and Asphaltene¬†(SARA) is an analysis method that divides¬†crude oil¬†components according to their polarizability and polarity. There are three main methods to obtain SARA results. The most popular one is known as the Iatroscan TLC-FID and is referred to as IP-143 (source: https://en.wikipedia.org/wiki/Saturate,_aromatic,_resin_and_asphaltene)",
     "expectedValue":"name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"percent",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000133"
@@ -979,7 +979,7 @@
     "definition":"Saturate, Aromatic, Resin and Asphaltene¬†(SARA) is an analysis method that divides¬†crude oil¬†components according to their polarizability and polarity. There are three main methods to obtain SARA results. The most popular one is known as the Iatroscan TLC-FID and is referred to as IP-143 (source: https://en.wikipedia.org/wiki/Saturate,_aromatic,_resin_and_asphaltene)",
     "expectedValue":"name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"percent",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000134"
@@ -991,7 +991,7 @@
     "definition":"Saturate, Aromatic, Resin and Asphaltene¬†(SARA) is an analysis method that divides¬†crude oil¬†components according to their polarizability and polarity. There are three main methods to obtain SARA results. The most popular one is known as the Iatroscan TLC-FID and is referred to as IP-143 (source: https://en.wikipedia.org/wiki/Saturate,_aromatic,_resin_and_asphaltene)",
     "expectedValue":"name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"percent",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000135"
@@ -1003,7 +1003,7 @@
     "definition":"Metal corrosion rate is the speed of metal deterioration due to environmental conditions. As environmental conditions change corrosion rates change accordingly. Therefore, long term corrosion rates are generally more informative than short term rates and for that reason they are preferred during reporting. In the case of suspected MIC, corrosion rate measurements at the time of sampling might provide insights into the involvement of certain microbial community members in MIC as well as potential microbial interplays",
     "expectedValue":"measurement value range",
     "valueSyntax":"{float} - {float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"millimeter per year",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000136"
@@ -1027,7 +1027,7 @@
     "definition":"Concentration of dissolved iron in the sample",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000139"
@@ -1039,7 +1039,7 @@
     "definition":"The unit of illuminance and luminous emittance, measuring luminous flux per unit area",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"lux, lumens per square meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000140"
@@ -1075,7 +1075,7 @@
     "definition":"The ability of the ceiling to provide inertia against temperature fluctuations. Generally this means concrete that is exposed. A metal deck that supports a concrete slab will act thermally as long as it is exposed to room air flow",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"joule per degree Celsius",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000143"
@@ -1087,7 +1087,7 @@
     "definition":"The amount of exposed ductwork in the room",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"square meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000144"
@@ -1123,7 +1123,7 @@
     "definition":"Concentration of substances including a wide variety of material, such as silt, decaying plant and animal matter; can include multiple substances",
     "expectedValue":"suspended solid name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"gram, microgram, milligram per liter, mole per liter, gram per liter, part per million",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000150"
@@ -1135,7 +1135,7 @@
     "definition":"Concentration of Volatile Fatty Acids in the sample",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter, parts per million",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000152"
@@ -1147,7 +1147,7 @@
     "definition":"Concentration of benzene in the sample",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter, parts per million",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000153"
@@ -1159,7 +1159,7 @@
     "definition":"Concentration of toluene in the sample",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter, parts per million",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000154"
@@ -1171,7 +1171,7 @@
     "definition":"Concentration of ethylbenzene in the sample",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter, parts per million",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000155"
@@ -1183,7 +1183,7 @@
     "definition":"Concentration of xylene in the sample",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter, parts per million",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000156"
@@ -1195,7 +1195,7 @@
     "definition":"API gravity is a measure of how heavy or light a petroleum liquid is compared to water (source: https://en.wikipedia.org/wiki/API_gravity) (e.g. 31.1¬∞ API)",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"degrees API",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000157"
@@ -1231,7 +1231,7 @@
     "definition":"The time period since installment of the carpet or flooring",
     "expectedValue":"value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"years, weeks, days",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000164"
@@ -1243,7 +1243,7 @@
     "definition":"The area of the floor space within the room",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"square meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000165"
@@ -1255,7 +1255,7 @@
     "definition":"The ability of the floor to provide inertia against temperature fluctuations",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"joule per degree Celsius",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000166"
@@ -1267,7 +1267,7 @@
     "definition":"The average carpet fiber height in the indoor environment",
     "expectedValue":"value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"centimeter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000167"
@@ -1279,7 +1279,7 @@
     "definition":"The recorded value at sampling time (power density)",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"kilowatt per square metre",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000168"
@@ -1291,7 +1291,7 @@
     "definition":"The rate at which outside air replaces indoor air in a given space",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"liter per hour",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000169"
@@ -1303,8 +1303,8 @@
     "definition":"The number of exterior doors in the built structure",
     "expectedValue":"value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000170"
   },
@@ -1471,7 +1471,7 @@
     "definition":"Water content measurement",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"gram per gram or cubic centimeter per cubic centimeter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000185"
@@ -1507,7 +1507,7 @@
     "definition":"The length, width and height of sampling room",
     "expectedValue":"measurement value",
     "valueSyntax":"{integer} {unit} x {integer} {unit} x {integer} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000192"
@@ -1519,7 +1519,7 @@
     "definition":"Distance between doors (meters) in the hallway between the sampling room and adjacent rooms",
     "expectedValue":"measurement value",
     "valueSyntax":"{integer} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000193"
@@ -1531,7 +1531,7 @@
     "definition":"The net floor area of sampling room. Net area excludes wall thicknesses",
     "expectedValue":"measurement value",
     "valueSyntax":"{integer} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"square feet, square meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000194"
@@ -1543,7 +1543,7 @@
     "definition":"Volume of sampling room",
     "expectedValue":"measurement value",
     "valueSyntax":"{integer} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"cubic feet, cubic meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000195"
@@ -1555,7 +1555,7 @@
     "definition":"The recent and long term history of outside sampling",
     "expectedValue":"time",
     "valueSyntax":"{float}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"hour",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000196"
@@ -1579,7 +1579,7 @@
     "definition":"The total area of the sampled room's walls",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"square meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000198"
@@ -1627,7 +1627,7 @@
     "definition":"Particles are classified, based on their size, into six general categories:clay, silt, sand, gravel, cobbles, and boulders; should include amount of particle preceded by the name of the particle type; can include multiple values",
     "expectedValue":"particle name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"micrometer",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000206"
@@ -1639,7 +1639,7 @@
     "definition":"Porosity of deposited sediment is volume of voids divided by the total volume of sample",
     "expectedValue":"measurement value or range",
     "valueSyntax":"{float} - {float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"percentage",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000211"
@@ -1663,8 +1663,8 @@
     "definition":"Type of wastewater treatment plant as municipial or industrial",
     "expectedValue":"sewage type name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000215"
   },
@@ -1675,8 +1675,8 @@
     "definition":"Method by which samples are sorted; open face filter collecting total suspended particles, prefilter to remove particles larger than X micrometers in diameter, where common values of X would be 10 and 2.5 full size sorting in a cascade impactor.",
     "expectedValue":"description of method",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000216"
   },
@@ -1687,8 +1687,8 @@
     "definition":"Average number of occupants at time of sampling per square footage",
     "expectedValue":"measurement value",
     "valueSyntax":"{float}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000217"
   },
@@ -1699,8 +1699,8 @@
     "definition":"The street name and building number where the sampling occurred.",
     "expectedValue":"value",
     "valueSyntax":"{integer}{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000218"
   },
@@ -1711,8 +1711,8 @@
     "definition":"List of rooms (room number, room name) immediately adjacent to the sampling room",
     "expectedValue":"room name;room number",
     "valueSyntax":"{text};{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000219"
   },
@@ -1723,8 +1723,8 @@
     "definition":"The number of exposed pipes in the room",
     "expectedValue":"measurement value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000220"
   },
@@ -1735,7 +1735,7 @@
     "definition":"The average height of the walls in the sampled room",
     "expectedValue":"value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"centimeter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000221"
@@ -1747,7 +1747,7 @@
     "definition":"The ability of the wall to provide inertia against temperature fluctuations. Generally this means concrete or concrete block that is either exposed or covered only with paint",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"joule per degree Celsius",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000222"
@@ -1759,7 +1759,7 @@
     "definition":"The size of the water feature",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"square meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000223"
@@ -1771,7 +1771,7 @@
     "definition":"The window's length and width",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit} x {float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"inch, meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000224"
@@ -1783,8 +1783,8 @@
     "definition":"The number of floors in the building, including basements and mechanical penthouse",
     "expectedValue":"value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000225"
   },
@@ -1795,8 +1795,8 @@
     "definition":"The number of times the sample location is cleaned. Frequency of cleaning might be on a Daily basis, Weekly, Monthly, Quarterly or Annually.",
     "expectedValue":"enumeration or {text}",
     "valueSyntax":"[ Daily| Weekly| Monthly| Quarterly | Annually| other]",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000226"
   },
@@ -1807,8 +1807,8 @@
     "definition":"The number of times a meal is cooked per week",
     "expectedValue":"measurement value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000227"
   },
@@ -1819,8 +1819,8 @@
     "definition":"The total count of hallways and cooridors in the built structure",
     "expectedValue":"value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000228"
   },
@@ -1831,8 +1831,8 @@
     "definition":"The maximum amount of people allowed in the indoor environment",
     "expectedValue":"measurement value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000229"
   },
@@ -1843,8 +1843,8 @@
     "definition":"The number of plant(s) in the sampling space",
     "expectedValue":"measurement value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000230"
   },
@@ -1855,8 +1855,8 @@
     "definition":"The number of pets residing in the sampled space",
     "expectedValue":"measurement value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000231"
   },
@@ -1867,8 +1867,8 @@
     "definition":"The number of individuals currently occupying in the sampling location",
     "expectedValue":"measurement value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000232"
   },
@@ -1879,8 +1879,8 @@
     "definition":"The unique details and component parts that, together, form the architecture of a distinguisahable space within a built structure",
     "expectedValue":"free text",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000233"
   },
@@ -1891,8 +1891,8 @@
     "definition":"The total count of rooms in the built structure including all room types",
     "expectedValue":"value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000234"
   },
@@ -1903,8 +1903,8 @@
     "definition":"The history of moisture damage or mold in the past 12 months. Number of events of moisture damage or mold observed",
     "expectedValue":"value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000235"
   },
@@ -1915,8 +1915,8 @@
     "definition":"Count of room occupancy at time of sampling",
     "expectedValue":"measurement value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000236"
   },
@@ -1927,8 +1927,8 @@
     "definition":"Number of windows in the room",
     "expectedValue":"value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000237"
   },
@@ -1939,8 +1939,8 @@
     "definition":"List of room(s) (room number, room name) located in the same hallway as sampling room",
     "expectedValue":"room name;room number",
     "valueSyntax":"{text};{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000238"
   },
@@ -1951,8 +1951,8 @@
     "definition":"List of room(s) (room number, room name) sharing a door with the sampling room",
     "expectedValue":"room name;room number",
     "valueSyntax":"{text};{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000242"
   },
@@ -1963,8 +1963,8 @@
     "definition":"List of room(s) (room number, room name) sharing a wall with the sampling room",
     "expectedValue":"room name;room number",
     "valueSyntax":"{text};{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000243"
   },
@@ -1975,8 +1975,8 @@
     "definition":"Sampling room number. This ID should be consistent with the designations on the building floor plans",
     "expectedValue":"value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000244"
   },
@@ -1987,8 +1987,8 @@
     "definition":"The material the shading device is composed of",
     "expectedValue":"material name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000245"
   },
@@ -1999,8 +1999,8 @@
     "definition":"The number of times windows are opened per week",
     "expectedValue":"value",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000246"
   },
@@ -2012,7 +2012,7 @@
     "expectedValue":"free text",
     "valueSyntax":"{text}",
     "example":"A/3*B",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000247"
   },
@@ -2024,7 +2024,7 @@
     "expectedValue":"common name",
     "valueSyntax":"{text}",
     "example":"human",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000248"
   },
@@ -2036,7 +2036,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[dissemination|growth and reproduction|infection|inoculation|penetration|other]",
     "example":"infection",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000249"
   },
@@ -2048,7 +2048,7 @@
     "expectedValue":"NCBI taxon identifier",
     "valueSyntax":"{NCBI taxid}",
     "example":"7955",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000250"
   },
@@ -2060,7 +2060,7 @@
     "expectedValue":"stage",
     "valueSyntax":"{text}",
     "example":"adult",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000251"
   },
@@ -2072,7 +2072,7 @@
     "expectedValue":"substrate name",
     "valueSyntax":"{text}",
     "example":"rock",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000252"
   },
@@ -2083,8 +2083,8 @@
     "definition":"Taxonomic information about the host below subspecies level.",
     "expectedValue":"name of the symbiotic organism (host of the samples)",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000253"
   },
@@ -2095,8 +2095,8 @@
     "definition":"Taxonomic rank information about the host below subspecies level, such as variety, form, rank etc.",
     "expectedValue":"rank of the symbiotic organism (host of the samples)",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000254"
   },
@@ -2143,7 +2143,7 @@
     "definition":"Resting diastolic blood pressure, measured as mm mercury",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"millimeter mercury",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000258"
@@ -2155,7 +2155,7 @@
     "definition":"Resting systolic blood pressure, measured as mm mercury",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"millimeter mercury",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000259"
@@ -2167,8 +2167,8 @@
     "definition":"The color of host",
     "expectedValue":"color",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000260"
   },
@@ -2180,7 +2180,7 @@
     "expectedValue":"shape",
     "valueSyntax":"{text}",
     "example":"round",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000261"
   },
@@ -2192,7 +2192,7 @@
     "expectedValue":"smoking status",
     "valueSyntax":"{boolean}",
     "example":"yes",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000262"
   },
@@ -2228,7 +2228,7 @@
     "expectedValue":"HIV status;HAART initiation status",
     "valueSyntax":"{boolean};{boolean}",
     "example":"yes;yes",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000265"
   },
@@ -2240,7 +2240,7 @@
     "expectedValue":"diet change;current diet",
     "valueSyntax":"{boolean};{text}",
     "example":"yes;vegetarian diet",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000266"
   },
@@ -2252,7 +2252,7 @@
     "expectedValue":"presence status;type of animal or pet",
     "valueSyntax":"{boolean};{text}",
     "example":"yes; 5 cats",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000267"
   },
@@ -2263,8 +2263,8 @@
     "definition":"Specification of the countries travelled in the last six months; can include multiple travels",
     "expectedValue":"country name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000268"
   },
@@ -2275,8 +2275,8 @@
     "definition":"History of pulmonary disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, lung disease (https://disease-ontology.org/?id=DOID:850).",
     "expectedValue":"disorder name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000269"
   },
@@ -2287,8 +2287,8 @@
     "definition":"History of nose-throat disorders; can include multiple disorders,  The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, lung disease (https://disease-ontology.org/?id=DOID:850), upper respiratory tract disease (https://disease-ontology.org/?id=DOID:974).",
     "expectedValue":"disorder name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000270"
   },
@@ -2299,8 +2299,8 @@
     "definition":"History of blood disorders; can include multiple disorders.  The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, hematopoietic system disease (https://disease-ontology.org/?id=DOID:74).",
     "expectedValue":"disorder name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000271"
   },
@@ -2311,8 +2311,8 @@
     "definition":"Specification of the gestation state",
     "expectedValue":"gestation state",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000272"
   },
@@ -2323,8 +2323,8 @@
     "definition":"Specification of the maternal health status",
     "expectedValue":"health status",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000273"
   },
@@ -2347,8 +2347,8 @@
     "definition":"Specification of foetal health status, should also include abortion",
     "expectedValue":"health status",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000275"
   },
@@ -2359,8 +2359,8 @@
     "definition":"Specification of the color of the amniotic fluid sample",
     "expectedValue":"color",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000276"
   },
@@ -2371,8 +2371,8 @@
     "definition":"History of kidney disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, kidney disease (https://disease-ontology.org/?id=DOID:557). ",
     "expectedValue":"disorder name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000277"
   },
@@ -2383,8 +2383,8 @@
     "definition":"History of urogenital tract disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, urinary system disease (https://disease-ontology.org/?id=DOID:18). ",
     "expectedValue":"disorder name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000278"
   },
@@ -2395,8 +2395,8 @@
     "definition":"History of gastrointestinal tract disorders; can include multiple disorders. History of blood disorders; can include multiple disorders.  The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, gastrointestinal system disease (https://disease-ontology.org/?id=DOID:77).",
     "expectedValue":"disorder name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000280"
   },
@@ -2407,8 +2407,8 @@
     "definition":"History of liver disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, liver disease (https://disease-ontology.org/?id=DOID:409).",
     "expectedValue":"disorder name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000282"
   },
@@ -2419,8 +2419,8 @@
     "definition":"History of nose/mouth/teeth/throat disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, nose disease (https://disease-ontology.org/?id=DOID:2825), mouth disease (https://disease-ontology.org/?id=DOID:403), tooth disease (https://disease-ontology.org/?id=DOID:1091), or upper respiratory tract disease (https://disease-ontology.org/?id=DOID:974).",
     "expectedValue":"disorder name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000283"
   },
@@ -2431,8 +2431,8 @@
     "definition":"History of dermatology disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, skin disease (https://disease-ontology.org/?id=DOID:37).",
     "expectedValue":"disorder name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000284"
   },
@@ -2443,8 +2443,8 @@
     "definition":"Current sexual partner and frequency of sex",
     "expectedValue":"partner sex;frequency",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000285"
   },
@@ -2455,8 +2455,8 @@
     "definition":"Specification of birth control medication used",
     "expectedValue":"medication name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000286"
   },
@@ -2468,7 +2468,7 @@
     "expectedValue":"hysterectomy status",
     "valueSyntax":"{boolean}",
     "example":"no",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000287"
   },
@@ -2479,8 +2479,8 @@
     "definition":"History of gynecological disorders; can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, female reproductive system disease (https://disease-ontology.org/?id=DOID:229).",
     "expectedValue":"gynecological disorder",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000288"
   },
@@ -2491,8 +2491,8 @@
     "definition":"History of urogenital disorders, can include multiple disorders. The terms should be chosen from the DO (Human Disease Ontology) at http://www.disease-ontology.org, reproductive system disease (https://disease-ontology.org/?id=DOID:15) or urinary system disease (https://disease-ontology.org/?id=DOID:18). ",
     "expectedValue":"disorder name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000289"
   },
@@ -2503,8 +2503,8 @@
     "definition":"Name of the basin (e.g. Campos)",
     "expectedValue":"name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000290"
   },
@@ -2515,8 +2515,8 @@
     "definition":"Name of the hydrocarbon field (e.g. Albacora)",
     "expectedValue":"name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000291"
   },
@@ -2539,8 +2539,8 @@
     "definition":"Name of the well (e.g. BXA1123) where sample was taken",
     "expectedValue":"name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000296"
   },
@@ -2551,8 +2551,8 @@
     "definition":"A unique identifier of a well or wellbore. This is part of the Global Framework for Well Identification initiative which is compiled by the Professional Petroleum Data Management Association (PPDM) in an effort to improve well identification systems. (Supporting information: https://ppdm.org/ and http://dl.ppdm.org/dl/690)",
     "expectedValue":"text",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000297"
   },
@@ -2564,7 +2564,7 @@
     "expectedValue":"description of method",
     "valueSyntax":"{text}",
     "example":"titration",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000298"
   },
@@ -2575,8 +2575,8 @@
     "definition":"Information that doesn't fit anywhere else. Can also be used to propose new entries for fields with controlled vocabulary",
     "expectedValue":"text",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000300"
   },
@@ -2587,8 +2587,8 @@
     "definition":"Name of the reservoir (e.g. Carapebus)",
     "expectedValue":"name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000303"
   },
@@ -2600,7 +2600,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
     "example":"0.417361111",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000310"
   },
@@ -2611,8 +2611,8 @@
     "definition":"Vegetation classification from one or more standard classification systems, or agricultural crop",
     "expectedValue":"current vegetation type",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000312"
   },
@@ -2623,8 +2623,8 @@
     "definition":"Reference or method used in vegetation classification",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000314"
   },
@@ -2635,8 +2635,8 @@
     "definition":"Previous land use and dates",
     "expectedValue":"land use name;date",
     "valueSyntax":"{text};{timestamp}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000315"
   },
@@ -2647,8 +2647,8 @@
     "definition":"Reference or method used in determining previous land use and dates",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000316"
   },
@@ -2672,7 +2672,7 @@
     "expectedValue":"crop rotation status;schedule",
     "valueSyntax":"{boolean};{Rn/start_time/end_time/duration}",
     "example":"yes;R2/2017-01-01/2018-12-31/P6M",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000318"
   },
@@ -2683,8 +2683,8 @@
     "definition":"Historical and/or physical evidence of flooding",
     "expectedValue":"date",
     "valueSyntax":"{timestamp}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000319"
   },
@@ -2695,8 +2695,8 @@
     "definition":"Unusual physical events that may have affected microbial populations",
     "expectedValue":"date",
     "valueSyntax":"{timestamp}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000320"
   },
@@ -2707,8 +2707,8 @@
     "definition":"Reference or method used in determining the horizon",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000321"
   },
@@ -2719,8 +2719,8 @@
     "definition":"Collection design of pooled samples and/or sieve size and amount of sample sieved",
     "expectedValue":"design name and/or size;amount",
     "valueSyntax":"{text}|{float} {unit};{float} {unit}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000322"
   },
@@ -2731,8 +2731,8 @@
     "definition":"Reference or method used in determining the water content of soil",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000323"
   },
@@ -2743,8 +2743,8 @@
     "definition":"Reference or method used in determining Al saturation",
     "expectedValue":"PMID,DOI or URL",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000324"
   },
@@ -2756,7 +2756,7 @@
     "expectedValue":"pooling status;number of pooled extracts",
     "valueSyntax":"{boolean};{integer}",
     "example":"yes;5",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000325"
   },
@@ -2768,7 +2768,7 @@
     "expectedValue":"presence status",
     "valueSyntax":"{boolean}",
     "example":"yes",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000326"
   },
@@ -2780,7 +2780,7 @@
     "expectedValue":"storage condition type;duration",
     "valueSyntax":"{text};{duration}",
     "example":"-20 degree Celsius freezer;P2Y10D",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000327"
   },
@@ -2791,8 +2791,8 @@
     "definition":"Link to climate resource",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000328"
   },
@@ -2803,8 +2803,8 @@
     "definition":"Link to digitized soil maps or other soil classification information",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000329"
   },
@@ -2815,8 +2815,8 @@
     "definition":"Soil classification based on local soil classification system",
     "expectedValue":"local classification name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000330"
   },
@@ -2827,8 +2827,8 @@
     "definition":"Reference or method used in determining the local soil classification",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000331"
   },
@@ -2841,7 +2841,7 @@
     "valueSyntax":"{termLabel} {[termID]}
 ",
     "example":"plinthosol [ENVO:00002250]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000332"
   },
@@ -2864,8 +2864,8 @@
     "definition":"Reference or method used in determining soil series name or other lower-level classification",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000334"
   },
@@ -2876,8 +2876,8 @@
     "definition":"The relative proportion of different grain sizes of mineral particles in a soil, as described using a standard system; express as % sand (50 um to 2 mm), silt (2 um to 50 um), and clay (<2 um) with textural name (e.g., silty clay loam) optional.",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000335"
   },
@@ -2888,8 +2888,8 @@
     "definition":"Reference or method used in determining soil texture",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000336"
   },
@@ -2900,8 +2900,8 @@
     "definition":"Reference or method used in determining total organic carbon",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000337"
   },
@@ -2912,8 +2912,8 @@
     "definition":"Reference or method used in determining the total nitrogen",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000338"
   },
@@ -2924,8 +2924,8 @@
     "definition":"Reference or method used in determining microbial biomass",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000339"
   },
@@ -2936,8 +2936,8 @@
     "definition":"Link to additional analysis results performed on the sample",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000340"
   },
@@ -2948,8 +2948,8 @@
     "definition":"Reference or method used in determining salinity",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000341"
   },
@@ -2960,8 +2960,8 @@
     "definition":"Reference or method used in determining heavy metals",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000343"
   },
@@ -2972,8 +2972,8 @@
     "definition":"The process of pre-treatment removes materials that can be easily collected from the raw wastewater",
     "expectedValue":"pre-treatment type",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000348"
   },
@@ -2984,8 +2984,8 @@
     "definition":"The process to produce both a generally homogeneous liquid capable of being treated biologically and a sludge that can be separately treated or processed",
     "expectedValue":"primary treatment type",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000349"
   },
@@ -2996,8 +2996,8 @@
     "definition":"Anaerobic digesters can be designed and engineered to operate using a number of different process configurations, as batch or continuous, mesophilic, high solid or low solid, and single stage or multistage",
     "expectedValue":"reactor type name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000350"
   },
@@ -3008,8 +3008,8 @@
     "definition":"The process for substantially degrading the biological content of the sewage",
     "expectedValue":"secondary treatment type",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000351"
   },
@@ -3020,8 +3020,8 @@
     "definition":"The process providing a final treatment stage to raise the effluent quality before it is discharged to the receiving environment",
     "expectedValue":"tertiary treatment type",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000352"
   },
@@ -3032,8 +3032,8 @@
     "definition":"The origin of wastewater such as human waste, rainfall, storm drains, etc.",
     "expectedValue":"wastewater type name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000353"
   },
@@ -3045,7 +3045,7 @@
     "expectedValue":"genotype",
     "valueSyntax":"{text}",
     "example":"C57BL/6",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000365"
   },
@@ -3068,7 +3068,7 @@
     "definition":"True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original temperature was measured (e.g. 1345 m).",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000394"
@@ -3080,7 +3080,7 @@
     "definition":"Original pressure of the hydrocarbon resource",
     "expectedValue":"measurement value range",
     "valueSyntax":"{float} - {float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"atmosphere, kilopascal",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000395"
@@ -3092,7 +3092,7 @@
     "definition":"True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original pressure was measured (e.g. 1578 m).",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000397"
@@ -3104,7 +3104,7 @@
     "definition":"Measure of the ability of a hydrocarbon resource to allow fluids to pass through it. (Additional information: https://en.wikipedia.org/wiki/Permeability_(earth_sciences))",
     "expectedValue":"measurement value range",
     "valueSyntax":"{integer} - {integer} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"mD",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000404"
@@ -3116,7 +3116,7 @@
     "definition":"Depth of the original oil water contact (OWC) zone (average) (m TVDSS)",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000405"
@@ -3128,7 +3128,7 @@
     "definition":"Original formation water salinity (prior to secondary recovery e.g. Waterflooding) expressed as TDS",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000406"
@@ -3140,7 +3140,7 @@
     "definition":"Original sulfate concentration in the hydrocarbon resource",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000407"
@@ -3152,7 +3152,7 @@
     "definition":"Original volatile fatty acid concentration in the hydrocarbon resource",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000408"
@@ -3164,7 +3164,7 @@
     "definition":"Depth of the sample i.e. The vertical distance between the sea level and the sampled position in the subsurface. Depth can be reported as an interval for subsurface samples e.g. 1325.75-1362.25 m",
     "expectedValue":"measurement value or measurement value range",
     "valueSyntax":"{float}-{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"meter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000409"
@@ -3212,7 +3212,7 @@
     "definition":"Concentration of total sulfur in the sample",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter, parts per million",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000419"
@@ -3404,7 +3404,7 @@
     "definition":"Concentration of dissolved oxygen in the oil field produced fluids as it contributes to oxgen-corrosion and microbial activity (e.g. Mic).",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"micromole per kilogram, milligram per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000438"
@@ -3416,7 +3416,7 @@
     "definition":"Oil and/or gas production rates per well (e.g. 524 m3 / day)",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"cubic meter per day",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000452"
@@ -3428,7 +3428,7 @@
     "definition":"Water production rates per well (e.g. 987 m3 / day)",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"cubic meter per day",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000453"
@@ -3440,7 +3440,7 @@
     "definition":"Current amount of water (%) in a produced fluid stream; or the average of the combined streams",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"percent",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000454"
@@ -3452,7 +3452,7 @@
     "definition":"Proportion of the produced fluids derived from injected water at the time of sampling. (e.g. 87%)",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"percent",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000455"
@@ -3464,7 +3464,7 @@
     "definition":"Method of biocide administration (dose, frequency, duration, time elapsed between last biociding and sampling) (e.g. 150 mg/l; weekly; 4 hr; 3 days)",
     "expectedValue":"measurement value;frequency;duration;duration",
     "valueSyntax":"{float} {unit};{Rn/start_time/end_time/duration};{duration}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000456"
@@ -3476,7 +3476,7 @@
     "definition":"Method of chemical administration(dose, frequency, duration, time elapsed between administration and sampling) (e.g. 50 mg/l; twice a week; 1 hr; 0 days)",
     "expectedValue":"measurement value;frequency;duration;duration",
     "valueSyntax":"{float} {unit};{Rn/start_time/end_time/duration};{duration};{duration}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000457"
@@ -3488,7 +3488,7 @@
     "definition":"Preservative added to the sample (e.g. Rnalater, alcohol, formaldehyde, etc.). Where appropriate include volume added (e.g. Rnalater; 2 ml)",
     "expectedValue":"name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milliliter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000463"
@@ -3608,7 +3608,7 @@
     "definition":"Total carbon content",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"microgram per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000525"
@@ -3620,7 +3620,7 @@
     "definition":"Total nitrogen content of the sample",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"microgram per liter, micromole per liter, milligram per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000530"
@@ -3632,7 +3632,7 @@
     "definition":"Definition for soil: total organic carbon content of the soil, definition otherwise: total organic carbon content",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"gram Carbon per kilogram sample material",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000533"
@@ -3944,7 +3944,7 @@
     "definition":"Aluminum saturation (esp. For tropical soils)",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"percentage",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000607"
@@ -4004,7 +4004,7 @@
     "definition":"The average of all annual precipitation values known, or an estimated equivalent value derived by such methods as regional indexes or Isohyetal maps.",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"millimeter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000644"
@@ -4016,7 +4016,7 @@
     "definition":"The average of all seasonal precipitation values known, or an estimated equivalent value derived by such methods as regional indexes or Isohyetal maps.",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"millimeter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000645"
@@ -4028,7 +4028,7 @@
     "definition":"Commonly called 'slope'. The angle between ground surface and a horizontal line (in percent). This is the direction that overland water would flow. This measure is usually taken with a hand level meter or clinometer",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"percentage",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000646"
@@ -4040,7 +4040,7 @@
     "definition":"The direction a slope faces. While looking down a slope use a compass to record the direction you are facing (direction or degrees); e.g., nw or 315 degrees. This measure provides an indication of sun and wind exposure that will influence soil temperature and evapotranspiration.",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"degree",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000647"
@@ -4052,7 +4052,7 @@
     "definition":"The part of the organic matter in the soil that constitutes living microorganisms smaller than 5-10 micrometer. If you keep this, you would need to have correction factors used for conversion to the final units",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"ton, kilogram, gram per kilogram soil",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000650"
@@ -4076,7 +4076,7 @@
     "definition":"Amount of dissolved oxygen needed by aerobic biological organisms in a body of water to break down organic material present in a given water sample at certain temperature over a specific time period",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000653"
@@ -4088,7 +4088,7 @@
     "definition":"A measure of the capacity of water to consume oxygen during the decomposition of organic matter and the oxidation of inorganic chemicals such as ammonia and nitrite",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"milligram per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000656"
@@ -4100,7 +4100,7 @@
     "definition":"Percentage of volatile solids removed from the anaerobic digestor",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"micromole per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000657"
@@ -4112,7 +4112,7 @@
     "definition":"Amount or concentration of substances such as paints, adhesives, mayonnaise, hair colorants, emulsified oils, etc.; can include multiple emulsion types",
     "expectedValue":"emulsion name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"gram per liter",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000660"
@@ -4124,7 +4124,7 @@
     "definition":"Amount or concentration of substances such as hydrogen sulfide, carbon dioxide, methane, etc.; can include multiple substances",
     "expectedValue":"gaseous substance name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"micromole per liter",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000661"
@@ -4136,7 +4136,7 @@
     "definition":"Percentage of industrial effluents received by wastewater treatment plant",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"percentage",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000662"
@@ -4148,7 +4148,7 @@
     "definition":"Concentration of particles such as sand, grit, metal particles, ceramics, etc.; can include multiple particles",
     "expectedValue":"inorganic particle name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"mole per liter, milligram per liter",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000664"
@@ -4160,7 +4160,7 @@
     "definition":"Concentration of particles such as faeces, hairs, food, vomit, paper fibers, plant material, humus, etc.",
     "expectedValue":"particle name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"gram per liter",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000665"
@@ -4172,7 +4172,7 @@
     "definition":"The time activated sludge remains in reactor",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"hours",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000669"
@@ -4184,7 +4184,7 @@
     "definition":"Concentration of substances such as ammonia, road-salt, sea-salt, cyanide, hydrogen sulfide, thiocyanates, thiosulfates, etc.",
     "expectedValue":"soluble inorganic material name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"gram, microgram, mole per liter, gram per liter, parts per million",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000672"
@@ -4196,7 +4196,7 @@
     "definition":"Concentration of substances such as urea, fruit sugars, soluble proteins, drugs, pharmaceuticals, etc.",
     "expectedValue":"soluble organic material name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"gram, microgram, mole per liter, gram per liter, parts per million",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000673"
@@ -4232,7 +4232,7 @@
     "definition":"Total amount or concentration of phosphate",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"microgram per liter, micromole per liter",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000689"
@@ -4316,8 +4316,8 @@
     "definition":"A physical structure that is a body or assemblage of bodies in space to form a system capable of supporting loads",
     "expectedValue":"free text",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000721"
   },
@@ -4437,7 +4437,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[low tide|ebb tide|flood tide|high tide]",
     "example":"high tide",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000750"
   },
@@ -4449,7 +4449,7 @@
     "expectedValue":"CHEBI;timestamp",
     "valueSyntax":"{termLabel} {[termID]};{timestamp}",
     "example":"agar [CHEBI:2509];2018-05-11T20:00Z",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000751"
   },
@@ -4461,7 +4461,7 @@
     "expectedValue":"parameter name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
     "example":"Bicarbonate ion concentration;2075 micromole per kilogram",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000752"
   },
@@ -4473,7 +4473,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[aerobic|anaerobic|other]",
     "example":"aerobic",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000753"
   },
@@ -4485,7 +4485,7 @@
     "expectedValue":"perturbation type name;perturbation interval and duration",
     "valueSyntax":"{text};{Rn/start_time/end_time/duration}",
     "example":"antibiotic addition;R2/2018-05-11T14:30Z/2018-05-11T19:30Z/P1H30M",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000754"
   },
@@ -4497,7 +4497,7 @@
     "expectedValue":"location name",
     "valueSyntax":"{text}",
     "example":"Freezer no:5",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000755"
   },
@@ -4509,7 +4509,7 @@
     "expectedValue":"ventilation type name",
     "valueSyntax":"{text}",
     "example":"Operable windows",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000756"
   },
@@ -4521,7 +4521,7 @@
     "expectedValue":"wind direction name",
     "valueSyntax":"{text}",
     "example":"Northwest",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000757"
   },
@@ -4533,7 +4533,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[adobe|carpet|cinder blocks|concrete|hay bales|glass|metal|paint|plastic|stainless steel|stone|stucco|tile|vinyl|wood]",
     "example":"wood",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000758"
   },
@@ -4545,7 +4545,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[dust|organic matter|particulate matter|volatile organic compounds|biological contaminants|radon|nutrients|biocides]",
     "example":"radon",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000759"
   },
@@ -4557,7 +4557,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{float}",
     "example":"7",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000760"
   },
@@ -4569,7 +4569,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[office|market|restaurant|residence|school|residential|commercial|low rise|high rise|wood framed|office|health care|school|airport|sports complex]",
     "example":"market",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000761"
   },
@@ -4581,7 +4581,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[bedroom|office|bathroom|foyer|kitchen|locker room|hallway|elevator]",
     "example":"foyer",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000763"
   },
@@ -4593,7 +4593,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[cabinet|ceiling|counter top|door|shelving|vent cover|window|wall]",
     "example":"wall",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000764"
   },
@@ -4605,7 +4605,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[particulate air filter|chemical air filter|low-MERV pleated media|HEPA|electrostatic|gas-phase or ultraviolet air treatments]",
     "example":"HEPA",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000765"
   },
@@ -4617,7 +4617,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[radiant system|heat pump|forced air system|steam forced heat|wood stove]",
     "example":"heat pump",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000766"
   },
@@ -4629,7 +4629,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[crawlspace|slab on grade|basement]",
     "example":"basement",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000767"
   },
@@ -4641,7 +4641,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[urban|suburban|exurban|rural]",
     "example":"rural",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000768"
   },
@@ -4653,7 +4653,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[natural light|electric light|desk lamp|flourescent lights|natural light|none]",
     "example":"desk lamp",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000769"
   },
@@ -4665,7 +4665,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[typically occupied|typically unoccupied]",
     "example":"typically occupied",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000770"
   },
@@ -4677,7 +4677,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{float}",
     "example":"25",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000771"
   },
@@ -4689,7 +4689,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{integer}",
     "example":"10",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000772"
   },
@@ -4701,7 +4701,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[plane|glider]",
     "example":"plane",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000773"
   },
@@ -4713,7 +4713,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[building|shed|home]",
     "example":"shed",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000774"
   },
@@ -4725,7 +4725,7 @@
     "expectedValue":"value",
     "valueSyntax":"{float}",
     "example":"2",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000775"
   },
@@ -4737,7 +4737,7 @@
     "expectedValue":"value",
     "valueSyntax":"{integer}",
     "example":"1",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000776"
   },
@@ -4749,7 +4749,7 @@
     "expectedValue":"value",
     "valueSyntax":"{integer}",
     "example":"2",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000777"
   },
@@ -4761,7 +4761,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[urban|rural]",
     "example":"rural",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000778"
   },
@@ -4773,7 +4773,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[new|visible wear|needs repair|damaged|rupture]",
     "example":"damaged",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000779"
   },
@@ -4785,7 +4785,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[drywall|mineral fibre|tiles|PVC|plasterboard|metal|fiberglass|stucco|mineral wool/calcium silicate|wood]",
     "example":"stucco",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000780"
   },
@@ -4797,7 +4797,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[presence of mold visible|no presence of mold visible]",
     "example":"presence of mold visible",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000781"
   },
@@ -4809,7 +4809,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[wood frame|concrete]",
     "example":"concrete",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000782"
   },
@@ -4821,7 +4821,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[crows feet|crows-foot stomp|double skip|hawk and trowel|knockdown|popcorn|orange peel|rosebud stomp|Santa-Fe texture|skip trowel|smooth|stomp knockdown|swirl]",
     "example":"popcorn",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000783"
   },
@@ -4833,7 +4833,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[cathedral|dropped|concave|barrel-shaped|coffered|cove|stretched]",
     "example":"coffered",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000784"
   },
@@ -4845,7 +4845,7 @@
     "expectedValue":"unique identifier",
     "valueSyntax":"{integer}",
     "example":"12345",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000785"
   },
@@ -4857,7 +4857,7 @@
     "expectedValue":"timestamp",
     "valueSyntax":"{timestamp}",
     "example":"2018-05-11:T14:30Z",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000786"
   },
@@ -4869,7 +4869,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[building information model|commissioning report|complaint logs|contract administration|cost estimate|janitorial schedules or logs|maintenance plans|schedule|sections|shop drawings|submittals|ventilation system|windows]",
     "example":"maintenance plans",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000787"
   },
@@ -4881,7 +4881,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[damaged|needs repair|new|rupture|visible wear]",
     "example":"new",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000788"
   },
@@ -4893,7 +4893,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[inward|outward|sideways]",
     "example":"inward",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000789"
   },
@@ -4905,7 +4905,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[north|south|east|west]",
     "example":"north",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000790"
   },
@@ -4917,7 +4917,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[aluminum|cellular PVC|engineered plastic|fiberboard|fiberglass|metal|thermoplastic alloy|vinyl|wood|wood/plastic composite]",
     "example":"wood",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000791"
   },
@@ -4929,7 +4929,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[collapsible|folding|revolving|rolling shutter|sliding|swinging]",
     "example":"swinging",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000792"
   },
@@ -4941,7 +4941,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[presence of mold visible|no presence of mold visible]",
     "example":"presence of mold visible",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000793"
   },
@@ -4953,7 +4953,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[composite|metal|wooden]",
     "example":"wooden",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000794"
   },
@@ -4965,7 +4965,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[metal covered|revolving|sliding|telescopic]",
     "example":"revolving",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000795"
   },
@@ -4977,7 +4977,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[collapsible|corrugated steel|hollow|rolling shutters|steel plate]",
     "example":"hollow",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000796"
   },
@@ -4989,7 +4989,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[bettened and ledged|battened|ledged and braced|battened|ledged and framed|battened|ledged, braced and frame|framed and paneled|glashed or sash|flush|louvered|wire gauged]",
     "example":"battened",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000797"
   },
@@ -5001,7 +5001,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[operation|as built|construction|bid|design|building navigation map|diagram|sketch]",
     "example":"sketch",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000798"
   },
@@ -5013,7 +5013,7 @@
     "expectedValue":"value",
     "valueSyntax":"{integer}",
     "example":"2",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000799"
   },
@@ -5025,7 +5025,7 @@
     "expectedValue":"value",
     "valueSyntax":"{integer}",
     "example":"4",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000800"
   },
@@ -5037,7 +5037,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[gas burning|wood burning]",
     "example":"wood burning",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000802"
   },
@@ -5049,7 +5049,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[new|visible wear|needs repair|damaged|rupture]",
     "example":"new",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000803"
   },
@@ -5061,7 +5061,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[tile|wood strip or parquet|carpet|rug|laminate wood|lineoleum|vinyl composition tile|sheet vinyl|stone|bamboo|cork|terrazo|concrete|none;specify unfinished|sealed|clear finish|paint]",
     "example":"carpet",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000804"
   },
@@ -5073,7 +5073,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[mold odor|wet floor|water stains|wall discoloration|floor discoloration|ceiling discoloration|peeling paint or wallpaper|bulging walls|condensation]",
     "example":"ceiling discoloration",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000805"
   },
@@ -5085,7 +5085,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[balcony|floating floor|glass floor|raised floor|sprung floor|wood-framed|concrete]",
     "example":"concrete",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000806"
   },
@@ -5097,7 +5097,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[cabinet|chair|desks]",
     "example":"chair",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000807"
   },
@@ -5109,7 +5109,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[all gender|female|gender neurtral|male|male and female|unisex]",
     "example":"male",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000808"
   },
@@ -5121,7 +5121,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[ambidexterity|left handedness|mixed-handedness|right handedness]",
     "example":"right handedness",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000809"
   },
@@ -5133,7 +5133,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[north|south|east|west]",
     "example":"north",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000810"
   },
@@ -5146,7 +5146,7 @@
     "valueSyntax":"[female|hermaphrodite|non-binary|male|transgender|transgender (female to male)|transgender (male to female)
 |undeclared]",
     "example":"non-binary",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000811"
   },
@@ -5158,7 +5158,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[conductive|radiant]",
     "example":"radiant",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000812"
   },
@@ -5170,7 +5170,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[new|visible wear|needs repair|damaged|rupture]",
     "example":"damaged",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000813"
   },
@@ -5182,7 +5182,7 @@
     "expectedValue":"timestamp",
     "valueSyntax":"{timestamp}",
     "example":"2018-05-11:T14:30Z",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000814"
   },
@@ -5194,7 +5194,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[subway|coach|carriage|elevator|escalator|boat|train|car|bus]",
     "example":"elevator",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000815"
   },
@@ -5206,7 +5206,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[automated count|estimate|manual count|videos]",
     "example":"estimate",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000816"
   },
@@ -5218,7 +5218,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[north|south|east|west|northeast|southeast|southwest|northwest]",
     "example":"northwest",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000817"
   },
@@ -5230,7 +5230,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[north|south|east|west|northeast|southeast|southwest|northwest]",
     "example":"southwest",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000818"
   },
@@ -5242,7 +5242,7 @@
     "expectedValue":"enumeration;count",
     "valueSyntax":"[cat|dog|rodent|snake|other];{integer}",
     "example":"cat;5",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000819"
   },
@@ -5254,7 +5254,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[North side|West side|South side|East side]",
     "example":"West side",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000820"
   },
@@ -5266,7 +5266,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[edge of car|center of car|under a seat]",
     "example":"center of car",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000821"
   },
@@ -5278,7 +5278,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[new|visible wear|needs repair|damaged|rupture|visible signs of mold/mildew]",
     "example":"new",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000822"
   },
@@ -5290,7 +5290,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[corner room|interior room|exterior wall]",
     "example":"interior room",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000823"
   },
@@ -5302,7 +5302,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[north corner|south corner|west corner|east corner|northeast corner|northwest corner|southeast corner|southwest corner|center]",
     "example":"south corner",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000824"
   },
@@ -5314,7 +5314,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[attic|bathroom|closet|conference room|elevator|examining room|hallway|kitchen|mail room|private office|open office|stairwell|,restroom|lobby|vestibule|mechanical or electrical room|data center|laboratory_wet|laboratory_dry|gymnasium|natatorium|auditorium|lockers|cafe|warehouse]",
     "example":"bathroom",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000825"
   },
@@ -5326,7 +5326,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[attic|bathroom|closet|conference room|elevator|examining room|hallway|kitchen|mail room|office|stairwell]",
     "example":"office",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000826"
   },
@@ -5338,7 +5338,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[clear sky|cloudy|foggy|hail|rain|snow|sleet|sunny|windy]",
     "example":"foggy",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000827"
   },
@@ -5350,7 +5350,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[1st floor|2nd floor|{integer} floor|basement|lobby]",
     "example":"4th floor",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000828"
   },
@@ -5362,7 +5362,7 @@
     "expectedValue":"NCIT:C94729",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"autumn [NCIT:C94733]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000829"
   },
@@ -5374,7 +5374,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Spring|Summer|Fall|Winter]",
     "example":"Winter",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000830"
   },
@@ -5386,7 +5386,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[damaged|needs repair|new|rupture|visible wear]",
     "example":"new",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000831"
   },
@@ -5398,7 +5398,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[exterior|interior]",
     "example":"exterior",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000832"
   },
@@ -5409,8 +5409,8 @@
     "definition":"The heating system identifier",
     "expectedValue":"unique identifier",
     "valueSyntax":"{integer}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000833"
   },
@@ -5422,7 +5422,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[presence of mold visible|no presence of mold visible]",
     "example":"no presence of mold visible",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000834"
   },
@@ -5434,7 +5434,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[bahama shutters|exterior roll blind|gambrel awning|hood awning|porchroller awning|sarasota shutters|slatted aluminum|solid aluminum awning|sun screen|tree|trellis|venetian awning]",
     "example":"slatted aluminum awning",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000835"
   },
@@ -5446,7 +5446,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[operation|as built|construction|bid|design|photos]",
     "example":"construction",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000836"
   },
@@ -5458,7 +5458,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[red|green|orange]",
     "example":"red",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000837"
   },
@@ -5470,7 +5470,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[south station above ground|south station underground|south station amtrak|forest hills|riverside]",
     "example":"forest hills",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000838"
   },
@@ -5482,7 +5482,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[end|mid|downtown]",
     "example":"end",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000839"
   },
@@ -5494,7 +5494,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[photos|videos|commonly of the building|site context (adjacent buildings, vegetation, terrain, streets)|interiors|equipment|3D scans]",
     "example":"3D scans",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000840"
   },
@@ -5506,7 +5506,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[frame construction|joisted masonry|light noncombustible|masonry noncombustible|modified fire resistive|fire resistive]",
     "example":"fire resistive",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000841"
   },
@@ -5518,7 +5518,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[plaster|gypsum plaster|veneer plaster|gypsum board|tile|terrazzo|stone facing|acoustical treatment|wood|metal|masonry]",
     "example":"wood",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000842"
   },
@@ -5530,7 +5530,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[north|south|east|west]",
     "example":"north",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000843"
   },
@@ -5542,7 +5542,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[presence of mold visible|no presence of mold visible]",
     "example":"no presence of mold visible",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000844"
   },
@@ -5554,7 +5554,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[painted|wall paper|no treatment|paneling|stucco|fabric]",
     "example":"paneling",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000845"
   },
@@ -5566,7 +5566,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[crows feet|crows-foot stomp||double skip|hawk and trowel|knockdown|popcorn|orange peel|rosebud stomp|Santa-Fe texture|skip trowel|smooth|stomp knockdown|swirl]",
     "example":"popcorn",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000846"
   },
@@ -5578,7 +5578,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[fountain|pool|standing feature|stream|waterfall]",
     "example":"stream",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000847"
   },
@@ -5590,7 +5590,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday]",
     "example":"Sunday",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000848"
   },
@@ -5602,7 +5602,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[damaged|needs repair|new|rupture|visible wear]",
     "example":"rupture",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000849"
   },
@@ -5614,7 +5614,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[blinds|curtains|none]",
     "example":"curtains",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000850"
   },
@@ -5626,7 +5626,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[left|middle|right]",
     "example":"middle",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000851"
   },
@@ -5638,7 +5638,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[north|south|east|west]",
     "example":"west",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000852"
   },
@@ -5650,7 +5650,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[clad|fiberglass|metal|vinyl|wood]",
     "example":"wood",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000853"
   },
@@ -5662,7 +5662,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[presence of mold visible|no presence of mold visible]",
     "example":"no presence of mold visible",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000854"
   },
@@ -5674,7 +5674,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[closed|open]",
     "example":"open",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000855"
   },
@@ -5686,7 +5686,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[single-hung sash window|horizontal sash window|fixed window]",
     "example":"fixed window",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000856"
   },
@@ -5698,7 +5698,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[bottom|middle|top|low|middle|high]",
     "example":"middle",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000857"
   },
@@ -5710,7 +5710,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[wild|natural|semi-natural|inbred line|breeder's line|hybrid|clonal selection|mutant]",
     "example":"natural",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000858"
   },
@@ -5722,7 +5722,7 @@
     "expectedValue":"PMID,DOI,url or free text",
     "valueSyntax":"{PMID}|{DOI}|{URL}|{text}",
     "example":"aox1A transgenic",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000859"
   },
@@ -5734,7 +5734,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[active surveillance in response to an outbreak|active surveillance not initiated by an outbreak|farm sample|market sample|other]",
     "example":"farm sample",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000860"
   },
@@ -5746,7 +5746,7 @@
     "expectedValue":"unique identifier",
     "valueSyntax":"{text}",
     "example":"MPI123",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000861"
   },
@@ -5757,8 +5757,8 @@
     "definition":"Physical sex of the host.",
     "expectedValue":"sex of the symbiotic organism (host of the samples); enumeration",
     "valueSyntax":"[female|hermaphrodite|male|neuter]",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000862"
   },
@@ -5770,7 +5770,7 @@
     "expectedValue":"free text",
     "valueSyntax":"{text}",
     "example":"nasopharynx",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000866"
   },
@@ -5782,7 +5782,7 @@
     "expectedValue":"FMA or UBERON",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"gill [UBERON:0002535]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000867"
   },
@@ -5794,7 +5794,7 @@
     "expectedValue":"body substance of the symbiotic organism (host of the samples) where the samples was obtained from; FMA or UBERON",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"Portion of mucus [fma66938]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000868"
   },
@@ -5806,7 +5806,7 @@
     "expectedValue":"diet type",
     "valueSyntax":"{text}",
     "example":"herbivore",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000869"
   },
@@ -5818,7 +5818,7 @@
     "expectedValue":"content;duration",
     "valueSyntax":"{text};{duration}",
     "example":"corn feed;P2H",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000870"
   },
@@ -5830,7 +5830,7 @@
     "expectedValue":"PMID,DOI,url or free text",
     "valueSyntax":"{PMID}|{DOI}|{URL}|{text}",
     "example":"https://academic.oup.com/icesjms/article/68/2/349/617247",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000871"
   },
@@ -5842,7 +5842,7 @@
     "expectedValue":"relationship type;arbitrary identifier",
     "valueSyntax":"{text};{text}",
     "example":"offspring;Mussel25",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000872"
   },
@@ -5854,7 +5854,7 @@
     "expectedValue":"PATO or HP",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"elongated [PATO:0001154]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000874"
   },
@@ -5866,7 +5866,7 @@
     "expectedValue":"gravidity status;timestamp",
     "valueSyntax":"{boolean};{timestamp}",
     "example":"yes;due date:2018-05-11",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000875"
   },
@@ -5878,7 +5878,7 @@
     "expectedValue":"IHMC code",
     "valueSyntax":"{integer}",
     "example":"810",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000884"
   },
@@ -5890,7 +5890,7 @@
     "expectedValue":"FMA or UBERON",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"Portion of mucus [fma66938]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000888"
   },
@@ -5902,7 +5902,7 @@
     "expectedValue":"drug name;frequency",
     "valueSyntax":"{text};{integer}/[year|month|week|day|hour]",
     "example":"Lipitor;2/day",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000894"
   },
@@ -5914,7 +5914,7 @@
     "expectedValue":"text recommend from Wikipedia list",
     "valueSyntax":"{text}",
     "example":"native american",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000895"
   },
@@ -5926,7 +5926,7 @@
     "expectedValue":"IHMC code",
     "valueSyntax":"{integer}",
     "example":"veterinary",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000896"
   },
@@ -5938,7 +5938,7 @@
     "expectedValue":"true or false",
     "valueSyntax":"{boolean}",
     "example":"TRUE",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000897"
   },
@@ -5950,7 +5950,7 @@
     "expectedValue":"YES or NO due to (1)adverse event (2) non-compliance (3) lost to follow up (4)other-specify",
     "valueSyntax":"{boolean};[adverse event|non-compliance|lost to follow up|other-specify]",
     "example":"no;non-compliance",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000898"
   },
@@ -5962,7 +5962,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[clean catch|catheter]",
     "example":"catheter",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000899"
   },
@@ -5974,7 +5974,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[low carb|reduced calorie|vegetarian|other(to be specified)]",
     "example":"other:vegan",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0000905"
   },
@@ -5986,7 +5986,7 @@
     "expectedValue":"duration",
     "valueSyntax":"{duration}",
     "example":"P2H45M",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000924"
   },
@@ -5998,7 +5998,7 @@
     "expectedValue":"duration",
     "valueSyntax":"{duration}",
     "example":"P1D",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000943"
   },
@@ -6010,7 +6010,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[left|right|ambidextrous]",
     "example":"right",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000944"
   },
@@ -6022,7 +6022,7 @@
     "expectedValue":"timestamp",
     "valueSyntax":"{timestamp}",
     "example":"43231",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000965"
   },
@@ -6034,7 +6034,7 @@
     "expectedValue":"timestamp",
     "valueSyntax":"{timestamp}",
     "example":"43231",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000966"
   },
@@ -6046,7 +6046,7 @@
     "expectedValue":"timestamp",
     "valueSyntax":"{timestamp}",
     "example":"43231",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000967"
   },
@@ -6058,7 +6058,7 @@
     "expectedValue":"timestamp",
     "valueSyntax":"{timestamp}",
     "example":"43231",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000968"
   },
@@ -6070,7 +6070,7 @@
     "expectedValue":"timestamp",
     "valueSyntax":"{timestamp}",
     "example":"43231",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000969"
   },
@@ -6082,7 +6082,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Oil Reservoir|Gas Reservoir|Oil Sand|Coalbed|Shale|Tight Oil Reservoir|Tight Gas Reservoir|other]",
     "example":"Oil Sand",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000988"
   },
@@ -6094,7 +6094,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Oil|Gas-Condensate|Gas|Bitumen|Coalbed Methane|other]",
     "example":"Gas",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000989"
   },
@@ -6106,7 +6106,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Basement|Chalk|Chert|Coal|Conglomerate|Diatomite|Dolomite|Limestone|Sandstone|Shale|Siltstone|Volcanic|other]",
     "example":"Volcanic",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000990"
   },
@@ -6118,7 +6118,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Continental - Alluvial|Continental - Aeolian|Continental - Fluvial|Continental - Lacustrine|Transitional - Deltaic|Transitional - Tidal|Transitional - Lagoonal|Transitional - Beach|Transitional - Lake|Marine - Shallow|Marine - Deep|Marine - Reef|Other - Evaporite|Other - Glacial|Other - Volcanic|other]",
     "example":"Continental - Alluvial",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000992"
   },
@@ -6130,7 +6130,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Archean|Cambrian|Carboniferous|Cenozoic|Cretaceous|Devonian|Jurassic|Mesozoic|Neogene|Ordovician|Paleogene|Paleozoic|Permian|Precambrian|Proterozoic|Silurian|Triassic|other]",
     "example":"Silurian",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000993"
   },
@@ -6142,7 +6142,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Type I|Type II|Type III|Type IV|other]",
     "example":"Type IV",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000994"
   },
@@ -6154,7 +6154,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Clastic|Carbonate|Coal|Biosilicieous|other]",
     "example":"Coal",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000995"
   },
@@ -6166,7 +6166,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Lacustine|Fluvioldeltaic|Fluviomarine|Marine|other]",
     "example":"Marine",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000996"
   },
@@ -6178,7 +6178,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Archean|Cambrian|Carboniferous|Cenozoic|Cretaceous|Devonian|Jurassic|Mesozoic|Neogene|Ordovician|Paleogene|Paleozoic|Permian|Precambrian|Proterozoic|Silurian|Triassic|other]",
     "example":"Silurian",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000997"
   },
@@ -6190,7 +6190,7 @@
     "expectedValue":"GENEPIO:0001246",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"built environment sample [GENEPIO:0001248]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000998"
   },
@@ -6202,7 +6202,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[oil phase|water phase|biofilm|not applicable|other]",
     "example":"biofilm",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0000999"
   },
@@ -6214,7 +6214,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{float}",
     "example":"7.2",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001001"
   },
@@ -6226,7 +6226,7 @@
     "expectedValue":"timestamp",
     "valueSyntax":"{timestamp}",
     "example":"43231",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001008"
   },
@@ -6238,7 +6238,7 @@
     "expectedValue":"enumeration;timestamp",
     "valueSyntax":"[Water Injection|Dump Flood|Gas Injection|Wag Immiscible Injection|Polymer Addition|Surfactant Addition|Not Applicable|other];{timestamp}",
     "example":"Polymer Addition;2018-06-21T14:30Z",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001009"
   },
@@ -6250,7 +6250,7 @@
     "expectedValue":"timestamp",
     "valueSyntax":"{timestamp}",
     "example":"43231",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001010"
   },
@@ -6262,7 +6262,7 @@
     "expectedValue":"name;name;timestamp",
     "valueSyntax":"{text};{text};{timestamp}",
     "example":"ALPHA 1427;Baker Hughes;2008-01-23",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001011"
   },
@@ -6274,7 +6274,7 @@
     "expectedValue":"name;name;timestamp",
     "valueSyntax":"{text};{text};{timestamp}",
     "example":"ACCENT 1125;DOW;2010-11-17",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001012"
   },
@@ -6286,7 +6286,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[well|test well|drilling rig|wellhead|separator|storage tank|other]",
     "example":"well",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001015"
   },
@@ -6298,7 +6298,7 @@
     "expectedValue":"free text",
     "valueSyntax":"{text}",
     "example":"sample inoculated with Rhizobium spp. Culture",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001038"
   },
@@ -6310,7 +6310,7 @@
     "expectedValue":"climate name;treatment interval and duration",
     "valueSyntax":"{text};{Rn/start_time/end_time/duration}",
     "example":"tropical climate;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001040"
   },
@@ -6322,7 +6322,7 @@
     "expectedValue":"name, PMID,DOI or url",
     "valueSyntax":"{text}|{PMID}|{DOI}|{URL}",
     "example":"http://himedialabs.com/TD/PT158.pdf",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001041"
   },
@@ -6334,7 +6334,7 @@
     "expectedValue":"free text or CO",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"Growth chamber [CO_715:0000189]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001043"
   },
@@ -6346,7 +6346,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[erect|semi-erect|spreading|prostrate]",
     "example":"spreading",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001044"
   },
@@ -6358,7 +6358,7 @@
     "expectedValue":"damage type;body site",
     "valueSyntax":"{text};{text}",
     "example":"pruning;bark",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001052"
   },
@@ -6370,7 +6370,7 @@
     "expectedValue":"measurement value;treatment interval and duration",
     "valueSyntax":"{float};{Rn/start_time/end_time/duration}",
     "example":"7.6;R2/2018-05-11:T14:30/2018-05-11T19:30/P1H30M",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001056"
   },
@@ -6382,7 +6382,7 @@
     "expectedValue":"EO or enumeration",
     "valueSyntax":"{termLabel} {[termID]} or [husk|other artificial liquid medium|other artificial solid medium|peat moss|perlite|pumice|sand|soil|vermiculite|water]",
     "example":"hydroponic plant culture media [EO:0007067]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001057"
   },
@@ -6394,7 +6394,7 @@
     "expectedValue":"product name",
     "valueSyntax":"{text}",
     "example":"xylem sap [PO:0025539]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001058"
   },
@@ -6406,7 +6406,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Androdioecious|Androecious|Androgynous|Androgynomonoecious|Andromonoecious|Bisexual|Dichogamous|Diclinous|Dioecious|Gynodioecious|Gynoecious|Gynomonoecious|Hermaphroditic|Imperfect|Monoclinous|Monoecious|Perfect|Polygamodioecious|Polygamomonoecious|Polygamous|Protandrous|Protogynous|Subandroecious|Subdioecious|Subgynoecious|Synoecious|Trimonoecious|Trioecious|Unisexual]",
     "example":"Hermaphroditic",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001059"
   },
@@ -6418,7 +6418,7 @@
     "expectedValue":"PO",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"epidermis [PO:0005679]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001060"
   },
@@ -6430,7 +6430,7 @@
     "expectedValue":"PMID,DOI,url or free text",
     "valueSyntax":"{PMID}|{DOI}|{URL}|{text}",
     "example":"http://himedialabs.com/TD/PT158.pdf",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001061"
   },
@@ -6442,7 +6442,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{float}",
     "example":"7.5",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001062"
   },
@@ -6454,7 +6454,7 @@
     "expectedValue":"name",
     "valueSyntax":"{text}",
     "example":"agar",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001063"
   },
@@ -6466,7 +6466,7 @@
     "expectedValue":"seasonal environment name;treatment interval and duration",
     "valueSyntax":"{text};{Rn/start_time/end_time/duration}",
     "example":"rainy;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001068"
   },
@@ -6478,7 +6478,7 @@
     "expectedValue":"standing water type;treatment interval and duration",
     "valueSyntax":"{text};{Rn/start_time/end_time/duration}",
     "example":"standing water;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001069"
   },
@@ -6490,7 +6490,7 @@
     "expectedValue":"PMID,DOI,url or free text",
     "valueSyntax":"{PMID}|{DOI}|{URL}|{text}",
     "example":"https://link.springer.com/content/pdf/10.1007/BF02796489.pdf",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001070"
   },
@@ -6502,7 +6502,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[biogenous|cosmogenous|hydrogenous|lithogenous]",
     "example":"biogenous",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001078"
   },
@@ -6514,7 +6514,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[cities|farmstead|industrial areas|roads/railroads|rock|sand|gravel|mudflats|salt flats|badlands|permanent snow or ice|saline seeps|mines/quarries|oil waste areas|small grains|row crops|vegetable crops|horticultural plants (e.g. tulips)|marshlands (grass,sedges,rushes)|tundra (mosses,lichens)|rangeland|pastureland (grasslands used for livestock grazing)|hayland|meadows (grasses,alfalfa,fescue,bromegrass,timothy)|shrub land (e.g. mesquite,sage-brush,creosote bush,shrub oak,eucalyptus)|successional shrub land (tree saplings,hazels,sumacs,chokecherry,shrub dogwoods,blackberries)|shrub crops (blueberries,nursery ornamentals,filberts)|vine crops (grapes)|conifers (e.g. pine,spruce,fir,cypress)|hardwoods (e.g. oak,hickory,elm,aspen)|intermixed hardwood and conifers|tropical (e.g. mangrove,palms)|rainforest (evergreen forest receiving >406 cm annual rainfall)|swamp (permanent or semi-permanent water body dominated by woody plants)|crop trees (nuts,fruit,christmas trees,nursery trees)]",
     "example":"conifers",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001080"
   },
@@ -6526,7 +6526,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[drill|cutting disc|ridge till|strip tillage|zonal tillage|chisel|tined|mouldboard|disc plough]",
     "example":"chisel",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001081"
   },
@@ -6538,7 +6538,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[O horizon|A horizon|E horizon|B horizon|C horizon|R layer|Permafrost]",
     "example":"A horizon",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001082"
   },
@@ -6550,7 +6550,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[Acrisols|Andosols|Arenosols|Cambisols|Chernozems|Ferralsols|Fluvisols|Gleysols|Greyzems|Gypsisols|Histosols|Kastanozems|Lithosols|Luvisols|Nitosols|Phaeozems|Planosols|Podzols|Podzoluvisols|Rankers|Regosols|Rendzinas|Solonchaks|Solonetz|Vertisols|Yermosols]",
     "example":"Luvisols",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001083"
   },
@@ -6562,7 +6562,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[summit|shoulder|backslope|footslope|toeslope]",
     "example":"summit",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001084"
   },
@@ -6574,7 +6574,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[very poorly|poorly|somewhat poorly|moderately well|well|excessively drained]",
     "example":"well",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001085"
   },
@@ -6585,8 +6585,8 @@
     "definition":"Historical and/or physical evidence of fire",
     "expectedValue":"date",
     "valueSyntax":"{timestamp}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001086"
   },
@@ -6598,7 +6598,7 @@
     "expectedValue":"atmospheric data name;measurement value",
     "valueSyntax":"{text};{float} {unit}",
     "example":"wind speed;9 knots",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001097"
   },
@@ -6609,8 +6609,8 @@
     "definition":"Reference or method used in determining ph",
     "expectedValue":"PMID,DOI or url",
     "valueSyntax":"{PMID}|{DOI}|{URL}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001106"
   },
@@ -6622,7 +6622,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"ISDsoil1",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001107"
   },
@@ -6634,7 +6634,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"LB broth",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001108"
   },
@@ -6646,7 +6646,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[freshwater|brackish|saline|natural|manmade|estuary|lake|pond|canal|stream|river|melt pond|well|ditch|reservior|collected rainwater|municipal|storage tank]",
     "example":"water well (ENVO:01000002)",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001110"
   },
@@ -6658,7 +6658,7 @@
     "expectedValue":"AGRO_00000006",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"drip irrigation process [AGRO:00000056]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001111"
   },
@@ -6670,7 +6670,7 @@
     "expectedValue":"EOL:0001757",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"self feeding [EOL:0001645]| straight feed trough [EOL:0001661]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001113"
   },
@@ -6682,7 +6682,7 @@
     "expectedValue":"NCIT:C14250 or NCBI taxid",
     "valueSyntax":"{termLabel} {[termID]}|{integer}",
     "example":"Thripidae [NCBITaxon:45053]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001114"
   },
@@ -6694,7 +6694,7 @@
     "expectedValue":"EOL_0001653",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"water trough [EOL:0001618]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001115"
   },
@@ -6718,7 +6718,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[absent|active|inactive|negative|no|present|positive|yes]",
     "example":"positive",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001117"
   },
@@ -6730,7 +6730,7 @@
     "expectedValue":"NCIT:C14250 or NCBI taxid",
     "valueSyntax":"{termLabel} {[termID]}|{integer}",
     "example":"Listeria monocytogenes [NCIT:C86502]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001118"
   },
@@ -6742,7 +6742,7 @@
     "expectedValue":"NCIT:C14250 or NCBI taxid or culture independent",
     "valueSyntax":"{termLabel} {[termID]}|{integer}",
     "example":"Listeria monocytogenes [NCIT:C86502]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001119"
   },
@@ -6754,7 +6754,7 @@
     "expectedValue":"FOODON:03530050",
     "valueSyntax":"{term label}{term ID}",
     "example":"ripe or mature [FOODON:03530052]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001120"
   },
@@ -6766,7 +6766,7 @@
     "expectedValue":"ENVO_01001110 or ENVO_00000070",
     "valueSyntax":"{termLabel}{[termID]}",
     "example":"estuarine biome [ENVO:01000020]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001121"
   },
@@ -6778,7 +6778,7 @@
     "expectedValue":"ENVO_01001110 or ENVO_00000070",
     "valueSyntax":"{text}",
     "example":"feedlot [ENVO:01000627]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001122"
   },
@@ -6790,7 +6790,7 @@
     "expectedValue":"AGRO:00000416",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"combine harvester [AGRO:00000473]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001123"
   },
@@ -6814,7 +6814,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"Biweekly",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001125"
   },
@@ -6826,7 +6826,7 @@
     "expectedValue":"AGRO:00000416",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"combine harvester [AGRO:00000473]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001126"
   },
@@ -6838,7 +6838,7 @@
     "expectedValue":"AGRO_00002062",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"fish emulsion [AGRO:00000082]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001127"
   },
@@ -6850,7 +6850,7 @@
     "expectedValue":"date and time",
     "valueSyntax":"{timestamp}",
     "example":"2018-05-11T10:00:00+01:00",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001128"
   },
@@ -6862,7 +6862,7 @@
     "expectedValue":"value",
     "valueSyntax":"{integer}",
     "example":"80",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001129"
   },
@@ -6874,7 +6874,7 @@
     "expectedValue":"text or FOODON_03309997",
     "valueSyntax":"{text}",
     "example":"Hay [FOODON:03301763]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001130"
   },
@@ -6886,7 +6886,7 @@
     "expectedValue":"FOODON:03500010",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"cellulose acetate [FOODON:03500034]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001131"
   },
@@ -6898,7 +6898,7 @@
     "expectedValue":"FOODON:03490100",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"Plastic shrink-pack [FOODON:03490137]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001132"
   },
@@ -6910,7 +6910,7 @@
     "expectedValue":"free text",
     "valueSyntax":"{text}",
     "example":"hand-picked",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001133"
   },
@@ -6922,7 +6922,7 @@
     "expectedValue":"FOODON:03480020",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"vacuum-packed[FOODON:03480027]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001134"
   },
@@ -6934,7 +6934,7 @@
     "expectedValue":"FOODON:03470107",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"food slow freezing [FOODON:03470128]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001135"
   },
@@ -6946,7 +6946,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"wild caught",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001136"
   },
@@ -6958,7 +6958,7 @@
     "expectedValue":"GENEPIO:0001064",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"train travel [GENEPIO:0001060]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001137"
   },
@@ -6970,7 +6970,7 @@
     "expectedValue":"ENVO:01000604",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"aircraft [ENVO:01001488]|car [ENVO:01000605]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001138"
   },
@@ -6982,7 +6982,7 @@
     "expectedValue":"FOODON term",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"giant tiger prawn [FOODON:03412612]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001139"
   },
@@ -6994,7 +6994,7 @@
     "expectedValue":"FOODON:03460111",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"gluten removal process [FOODON:03460750]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001140"
   },
@@ -7006,7 +7006,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[drought|dust storm|extreme cold|extreme heat|flood|frost|hail|high precipitationhigh winds]",
     "example":"hail",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001141"
   },
@@ -7018,7 +7018,7 @@
     "expectedValue":"date",
     "valueSyntax":"{timestamp}",
     "example":"2018-05-11:T14:30Z",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001142"
   },
@@ -7030,7 +7030,7 @@
     "expectedValue":"FOODON_03510136 or NCBI taxid",
     "valueSyntax":"{integer}|{termLabel} {[termID]}        ",
     "example":"9606 o rsenior as food consumer [FOODON:03510254] ",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001144"
   },
@@ -7042,7 +7042,7 @@
     "expectedValue":"name of library preparation kit",
     "valueSyntax":"{text}",
     "example":"Illumina DNA Prep",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001145"
   },
@@ -7054,7 +7054,7 @@
     "expectedValue":"enumeration;obstruction type; distance from sampling device",
     "valueSyntax":"[obstructed|unobstructed]; {text}; {measurement value}",
     "example":"obstructed;hay bales; 2 m",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001146"
   },
@@ -7066,7 +7066,7 @@
     "expectedValue":"lot number, item",
     "valueSyntax":"{integer}, {text}",
     "example":"1239ABC01A, split Cornish hens",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001147"
   },
@@ -7078,7 +7078,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
     "example":"0.25",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001148"
   },
@@ -7090,7 +7090,7 @@
     "expectedValue":"FOODON:03420116",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"chuck [FOODON:03530021]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001149"
   },
@@ -7102,7 +7102,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[plant cutting|pregerminated seed|ratoon|seed|seedling|whole mature plant]",
     "example":"seedling",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001150"
   },
@@ -7114,7 +7114,7 @@
     "expectedValue":"enumeration or {text}",
     "valueSyntax":"[active surveillance in response to an outbreak|active surveillance not initiated by an outbreak|clinical trial|cluster investigation|environmental assessment|farm sample|field trial|for cause|industry internal investigation|market sample|passive surveillance|population based studies|research|research and development] or {text}",
     "example":"field trial",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001151"
   },
@@ -7126,7 +7126,7 @@
     "expectedValue":"Institution",
     "valueSyntax":"{text}",
     "example":"FDA CFSAN Microbiology Laboratories",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001152"
   },
@@ -7138,7 +7138,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"5uL of extracted genomic DNA from 5 leaves were pooled",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001153"
   },
@@ -7150,7 +7150,7 @@
     "expectedValue":"GENEPIO:0001237",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"environmental (swab or sampling) [GENEPIO:0001732]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001154"
   },
@@ -7162,7 +7162,7 @@
     "expectedValue":"name of sequencing kit used",
     "valueSyntax":"{text}",
     "example":"NextSeq 500/550 High Output Kit v2.5 (75 Cycles)",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001155"
   },
@@ -7174,7 +7174,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"University of Maryland Genomics Resource Center",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001156"
   },
@@ -7186,7 +7186,7 @@
     "expectedValue":"NCIT:C14250 or NCBI taxid",
     "valueSyntax":"{termLabel} {[termID]}|{integer}",
     "example":"Escherichia coli strain O157:H7 [NCIT:C86883]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001157"
   },
@@ -7210,7 +7210,7 @@
     "expectedValue":"ENVO:00010483",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"bare soil [ENVO01001616]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001159"
   },
@@ -7222,7 +7222,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{float}",
     "example":"7.2",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001160"
   },
@@ -7234,7 +7234,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"furrow",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001161"
   },
@@ -7270,7 +7270,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[clay|clay loam|loam|loamy sand|sand|sandy clay|sandy clay loam|sandy loam|silt|silty clay|silty clay loam|silt loam]",
     "example":"silty clay loam",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001164"
   },
@@ -7282,7 +7282,7 @@
     "expectedValue":"NCIT:C14250 or NCBI taxid",
     "valueSyntax":"{termLabel} {[termID]}|{integer}",
     "example":"Listeria monocytogenes [NCIT:C86502]|28901",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001167"
   },
@@ -7294,7 +7294,7 @@
     "expectedValue":"NCIT:C14250 or antigenic formula or serovar name",
     "valueSyntax":"{termLabel} {[termID]}|{integer}",
     "example":"Escherichia coli strain O157:H7 [NCIT:C86883]|83334",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001168"
   },
@@ -7306,7 +7306,7 @@
     "expectedValue":"MICRO:0000067",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"LB broth [MCO:0000036]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001169"
   },
@@ -7318,7 +7318,7 @@
     "expectedValue":"NCIT:C14250 or NCBI taxid or text",
     "valueSyntax":"{termLabel} {[termID]}|{integer}",
     "example":"169963",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001170"
   },
@@ -7330,7 +7330,7 @@
     "expectedValue":"drug name; concentration",
     "valueSyntax":"{text} {integer}",
     "example":"Tetracycline at 5 mg/ml",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001171"
   },
@@ -7342,7 +7342,7 @@
     "expectedValue":"heavy metal name or chemical symbol; concentration",
     "valueSyntax":"{text} {integer}",
     "example":"Cd at 20 ppm",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001172"
   },
@@ -7378,7 +7378,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{float}",
     "example":"7.2",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001175"
   },
@@ -7390,7 +7390,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[multiple users, agricutural|multiple users, other|no sharing]",
     "example":"no sharing",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001176"
   },
@@ -7402,7 +7402,7 @@
     "expectedValue":"PMID,DOI,url or free text",
     "valueSyntax":"{PMID}|{DOI}|{URL}|{text}",
     "example":"BAM Chapter 4: Enumeration of Escherichia coli and the Coliform Bacteria",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001177"
   },
@@ -7414,7 +7414,7 @@
     "expectedValue":"enumeration, date",
     "valueSyntax":"[best by|best if used by|freeze by||use by]; date",
     "example":"best by 2020-05-24",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001178"
   },
@@ -7426,7 +7426,7 @@
     "expectedValue":"IFSAC term",
     "valueSyntax":"{text}",
     "example":"Plants:Produce:Vegetables:Herbs:Dried Herbs",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001179"
   },
@@ -7438,7 +7438,7 @@
     "expectedValue":"EOL:0001605",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"pen rearing system [EOL:0001636]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001180"
   },
@@ -7450,7 +7450,7 @@
     "expectedValue":"date and time",
     "valueSyntax":"{timestamp}",
     "example":"2018-05-11T10:00:00+01:00",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001181"
   },
@@ -7462,7 +7462,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[drum and drain|manual spinner|rinsed with sanitizer solution|rinsed with water|scrubbed with brush|scrubbed with hand|soaking]",
     "example":"rinsed with water|scrubbed with brush",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001182"
   },
@@ -7474,7 +7474,7 @@
     "expectedValue":"ENVO:00000002 or ENVO:00000070",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"grocery store [ENVO:01000984]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001183"
   },
@@ -7486,7 +7486,7 @@
     "expectedValue":"FOODON:00001002 or FOODON:03309997",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"shrimp (peeled, deep-frozen) [FOODON:03317171]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001184"
   },
@@ -7498,7 +7498,7 @@
     "expectedValue":"chemical ingredient",
     "valueSyntax":"{float} {unit}",
     "example":"salt",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001185"
   },
@@ -7534,7 +7534,7 @@
     "expectedValue":"growth medium",
     "valueSyntax":"{text}",
     "example":"molasses",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001188"
   },
@@ -7546,7 +7546,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{float}",
     "example":"4.5",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001189"
   },
@@ -7594,7 +7594,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"steel drum",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001193"
   },
@@ -7642,7 +7642,7 @@
     "expectedValue":"date and time",
     "valueSyntax":"{timestamp}",
     "example":"43799",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001197"
   },
@@ -7654,7 +7654,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{integer} {unit}",
     "example":"5 cans",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001198"
   },
@@ -7666,7 +7666,7 @@
     "expectedValue":"FOODON:03510023",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"No preservatives [FOODON:03510113]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001199"
   },
@@ -7678,7 +7678,7 @@
     "expectedValue":"FOODON:03412972",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"xanthan gum [FOODON:03413321]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001200"
   },
@@ -7690,7 +7690,7 @@
     "expectedValue":"FOODON:03510213",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"food allergen labelling about crustaceans and products thereof [FOODON:03510215]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001201"
   },
@@ -7702,7 +7702,7 @@
     "expectedValue":"FOODON:03450002",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"food blanching [FOODON:03470175]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001202"
   },
@@ -7714,7 +7714,7 @@
     "expectedValue":"country: region, specific location (city)",
     "valueSyntax":"{term}: {term}, {text}",
     "example":"USA: Delmarva Peninsula or USA: Georgia, Atlanta [GAZ:00004445]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001203"
   },
@@ -7726,8 +7726,8 @@
     "expectedValue":"GAZ:00000448",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"Atlanta[GAZ:00004445]",
-    "preferredUnit":" ",
-    "occurence":" ",
+    "preferredUnit":"",
+    "occurence":"",
     "url":"https://w3id.org/gensc/terms/MIXS_0001204"
   },
   {
@@ -7738,7 +7738,7 @@
     "expectedValue":"FOODON",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"bean (whole) [FOODON:00002753]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001205"
   },
@@ -7750,7 +7750,7 @@
     "expectedValue":"FOODON:03530087",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"protected geographic indication [FOODON:03530256]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001206"
   },
@@ -7762,7 +7762,7 @@
     "expectedValue":"country: region, specific location",
     "valueSyntax":"{term}: {term}, {text}",
     "example":"USA: Delmarva, Peninsula",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001207"
   },
@@ -7786,7 +7786,7 @@
     "expectedValue":"FOODON:03530218",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"food packing medium compromised [FOODON:00002517]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001209"
   },
@@ -7798,7 +7798,7 @@
     "expectedValue":"FOODON:03530077",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"processed in stainless steel container [FOODON:03530081]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001210"
   },
@@ -7810,7 +7810,7 @@
     "expectedValue":"FOODON:03530206",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"organic plant cultivation [FOODON:03530253]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001211"
   },
@@ -7822,7 +7822,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"pinot gris",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001212"
   },
@@ -7834,7 +7834,7 @@
     "expectedValue":"FOODON:00002454",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"raw [FOODON:03311126]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001213"
   },
@@ -7846,7 +7846,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[cheeses-other than hard cheeses|cucumbers|crustaceans|finfish-including smoked finfish|fruits and vegetables-fresh cut|herbs-fresh|leafy greens-including fresh cut leafy greens|melons|mollusks-bivalves|nut butter|peppers|ready to eat deli salads|sprouts|tomatoes|tropical tree fruits|shell eggs]",
     "example":"tropical tree fruits",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001214"
   },
@@ -7858,7 +7858,7 @@
     "expectedValue":"FOODON:03530221",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"tetrodotoxic poisoning [FOODON:03530249]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001215"
   },
@@ -7870,7 +7870,7 @@
     "expectedValue":"MICRO:0000067",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"brain heart infusion agar [MICRO:0000566]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001216"
   },
@@ -7882,7 +7882,7 @@
     "expectedValue":"FOODON:03544453",
     "valueSyntax":"{term label} {[termID]}|{text}",
     "example":"starter cultures [FOODON:03544454]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001217"
   },
@@ -7918,7 +7918,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"liquid starter culture, propagated 3 cycles in milk prior to inoculation",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001220"
   },
@@ -7930,7 +7930,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"backslopped, GetCulture",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001221"
   },
@@ -7942,7 +7942,7 @@
     "expectedValue":"NCIT:C14250 or NCBI taxid",
     "valueSyntax":"{termLabel} {[termID]}|{integer}",
     "example":"Lactobacillus rhamnosus [NCIT:C123495]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001222"
   },
@@ -7954,7 +7954,7 @@
     "expectedValue":"The name of an extraction kit",
     "valueSyntax":"{text}",
     "example":"Qiagen PowerSoil Kit",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001223"
   },
@@ -7966,7 +7966,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
     "example":"116 samples",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001224"
   },
@@ -7978,7 +7978,7 @@
     "expectedValue":"PMID,DOI,url , or text",
     "valueSyntax":"{PMID}|{DOI}|{URL}|{text}",
     "example":"environmental swab sampling",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001225"
   },
@@ -7990,7 +7990,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
     "example":"6 replicates",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001226"
   },
@@ -8002,7 +8002,7 @@
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
     "example":"10 replicates",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001227"
   },
@@ -8014,7 +8014,7 @@
     "expectedValue":"NCIT:C4318",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"Whirl Pak sampling bag [GENEPIO:0002122]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001228"
   },
@@ -8026,7 +8026,7 @@
     "expectedValue":"MICRO:0000067",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"peptone water medium [MICRO:0000548]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001229"
   },
@@ -8038,7 +8038,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[bottle|cooler|glass vial|plastic vial||vendor supplied container]",
     "example":"cooler",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001230"
   },
@@ -8074,7 +8074,7 @@
     "expectedValue":"FOODON:03510136",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"senior as food consumer [FOODON:03510254]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001234"
   },
@@ -8086,7 +8086,7 @@
     "expectedValue":"measurement value ARO:3004299",
     "valueSyntax":"{float} {unit};{termLabel} {[termID]}",
     "example":"wild type [ARO:3004432]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001235"
   },
@@ -8098,7 +8098,7 @@
     "expectedValue":"OBI:0500000",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"in vitro design [OBI:0001285]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001236"
   },
@@ -8146,7 +8146,7 @@
     "expectedValue":"MCO:0000866",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"Factor A|spike-in|levels high, medium, low",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001240"
   },
@@ -8158,7 +8158,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"tetracycline",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001243"
   },
@@ -8170,7 +8170,7 @@
     "expectedValue":"value",
     "valueSyntax":"{float} {day}",
     "example":"3 days",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001244"
   },
@@ -8182,7 +8182,7 @@
     "expectedValue":"value",
     "valueSyntax":"{float} {unit}",
     "example":"once daily",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001245"
   },
@@ -8194,7 +8194,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"oral-feed",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001246"
   },
@@ -8206,7 +8206,7 @@
     "expectedValue":"text",
     "valueSyntax":"{text}",
     "example":"shipping fever",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001247"
   },
@@ -8218,7 +8218,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[normal|over conditioned|under conditioned]",
     "example":"under conditioned",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001248"
   },
@@ -8230,7 +8230,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[castrated female|castrated male|intact female|intact male]",
     "example":"castrated male",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001249"
   },
@@ -8254,7 +8254,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[ambient storage|caterer-catering point|distribution|frozen storage|importer-broker|interstate conveyance|labeler-relabeler|manufacturing-processing|packaging|refrigerated storage|storage]",
     "example":"manufacturing-processing",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001252"
   },
@@ -8266,7 +8266,7 @@
     "expectedValue":"ENVO",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"Low Hygiene Area",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001253"
   },
@@ -8278,7 +8278,7 @@
     "expectedValue":"ENVO",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"Zone 1",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001254"
   },
@@ -8302,7 +8302,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[intermittent moisture|not present|submerged]",
     "example":"submerged",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001256"
   },
@@ -8314,7 +8314,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[damaged|new|rupture|visible signs of mold-mildew|visible weariness repair]",
     "example":"new",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001257"
   },
@@ -8326,7 +8326,7 @@
     "expectedValue":"commercial name of biocide, active ingredient in biocide or class of biocide",
     "valueSyntax":"{text}",
     "example":"Quaternary ammonium compound|SterBac",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001258"
   },
@@ -8338,7 +8338,7 @@
     "expectedValue":"ENVO:01001026",
     "valueSyntax":"{text}|{termLabel} {[termID]}",
     "example":"ultraviolet radiation [ENVO:21001216]|infrared radiation [ENVO:21001214]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001259"
   },
@@ -8350,7 +8350,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"enumeration",
     "example":"[O horizon|A horizon|E horizon|B horizon|C horizon|R layer|Permafrost]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001291"
   },
@@ -8374,7 +8374,7 @@
     "expectedValue":"species name or common name",
     "valueSyntax":"{text}",
     "example":"flukeworms",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001298"
   },
@@ -8385,7 +8385,7 @@
     "definition":"Time spent in host of the symbiotic organism at the time of sampling; relevant scale depends on symbiotic organism and study.",
     "expectedValue":"value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
+    "example":"",
     "preferredUnit":"year, day, hour",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001299"
@@ -8398,7 +8398,7 @@
     "expectedValue":"type of life cycle of the symbiotic organism (host of the samples)",
     "valueSyntax":"[complex life cycle | simple life cycle]",
     "example":"complex life cycle",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001300"
   },
@@ -8410,7 +8410,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[accidental|dead-end|definitive|intermediate|paratenic|reservoir|single host]",
     "example":"intermediate",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001303"
   },
@@ -8422,7 +8422,7 @@
     "expectedValue":"count",
     "valueSyntax":"{float} m",
     "example":"3",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001305"
   },
@@ -8434,7 +8434,7 @@
     "expectedValue":"NCBI taxon identifier of the host of the symbiotic taxon organism",
     "valueSyntax":"{integer}",
     "example":"145637",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001306"
   },
@@ -8446,7 +8446,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[commensalistic|mutualistic|parasitic]",
     "example":"parasitic",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001307"
   },
@@ -8458,7 +8458,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[family-specific|generalist||genus-specific|species-specific]",
     "example":"species-specific",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001308"
   },
@@ -8470,8 +8470,8 @@
     "expectedValue":"symbionts of the symbiotic organism (host of the samples). e.g.: annotating a sample collected from a trematode with a nematomorpha cyst consider: species name of the nematomorph; {species name} or {common name}",
     "valueSyntax":"{text}",
     "example":"Paragordius varius",
-    "preferredUnit":" ",
-    "occurence":" ",
+    "preferredUnit":"",
+    "occurence":"",
     "url":"https://w3id.org/gensc/terms/MIXS_0001309"
   },
   {
@@ -8482,7 +8482,7 @@
     "expectedValue":"species name of coinfecting organism(s)",
     "valueSyntax":"{text}",
     "example":"Maritrema novaezealandense",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001310"
   },
@@ -8494,8 +8494,8 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[horizontal:castrator|horizontal:directly transmitted|horizontal:micropredator|horizontal:parasitoid|horizontal:trophically transmitted|horizontal:vector transmitted|vertical]",
     "example":"horizontal:castrator",
-    "preferredUnit":" ",
-    "occurence":" ",
+    "preferredUnit":"",
+    "occurence":"",
     "url":"https://w3id.org/gensc/terms/MIXS_0001312"
   },
   {
@@ -8506,8 +8506,8 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[intracellular|extracellular|not determined]",
     "example":"extracellular",
-    "preferredUnit":" ",
-    "occurence":" ",
+    "preferredUnit":"",
+    "occurence":"",
     "url":"https://w3id.org/gensc/terms/MIXS_0001313"
   },
   {
@@ -8518,7 +8518,7 @@
     "expectedValue":"enumeration",
     "valueSyntax":"[facultative|obligate]",
     "example":"obligate",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001315"
   },
@@ -8529,8 +8529,8 @@
     "definition":"Description of path taken by the symbiotic host organism being sampled in order to establish a symbiotic relationship with the host (with which it was observed at the time of sampling) via a mode of transmission (specified in mode_transmission).",
     "expectedValue":"enumeration",
     "valueSyntax":"[environmental:faecal-oral|transplacental|vector-borne:vector penetration]",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001316"
   },
@@ -8542,7 +8542,7 @@
     "expectedValue":"solution name",
     "valueSyntax":"{text}",
     "example":"5% ethanol",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001317"
   },
@@ -8554,7 +8554,7 @@
     "expectedValue":"Genetic lineage below lowest rank of NCBI taxonomy, which is subspecies, e.g. serovar, biotype, ecotype, variety, cultivar.",
     "valueSyntax":"{rank name}:{text}",
     "example":"serovar:Newport, variety:glabrum, cultivar: Red Delicious",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001318"
   },
@@ -8566,7 +8566,7 @@
     "expectedValue":"disease name or Disease Ontology term",
     "valueSyntax":"{termLabel} {[termID]}|{text}",
     "example":"rabies [DOID:11260]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001319"
   },
@@ -8578,8 +8578,8 @@
     "expectedValue":"common name",
     "valueSyntax":"{text}",
     "example":"snail",
-    "preferredUnit":" ",
-    "occurence":" ",
+    "preferredUnit":"",
+    "occurence":"",
     "url":"https://w3id.org/gensc/terms/MIXS_0001324"
   },
   {
@@ -8590,7 +8590,7 @@
     "expectedValue":"UBERON term(s), multiple values can be separated by pipes.",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"small intestine[uberon:0002108]",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001325"
   },
@@ -8602,8 +8602,8 @@
     "expectedValue":"An ontology term for a material such as a tissue type or excreted substance.",
     "valueSyntax":"{termLabel} {[termID]}",
     "example":"feces[uberon:0001988]",
-    "preferredUnit":" ",
-    "occurence":" ",
+    "preferredUnit":"",
+    "occurence":"",
     "url":"https://w3id.org/gensc/terms/MIXS_0001326"
   },
   {
@@ -8614,7 +8614,7 @@
     "expectedValue":"unique identifier",
     "valueSyntax":"{text}",
     "example":"H3",
-    "preferredUnit":" ",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001327"
   },
@@ -8625,8 +8625,8 @@
     "definition":"Familial relationship of the host of the symbiotic host organisms to other hosts of symbiotic host organism in the same study; can include multiple relationships.",
     "expectedValue":"relationship type;arbitrary identifier",
     "valueSyntax":"{text};{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001328"
   },
@@ -8637,8 +8637,8 @@
     "definition":"Taxonomic name information of the host of the symbiotic host organism below subspecies level.",
     "expectedValue":"name",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001329"
   },
@@ -8649,8 +8649,8 @@
     "definition":"Taxonomic rank information about the host of the symbiotic host organism below subspecies level, such as variety, form, rank etc.",
     "expectedValue":"rank",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001330"
   },
@@ -8661,8 +8661,8 @@
     "definition":"Observed genotype of the host of the symbiotic host organism.",
     "expectedValue":"genotype",
     "valueSyntax":"{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001331"
   },
@@ -8673,8 +8673,8 @@
     "definition":"Phenotype of the host of the symbiotic host organism. For phenotypic quality ontology (PATO) terms, see http://purl.bioontology.org/ontology/pato.",
     "expectedValue":"phenotype of the host of the symbiotic organism; PATO",
     "valueSyntax":"{term}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001332"
   },
@@ -8685,8 +8685,8 @@
     "definition":"Whether or not the host of the symbiotic host organism is gravid, and if yes date due or date post-conception, specifying which is used.",
     "expectedValue":"gravidity status;timestamp",
     "valueSyntax":"{boolean};{timestamp}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001333"
   },
@@ -8697,8 +8697,8 @@
     "definition":"Total mass of the host of the symbiotic host organism at collection, the unit depends on the host.",
     "expectedValue":"measurement value",
     "valueSyntax":"{float} {unit}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"1",
     "url":"https://w3id.org/gensc/terms/MIXS_0001334"
   },
@@ -8721,8 +8721,8 @@
     "definition":"Reference or method used in measurement of photosythetic activity ",
     "expectedValue":"PMID,DOI,url , or text",
     "valueSyntax":"{PMID}|{DOI}|{URL}|{text}",
-    "example":" ",
-    "preferredUnit":" ",
+    "example":"",
+    "preferredUnit":"",
     "occurence":"m",
     "url":"https://w3id.org/gensc/terms/MIXS_0001336"
   } 
