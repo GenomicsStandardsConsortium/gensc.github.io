@@ -2718,7 +2718,7 @@
     "structuredCommentName":"sieving",
     "definition":"Collection design of pooled samples and/or sieve size and amount of sample sieved",
     "expectedValue":"design name and/or size;amount",
-    "valueSyntax":"{{text}|{float} {unit}};{float} {unit}",
+    "valueSyntax":"{text}|{float} {unit};{float} {unit}",
     "example":" ",
     "preferredUnit":" ",
     "occurence":"1",
