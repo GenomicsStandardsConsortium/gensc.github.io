@@ -27,7 +27,7 @@
   $(document).ready(function(){
 
     var data = 
-{% include terms.yml %}
+{% include terms.json %}
 ;
 
 $('#txt-search').keyup(function(){
