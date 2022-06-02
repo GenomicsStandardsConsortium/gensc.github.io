@@ -6,11 +6,11 @@
 
 ## **Upcoming meetings:**
 
-*   [GSC22 Moorea, Mar 23-26, 2022](https://genomicsstandardsconsortium.github.io/GSC22-Moorea/)
-*   [GSC23, Bangkok, Thailand, (Date:TBA), 2022](meetings/planned.html)
+*   [GSC23, Bangkok, Thailand, (Date:TBA), 2023](meetings/planned.html)
 
 ## **Past meetings:**
 
+*   [GSC22 Moorea, Mar 23-26, 2022](https://genomicsstandardsconsortium.github.io/GSC22-Moorea/)
 *   [GSC21, Vienna, Austria, May 20-23, 2019](meetings/GSC21/GSC21.html)
 *   [GSC20, San Diego, USA, May 2-4, 2018](meetings/GSC20/GSC20.html)
 *   GSC19, Brisbane, Australia, May 14-17, 2017 <!-- old meeting url http://wiki.gensc.org/index.php?title=GSC_19 -->
