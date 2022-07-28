@@ -2,26 +2,41 @@
 
 # Funding
 
-While the vast majority of GSC efforts are contributed on a volunteer basis by a wide range of participants, the GSC gratefully acknowledges that it has received formal funding for the activities listed below.
+While the vast majority of GSC efforts are contributed on a volunteer basis by a wide range of participants, the GSC gratefully acknowledges our generous sponsors for the GSC annual meetings.
 
-[![Nerc](http://press3.mcs.anl.gov/gensc/files/2013/06/Nerc.gif)](http://press3.mcs.anl.gov/gensc/files/2013/06/Nerc.gif) [![Niees](http://press3.mcs.anl.gov/gensc/files/2013/06/Niees1.jpg)](http://press3.mcs.anl.gov/gensc/files/2013/06/Niees1.jpg) [![Moore](http://press3.mcs.anl.gov/gensc/files/2013/06/Moore.png)](http://press3.mcs.anl.gov/gensc/files/2013/06/Moore.png) [![NSF_logo](http://press3.mcs.anl.gov/gensc/files/2013/06/NSF_logo.jpg)](http://press3.mcs.anl.gov/gensc/files/2013/06/NSF_logo.jpg) [![DOE](http://press3.mcs.anl.gov/gensc/files/2013/06/DOE.png)](http://press3.mcs.anl.gov/gensc/files/2013/06/DOE.png)
+The GSC also acknowledges a range of funding sources for its past meetings, including NERC (UK National Environment Research Council), NIeES (UK National Institute for Environmental eScience), NSF (US National Science Foundation), and the Gordon and Betty Moore Foundation (GBMF).
+The GSC was launched in 2005 with funding from NIEeS and a NERC International Opportunities Award called “‘_Cataloguing our Complete Genome Collection_” [NE/3521773/1](http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/D521773/1&cookieConsent=A) 2005-2008 and NERC granted further funding to build essential infrastructure [NE/D01252X/1](http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/D01252X/1&cookieConsent=A). Funding from NSF in the form of a Research Co-ordination Network [RCN4GSC](https://pubmed.ncbi.nlm.nih.gov/21304642/) is further supporting knowledge exchange between GSC members and external communities, exchange visits of early career scientists to tackle GSC implementation projects, and helped launch the GSC’s Developer Group and the Biodiversity Working Group. The DOE has also now given funds to support the earliest stages of the development of the vision for the [M5](https://www.gensc.org/pages/projects/m5-project.html) project.
 
-## Industry Sponsorship
 
-Starting 2012, the GSC has an [Industry Annual Subscription Program](http://wiki.gensc.org/index.php?title=Industry_Sponsorship "Industry Sponsorship"). There are three levels of sponsorship – Silver, Gold and Platinum – each with specific benefits for the sponsor. Please contact us for more information.
+## GSC Sponsorship
 
-Previous sponsors:
+The GSC has an annual sponsorship opportunities. There are three levels of sponsorship – Platinum, Gold and Silver, each with specific benefits for the sponsor. Please contact us for more information.
 
- [![Eppendorf](http://press3.mcs.anl.gov/gensc/files/2015/07/Eppendorf.jpg)](http://press3.mcs.anl.gov/gensc/files/2015/07/Eppendorf.jpg) [![BiomattersLogo](http://press3.mcs.anl.gov/gensc/files/2015/07/BiomattersLogo.png)](http://press3.mcs.anl.gov/gensc/files/2015/07/BiomattersLogo.png)
+## Corportate Sponsors 
+The GSC thanks and acknowledges the support of our corporate partners. 
+**GSC22 (2022) Meeting Sponsors:**  
+Pineapple Platinum Sponsors: [GenapSys](https://genapsys.com), [Illumina](https://www.illumina.com), [Innovaprep](https://www.innovaprep.com), [Zymo Research](https://www.zymoresearch.com)
+GOLD Sponsors: [New England BioLabs](https://www.neb.com), [PacBio](https://www.pacb.com)
+Silver Sponsor: [QIAGEN](https://www.qiagen.com/)
+**GSC21 Meeting Sponsors:** 
+GOLD Sponsors: [Universitat Wien - Computational Life Sciences](https://lifesciences.univie.ac.at/research/key-research-areas/computational-life-sciences/), [QIAGEN](https://www.qiagen.com/)
+Titanium Sponsors: [PHASE Genomics](https://phasegenomics.com)
+Bronze Sponsor: International Society for Microbial Ecology [ISME](https://www.isme-microbes.org) 
+**GSC20 Meeting Sponsors**
+Platinum Sponsor: [Zymo Research](https://www.zymoresearch.com)
+Silver Sponsor: [Illumina](https://www.illumina.com)
 
-## Other Funding and Sponsorship
 
-The GSC acknowledges all participants of past GSC meetings for their thoughtful contributions – many of which are still ongoing within the GSC. The GSC also acknowledges a range of funding sources for its past meetings including NERC, NIeES, NSF, GBMF and the DOE. The GSC was launched in 2005 with funding from NIEeS and a NERC International Opportunities Award called “‘_Cataloguing our Complete Genome Collection_” [(NE/3521773/1)](http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/D521773/1&cookieConsent=A) 2005-2008 and NERC granted further funding to build essential infrastructure [(NE/D01252X/1)](http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/D01252X/1&cookieConsent=A). Funding from NSF in the form of a Research Co-ordination Network ([RCN4GSC](http://wiki.gensc.org/index.php?title=RCN4GSC "RCN4GSC")) is further supporting knowledge exchange between GSC members and external communities, exchange visits of early career scientists to tackle GSC implementation projects, and helped launch the GSC’s [Developer Group](http://wiki.gensc.org/index.php?title=Developer_Group "Developer Group") and the [Biodiversity Working Group](http://wiki.gensc.org/index.php?title=Biodiversity_Working_Group "Biodiversity Working Group"). The DOE has also now given funds to support the earliest stages of the development of the vision for the [M5](http://wiki.gensc.org/index.php?title=M5 "M5") project.
 
- [![Niees](http://press3.mcs.anl.gov/gensc/files/2013/06/Niees.jpg)](http://press3.mcs.anl.gov/gensc/files/2013/06/Niees.jpg) [![EMBL-EBI_logo](http://press3.mcs.anl.gov/gensc/files/2015/07/EMBL-EBI_logo.png)](http://press3.mcs.anl.gov/gensc/files/2015/07/EMBL-EBI_logo.png) [![ucsd](http://press3.mcs.anl.gov/gensc/files/2015/07/ucsd.jpg)](http://press3.mcs.anl.gov/gensc/files/2015/07/ucsd.jpg) [![JGI-logo](http://press3.mcs.anl.gov/gensc/files/2015/07/JGI-logo.png)](http://press3.mcs.anl.gov/gensc/files/2015/07/JGI-logo.png) [![JCVI](http://press3.mcs.anl.gov/gensc/files/2015/07/JCVI.jpg)](http://press3.mcs.anl.gov/gensc/files/2015/07/JCVI.jpg) [![Argonne_logo](http://press3.mcs.anl.gov/gensc/files/2015/07/Argonne_logo.jpg)](http://press3.mcs.anl.gov/gensc/files/2015/07/Argonne_logo.jpg)
+## Prior Meeting Sponsorships
+454 Life Sciences, Beijing Genomics Institute [(BGI)](https://www.bgi.com/global/home), [Biomatters](https://www.geneious.com/about/), CLCbio, [Digibio](https://digibio.org), [EdgeBio](https://www.edgebio.com), [Eppendorf](https://www.eppendorf.com/US-en/),   LifeTechnologies, LuxBio.
 
-The GSC acknowledges the support of the following institutions and companies which have hosted and or supported GSC events: NIeES [(GSC 1 and 3)](http://wiki.gensc.org/index.php?title=GSC_Meetings), the European Bioinformatics Institute [(GSC 2, 4, 5, 6)](http://wiki.gensc.org/index.php?title=GSC_Meetings), UCSD ([GSC 7](http://wiki.gensc.org/index.php?title=GSC_Meetings)), DOE Joint Genome Institute (JGI) ([GSC 8](http://wiki.gensc.org/index.php?title=GSC_Meetings#GSC_8_DOE_JGI.2C_Sept_9-11.2C_2009.2C_Walnut_Creek_CA.2C_USA "GSC 8")), J. Craig Venter Institute (JCVI) ([GSC 9](http://wiki.gensc.org/index.php?title=GSC_9 "GSC 9")) and Argonne National Laboratory (ANL) ([GSC 10](http://wiki.gensc.org/index.php?title=GSC_10 "GSC 10")).The GSC also acknowledges the generous support of the sponsors of [GSC 9](http://wiki.gensc.org/index.php?title=GSC_9 "GSC 9") and [GSC 10](http://wiki.gensc.org/index.php?title=GSC_10 "GSC 10").
 
-[![Illumina](http://press3.mcs.anl.gov/gensc/files/2015/07/Illumina.jpg)](http://press3.mcs.anl.gov/gensc/files/2015/07/Illumina.jpg) [![Clcbio](http://press3.mcs.anl.gov/gensc/files/2015/07/Clcbio.jpg)](http://press3.mcs.anl.gov/gensc/files/2015/07/Clcbio.jpg) [![LifeTechnologies](http://press3.mcs.anl.gov/gensc/files/2015/07/LifeTechnologies.jpg)](http://press3.mcs.anl.gov/gensc/files/2015/07/LifeTechnologies.jpg) [![LuxBio](http://press3.mcs.anl.gov/gensc/files/2015/07/LuxBio.jpg)](http://press3.mcs.anl.gov/gensc/files/2015/07/LuxBio.jpg) [![EdgeBio_small](http://press3.mcs.anl.gov/gensc/files/2015/07/EdgeBio_small.jpg)](http://press3.mcs.anl.gov/gensc/files/2015/07/EdgeBio_small.jpg) [![454-small](http://press3.mcs.anl.gov/gensc/files/2015/07/454-small.jpg)](http://press3.mcs.anl.gov/gensc/files/2015/07/454-small.jpg) [![Digibio](http://press3.mcs.anl.gov/gensc/files/2015/07/Digibio.png)](http://press3.mcs.anl.gov/gensc/files/2015/07/Digibio.png) [![BGI](http://press3.mcs.anl.gov/gensc/files/2015/07/BGI.jpg)](http://press3.mcs.anl.gov/gensc/files/2015/07/BGI.jpg)
 
-The GSC also acknowledges the generous support of the sponsors of [GSC 9](http://wiki.gensc.org/index.php?title=GSC_9 "GSC 9") and [GSC 10](http://wiki.gensc.org/index.php?title=GSC_10 "GSC 10").
+## GSC Meeting Hosts
+The GSC acknowledges the support of the following institutions and companies which have hosted and or supported GSC events:
+[GSC Meetings](https://www.gensc.org/pages/meetings.html) : 
+NIeES at the University of Cambridge, UK (GSC 1 and 3), the European Bioinformatics Institute, Hinxton, UK (GSC 2, 4, 5, 6), UCSD (GSC 7), DOE Joint Genome Institute (JGI) (GSC 8, GSC17), J. Craig Venter Institute (JCVI) (GSC 9) and Argonne National Laboratory (ANL) (GSC 10), The Wellcome Trust Genome Campus, Hinxton UK (GSC11), Max Planck Institute Bremen, Germany (GSC12), BGI Shenzen, China (GSC13), Oxford University (GSC14, GSC16), the National Institute of Health, (NIH), Bethesda, MD (GSC15), Hellenic Center for Marine Research, Crete, Greece (GSC18), University of Queensland, Australian Centre for Ecogenomics (GSC19), University of California San Diego, Center for Microbiome Innovation (GSC20), University of Vienna, Austria (GSC21), Berkeley University's Gump Research Station and CRIOBE - Center for Insular Research and Observatory of the Environment, Moorea, French Polynesia (GSC22).  
+
+
+
