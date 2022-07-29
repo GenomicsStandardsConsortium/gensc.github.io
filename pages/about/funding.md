@@ -14,6 +14,7 @@ The GSC has an annual sponsorship opportunities. There are three levels of spons
 
 ## Corportate Sponsors 
 The GSC thanks and acknowledges the support of our corporate partners. 
+
 **GSC22 (2022) Meeting Sponsors:**  
 Pineapple Platinum Sponsors: [GenapSys](https://genapsys.com), [Illumina](https://www.illumina.com), [Innovaprep](https://www.innovaprep.com), [Zymo Research](https://www.zymoresearch.com)
 GOLD Sponsors: [New England BioLabs](https://www.neb.com), [PacBio](https://www.pacb.com)
@@ -34,7 +35,10 @@ GOLD Sponsors: [Universitat Wien - Computational Life Sciences](https://lifescie
 Titanium Sponsors: [PHASE Genomics](https://phasegenomics.com)
 Bronze Sponsor: International Society for Microbial Ecology [ISME](https://www.isme-microbes.org) 
 
-
+<a href="https://lifesciences.univie.ac.at/research/key-research-areas/computational-life-sciences/" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/wien_uni_logo.png" alt="Universitat Wien - Computational Life Sciences logo" width="80" height="80" /></a>
+<a href="https://www.qiagen.com/" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_QLogo_30mm_RGB_regist.jpg" alt="QIAGEN logo" width="80" height="80" /></a>
+<a href="https://phasegenomics.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/phase-genomics-nav-logo.png" alt="PHASE Genomics logo" width="80" height="80" /></a>
+<a href="https://www.isme-microbes.org" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/ISME-Logo-Online-GreenBlack.png" alt="ISME logo" width="80" height="80" /></a>
 
 **GSC20 Meeting Sponsors**
 Platinum Sponsor: [Zymo Research](https://www.zymoresearch.com)
