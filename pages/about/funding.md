@@ -52,10 +52,12 @@ Silver Sponsor: [Illumina](https://www.illumina.com)
 - 454 Life Sciences
 - [(BGI)](https://www.bgi.com/global/home)
 - [Biomatters](https://www.geneious.com/about/)
-- CLCbio, [Digibio](https://digibio.org)
+- CLCbio 
+- [Digibio](https://digibio.org)
 - [EdgeBio](https://www.edgebio.com)
 - [Eppendorf](https://www.eppendorf.com/US-en/)
-- LifeTechnologies, LuxBio.
+- LifeTechnologies
+- LuxBio
 
 
 
