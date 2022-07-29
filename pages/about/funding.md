@@ -10,7 +10,7 @@ The GSC was launched in 2005 with funding from NIEeS and a NERC International Op
 
 ## GSC Sponsorship
 
-The GSC has an annual sponsorship opportunities. There are three levels of sponsorship – Platinum, Gold and Silver, each with specific benefits for the sponsor. Please contact us for more information.
+The GSC has an annual sponsorship opportunities. There are three levels of sponsorship – Platinum, Gold and Silver, each with specific benefits for the sponsor. **Please [contact us](https://www.gensc.org/pages/contact.html) for more information.**
 
 ## Corportate Sponsors 
 The GSC thanks and acknowledges the support of our corporate partners. 
@@ -33,6 +33,8 @@ Silver Sponsor: [QIAGEN](https://www.qiagen.com/)
 GOLD Sponsors: [Universitat Wien - Computational Life Sciences](https://lifesciences.univie.ac.at/research/key-research-areas/computational-life-sciences/), [QIAGEN](https://www.qiagen.com/)
 Titanium Sponsors: [PHASE Genomics](https://phasegenomics.com)
 Bronze Sponsor: International Society for Microbial Ecology [ISME](https://www.isme-microbes.org) 
+
+
 **GSC20 Meeting Sponsors**
 Platinum Sponsor: [Zymo Research](https://www.zymoresearch.com)
 Silver Sponsor: [Illumina](https://www.illumina.com)
