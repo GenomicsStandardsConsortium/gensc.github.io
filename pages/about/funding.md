@@ -27,34 +27,10 @@ Pineapple Platinum Sponsors: [GenapSys](https://genapsys.com), [Illumina](https:
 GOLD Sponsors: [New England BioLabs](https://www.neb.com), [PacBio](https://www.pacb.com)
 Silver Sponsor: [QIAGEN](https://www.qiagen.com/)
 
-<table>
-<tbody>
-<tr>
-<td>
-<a href="https://genapsys.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_Genapsys_logo_with_TM.png" alt="GenapSys logo" width="80" height="80" /></a>
-</td>
-<td>
-<a href="https://www.illumina.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_Illumina.png" alt="Illumina logo" width="80" height="80" /></a>
-</td>
-<td>
-<a href="https://www.innovaprep.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_innovaprepdLogo.png" alt="Innovaprep logo" width="80" height="80" /></a>
-</td>
-<td>
-<a href="https://www.zymoresearch.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_ZymoResearch.jpg" alt="Zymo Research logo" width="80" height="80" /></a>
-</td>
-</tr>
-<td>
-<a href="https://www.neb.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_NEB.png" alt="New England BioLabs logo" width="80" height="80" /></a>
-</td>
-<td>
-<a href="https://www.pacb.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_logo_pacbio.png" alt="PacBio logo" width="80" height="80" /></a>
-</td>
-<td>
-<a href="https://www.qiagen.com/" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_Qlogo_30mm_RGB_regist.jpg" alt="QIAGEN logo" width="80" height="80" /></a>
-</td>
-</tr>
-</tbody>
-</table>
+
+|<a href="https://genapsys.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_Genapsys_logo_with_TM.png" alt="GenapSys logo" width="80" height="80" /></a>|<a href="https://www.illumina.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_Illumina.png" alt="Illumina logo" width="80" height="80" /></a>|<a href="https://www.innovaprep.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_innovaprepdLogo.png" alt="Innovaprep logo" width="80" height="80" /></a>|<a href="https://www.zymoresearch.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_ZymoResearch.jpg" alt="Zymo Research logo" width="80" height="80" /></a>|
+|<a href="https://www.neb.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_NEB.png" alt="New England BioLabs logo" width="80" height="80" /></a>|<a href="https://www.pacb.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_logo_pacbio.png" alt="PacBio logo" width="80" height="80" /></a>|<a href="https://www.qiagen.com/" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_Qlogo_30mm_RGB_regist.jpg" alt="QIAGEN logo" width="80" height="80" /></a>| |
+
 
 **GSC21 Meeting Sponsors:** 
 GOLD Sponsors: [Universitat Wien - Computational Life Sciences](https://lifesciences.univie.ac.at/research/key-research-areas/computational-life-sciences/), [QIAGEN](https://www.qiagen.com/)
