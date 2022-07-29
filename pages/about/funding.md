@@ -35,21 +35,42 @@ Titanium Sponsors: [PHASE Genomics](https://phasegenomics.com)
 Bronze Sponsor: International Society for Microbial Ecology [ISME](https://www.isme-microbes.org) 
 
 
+
 **GSC20 Meeting Sponsors**
 Platinum Sponsor: [Zymo Research](https://www.zymoresearch.com)
 Silver Sponsor: [Illumina](https://www.illumina.com)
 
+<a href="https://www.illumina.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_Illumina.png" alt="Illumina logo" width="80" height="80" /></a>
+<a href="https://www.zymoresearch.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_ZymoResearch.jpg" alt="Zymo Research logo" width="80" height="80" /></a>
 
 
 ## Prior Meeting Sponsorships
-454 Life Sciences, Beijing Genomics Institute [(BGI)](https://www.bgi.com/global/home), [Biomatters](https://www.geneious.com/about/), CLCbio, [Digibio](https://digibio.org), [EdgeBio](https://www.edgebio.com), [Eppendorf](https://www.eppendorf.com/US-en/),   LifeTechnologies, LuxBio.
+- 454 Life Sciences
+- [(BGI)](https://www.bgi.com/global/home)
+- [Biomatters](https://www.geneious.com/about/)
+- CLCbio, [Digibio](https://digibio.org)
+- [EdgeBio](https://www.edgebio.com)
+- [Eppendorf](https://www.eppendorf.com/US-en/)
+- LifeTechnologies, LuxBio.
 
 
 
 ## GSC Meeting Hosts
-The GSC acknowledges the support of the following institutions and companies which have hosted and or supported GSC events:
-[GSC Meetings](https://www.gensc.org/pages/meetings.html) : 
-NIeES at the University of Cambridge, UK (GSC 1 and 3), the European Bioinformatics Institute, Hinxton, UK (GSC 2, 4, 5, 6), UCSD (GSC 7), DOE Joint Genome Institute (JGI) (GSC 8, GSC17), J. Craig Venter Institute (JCVI) (GSC 9) and Argonne National Laboratory (ANL) (GSC 10), The Wellcome Trust Genome Campus, Hinxton UK (GSC11), Max Planck Institute Bremen, Germany (GSC12), BGI Shenzen, China (GSC13), Oxford University (GSC14, GSC16), the National Institute of Health, (NIH), Bethesda, MD (GSC15), Hellenic Center for Marine Research, Crete, Greece (GSC18), University of Queensland, Australian Centre for Ecogenomics (GSC19), University of California San Diego, Center for Microbiome Innovation (GSC20), University of Vienna, Austria (GSC21), Berkeley University's Gump Research Station and CRIOBE - Center for Insular Research and Observatory of the Environment, Moorea, French Polynesia (GSC22).  
+The GSC acknowledges the support of the following institutions and companies which have hosted and/or supported [GSC Meetings](https://www.gensc.org/pages/meetings.html) : 
+ - NIeES at the University of Cambridge, UK (GSC1 and 3)
+ - European Bioinformatics Institute, Hinxton, UK (GSC2, 4, 5, 6)
+ - UCSD (GSC 7), DOE Joint Genome Institute (JGI) (GSC8, GSC17)
+ - J. Craig Venter Institute (JCVI) (GSC9) 
+ - Argonne National Laboratory (ANL) (GSC10)
+ - Wellcome Trust Genome Campus, Hinxton UK (GSC11) 
+ - Max Planck Institute Bremen, Germany (GSC12)
+ - BGI Shenzen, China (GSC13), Oxford University (GSC14, GSC16)
+ - National Institute of Health, (NIH), Bethesda, MD (GSC15)
+ - Hellenic Center for Marine Research, Crete, Greece (GSC18)
+ - University of Queensland, Australian Centre for Ecogenomics (GSC19)
+ - University of California San Diego, Center for Microbiome Innovation (GSC20)
+ - University of Vienna, Austria (GSC21)
+ - Berkeley University's Gump Research Station and CRIOBE - Center for Insular Research and Observatory of the Environment, Moorea, French Polynesia (GSC22).  
 
 
 
