@@ -7,6 +7,14 @@ While the vast majority of GSC efforts are contributed on a volunteer basis by a
 The GSC also acknowledges a range of funding sources for its past meetings, including NERC (UK National Environment Research Council), NIeES (UK National Institute for Environmental eScience), NSF (US National Science Foundation), and the Gordon and Betty Moore Foundation (GBMF).
 The GSC was launched in 2005 with funding from NIEeS and a NERC International Opportunities Award called “‘_Cataloguing our Complete Genome Collection_” [NE/3521773/1](http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/D521773/1&cookieConsent=A) 2005-2008 and NERC granted further funding to build essential infrastructure [NE/D01252X/1](http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/D01252X/1&cookieConsent=A). Funding from NSF in the form of a Research Co-ordination Network [RCN4GSC](https://pubmed.ncbi.nlm.nih.gov/21304642/) is further supporting knowledge exchange between GSC members and external communities, exchange visits of early career scientists to tackle GSC implementation projects, and helped launch the GSC’s Developer Group and the Biodiversity Working Group. The DOE has also now given funds to support the earliest stages of the development of the vision for the [M5](https://www.gensc.org/pages/projects/m5-project.html) project.
 
+<table>
+<tbody>
+<tr>
+<a href="projects/mixs-gsc-project/"><img style="vertical-align: top" src="../images/MIxSlogo.png" alt="MIxSlogo" width="82" height="83" /></a>
+</tr>
+
+</tbody>
+</table>
 
 ## GSC Sponsorship
 
@@ -18,6 +26,36 @@ The GSC thanks and acknowledges the support of our corporate partners.
 Pineapple Platinum Sponsors: [GenapSys](https://genapsys.com), [Illumina](https://www.illumina.com), [Innovaprep](https://www.innovaprep.com), [Zymo Research](https://www.zymoresearch.com)
 GOLD Sponsors: [New England BioLabs](https://www.neb.com), [PacBio](https://www.pacb.com)
 Silver Sponsor: [QIAGEN](https://www.qiagen.com/)
+
+<table>
+<tbody>
+<tr>
+<td>
+<a href="https://genapsys.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_Genapsys_logo_with_TM.png" alt="GenapSys logo" width="80" height="80" /></a>
+</td>
+<td>
+<a href="https://www.illumina.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_Illumina.png" alt="Illumina logo" width="80" height="80" /></a>
+</td>
+<td>
+<a href="https://www.innovaprep.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_innovaprepdLogo.png" alt="Innovaprep logo" width="80" height="80" /></a>
+</td>
+<td>
+<a href="https://www.zymoresearch.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_ZymoResearch.jpg" alt="Zymo Research logo" width="80" height="80" /></a>
+</td>
+</tr>
+<td>
+<a href="https://www.neb.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_NEB.png" alt="New England BioLabs logo" width="80" height="80" /></a>
+</td>
+<td>
+<a href="https://www.pacb.com" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_logo_pacbio.png" alt="PacBio logo" width="80" height="80" /></a>
+</td>
+<td>
+<a href="https://www.qiagen.com/" target=blank><img style="vertical-align: top" src="../../images/gsc22_sponsor_logos/gsc22_sponsor_Qlogo_30mm_RGB_regist.jpg" alt="QIAGEN logo" width="80" height="80" /></a>
+</td>
+</tr>
+</tbody>
+</table>
+
 **GSC21 Meeting Sponsors:** 
 GOLD Sponsors: [Universitat Wien - Computational Life Sciences](https://lifesciences.univie.ac.at/research/key-research-areas/computational-life-sciences/), [QIAGEN](https://www.qiagen.com/)
 Titanium Sponsors: [PHASE Genomics](https://phasegenomics.com)
