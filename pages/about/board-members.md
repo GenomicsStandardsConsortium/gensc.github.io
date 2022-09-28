@@ -49,23 +49,23 @@ Current Board Members
   </tr>
   <tr>
     <td><img src="../../images/board/Phil_Hugenholtz-400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Pier_Buttigier-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Pier_Buttigieg-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Eloe_Fadrosh-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/philip-hugenholtz-a91b784/" target=_blank>Philip Hugenholtz</a>, The University of Queensland (2015-)</td>
-    <td><a href="https://www.linkedin.com/in/pier-luigi-buttigieg/" target=_blank>Pier Buttigier</a>, MPI for Marine Microbiology, Bremen. (2020-)</td>
+    <td><a href="https://www.linkedin.com/in/pier-luigi-buttigieg/" target=_blank>Pier Buttigieg</a>, MPI for Marine Microbiology, Bremen. (2020-)</td>
     <td><a href="https://www.linkedin.com/in/emiley-eloe-fadrosh-30670996/" target=_blank>Emiley Eloe-Fadrosh</a>, DOE JGI (2018-)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Rob_Finn-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Christopher_Hunter-400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Susanna_Sansone-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Ilene_Mizrachi-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/rob-finn-35a3562/" target=_blank>Rob Finn</a>, EMBL-EBI (2019-)</td>
     <td><a href="https://www.linkedin.com/in/chr1shunter/" target=_blank>Christopher Hunter</a>, GigaScience (2018-)</td>
-    <td><a href="https://www.linkedin.com/in/sasansone/" target=_blank>Susanna Sansone</a>, University of Oxford (2009-)</td>
+    <td><a href="https://www.linkedin.com/in/ilene-mizrachi-a7167717/" target=_blank>Ilene Mizrachi</a>, NCBI/GenBank. (2009-) Secretary (2019-2022)</td></td>
   </tr>
   <tr>
     <td><img src="../../images/board/Alice_McHardy-400x400.jpg" width="200" height="200" /></td>
@@ -78,14 +78,14 @@ Current Board Members
     <td><a href="https://www.linkedin.com/in/joao-carlos-setubal-2015734/" target=_blank>Joao Setubal</a>, University of São Paulo (2022-)</td>
   </tr> 
   <tr>
-    <td><img src="../../images/board/Ilene_Mizrachi-400x400.jpg" width="200" height="200" /></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://www.linkedin.com/in/ilene-mizrachi-a7167717/" target=_blank>Ilene Mizrachi</a>, NCBI/GenBank. (2009-) Secretary (2019-2022)</td>
-    <td></td>
-    <td></td>
+    <td><a href="" target=_blank>TBC</a>, TBC</td>
+    <td><a href="" target=_blank>TBC</a>, TBC</td>
+    <td><a href="" target=_blank>TBC</a>, TBC</td>
   </tr>   
 </table>
 
@@ -106,6 +106,9 @@ Hans-Peter Klenk (May 2016-)
 Frank Oliver Glöckner (August 2017-)
 
 Tanja Woke (May 2018-)
+
+Susanna Sansone (Sept 2022- )
+
 
 Former Board Members
 --------------------
@@ -151,6 +154,9 @@ Dave Ussery, Oak Ridge National Laboratory (April 2009-May 2017)
 Frank Oliver Glöckner (April 2009-August 2017)
 
 Pelin Yilmaz, MPI-Bremen (April 2013-) Secretary (May 2015 -2018)
+
+Susanna Sansone</a>, University of Oxford (2009 - Sept 2022)
+
 
 GSC Board Committees
 --------------------
