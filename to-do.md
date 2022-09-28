@@ -1,6 +1,6 @@
 FYI- CIH made the executive decision that the dinky theme was the nicest of those supported by GitHub, so thats what I chose to use. If a different one is preferred by the majority, then its easy to change in the _config.yml file.
 
-1. I've been having issues with the relative paths of links, some work some dont! - all links need to be checked before site goes live.
+1. [x] I've been having issues with the relative paths of links, some work some dont! - all links need to be checked before site goes live.
 
 2. The News items are too numerous to do manually, I need some help pulling those all into the github repo in markdown format.[#10](https://github.com/GenomicsStandardsConsortium/gensc.github.io/issues/10)
 
