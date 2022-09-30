@@ -97,15 +97,13 @@ Guy Cochrane, EMBL-EBI (May 2019-)
 
 Jack Gilbert (May 2015-)
 
-Peter Sterk (May 2015-)
-
 Owen White (May 2015-)
 
 Hans-Peter Klenk (May 2016-)
 
 Frank Oliver Glöckner (August 2017-)
 
-Tanja Woke (May 2018-)
+Tanja Wolke (May 2018-)
 
 Susanna Sansone (Sept 2022- )
 
@@ -137,7 +135,7 @@ Norman Morrison, University of Manchester (Sept 2011 – April 2014)
 
 Inigo San Gil, LNO (Sept 2010 – April 2014)
 
-Peter Sterk, University of Oxford (April 2009 – May 2015)(Secretary of GSC until May 2015)
+Peter Sterk, University of Oxford (April 2009 – May 2015)(Secretary of GSC until May 2015) (Advisory board 2015-2022)
 
 Owen White, University of Maryland (April 2009 – April 2014)
 
@@ -155,7 +153,7 @@ Frank Oliver Glöckner (April 2009-August 2017)
 
 Pelin Yilmaz, MPI-Bremen (April 2013-) Secretary (May 2015 -2018)
 
-Susanna Sansone</a>, University of Oxford (2009 - Sept 2022)
+Susanna Sansone</a>, University of Oxford (2009 - Sept 2022) (Advisory board 2022 - )
 
 
 GSC Board Committees
