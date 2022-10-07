@@ -1,0 +1,661 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app224.us.archive.org';v.server_ms=342;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="/_static/js/bundle-playback.js?v=U25-Dms9" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://wiki.gensc.org/index.php?title=GSC_18","20190103095703","https://web.archive.org/","web","/_static/",
+	      "1546509423");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=fantwOh2" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="generator" content="MediaWiki 1.21.0rc5"/>
+<link rel="shortcut icon" href="/web/20190103095703im_/http://wiki.gensc.org/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/web/20190103095703/http://wiki.gensc.org/opensearch_desc.php" title="Genomic Standards Consortium wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.gensc.org/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Genomic Standards Consortium wiki Atom feed" href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Special:RecentChanges&amp;feed=atom"/>	<title>GSC 18 - Genomic Standards Consortium wiki</title>
+	<style type="text/css" media="screen,projection">/*<![CDATA[*/ @import "/web/20190103095703cs_/http://wiki.gensc.org/skins/cavendish/main.css"; /*]]>*/</style>
+	<link rel="stylesheet" type="text/css" media="print" href="/web/20190103095703cs_/http://wiki.gensc.org/skins/common/commonPrint.css"/>
+		<script type="text/javascript" src="/web/20190103095703js_/http://wiki.gensc.org/skins/common/wikibits.js"></script>
+			
+
+<link rel="SHORTCUT ICON" href="/web/20190103095703im_/http://wiki.gensc.org/gc_wiki/images/b/b2/Gsc.ico"/>
+
+
+
+<style type="text/css">
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+
+
+.suckertreemenu ul{
+margin: 0;
+
+list-style-type: none;
+}
+
+/*Top level list items*/
+.suckertreemenu ul li {
+position: relative;
+display: inline;
+float: left;
+background-color: #F3F3F3; /*overall menu background color*/
+
+
+}
+
+
+
+
+
+/*Top level menu link items style*/
+.suckertreemenu ul li span{
+display: block;
+
+padding: 1px 8px;
+border: 1px solid slategray;
+
+text-decoration: none;
+color: navy;
+}
+	
+/*1st sub level menu*/
+.suckertreemenu ul li ul{
+
+position: absolute;
+top: 1.5em; /* no need to change, as true value set by script */
+display: block;
+visibility: hidden;
+z-index:10000;
+background-color: whitesmoke; /*Disappearing menu fix-BP */
+border: 1px solid slategray;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.suckertreemenu ul li ul li{
+display: list-item;
+float: none;
+padding:2px;
+margin:0px;
+
+z-index:10001;
+
+}
+
+
+/* Sub level menu links style */
+.suckertreemenu ul li ul li a{
+display: block;
+width: 160px; /*width of sub menu levels*/
+color: navy;
+text-decoration: none;
+//padding: 1px 5px;
+
+}
+
+.suckertreemenu ul li a:hover{
+background-color: slategray;
+color: white;
+
+}
+
+
+
+* html p#iepara{ /*For a paragraph (if any) that immediately follows suckertree menu, add 1em top spacing between the two in IE*/
+padding-top: 1em;
+}
+	
+/* Holly Hack for IE \*/
+* html .suckertreemenu ul li { float: left; height: 1%; }
+* html .suckertreemenu ul li a { height: 1%; }
+/* End */
+
+
+
+
+
+</style>
+
+<script type="text/javascript">
+
+//SuckerTree Horizontal Menu (Sept 14th, 06)
+//By Dynamic Drive: http://www.dynamicdrive.com/style/
+
+var menuids=["treemenu1"] //Enter id(s) of SuckerTree UL menus, separated by commas
+
+function buildsubmenus_horizontal(){
+for (var i=0; i<menuids.length; i++){
+  var ultags=document.getElementById(menuids[i]).getElementsByTagName("ul")
+    for (var t=0; t<ultags.length; t++){
+		if (ultags[t].parentNode.parentNode.id==menuids[i]){ //if this is a first level submenu
+// ultags[t].style.top=ultags[t].parentNode.offsetHeight+"px" //dynamically position first level submenus to be height of main menu item
+			
+		}
+		else{ //else if this is a sub level menu (ul)
+	//	  ultags[t].style.left=ultags[t-1].getElementsByTagName("a")[0].offsetWidth+"px" //position menu to the right of menu item that activated it
+    	
+		}
+    ultags[t].parentNode.onmouseover=function(){
+    this.getElementsByTagName("ul")[0].style.visibility="visible"
+    }
+    ultags[t].parentNode.onmouseout=function(){
+    this.getElementsByTagName("ul")[0].style.visibility="hidden"
+    }
+    }
+  }
+}
+
+if (window.addEventListener)
+window.addEventListener("load", buildsubmenus_horizontal, false)
+else if (window.attachEvent)
+window.attachEvent("onload", buildsubmenus_horizontal)
+
+</script>
+
+</head>
+
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+</style>
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20190103095703/http%3A//wiki.gensc.org/index.php%3Ftitle%3DGSC_18"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://wiki.gensc.org/index.php?title=GSC_18" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20190103095703" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+		<div class="s" id="wm-nav-captures" style="flex:1;">
+	  	  <a class="t" href="/web/20190103095703*/http://wiki.gensc.org/index.php?title=GSC_18" title="See a list of every capture for this URL">3 captures</a>
+	  <div class="r" title="Timespan for captures of this URL">19 Sep 2017 - 21 Jan 2022</div>
+	  </div>
+	<div class="k">
+	  <a href="" id="wm-graph-anchor">
+	    <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+	      <canvas id="wm-sparkline-canvas" width="675" height="27" border="0"></canvas>
+	    </div>
+	  </a>
+	</div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+	<tbody>
+	  <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+	  <tr class="m">
+	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20170919191502/http://wiki.gensc.org/index.php?title=GSC_18" title="19 Sep 2017"><strong>Sep</strong></a></td>
+	    <td class="c" id="displayMonthEl" title="You are here: 09:57:03 Jan 03, 2019">JAN</td>
+	    <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20220121233232/http://wiki.gensc.org/index.php?title=GSC_18" title="21 Jan 2022"><strong>Jan</strong></a></td>
+	  </tr>
+	  <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+	  <tr class="d">
+	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20170919191502/http://wiki.gensc.org/index.php?title=GSC_18" title="19:15:02 Sep 19, 2017"><img src="/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+	    <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 09:57:03 Jan 03, 2019">03</td>
+	    <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20220121233232/http://wiki.gensc.org/index.php?title=GSC_18" title="23:32:32 Jan 21, 2022"><img src="/_static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+	  </tr>
+	  <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+	  <tr class="y">
+	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20170919191502/http://wiki.gensc.org/index.php?title=GSC_18" title="19 Sep 2017"><strong>2017</strong></a></td>
+	    <td class="c" id="displayYearEl" title="You are here: 09:57:03 Jan 03, 2019">2019</td>
+	    <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20220121233232/http://wiki.gensc.org/index.php?title=GSC_18" title="21 Jan 2022"><strong>2022</strong></a></td>
+	  </tr>
+	</tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+        	<span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#"
+	     title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+	</span>
+        	<a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20190103095703/http://web.archive.org/screenshot/http://wiki.gensc.org/index.php?title=GSC_18"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+	<a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20190103095703/http://wiki.gensc.org/index.php?title=GSC_18" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20190103095703/http://wiki.gensc.org/index.php?title=GSC_18" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+	<a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+                    <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/NO404);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/NO404" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+<br><br>
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+<br><br>
+The goal is to <a href="https://blog.archive.org/2013/10/25/fixing-broken-links/">fix all broken links on the web</a>. 
+
+Crawls of supported "No More 404" sites.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/NO404-GDELT)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/NO404-GDELT" target="_new"><span class="wm-title">GDELT</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  A daily crawl of more than 200,000 home pages of news sites, including the pages linked from those home pages. Site list provided by <a href="http://gdeltproject.org/about.html">The GDELT Project</a>
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20190103095703/http://wiki.gensc.org/index.php?title=GSC_18</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(675,27,25,2,"web","http://wiki.gensc.org/index.php?title=GSC_18","20190103095703",1996,"/_static/",["/_static/css/banner-styles.css?v=fantwOh2","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<div id="internal"></div>
+<div id="container">
+
+	<div><div style="background-color:white;color:silver;font-weight:bold;font-size:20px;font-style:italic">towards a richer set of information to describe our complete genome collection</div></div>
+
+		<div id="header">
+		<a name="top" id="contentTop"></a>
+		<h1><a href="https://web.archive.org/web/20190103095703/http://gensc.org/" title="Main Page">GSC 18</a></h1>
+		<ul>
+		   	<li class="selected"><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=GSC_18">Page</a></li><li class="new"><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Talk:GSC_18&amp;action=edit&amp;redlink=1">Discussion</a></li><li><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=GSC_18&amp;action=edit">View source</a></li><li><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=GSC_18&amp;action=history">History</a></li>		</ul>
+		<form name="searchform" action="/web/20190103095703/http://wiki.gensc.org/index.php?title=Special:Search" id="search">
+			<div>
+			<label for="q">Search</label>
+			<input id="q" name="search" type="text" accesskey="f" value=""/>
+			<input type="submit" name="go" class="searchButton" id="searchGoButton" value="Go"/>&nbsp;<input type="submit" name="fulltext" class="searchButton" value="Search"/>
+	       </div>
+		</form>
+	</div>
+
+	<div id="mBody">
+	
+		<div id="side">
+
+<div class="suckertreemenu">
+<ul id="treemenu1">
+<li><span>About the GSC</span>
+<ul>
+							<li id="n-GSC-Home"><a href="https://web.archive.org/web/20190103095703/http://gensc.org/">GSC Home</a></li>
+									</ul>
+					</li>
+				<li><span>Projects</span>
+<ul>
+							<li id="n-Projects-Overview"><a href="https://web.archive.org/web/20190103095703/http://gensc.org/projects/">Projects Overview</a></li>
+									</ul>
+					</li>
+				<li><span>Resources</span>
+<ul>
+							<li id="n-Mailing-lists"><a href="https://web.archive.org/web/20190103095703/http://lists.gensc.org/">Mailing lists</a></li>
+										<li id="n-MIxS-Issue-Tracker"><a href="https://web.archive.org/web/20190103095703/http://mixs.gensc.org/">MIxS Issue Tracker</a></li>
+									</ul>
+					</li>
+				<li><span>Wiki Pages</span>
+<ul>
+							<li id="n-mainpage"><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Main_Page">Main Page</a></li>
+										<li id="n-recentchanges"><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Special:RecentChanges">Recent changes</a></li>
+										<li id="n-Upload-a-file"><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Special:Upload">Upload a file</a></li>
+										<li id="n-Popular-pages"><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Special:PopularPages">Popular pages</a></li>
+										<li id="n-Page-list"><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Special:AllPages">Page list</a></li>
+									</ul>
+					</li>
+								<li><span>Toolbox</span>
+					<ul>
+					  					  <li id="t-whatlinkshere"><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Special:WhatLinksHere/GSC_18">What links here</a></li>
+					  					  <li id="t-recentchangeslinked"><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Special:RecentChangesLinked/GSC_18">Related changes</a></li>
+					  				      				      				      				      				      				      				      				      				      <li id="t-specialpages"><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Special:SpecialPages">Special pages</a></li>				      					</ul>
+				</li>
+				
+<li><span>Personal tools</span>
+					<ul>
+					<li id="pt-login"><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Special:UserLogin&amp;returnto=GSC+18">Log in / create account</a></li>					</ul>
+				</li>
+
+			</ul>
+</div>
+
+
+
+
+		</div><!-- end of SIDE div -->
+		
+		<div id="mainContent">
+			
+			<h1>GSC 18</h1>
+			<h3 id="siteSub">From Genomic Standards Consortium wiki</h3>
+			<div id="contentSub"></div>
+									<!-- start content -->
+			<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table>
+<tr><td><center><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=File:GSCMeeting-grey-tiny.png" class="image"><img alt="GSCMeeting-grey-tiny.png" src="/web/20190103095703im_/http://wiki.gensc.org/images/b/b5/GSCMeeting-grey-tiny.png" width="119" height="122"/></a></center></td>
+<td><center><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Main_Page" title="Main Page">Main Page</a>-&gt;<a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=GSC_Meetings" title="GSC Meetings">GSC Meetings</a>-&gt;<strong class="selflink">GSC 18</strong>
+<p><b>The 18th Genomic Standards Consortium meeting</b>
+<br/>
+<b>Date: 12-15 June 2016. Location: Crete Hellenic Center for Marine Research</b>
+</p>
+</center></td><td></td><td></td>
+<td align="right">
+</tr></table>
+<hr/>
+<hr/>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>On this page:</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_GSC_18_Workshop"><span class="tocnumber">1</span> <span class="toctext">The GSC 18 Workshop</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Satellite_Workshop"><span class="tocnumber">2</span> <span class="toctext">Satellite Workshop</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#GSC_18_Sessions"><span class="tocnumber">3</span> <span class="toctext">GSC 18 Sessions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Session_Topics"><span class="tocnumber">3.1</span> <span class="toctext">Session Topics</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Keynote_Speakers"><span class="tocnumber">3.2</span> <span class="toctext">Keynote Speakers</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Confirmed_Speakers"><span class="tocnumber">3.3</span> <span class="toctext">Confirmed Speakers</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Agenda"><span class="tocnumber">3.4</span> <span class="toctext">Agenda</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Logistics"><span class="tocnumber">4</span> <span class="toctext">Logistics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Venue"><span class="tocnumber">4.1</span> <span class="toctext">Venue</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Registration"><span class="tocnumber">4.2</span> <span class="toctext">Registration</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Accommodation"><span class="tocnumber">4.3</span> <span class="toctext">Accommodation</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Air_Travel_and_Ground_Transportation"><span class="tocnumber">4.4</span> <span class="toctext">Air Travel and Ground Transportation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Airports"><span class="tocnumber">4.4.1</span> <span class="toctext">Airports</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Bus"><span class="tocnumber">4.4.2</span> <span class="toctext">Bus</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Taxi_from_Heraklion_Airport_to_HCMR"><span class="tocnumber">4.4.3</span> <span class="toctext">Taxi from Heraklion Airport to HCMR</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Taxi_from_HCMR_to_Heraklion_Airport"><span class="tocnumber">4.4.4</span> <span class="toctext">Taxi from HCMR to Heraklion Airport</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#Internet_Connection"><span class="tocnumber">4.5</span> <span class="toctext">Internet Connection</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Meals"><span class="tocnumber">4.6</span> <span class="toctext">Meals</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Visa"><span class="tocnumber">4.7</span> <span class="toctext">Visa</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Currency_and_Credit_Cards"><span class="tocnumber">4.8</span> <span class="toctext">Currency and Credit Cards</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="The_GSC_18_Workshop">The GSC 18 Workshop</span></h2>
+<center><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=File:GSC18_group_photo.jpg" class="image"><img alt="GSC18 group photo.jpg" src="/web/20190103095703im_/http://wiki.gensc.org/images/thumb/a/ab/GSC18_group_photo.jpg/850px-GSC18_group_photo.jpg" width="850" height="433" srcset="/web/20190103095703im_/http://wiki.gensc.org/images/thumb/a/ab/GSC18_group_photo.jpg/1275px-GSC18_group_photo.jpg 1.5x, /web/20190103095703im_/http://wiki.gensc.org/images/thumb/a/ab/GSC18_group_photo.jpg/1700px-GSC18_group_photo.jpg 2x"/></a></center>
+<p><b>The 18th Workshop of the Genomic Standards Consortium <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://gensc.org/">(GSC)</a></b>
+</p><p><b>Dates:</b>  June 12-15, 2016
+</p><p><b>GSC Organizers:</b> Lynn Schriml, Georgios Kotoulas, Nikos Kyrpides, Frank-Oliver Gloeckner, Folker Meyer, Pelin Yilmaz
+</p><p><b>Local Organizers:</b>  Evangelos Pafilis, Melina Stavroulaki, Georgios Kotoulas, Antonios Magoulas
+</p><p><b>Theme:</b>  Coordinating Metadata Standards and “putting the standards into action”
+</p><p>GSC18 Talks are available via hyperlinks in the interactive <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/https://docs.google.com/document/d/1QZEe20ut8D02zzlx9D5hWmHVqXPp_bEeDMN-nvH6b2c/edit">Agenda</a>
+</p>
+<center><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=File:Gsc18_announcement_3.png" class="image"><img alt="Gsc18 announcement 3.png" src="/web/20190103095703im_/http://wiki.gensc.org/images/thumb/6/6b/Gsc18_announcement_3.png/850px-Gsc18_announcement_3.png" width="850" height="637" srcset="/web/20190103095703im_/http://wiki.gensc.org/images/thumb/6/6b/Gsc18_announcement_3.png/1275px-Gsc18_announcement_3.png 1.5x, /web/20190103095703im_/http://wiki.gensc.org/images/thumb/6/6b/Gsc18_announcement_3.png/1700px-Gsc18_announcement_3.png 2x"/></a></center>
+<h2> <span class="mw-headline" id="Satellite_Workshop">Satellite Workshop</span></h2>
+<p>GSC-18 Sampling Day: Crete Island  Sampling Day 
+Please see the <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://wiki.gensc.org/index.php?title=GSC_island_sampling_day">GSC Island Sampling Day page</a> for further details.
+</p>
+<h2> <span class="mw-headline" id="GSC_18_Sessions">GSC 18 Sessions</span></h2>
+<p>GSC 18 will include 9 sessions. Each session will have a working group which would meet during the workshop and the chair of each session will summarise the conclusions of the working group during the workshop. Workshop participants are encouraged to sign their names on the sessions they are interested in participating in the <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/https://docs.google.com/spreadsheets/d/1F8iMnScrIKbWOn4hehzx3sY_A7V4RqG_-JDDjMng8j0">GSC 18 Sessions Sign-Up sheet</a>
+</p>
+<h3> <span class="mw-headline" id="Session_Topics">Session Topics</span></h3>
+<ul><li> Standards: Global to Local
+</li><li> Pathogen, Plant, UNEP standards
+</li><li> Air, Sea and Soil Monitoring Projects
+</li><li> Microbial Ecology of Greece
+</li><li> Marine Biodiversity, Ocean Sampling
+</li><li> Subway, Soil Microbiomes 
+</li><li> Nagoya Protocol, Ethics, and Standards
+</li><li> Outreach and Education
+</li></ul>
+<h3> <span class="mw-headline" id="Keynote_Speakers">Keynote Speakers</span></h3>
+<ul><li> Arianna Broggiato: TThe Nagoya Protocol: sampling and research in compliance with new legislations - what scientists have to do
+</li><li> Sumir Panji: Standards Initiatives in H3ABioNet
+</li><li> Phil Hugenholtz: Genomic Taxonomy, from Genus to Domain.
+</li><li> Christos Ouzounis: Microbial Ecology in Greece and Bioinformatics 
+</li><li> Daniele Daffonchio: Ecology of microbial hydrocarbon degraders in the  oceans
+</li></ul>
+<h3> <span class="mw-headline" id="Confirmed_Speakers">Confirmed Speakers</span></h3>
+<ul><li> Pier Buttigieg, AWI, DE
+</li><li> Chelsea Carey, UCR, US
+</li><li> Simon Claus, VLIZ, BE
+</li><li> Guy Cochrane, EBI, UK
+</li><li> Jim Cole, MSU, US
+</li><li> Neil Davies, UCB, US
+</li><li> Danilo Ercolini, Uni Naples, IT
+</li><li> Antonio Fernandez-Guerra, MM-MPI, DE
+</li><li> Rob Finn, EBI, UK
+</li><li> Folker Meyer, ANL, US
+</li><li> George Garrity, SIGS, US
+</li><li> Panagiotis Gkorezis, UHASSELT, BE 
+</li><li> Frank Oliver Glöckner, MM-MPI, DE
+</li><li> Phillip Goldstein, Uni Colorado, US
+</li><li> Pantelis Katharios, HCMR, GR
+</li><li> Wiebe Kooistra, SZN, IT
+</li><li> Georgios Kotoulas, HCMR, GR
+</li><li> Renzo Kottmann, MM-MPI, DE
+</li><li> Nikos Kyrpides, JGI, US
+</li><li> Manolis Ladoukakis, Uni Crete, GR
+</li><li> Manolis Mandalakis, HCMR, GR
+</li><li> Dimitra Manou, AUTH, GR
+</li><li> Ilene Mizrachi, NCBI, US
+</li><li> Claire Nedellec, INRA, FR
+</li><li> Nikolaos Nikolaidis, TUC, GR
+</li><li> Anastasis Oulas, HCMR, GR
+</li><li> Evangelos Pafilis, HCMR, GR
+</li><li> Donovan Parks, ACE, AU
+</li><li> Pavlos Pavlidis, ICS FORTH, GR
+</li><li> Lynn Schriml, UMB, US
+</li><li> Petra ten Hoopen, EBI, UK
+</li><li> Scott Tighe, Uni Vermont, US
+</li><li> Nicolas Tsesmetzis, Shell, UK
+</li><li> Georgios Tsiamis, Uni Patras, GR
+</li><li> Pelin Yilmaz, MM-MPI, DE
+</li></ul>
+<h3> <span class="mw-headline" id="Agenda">Agenda</span></h3>
+<p>The detailed GSC-18 agenda workshop can be found <a href="/web/20190103095703/http://wiki.gensc.org/images/d/d8/GSC18_agenda.pdf" class="internal" title="GSC18 agenda.pdf">here</a> (<a href="/web/20190103095703/http://wiki.gensc.org/images/d/d8/GSC18_agenda.pdf" class="internal" title="GSC18 agenda.pdf">Media:GSC18_agenda.pdf</a>)
+<br/>
+A single page schedule overview is also available <a href="/web/20190103095703/http://wiki.gensc.org/images/1/15/GSC18_agenda_overview.pdf" class="internal" title="GSC18 agenda overview.pdf">here</a> (<a href="/web/20190103095703/http://wiki.gensc.org/images/1/15/GSC18_agenda_overview.pdf" class="internal" title="GSC18 agenda overview.pdf">Media:GSC18_agenda_overview.pdf</a>)
+</p>
+<h2> <span class="mw-headline" id="Logistics">Logistics</span></h2>
+<h3> <span class="mw-headline" id="Venue"> Venue </span></h3>
+<p>The <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.imbbc.hcmr.gr/">Institute of Marine Biology Biotechnolocy and Aquaculture</a> (<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.imbbc.hcmr.gr/">IMBBC</a>) is based on the premises of the <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.hcmr.gr/">Hellenic Center for Marine Research</a> in Crete, Greece. It located 200m from the sea, and 15km away from  Heraklion’s <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.heraklion-airport.info/">“Kazantakis” Interanational Airport</a>, right next to the <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.cretaquarium.gr/en">CretAquarium</a>.
+</p>
+<center><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=File:Hcmr_crete.jpg" class="image"><img alt="Hcmr crete.jpg" src="/web/20190103095703im_/http://wiki.gensc.org/images/thumb/c/c9/Hcmr_crete.jpg/700px-Hcmr_crete.jpg" width="700" height="168" srcset="/web/20190103095703im_/http://wiki.gensc.org/images/thumb/c/c9/Hcmr_crete.jpg/1050px-Hcmr_crete.jpg 1.5x, /web/20190103095703im_/http://wiki.gensc.org/images/thumb/c/c9/Hcmr_crete.jpg/1400px-Hcmr_crete.jpg 2x"/></a></center>
+<p>For more information please view this <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/https://www.google.com/maps/d/edit?mid=z-0rWRR52RM8.k0eMXKadOw1E">HCMR Area Google map</a>.
+</p>
+<h3> <span class="mw-headline" id="Registration">Registration</span></h3>
+<p>To register online please visit the <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/https://www.regonline.com/builder/site/?eventid=1804035">GSC18 registration web site</a>. 
+</p><p>The <b>early</b> registration fee is <b>350 USD</b> (deadline: <b>15th April 2016</b>),<br/>
+the <b>late</b> registration fee is <b>500 USD</b>.
+</p><p><b>Note</b>: Registration will close on <b>May 1st 2016</b>
+</p><p>An <b>early</b> registration fee of <b>100 USD</b> for <b>local</b> participants (Crete residents) applies <br/> (deadline: 15th April 2016). The <b>late</b> registration fee (16th April to 1st  May) for local participants is <b>350 USD</b>.<br/>
+<b>Note</b>:  a discount code is required upon the registration of local participants,<br/> 
+please contact pafilis_at_hcmr.gr to this end.<br/>
+</p>
+<h3> <span class="mw-headline" id="Accommodation">Accommodation</span></h3>
+<p>A bulk booking has been made at the <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.astirbeach.gr/en/index.html">Astir Beach Hotel</a> (1.6km/1mi away), please quote <b>HCMRGSC18</b> for a price offer of 50 Euros/night (single room with breakfast) or 60 Euros/night (double room with breakfast) (<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/https://www.google.com/maps/d/edit?mid=z-0rWRR52RM8.k0eMXKadOw1E">map</a>). The offer applies to bookings made by <b>15th  April 2016</b>. A direct link to the hotel's reservation form is available <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.astirbeach.gr/en/reservation.html">here</a>. An offer of is also available.
+</p><p><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.klioapartments.gr/">Klio Apartments</a>, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.yourmemorieshotel.com/">Best Western 'Your Memories' Hotel</a>, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.krikriapts.com/">Kri Kri Village Holiday Apartments</a>, and
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.goldenbay.gr/">Golden Bay Hotel</a> are also within walking distance from HCMR.
+</p><p><b>Map</b>: All the above are shown in the <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/https://www.google.com/maps/d/edit?mid=z-0rWRR52RM8.k0eMXKadOw1E">HCMR Area, Hotels, Restaurants and Means of Transport Google Map</a>
+</p>
+<h3> <span class="mw-headline" id="Air_Travel_and_Ground_Transportation">Air Travel and Ground Transportation</span></h3>
+<h4> <span class="mw-headline" id="Airports">Airports</span></h4>
+<ul><li> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.aia.gr/traveler/Athens">International Airport “Eleftherios Venizelos”</a> (ATH)
+</li><li> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.heraklion-airport.info/">Heraklion Airport “Nikos Kazantzakis”</a> (HER)
+<ul><li>information on direct flights to Heraklion Airport is available at: <a rel="nofollow" class="external free" href="https://web.archive.org/web/20190103095703/http://info.flightmapper.net/airport/HER">http://info.flightmapper.net/airport/HER</a>  
+</li></ul>
+</li><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.chania-airport.com/">Chania Crete International airport “Ioannis Daskalogiannis”</a> (CHQ) (RyanAir flights possible, NB: 165 km, away, it might be worth considering hiring a car, as public transport is not convenient. Cars can be booked online and picked-up at the airport.
+<ul><li> To search for direct flights see: <a rel="nofollow" class="external free" href="https://web.archive.org/web/20190103095703/http://info.flightmapper.net/airport/CHQ">http://info.flightmapper.net/airport/CHQ</a>
+</li></ul>
+</li><li> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/https://www.google.com/flights/">Google flights</a>: please search using the previously mentioned three-letter airport codes: ATH, HER, CHQ
+</li></ul>
+<h4> <span class="mw-headline" id="Bus">Bus</span></h4>
+<p>Long distance buses operate regularly (ie every 30 minutes to 1 hour) on the route between Heraklion and HCMR. A bus stop to HCMR is situated on the south-west side of the airport.
+For more information please see the <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/https://www.google.com/maps/d/edit?mid=z-0rWRR52RM8.k0eMXKadOw1E">HCMR Area, Hotels, Restaurants and Means of Transport Google Map</a> and the bus timetable from <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.ktelherlas.gr/userfiles/file/malia041115.pdf">Heraklion to Agios Nikolaos and back</a>. The bus company web site is available <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/http://www.ktelherlas.gr/?lang=en">here</a>.
+</p>
+<h4> <span class="mw-headline" id="Taxi_from_Heraklion_Airport_to_HCMR">Taxi from Heraklion Airport to HCMR</span></h4>
+<p>There are always many taxis at the airport. Alternatively, you can book a taxi online at <a rel="nofollow" class="external free" href="https://web.archive.org/web/20190103095703/http://www.taxi-crete.gr/book-taxi-crete">http://www.taxi-crete.gr/book-taxi-crete</a> (contact tel.: +30 6937 333 730). When making your booking, you must mention the phrase "ELKETHE - HCMR" (our research center) and your destination (e.g. Hotel Astir). This will get you a special discount fare of 25 euros from the airport to the ΗCMR or the Hotel (including taxes and airport &amp; luggage charges). After filling in the online form, you should receive a confirmation e-mail within 2-10 hours, with all required information. All taxi-cars are Mercedes with English-speaking drivers.
+</p>
+<h4> <span class="mw-headline" id="Taxi_from_HCMR_to_Heraklion_Airport">Taxi from HCMR to Heraklion Airport</span></h4>
+<p>A taxi stand is situated right outside HCMR. In addition to <a rel="nofollow" class="external free" href="https://web.archive.org/web/20190103095703/http://www.taxi-crete.gr/">http://www.taxi-crete.gr</a> (+30 6937 33 3730 )  described above, Mr Vangelis Kalikakis can also be contacted at (+30 6980 82 3019, +30 6945 68 1694) and a local taxi company +30  28970 41343. The waiting period in front of the HCMR main entrance is 10 to 15 minutes and rides to Heraklion can cost around 25 to 30 Euros.
+</p>
+<h3> <span class="mw-headline" id="Internet_Connection">Internet Connection</span></h3>
+<p>Wireless internet access is available at the congress venue. Please ask for a password at the registration desk/secretariat.
+</p>
+<h3> <span class="mw-headline" id="Meals">Meals</span></h3>
+<p>Meals and light snacks/coffee breaks will be provided on-site (HCMR and CretAquarium buildings). For other restaurants in the area please visit the:  <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103095703/https://www.google.com/maps/d/edit?mid=z-0rWRR52RM8.k0eMXKadOw1E">HCMR Area, Hotels, Restaurants and Means of Transport Google Map</a>. A reception and a workshop dinner will be provided.
+</p>
+<h3> <span class="mw-headline" id="Visa">Visa</span></h3>
+<p>A complete listing of a countries requiring a visa is available at the Greek Ministry of Affairs.
+Standard visa requirements for visiting a Schengen (EU except UK) country apply. You may be exempt from the airport transit visa requirement, if you:
+</p>
+<ul><li>hold a valid or residence permit issued by a Schengen state; 
+</li><li>hold a visa valid for a Member State of the European Union or the European Economic Area, Canada, Japan or the United States&#160;;
+</li><li>hold a valid residence permit issued by a Member State of the European Union or the European Economic Area&#160;;
+</li><li>hold a residence permit issued by the Principality of Andorra, Canada, Japan, Republic of San Marino, or the United States, that guarantees unrestricted right of return;
+</li><li>are a family member of a citizen of the EU, EEA or Switzerland&#160;;
+</li><li>hold a diplomatic passport
+</li></ul>
+<p>For more information please please see the source web page:
+<a rel="nofollow" class="external free" href="https://web.archive.org/web/20190103095703/http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/visa-policy/apply_for_a_visa/index_en.htm">http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/visa-policy/apply_for_a_visa/index_en.htm</a>
+<a rel="nofollow" class="external free" href="https://web.archive.org/web/20190103095703/http://www.mfa.gr/en/visas/visas-for-foreigners-traveling-to-greece/">http://www.mfa.gr/en/visas/visas-for-foreigners-traveling-to-greece/</a>
+For visa invitation letter requests please contact pafilis at hcmr gr
+</p>
+<h3> <span class="mw-headline" id="Currency_and_Credit_Cards">Currency and Credit Cards</span></h3>
+<p>Euro is Greece's currency. Major credit cards are widely accepted. However, as smaller taverns or restaurants, taxi, buses may operate as cash-only, it is advisable that you have some Euros with you upon arrival.
+</p><p>June's 2015 cash withdrawal limit from ATMs applies to Greek bank account holders only. <b>Greece's visitors can withdraw the regular amount of cash their banks allows them to when they are travelling abroad</b>.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 82/1000000
+Preprocessor generated node count: 90/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key genscorg_gsc-gc_:pcache:idhash:2208-0!*!0!!en!2!* and timestamp 20190103095704 -->
+</div><div class="printfooter">
+Retrieved from "<a href="https://web.archive.org/web/20190103095703/http://wiki.gensc.org/index.php?title=GSC_18&amp;oldid=9915">http://wiki.gensc.org/index.php?title=GSC_18&amp;oldid=9915</a>"</div>
+
+			<!-- end content -->
+
+		</div><!-- end of MAINCONTENT div -->	
+	
+	</div><!-- end of MBODY div -->
+
+	<div id="footer">
+
+			   <p align="center">This project has received funding from:
+        </p>
+         <p align="center">
+         <a href="https://web.archive.org/web/20190103095703/http://www.niees.ac.uk/"><img src="https://web.archive.org/web/20190103095703im_/http://wiki.gensc.org/images/d/d8/Niees.jpg" width="10%" height="10%" align="middle"></a>
+         <a href="https://web.archive.org/web/20190103095703/http://www.nerc.ac.uk/"><img src="https://web.archive.org/web/20190103095703im_/http://wiki.gensc.org/images/f/fb/Nerc.gif" width="15%" height="15%" align="middle"></a>
+	 <a href="https://web.archive.org/web/20190103095703/http://bbsrc.ac.uk/home/home.aspx"><img src="https://web.archive.org/web/20190103095703im_/http://gensc.org/wordpress/wp-content/uploads/2013/06/bbsrc.jpeg" align="middle" width="10%" height="10%"></a>
+	 <a href="https://web.archive.org/web/20190103095703/http://www.nsf.gov/"><img src="https://web.archive.org/web/20190103095703im_/http://gensc.org/wordpress/wp-content/uploads/2013/06/NSF_logo.jpg" width="10%" height="10%" align="middle"></a>
+	 <a href="https://web.archive.org/web/20190103095703/http://www.moore.org/"><img src="https://web.archive.org/web/20190103095703im_/http://gensc.org/wordpress/wp-content/uploads/2013/06/Moore.png" width="10%" height="10%" align="middle"></a>
+         <a href="https://web.archive.org/web/20190103095703/http://www.energy.gov/"><img src="https://web.archive.org/web/20190103095703im_/http://gensc.org/wordpress/wp-content/uploads/2013/06/DOE.png" width="10%" height="10%" align="middle"></a>    
+<br>
+<br> The GSC is part of the <a href="https://web.archive.org/web/20190103095703/http://biosharing.org/"><img src="https://web.archive.org/web/20190103095703im_/http://wiki.gensc.org/images/a/a5/Biosharing_network.png" width="10%" height="10%" align="top"></a>
+</p>
+<hr>
+<table align="center"><tr><td align="left" width="1%" nowrap="nowrap">
+		</td><td align="center">
+		<span id="f-lastmod"> This page was last modified on 7 September 2016, at 13:24.</span>		<span id="f-viewcount">This page has been accessed 6,948 times. </span>		<ul id="f-list">
+									<li id="f-about"><a href="/web/20190103095703/http://wiki.gensc.org/index.php?title=Genomic_Standards_Consortium_wiki:About" title="Genomic Standards Consortium wiki:About">About Genomic Standards Consortium wiki</a></li>		<!--	<li id="f-disclaimer"><a href="/index.php?title=Genomic_Standards_Consortium_wiki:General_disclaimer" title="Genomic Standards Consortium wiki:General disclaimer">Disclaimers</a></li> -->
+		</ul></td><td align="right" width="1%" nowrap="nowrap"></td></tr></table>
+	
+        
+       
+        
+          </div>
+      
+
+</div><!-- end of the CONTAINER div -->
+
+<!-- Served in 0.651 secs. --><!--div align='center' id="searchcontrol">Loading...</div-->
+<br/><br/>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://web.archive.org/web/20190103095703/https://ssl." : "https://web.archive.org/web/20190103095703/http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11657197-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 09:57:03 Jan 03, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:28:50 Oct 07, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 198.66
+  exclusion.robots: 0.392
+  exclusion.robots.policy: 0.378
+  RedisCDXSource: 77.795
+  esindex: 0.015
+  LoadShardBlock: 95.625 (3)
+  PetaboxLoader3.datanode: 97.676 (4)
+  CDXLines.iter: 20.651 (3)
+  load_resource: 128.063
+  PetaboxLoader3.resolve: 30.141
+-->
