@@ -13,7 +13,7 @@
 
 **Theme:** Coordinating Metadata Standards and “putting the standards into action”
 
-GSC18 Talks are available via hyperlinks in the interactive [AGENDA](GSC18Agenda.pdf) 
+GSC18 Talks are available via hyperlinks in the interactive [AGENDA](GSC18_agenda.pdf) 
 
 
 ![](Gsc18_announcement_3.png)
