@@ -4,10 +4,15 @@
 =============================================
  
 **Dates:** 12-15 June 2016 
+
 **Location:** Crete Hellenic Center for Marine Research
+
 **GSC Organizers:** Lynn Schriml, Georgios Kotoulas, Nikos Kyrpides, Frank-Oliver Gloeckner, Folker Meyer, Pelin Yilmaz
+
 **Local Organizers:** Evangelos Pafilis, Melina Stavroulaki, Georgios Kotoulas, Antonios Magoulas
+
 **Theme:** Coordinating Metadata Standards and “putting the standards into action”
+
 GSC18 Talks are available via hyperlinks in the interactive [AGENDA](GSC18Agenda.pdf) 
 
 
