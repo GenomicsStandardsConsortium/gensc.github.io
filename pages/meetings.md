@@ -14,7 +14,7 @@
 *   [GSC21, Vienna, Austria, May 20-23, 2019](meetings/GSC21/GSC21.html)
 *   [GSC20, San Diego, USA, May 2-4, 2018](meetings/GSC20/GSC20.html)
 *   GSC19, Brisbane, Australia, May 14-17, 2017 <!-- old meeting url http://wiki.gensc.org/index.php?title=GSC_19 -->
-*   GSC18, Crete Hellenic Center for Marine Research, Crete, Greece, June 12-15, 2016 <!-- old meeting url http://wiki.gensc.org/index.php?title=GSC_18 -->
+*   [GSC18, Crete Hellenic Center for Marine Research, Crete, Greece, June 12-15, 2016](meetings/GSC18/GSC18.html) <!-- old meeting url http://wiki.gensc.org/index.php?title=GSC_18 -->
 *   GSC 17, DOE JGI, Walnut Creek, CA, USA, May 4-6, 201 <!-- old meeting url http://wiki.gensc.org/index.php?title=GSC_17 -->
 *   GSC 16, Oxford, UK, March 31-April 2, 2014 <!-- old meeting url http://wiki.gensc.org/index.php?title=GSC_16 -->
 *   GSC 15, National Institute of Health (NIH), Bethesda, MD, USA, April 22-24, 2013 <!-- old meeting url http://wiki.gensc.org/index.php?title=GSC_Meetings#GSC_15.2C_National_Institute_of_Health_.28NIH.29.2C_Bethesda.2C_MD.2C_USA.2C_April_22-24.2C_2013 -->
