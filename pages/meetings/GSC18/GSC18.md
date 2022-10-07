@@ -19,21 +19,21 @@ GSC18 Talks are available via hyperlinks in the interactive [AGENDA](GSC18Agenda
 GSC 18 will include 9 sessions. Each session will have a working group which would meet during the workshop and the chair of each session will summarise the conclusions of the working group during the workshop. Workshop participants are encouraged to sign their names on the sessions they are interested in participating in the GSC 18 Sessions Sign-Up sheet
 
 **Session Topics**
-Standards: Global to Local
-Pathogen, Plant, UNEP standards
-Air, Sea and Soil Monitoring Projects
-Microbial Ecology of Greece
-Marine Biodiversity, Ocean Sampling
-Subway, Soil Microbiomes
-Nagoya Protocol, Ethics, and Standards
-Outreach and Education
+* Standards: Global to Local
+* Pathogen, Plant, UNEP standards
+* Air, Sea and Soil Monitoring Projects
+* Microbial Ecology of Greece
+* Marine Biodiversity, Ocean Sampling
+* Subway, Soil Microbiomes
+* Nagoya Protocol, Ethics, and Standards
+* Outreach and Education
 
 **Keynote Speakers**
-Arianna Broggiato: The Nagoya Protocol: sampling and research in compliance with new legislations - what scientists have to do
-Sumir Panji: Standards Initiatives in H3ABioNet
-Phil Hugenholtz: Genomic Taxonomy, from Genus to Domain.
-Christos Ouzounis: Microbial Ecology in Greece and Bioinformatics
-Daniele Daffonchio: Ecology of microbial hydrocarbon degraders in the oceans
+* Arianna Broggiato: The Nagoya Protocol: sampling and research in compliance with new legislations - what scientists have to do
+* Sumir Panji: Standards Initiatives in H3ABioNet
+* Phil Hugenholtz: Genomic Taxonomy, from Genus to Domain.
+* Christos Ouzounis: Microbial Ecology in Greece and Bioinformatics
+* Daniele Daffonchio: Ecology of microbial hydrocarbon degraders in the oceans
 
 **Confirmed Speakers**
 Pier Buttigieg, AWI, DE
@@ -117,10 +117,10 @@ Google flights: please search using the previously mentioned three-letter airpor
 **Bus**
 Long distance buses operate regularly (ie every 30 minutes to 1 hour) on the route between Heraklion and HCMR. A bus stop to HCMR is situated on the south-west side of the airport. For more information please see the HCMR Area, Hotels, Restaurants and Means of Transport Google Map and the bus timetable from Heraklion to Agios Nikolaos and back. The bus company web site is available here.
 
-Taxi from Heraklion Airport to HCMR
+* Taxi from Heraklion Airport to HCMR
 There are always many taxis at the airport. Alternatively, you can book a taxi online at http://www.taxi-crete.gr/book-taxi-crete (contact tel.: +30 6937 333 730). When making your booking, you must mention the phrase "ELKETHE - HCMR" (our research center) and your destination (e.g. Hotel Astir). This will get you a special discount fare of 25 euros from the airport to the ΗCMR or the Hotel (including taxes and airport & luggage charges). After filling in the online form, you should receive a confirmation e-mail within 2-10 hours, with all required information. All taxi-cars are Mercedes with English-speaking drivers.
 
-Taxi from HCMR to Heraklion Airport
+* Taxi from HCMR to Heraklion Airport
 A taxi stand is situated right outside HCMR. In addition to http://www.taxi-crete.gr (+30 6937 33 3730 ) described above, Mr Vangelis Kalikakis can also be contacted at (+30 6980 82 3019, +30 6945 68 1694) and a local taxi company +30 28970 41343. The waiting period in front of the HCMR main entrance is 10 to 15 minutes and rides to Heraklion can cost around 25 to 30 Euros.
 
 **Internet Connection**
