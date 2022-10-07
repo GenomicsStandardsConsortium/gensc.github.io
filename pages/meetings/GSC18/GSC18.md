@@ -18,7 +18,7 @@ GSC18 Talks are available via hyperlinks in the interactive [AGENDA](GSC18Agenda
 
 ![](Gsc18_announcement_3.png)
 
-**Satellite Workshop:** GSC-18 Sampling Day: Crete Island Sampling Day Please see the [GSC Island Sampling Day]() page for further details.
+**Satellite Workshop:** GSC-18 Sampling Day: [Crete Island Sampling Day](GSC18_ISD_HBIO2016_Poster.pdf) Please see the [GSC Island Sampling Day](GSC18_Island_Sampling_Day_v2.pdf) page for further details.
 
 **GSC 18 Sessions**
 GSC 18 will include 9 sessions. Each session will have a working group which would meet during the workshop and the chair of each session will summarise the conclusions of the working group during the workshop. Workshop participants are encouraged to sign their names on the sessions they are interested in participating in the GSC 18 Sessions Sign-Up sheet
@@ -78,8 +78,8 @@ Georgios Tsiamis, Uni Patras, GR
 Pelin Yilmaz, MM-MPI, DE
 
 **Agenda**
-The detailed GSC-18 agenda workshop can be found here (Media:GSC18_agenda.pdf)
-A single page schedule overview is also available here (Media:GSC18_agenda_overview.pdf)
+The detailed GSC-18 agenda workshop can be found [here](Media:GSC18_agenda.pdf)
+A single page schedule overview is also available [here]()
 
 **Logistics**
 **Venue**
