@@ -4,7 +4,7 @@ layout: default
 
 {% include header.html %}
 
-# GSC23 Thailand
+# GSC23 Bangkok
 
 23rd Genomic Standards Consortium Meeting was originally planned as GSC22 to take place in 2020, however as with most things in 2020, it was postponed. We are hopeful that the meeting will go ahead in 2023, and are working to set some firm dates. ![](/imges/Full_gsc_logo_small_2010-300x63.png)
 
@@ -19,15 +19,15 @@ GSC23 sessions will focus on tackling metadata challenges related to the sample
 ![](/GSC23/biotec-300x95.jpeg)
 ![](/GSC23/nstda-300x98.jpeg)
 
-**Dates:** TBA, 2022
+**Dates:** Aug 7-11, 2023
 
         ![](/GSC23/bangkok.jpeg)
 
 **Location**: Srisavarindhira Building, [Siriraj Hospital Mahidol University](https://www2.si.mahidol.ac.th/en/), 2 Thanon Wang Lang, Siriraj, Bangkok Noi, Bangkok 10700, Thailand
 
-**Education Day** (Date:TBA), **GSC22 Workshops** (Date:TBA)
+**Education Day** (Date:7 Aug TBC), **GSC23 Workshops** (Date:11 Aug TBC)
 
-**Main GSC22 meeting:**  (Date:TBA)
+**Main GSC23 meeting:**  (Date:8-10 Aug TBC)
 
 ** Please note that the schedule is subject to change**
 
