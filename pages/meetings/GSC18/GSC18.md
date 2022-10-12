@@ -67,7 +67,7 @@ Ilene Mizrachi, NCBI, US
 Claire Nedellec, INRA, FR
 Nikolaos Nikolaidis, TUC, GR
 Anastasis Oulas, HCMR, GR
-Evangelos Pafilis, HCMR, GR
+Evangelos Pafilis, HCMR, GR - [presentation](presentations/session1-talk2-pafilis.pdf)
 Donovan Parks, ACE, AU
 Pavlos Pavlidis, ICS FORTH, GR
 Lynn Schriml, UMB, US
@@ -78,8 +78,68 @@ Georgios Tsiamis, Uni Patras, GR
 Pelin Yilmaz, MM-MPI, DE
 
 **Agenda**
-The detailed GSC-18 agenda workshop can be found [here](Media:GSC18_agenda.pdf)
-A single page schedule overview is also available [here]()
+The detailed GSC-18 agenda workshop can be found [here](GSC18_agenda.pdf)
+A schedule overview is provided below:
+
+## Day 1: June 12th, Sunday 
+## Global to local: standards development and application, use cases and feedback
+
+** 09:00 Meeting Kickoff: 
+Local Host: Georgios Kotoulas, GSC President: [Lynn Schriml](presentations/session0-talk2-Lynn-GSC18_GSCboard_agenda.pdf)
+** 09:30-11:00 Session 1:
+Global and local view on standards
+** 11:30-12:30 Round Table Discussion 1:
+Role of Standards and Coordination across in Large Research Projects 
+** 13:30-14:00 Keynote 1:
+Arianna Broggiato - The Nagoya Protocol: sampling and research in compliance with new legislations - what scientists have to do 
+** 14:00-15:30 Session 2:
+Large Scale Genomics and Microbiome Initiatives  
+** 16:30-17:30 Breakout Sessions: 
+<ul>
+<li>Computational Tools, data set harmonization and reproducibility </li>
+<li>GSC Standards Working Session </li>
+</ul>
+
+## Day 2: June 13th, Monday
+## Exploring standards across research initiatives
+
+** 09:15-09:45 Keynote 2:
+Sumir Panji: Standards Initiatives in H3ABioNet 
+** 09:45-10:45 Session 3:
+Exploring standards across research Initiatives 
+** 11:15-12:30 Session 4:
+Understanding Standards Needs Across Communities 
+** 13:30-14:00 Keynote 3:
+Phil Hugenholtz: Genomic taxonomy, from genus to domain. 
+** 14:00-15:30 Session 5:
+New standards and updates 
+** 16:00-17:00 Session 6:
+Application and Need for Standards 
+** 17:00-17:30 Round Table Discussion 2:
+Methods impacting Standards, Need for Standards 
+** 17:30-18:15 Breakout Sessions:
+<ul>
+<li>MIxS Compliance and Interoperability Working Group (CIG)</li>
+<li>NEON-CZ-metadata</li>
+</ul>
+
+## Day 3: June 14th, Tuesday
+## Local Initiatives and Standards Uptake, GSC19 and Outreach
+
+** 09:15-09:45 Keynote 4:
+Christos Ouzounis: Microbial Ecology in Greece and Bioinformatics  
+** 09:45-10:45 Session 7:
+Greek Microbial Ecology  
+** 11:15-12:30 Session 8:
+Tara, NEON, Fish pathogens and Plant growth promoters     
+** 13:30-14:00 Keynote 5:
+Daniele Daffonchio  - Ecology of microbial hydrocarbon degraders 
+in the oceans 
+** Handoff to GSC-19: 
+Down Under - April 2017 Brisbane, Australia 
+** 15:00-16:00 Session 9:
+Introduction to Crete Island Sampling Day - HCMR sampling training 
+
 
 **Logistics**
 **Venue**
