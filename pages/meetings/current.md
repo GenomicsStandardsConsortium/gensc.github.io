@@ -6,9 +6,12 @@ layout: default
 
 # GSC23 Bangkok
 
-23rd Genomic Standards Consortium Meeting was originally planned as GSC22 to take place in 2020, however as with most things in 2020, it was postponed. We are hopeful that the meeting will go ahead in 2023, and are working to set some firm dates. ![](/imges/Full_gsc_logo_small_2010-300x63.png)
+23rd Genomic Standards Consortium Meeting was originally planned as GSC22 to take place in 2020, however as with most things in 2020, it was postponed. 
+
+We are now very pleased to announce that the GSC23 meeting is scheduled for Aug 7-11th 2023. Please visit the [GSC23 meeting page](https://genomicsstandardsconsortium.github.io/GSC23-Bangkok/){:target="_blank"} for more details.
 
 
+<!--
 ## **Genomic Standards for Precision Medicine, Agriculture, Comparative Genomics, and Metabolomics**
 
 GSC23 sessions will focus on tackling metadata challenges related to the sample collection, processing and genomic sequencing workflow critical for small and large scale datasets within the fields of medical genomics, agriculture, comparative genomics, and metabolomics tackling metadata challenges related to the sample collection, processing and genomic sequencing workflow critical for small and large scale datasets. It is our intention to discuss and plan for evolving genomic and laboratory standards to address the needs of the clinical, academic and industry researchers with a focus on precision medicine and agriculture.
@@ -130,3 +133,4 @@ Parwinder Kaur – DNA Zoo Australia
 
 [![](/GSC23/CNGB-LOGO-300x154.png "Chine National GeneBank(CNGB)")](https://db.cngb.org) 
 
+-->
