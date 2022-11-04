@@ -16,7 +16,7 @@ In addition to the [Checklists page](standards/checklists.html) on this website;
 The [MIxS checklists github](https://github.com/GenomicsStandardsConsortium/mixs/) repository is where future versions are discussed and developed, please feel free to join the discussion using the github issue tracker.
 In addition there are more techincal speficication available in the [GitHub Wiki](https://github.com/GenomicsStandardsConsortium/mixs/wiki)
 
-## Extensions](standards/extensions.html)
+## [Extensions](standards/extensions.html)
 
 In order to encourage more comprehensive metadata inclusion with sequence data the GSC have facilitated the development of many extensions that can be used in addition to the Minimum Information for each checklist. These extensions consist of many recomended terms that have been compiled by experts in the relevant field of research. Explore all the ready made checklist extensions that we have [available](standards/extensions.html).
 If there is not a suitable checklist already available and you are interested in developing your own extention, then please read our [implementation page](standards/implementation.html) containing details on Developing Extensions with us.
