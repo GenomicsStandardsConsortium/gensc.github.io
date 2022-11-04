@@ -8,7 +8,6 @@ date: 2022-11-04
 {% include header.html %}
 
 # [Memorandum of Understanding (MoU) between TDWG and the GSC](https://github.com/tdwg/gbwg/blob/main/dwc-mixs/MoU/MemorandumOfUnderstanding_TDWG-GSC.md)
-=======================================================
 
 Originally Posted on November 04, 2022 14:59 by Chris Hunter
 
