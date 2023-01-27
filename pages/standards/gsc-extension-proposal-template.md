@@ -7,13 +7,13 @@ Your description should be concise, but sufficiently detailed for members of the
 
 
 1.  **Proposed Extension Title:**
-2.  **Proposers (name, email, institute(s)):
-    - **Lead: **
+2.  **Proposers (name, email, institute(s)):**
+    - **Lead:**
     - **Team members:**
 3.  **Purpose of extension (Summary- two or three paragraphs of background, purpose and plans)**
-4.  **Which existing checklists, if any, does this one replace/complement/subsume/expand? **
+4.  **Which existing checklists, if any, does this one replace/complement/subsume/expand?**
 5.  **Explain briefly why this extension is needed (what gap does it fill?)**
-6.  **Who will benefit from this extension? **
+6.  **Who will benefit from this extension?**
 7.  **Which groups are already involved in its design?**
 8.  **Which groups would you like to also involve in its design?**
 9.  **Provide any other information you wish to share about this proposal with the GSC-CIG:**
