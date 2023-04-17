@@ -9,7 +9,7 @@
     "example":"yes",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000004"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000004"
   },
   {
     "mixsId":"MIXS:0000007",
@@ -21,7 +21,7 @@
     "example":"metagenome",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000007"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000007"
   },
   {
     "mixsId":"MIXS:0000092",
@@ -33,7 +33,7 @@
     "example":"Forest soil metagenome",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000092"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000092"
   },
   {
     "mixsId":"MIXS:0000008",
@@ -45,7 +45,7 @@
     "example":"time series design [EFO:EFO_0001779]",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000008"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000008"
   },
   {
     "mixsId":"MIXS:0000009",
@@ -57,7 +57,7 @@
     "example":"50.586825 6.408977",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000009"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000009"
   },
   {
     "mixsId":"MIXS:0000010",
@@ -69,7 +69,7 @@
     "example":"Germany;North Rhine-Westphalia;Eifel National Park",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000010"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000010"
   },
   {
     "mixsId":"MIXS:0000011",
@@ -81,7 +81,7 @@
     "example":"2018-05-11T10:00:00+01:00",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000011"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000011"
   },
   {
     "mixsId":"MIXS:0000012",
@@ -93,7 +93,7 @@
     "example":"forest biome [ENVO:01000174]",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000012"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000012"
   },
   {
     "mixsId":"MIXS:0000013",
@@ -105,7 +105,7 @@
     "example":"litter layer [ENVO:01000338]",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000013"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000013"
   },
   {
     "mixsId":"MIXS:0000014",
@@ -117,7 +117,7 @@
     "example":"soil [ENVO:00001998]",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000014"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000014"
   },
   {
     "mixsId":"MIXS:0000019",
@@ -129,7 +129,7 @@
     "example":"soil",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000019"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000019"
   },
   {
     "mixsId":"MIXS:0000020",
@@ -141,7 +141,7 @@
     "example":"serovar:Newport",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000020"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000020"
   },
   {
     "mixsId":"MIXS:0000021",
@@ -153,7 +153,7 @@
     "example":"allopolyploidy [PATO:0001379]",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000021"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000021"
   },
   {
     "mixsId":"MIXS:0000022",
@@ -165,7 +165,7 @@
     "example":"2",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000022"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000022"
   },
   {
     "mixsId":"MIXS:0000023",
@@ -177,7 +177,7 @@
     "example":"5",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000023"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000023"
   },
   {
     "mixsId":"MIXS:0000024",
@@ -189,7 +189,7 @@
     "example":"300000 bp",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000024"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000024"
   },
   {
     "mixsId":"MIXS:0000025",
@@ -201,7 +201,7 @@
     "example":"doi:10.1016/j.syapm.2018.01.009",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000025"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000025"
   },
   {
     "mixsId":"MIXS:0000026",
@@ -213,7 +213,7 @@
     "example":"MPI012345",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000026"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000026"
   },
   {
     "mixsId":"MIXS:0000027",
@@ -225,7 +225,7 @@
     "example":"human, animal, plant, fungi, bacteria",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000027"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000027"
   },
   {
     "mixsId":"MIXS:0000028",
@@ -237,7 +237,7 @@
     "example":"free living",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000028"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000028"
   },
   {
     "mixsId":"MIXS:0000029",
@@ -249,7 +249,7 @@
     "example":"9606",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000029"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000029"
   },
   {
     "mixsId":"MIXS:0000030",
@@ -261,7 +261,7 @@
     "example":"9606",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000030"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000030"
   },
   {
     "mixsId":"MIXS:0000031",
@@ -273,7 +273,7 @@
     "example":"dead",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000031"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000031"
   },
   {
     "mixsId":"MIXS:0000032",
@@ -285,7 +285,7 @@
     "example":"heterotroph",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000032"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000032"
   },
   {
     "mixsId":"MIXS:0000033",
@@ -297,7 +297,7 @@
     "example":"lytic",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000033"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000033"
   },
   {
     "mixsId":"MIXS:0000034",
@@ -309,7 +309,7 @@
     "example":"beta-lactamase class A",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000034"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000034"
   },
   {
     "mixsId":"MIXS:0000015",
@@ -321,7 +321,7 @@
     "example":"aerobe",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000015"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000015"
   },
   {
     "mixsId":"MIXS:0000003",
@@ -333,7 +333,7 @@
     "example":"doi: 10.1016/j.syapm.2018.01.009",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000003"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000003"
   },
   {
     "mixsId":"MIXS:0000002",
@@ -345,7 +345,7 @@
     "example":"biopsy, niskin bottle, push core",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000002"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000002"
   },
   {
     "mixsId":"MIXS:0000016",
@@ -357,7 +357,7 @@
     "example":"filtering of seawater, storing samples in ethanol",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000016"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000016"
   },
   {
     "mixsId":"MIXS:0000017",
@@ -369,7 +369,7 @@
     "example":"0-0.22 micrometer",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000017"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000017"
   },
   {
     "mixsId":"MIXS:0000001",
@@ -381,7 +381,7 @@
     "example":"5 liter",
     "preferredUnit":"millliter, gram, milligram, liter",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000001"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000001"
   },
   {
     "mixsId":"MIXS:0000035",
@@ -393,7 +393,7 @@
     "example":"viral fraction metagenome (virome)",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000035"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000035"
   },
   {
     "mixsId":"MIXS:0000036",
@@ -405,7 +405,7 @@
     "example":"filtration + FeCl Precipitation + ultracentrifugation + DNAse",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000036"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000036"
   },
   {
     "mixsId":"MIXS:0000037",
@@ -417,7 +417,7 @@
     "example":"https://mobio.com/media/wysiwyg/pdfs/protocols/12888.pdf",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000037"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000037"
   },
   {
     "mixsId":"MIXS:0000038",
@@ -429,7 +429,7 @@
     "example":"https://phylogenomics.me/protocols/16s-pcr-protocol/",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000038"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000038"
   },
   {
     "mixsId":"MIXS:0000039",
@@ -441,7 +441,7 @@
     "example":"50",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000039"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000039"
   },
   {
     "mixsId":"MIXS:0000040",
@@ -453,7 +453,7 @@
     "example":"20",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000040"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000040"
   },
   {
     "mixsId":"MIXS:0000041",
@@ -465,7 +465,7 @@
     "example":"paired",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000041"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000041"
   },
   {
     "mixsId":"MIXS:0000042",
@@ -477,7 +477,7 @@
     "example":"Bacteriophage P1",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000042"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000042"
   },
   {
     "mixsId":"MIXS:0000043",
@@ -489,7 +489,7 @@
     "example":"enriched, screened, normalized",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000043"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000043"
   },
   {
     "mixsId":"MIXS:0000044",
@@ -501,7 +501,7 @@
     "example":"16S rRNA, 18S rRNA, nif, amoA, rpo",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000044"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000044"
   },
   {
     "mixsId":"MIXS:0000045",
@@ -513,7 +513,7 @@
     "example":"V6, V9, ITS",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000045"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000045"
   },
   {
     "mixsId":"MIXS:0000046",
@@ -525,7 +525,7 @@
     "example":"FWD:GTGCCAGCMGCCGCGGTAA;REV:GGACTACHVGGGTWTCTAAT",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000046"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000046"
   },
   {
     "mixsId":"MIXS:0000047",
@@ -537,7 +537,7 @@
     "example":"GTGAATAT",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000047"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000047"
   },
   {
     "mixsId":"MIXS:0000048",
@@ -549,7 +549,7 @@
     "example":"AATGATACGGCGACCACCGAGATCTACACGCT;CAAGCAGAAGACGGCATACGAGAT",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000048"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000048"
   },
   {
     "mixsId":"MIXS:0000049",
@@ -561,7 +561,7 @@
     "example":"initial denaturation:94_3;annealing:50_1;elongation:72_1.5;final elongation:72_10;35",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000049"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000049"
   },
   {
     "mixsId":"MIXS:0000050",
@@ -573,7 +573,7 @@
     "example":"Illumina HiSeq 1500",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000050"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000050"
   },
   {
     "mixsId":"MIXS:0000051",
@@ -585,7 +585,7 @@
     "example":"none",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000051"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000051"
   },
   {
     "mixsId":"MIXS:0000052",
@@ -597,7 +597,7 @@
     "example":"uchime;v4.1;default parameters",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000052"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000052"
   },
   {
     "mixsId":"MIXS:0000053",
@@ -609,7 +609,7 @@
     "example":"other: rpoB gene",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000053"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000053"
   },
   {
     "mixsId":"MIXS:0000056",
@@ -621,7 +621,7 @@
     "example":"High-quality draft genome",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000056"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000056"
   },
   {
     "mixsId":"MIXS:0000057",
@@ -633,7 +633,7 @@
     "example":"HuRef, JCVI_ISG_i3_1.0",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000057"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000057"
   },
   {
     "mixsId":"MIXS:0000058",
@@ -645,7 +645,7 @@
     "example":"metaSPAdes;3.11.0;kmer set 21,33,55,77,99,121, default parameters otherwise",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000058"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000058"
   },
   {
     "mixsId":"MIXS:0000059",
@@ -657,7 +657,7 @@
     "example":"prokka",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000059"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000059"
   },
   {
     "mixsId":"MIXS:0000060",
@@ -669,7 +669,7 @@
     "example":"40",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000060"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000060"
   },
   {
     "mixsId":"MIXS:0000061",
@@ -681,7 +681,7 @@
     "example":"Prodigal;2.6.3;default parameters",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000061"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000061"
   },
   {
     "mixsId":"MIXS:0000062",
@@ -693,7 +693,7 @@
     "example":"pVOGs;5;http://dmk-brain.ecn.uiowa.edu/pVOGs/ Grazziotin et al. 2017 doi:10.1093/nar/gkw975",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000062"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000062"
   },
   {
     "mixsId":"MIXS:0000063",
@@ -705,7 +705,7 @@
     "example":"HMMER3;3.1b2;hmmsearch, cutoff of 50 on score",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000063"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000063"
   },
   {
     "mixsId":"MIXS:0000064",
@@ -717,7 +717,7 @@
     "example":"vConTACT vContact2 (references from NCBI RefSeq v83, genus rank classification, default parameters)",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000064"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000064"
   },
   {
     "mixsId":"MIXS:0000065",
@@ -729,7 +729,7 @@
     "example":"yes",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000065"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000065"
   },
   {
     "mixsId":"MIXS:0000066",
@@ -741,7 +741,7 @@
     "example":"rambl;v2;default parameters",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000066"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000066"
   },
   {
     "mixsId":"MIXS:0000067",
@@ -753,7 +753,7 @@
     "example":"18",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000067"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000067"
   },
   {
     "mixsId":"MIXS:0000068",
@@ -765,7 +765,7 @@
     "example":"infernal;v2;default parameters",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000068"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000068"
   },
   {
     "mixsId":"MIXS:0000069",
@@ -777,7 +777,7 @@
     "example":"med;60%",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000069"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000069"
   },
   {
     "mixsId":"MIXS:0000070",
@@ -789,7 +789,7 @@
     "example":"checkm",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000070"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000070"
   },
   {
     "mixsId":"MIXS:0000071",
@@ -801,7 +801,7 @@
     "example":"other: UViG length compared to the average length of reference genomes from the P22virus genus (NCBI RefSeq v83)",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000071"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000071"
   },
   {
     "mixsId":"MIXS:0000072",
@@ -813,7 +813,7 @@
     "example":"1%",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000072"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000072"
   },
   {
     "mixsId":"MIXS:0000005",
@@ -825,7 +825,7 @@
     "example":"contigs",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000005"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000005"
   },
   {
     "mixsId":"MIXS:0000073",
@@ -837,7 +837,7 @@
     "example":"kmer",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000073"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000073"
   },
   {
     "mixsId":"MIXS:0000074",
@@ -849,7 +849,7 @@
     "example":"anvi'o",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000074"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000074"
   },
   {
     "mixsId":"MIXS:0000075",
@@ -861,7 +861,7 @@
     "example":"optical manipulation",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000075"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000075"
   },
   {
     "mixsId":"MIXS:0000076",
@@ -873,7 +873,7 @@
     "example":"enzymatic",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000076"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000076"
   },
   {
     "mixsId":"MIXS:0000054",
@@ -885,7 +885,7 @@
     "example":"ambion single cell lysis kit",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000054"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000054"
   },
   {
     "mixsId":"MIXS:0000055",
@@ -897,7 +897,7 @@
     "example":"mda based",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000055"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000055"
   },
   {
     "mixsId":"MIXS:0000006",
@@ -909,7 +909,7 @@
     "example":"qiagen repli-g",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000006"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000006"
   },
   {
     "mixsId":"MIXS:0000077",
@@ -921,7 +921,7 @@
     "example":"coverage and kmer",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000077"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000077"
   },
   {
     "mixsId":"MIXS:0000078",
@@ -933,7 +933,7 @@
     "example":"concoct and maxbin",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000078"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000078"
   },
   {
     "mixsId":"MIXS:0000079",
@@ -945,7 +945,7 @@
     "example":"no",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000079"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000079"
   },
   {
     "mixsId":"MIXS:0000080",
@@ -957,7 +957,7 @@
     "example":"bbmap",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000080"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000080"
   },
   {
     "mixsId":"MIXS:0000081",
@@ -969,7 +969,7 @@
     "example":"VirSorter; 1.0.4; Virome database, category 2",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000081"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000081"
   },
   {
     "mixsId":"MIXS:0000082",
@@ -981,7 +981,7 @@
     "example":"dsDNA",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000082"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000082"
   },
   {
     "mixsId":"MIXS:0000083",
@@ -993,7 +993,7 @@
     "example":"non-segmented",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000083"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000083"
   },
   {
     "mixsId":"MIXS:0000084",
@@ -1005,7 +1005,7 @@
     "example":"independent sequence (UViG)",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000084"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000084"
   },
   {
     "mixsId":"MIXS:0000085",
@@ -1017,7 +1017,7 @@
     "example":"95% ANI;85% AF; greedy incremental clustering",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000085"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000085"
   },
   {
     "mixsId":"MIXS:0000086",
@@ -1029,7 +1029,7 @@
     "example":"blastn;2.6.0+;e-value cutoff: 0.001",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000086"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000086"
   },
   {
     "mixsId":"MIXS:0000087",
@@ -1041,7 +1041,7 @@
     "example":"NCBI Viral RefSeq;83",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000087"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000087"
   },
   {
     "mixsId":"MIXS:0000088",
@@ -1053,7 +1053,7 @@
     "example":"CRISPR spacer match",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000088"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000088"
   },
   {
     "mixsId":"MIXS:0000089",
@@ -1065,7 +1065,7 @@
     "example":"CRISPR spacer match: 0 or 1 mismatches, estimated 8% FDR at the host genus rank (Edwards et al. 2016 doi:10.1093/femsre/fuv048)",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000089"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000089"
   },
   {
     "mixsId":"MIXS:0000091",
@@ -1077,7 +1077,7 @@
     "example":"http://www.earthmicrobiome.org/",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000091"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000091"
   },
   {
     "mixsId":"MIXS:0000090",
@@ -1089,7 +1089,7 @@
     "example":"http://press.igsb.anl.gov/earthmicrobiome/protocols-and-standards/its/",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000090"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000090"
   },
   {
     "mixsId":"MIXS:0000093",
@@ -1101,7 +1101,7 @@
     "example":"100 meter",
     "preferredUnit":"",
     "occurence":"",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000093"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000093"
   },
   {
     "mixsId":"MIXS:0000094",
@@ -1113,7 +1113,7 @@
     "example":"100 meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000094"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000094"
   },
   {
     "mixsId":"MIXS:0000095",
@@ -1125,7 +1125,7 @@
     "example":"100 meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000095"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000095"
   },
   {
     "mixsId":"MIXS:0000240",
@@ -1137,7 +1137,7 @@
     "example":"10 meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000240"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000240"
   },
   {
     "mixsId":"MIXS:0000096",
@@ -1149,7 +1149,7 @@
     "example":"5 millibar",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000096"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000096"
   },
   {
     "mixsId":"MIXS:0000097",
@@ -1161,7 +1161,7 @@
     "example":"410 parts per million",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000097"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000097"
   },
   {
     "mixsId":"MIXS:0000098",
@@ -1173,7 +1173,7 @@
     "example":"0.1 parts per million",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000098"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000098"
   },
   {
     "mixsId":"MIXS:0000100",
@@ -1185,7 +1185,7 @@
     "example":"25 gram per cubic meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000100"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000100"
   },
   {
     "mixsId":"MIXS:0000101",
@@ -1197,7 +1197,7 @@
     "example":"1800 parts per billion",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000101"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000101"
   },
   {
     "mixsId":"MIXS:0000103",
@@ -1209,7 +1209,7 @@
     "example":"total prokaryotes;3.5e7 cells per milliliter;qPCR",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000103"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000103"
   },
   {
     "mixsId":"MIXS:0000104",
@@ -1221,7 +1221,7 @@
     "example":"600 parts per million",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000104"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000104"
   },
   {
     "mixsId":"MIXS:0000107",
@@ -1233,7 +1233,7 @@
     "example":"lead;0.15 microgram per cubic meter",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000107"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000107"
   },
   {
     "mixsId":"MIXS:0000108",
@@ -1245,7 +1245,7 @@
     "example":"PM2.5;10 microgram per cubic meter",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000108"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000108"
   },
   {
     "mixsId":"MIXS:0000109",
@@ -1257,7 +1257,7 @@
     "example":"1 milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000109"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000109"
   },
   {
     "mixsId":"MIXS:0000110",
@@ -1269,7 +1269,7 @@
     "example":"-80 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000110"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000110"
   },
   {
     "mixsId":"MIXS:0000111",
@@ -1281,7 +1281,7 @@
     "example":"1500 milliliter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000111"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000111"
   },
   {
     "mixsId":"MIXS:0000112",
@@ -1293,7 +1293,7 @@
     "example":"1.36 kilowatts per square meter per day",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000112"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000112"
   },
   {
     "mixsId":"MIXS:0000113",
@@ -1305,7 +1305,7 @@
     "example":"25 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000113"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000113"
   },
   {
     "mixsId":"MIXS:0000114",
@@ -1317,7 +1317,7 @@
     "example":"750 cubic meter per minute",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000114"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000114"
   },
   {
     "mixsId":"MIXS:0000115",
@@ -1329,7 +1329,7 @@
     "example":"formaldehyde;500 nanogram per liter",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000115"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000115"
   },
   {
     "mixsId":"MIXS:0000116",
@@ -1341,7 +1341,7 @@
     "example":"P1Y6M",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000116"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000116"
   },
   {
     "mixsId":"MIXS:0000118",
@@ -1353,7 +1353,7 @@
     "example":"21 kilometer per hour",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000118"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000118"
   },
   {
     "mixsId":"MIXS:0000119",
@@ -1365,7 +1365,7 @@
     "example":"175 micromole per kilogram",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000119"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000119"
   },
   {
     "mixsId":"MIXS:0000137",
@@ -1377,7 +1377,7 @@
     "example":"5 mol per liter per hour",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000137"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000137"
   },
   {
     "mixsId":"MIXS:0000162",
@@ -1389,7 +1389,7 @@
     "example":"0.05 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000162"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000162"
   },
   {
     "mixsId":"MIXS:0000172",
@@ -1401,7 +1401,7 @@
     "example":"0.269 mole per liter per hour",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000172"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000172"
   },
   {
     "mixsId":"MIXS:0000173",
@@ -1413,7 +1413,7 @@
     "example":"2.53 microgram per liter per hour",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000173"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000173"
   },
   {
     "mixsId":"MIXS:0000174",
@@ -1425,7 +1425,7 @@
     "example":"total;20 gram",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000174"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000174"
   },
   {
     "mixsId":"MIXS:0000175",
@@ -1437,7 +1437,7 @@
     "example":"14 microgram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000175"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000175"
   },
   {
     "mixsId":"MIXS:0000176",
@@ -1449,7 +1449,7 @@
     "example":"0.05 parts per million",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000176"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000176"
   },
   {
     "mixsId":"MIXS:0000177",
@@ -1461,7 +1461,7 @@
     "example":"5 milligram per cubic meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000177"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000177"
   },
   {
     "mixsId":"MIXS:0000178",
@@ -1473,7 +1473,7 @@
     "example":"0.2 nanogram per liter",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000178"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000178"
   },
   {
     "mixsId":"MIXS:0000179",
@@ -1485,7 +1485,7 @@
     "example":"0.3 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000179"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000179"
   },
   {
     "mixsId":"MIXS:0000180",
@@ -1497,7 +1497,7 @@
     "example":"2.5 milligram per cubic meter",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000180"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000180"
   },
   {
     "mixsId":"MIXS:0000181",
@@ -1509,7 +1509,7 @@
     "example":"2.98 milligram per liter",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000181"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000181"
   },
   {
     "mixsId":"MIXS:0000182",
@@ -1521,7 +1521,7 @@
     "example":"300 millivolt",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000182"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000182"
   },
   {
     "mixsId":"MIXS:0000183",
@@ -1533,7 +1533,7 @@
     "example":"25 practical salinity unit",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000183"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000183"
   },
   {
     "mixsId":"MIXS:0000184",
@@ -1545,7 +1545,7 @@
     "example":"0.05 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000184"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000184"
   },
   {
     "mixsId":"MIXS:0000185",
@@ -1557,7 +1557,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000185"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000185"
   },
   {
     "mixsId":"MIXS:0000191",
@@ -1569,7 +1569,7 @@
     "example":"0.3 nephelometric turbidity units",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000191"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000191"
   },
   {
     "mixsId":"MIXS:0000203",
@@ -1581,7 +1581,7 @@
     "example":"10 cubic meter per second",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000203"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000203"
   },
   {
     "mixsId":"MIXS:0000206",
@@ -1593,7 +1593,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000206"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000206"
   },
   {
     "mixsId":"MIXS:0000215",
@@ -1605,7 +1605,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000215"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000215"
   },
   {
     "mixsId":"MIXS:0000247",
@@ -1617,7 +1617,7 @@
     "example":"A/3*B",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000247"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000247"
   },
   {
     "mixsId":"MIXS:0000280",
@@ -1629,7 +1629,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000280"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000280"
   },
   {
     "mixsId":"MIXS:0000283",
@@ -1641,7 +1641,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000283"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000283"
   },
   {
     "mixsId":"MIXS:0000284",
@@ -1653,7 +1653,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000284"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000284"
   },
   {
     "mixsId":"MIXS:0000310",
@@ -1665,7 +1665,7 @@
     "example":"0.417361111",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000310"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000310"
   },
   {
     "mixsId":"MIXS:0000348",
@@ -1677,7 +1677,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000348"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000348"
   },
   {
     "mixsId":"MIXS:0000349",
@@ -1689,7 +1689,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000349"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000349"
   },
   {
     "mixsId":"MIXS:0000350",
@@ -1701,7 +1701,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000350"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000350"
   },
   {
     "mixsId":"MIXS:0000351",
@@ -1713,7 +1713,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000351"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000351"
   },
   {
     "mixsId":"MIXS:0000352",
@@ -1725,7 +1725,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000352"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000352"
   },
   {
     "mixsId":"MIXS:0000353",
@@ -1737,7 +1737,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000353"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000353"
   },
   {
     "mixsId":"MIXS:0000490",
@@ -1749,7 +1749,7 @@
     "example":"0.005 mole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000490"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000490"
   },
   {
     "mixsId":"MIXS:0000498",
@@ -1761,7 +1761,7 @@
     "example":"0.5 meter per second",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000498"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000498"
   },
   {
     "mixsId":"MIXS:0000502",
@@ -1773,7 +1773,7 @@
     "example":"1 meter per second",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000502"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000502"
   },
   {
     "mixsId":"MIXS:0000503",
@@ -1785,7 +1785,7 @@
     "example":"n-hexadecane;100 milligram per liter",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000503"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000503"
   },
   {
     "mixsId":"MIXS:0000504",
@@ -1797,7 +1797,7 @@
     "example":"4.2 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000504"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000504"
   },
   {
     "mixsId":"MIXS:0000505",
@@ -1809,7 +1809,7 @@
     "example":"0.7 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000505"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000505"
   },
   {
     "mixsId":"MIXS:0000508",
@@ -1821,7 +1821,7 @@
     "example":"1.5 microgram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000508"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000508"
   },
   {
     "mixsId":"MIXS:0000509",
@@ -1833,7 +1833,7 @@
     "example":"1.75 milligram per cubic meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000509"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000509"
   },
   {
     "mixsId":"MIXS:0000514",
@@ -1845,7 +1845,7 @@
     "example":"4 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000514"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000514"
   },
   {
     "mixsId":"MIXS:0000515",
@@ -1857,7 +1857,7 @@
     "example":"1.92 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000515"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000515"
   },
   {
     "mixsId":"MIXS:0000516",
@@ -1869,7 +1869,7 @@
     "example":"0.05 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000516"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000516"
   },
   {
     "mixsId":"MIXS:0000525",
@@ -1881,7 +1881,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000525"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000525"
   },
   {
     "mixsId":"MIXS:0000530",
@@ -1893,7 +1893,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000530"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000530"
   },
   {
     "mixsId":"MIXS:0000533",
@@ -1905,7 +1905,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000533"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000533"
   },
   {
     "mixsId":"MIXS:0000551",
@@ -1917,7 +1917,7 @@
     "example":"25 degree Celsius;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000551"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000551"
   },
   {
     "mixsId":"MIXS:0000553",
@@ -1929,7 +1929,7 @@
     "example":"penicillin;5 milligram;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000553"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000553"
   },
   {
     "mixsId":"MIXS:0000555",
@@ -1941,7 +1941,7 @@
     "example":"nitrous acid;0.5 milligram per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000555"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000555"
   },
   {
     "mixsId":"MIXS:0000556",
@@ -1953,7 +1953,7 @@
     "example":"urea;0.6 milligram per liter;R2/2018-05-11:T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000556"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000556"
   },
   {
     "mixsId":"MIXS:0000557",
@@ -1965,7 +1965,7 @@
     "example":"bifonazole;1 mole per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000557"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000557"
   },
   {
     "mixsId":"MIXS:0000558",
@@ -1977,7 +1977,7 @@
     "example":"nitric oxide;0.5 micromole per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000558"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000558"
   },
   {
     "mixsId":"MIXS:0000559",
@@ -1989,7 +1989,7 @@
     "example":"12 g;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000559"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000559"
   },
   {
     "mixsId":"MIXS:0000560",
@@ -2001,7 +2001,7 @@
     "example":"abscisic acid;0.5 milligram per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000560"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000560"
   },
   {
     "mixsId":"MIXS:0000561",
@@ -2013,7 +2013,7 @@
     "example":"atrazine;10 milligram per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000561"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000561"
   },
   {
     "mixsId":"MIXS:0000567",
@@ -2025,7 +2025,7 @@
     "example":"1500 gram",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000567"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000567"
   },
   {
     "mixsId":"MIXS:0000568",
@@ -2037,7 +2037,7 @@
     "example":"25 gram per cubic meter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000568"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000568"
   },
   {
     "mixsId":"MIXS:0000569",
@@ -2049,7 +2049,7 @@
     "example":"incandescant light;10 lux;450 nanometer",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000569"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000569"
   },
   {
     "mixsId":"MIXS:0000570",
@@ -2061,7 +2061,7 @@
     "example":"potassium;15 gram;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000570"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000570"
   },
   {
     "mixsId":"MIXS:0000571",
@@ -2073,7 +2073,7 @@
     "example":"carbon dioxide;10 mole per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000571"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000571"
   },
   {
     "mixsId":"MIXS:0000573",
@@ -2085,7 +2085,7 @@
     "example":"pyrethrum;0.6 milligram per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000573"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000573"
   },
   {
     "mixsId":"MIXS:0000575",
@@ -2097,7 +2097,7 @@
     "example":"gamma radiation;60 gray;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000575"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000575"
   },
   {
     "mixsId":"MIXS:0000576",
@@ -2109,7 +2109,7 @@
     "example":"15 millimeter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000576"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000576"
   },
   {
     "mixsId":"MIXS:0000577",
@@ -2121,7 +2121,7 @@
     "example":"sucrose",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000577"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000577"
   },
   {
     "mixsId":"MIXS:0000578",
@@ -2133,7 +2133,7 @@
     "example":"KH2PO4;170¬†milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000578"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000578"
   },
   {
     "mixsId":"MIXS:0000579",
@@ -2145,7 +2145,7 @@
     "example":"H3BO3;6.2¬†milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000579"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000579"
   },
   {
     "mixsId":"MIXS:0000580",
@@ -2157,7 +2157,7 @@
     "example":"nicotinic acid;0.5 milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000580"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000580"
   },
   {
     "mixsId":"MIXS:0000581",
@@ -2169,7 +2169,7 @@
     "example":"abscisic acid;0.75 milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000581"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000581"
   },
   {
     "mixsId":"MIXS:0000582",
@@ -2181,7 +2181,7 @@
     "example":"NaCl;5 gram per liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000582"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000582"
   },
   {
     "mixsId":"MIXS:0000590",
@@ -2193,7 +2193,7 @@
     "example":"15 degree Celsius;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000590"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000590"
   },
   {
     "mixsId":"MIXS:0000591",
@@ -2205,7 +2205,7 @@
     "example":"1 liter;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000591"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000591"
   },
   {
     "mixsId":"MIXS:0000634",
@@ -2217,7 +2217,7 @@
     "example":"500 meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000634"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000634"
   },
   {
     "mixsId":"MIXS:0000653",
@@ -2229,7 +2229,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000653"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000653"
   },
   {
     "mixsId":"MIXS:0000656",
@@ -2241,7 +2241,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000656"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000656"
   },
   {
     "mixsId":"MIXS:0000657",
@@ -2253,7 +2253,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000657"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000657"
   },
   {
     "mixsId":"MIXS:0000660",
@@ -2265,7 +2265,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000660"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000660"
   },
   {
     "mixsId":"MIXS:0000661",
@@ -2277,7 +2277,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000661"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000661"
   },
   {
     "mixsId":"MIXS:0000662",
@@ -2289,7 +2289,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000662"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000662"
   },
   {
     "mixsId":"MIXS:0000664",
@@ -2301,7 +2301,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000664"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000664"
   },
   {
     "mixsId":"MIXS:0000665",
@@ -2313,7 +2313,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000665"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000665"
   },
   {
     "mixsId":"MIXS:0000669",
@@ -2325,7 +2325,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000669"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000669"
   },
   {
     "mixsId":"MIXS:0000672",
@@ -2337,7 +2337,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000672"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000672"
   },
   {
     "mixsId":"MIXS:0000673",
@@ -2349,7 +2349,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000673"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000673"
   },
   {
     "mixsId":"MIXS:0000683",
@@ -2361,7 +2361,7 @@
     "example":"5 milligram per cubic meter per day",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000683"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000683"
   },
   {
     "mixsId":"MIXS:0000684",
@@ -2373,7 +2373,7 @@
     "example":"300 micromole oxygen per liter per hour",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000684"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000684"
   },
   {
     "mixsId":"MIXS:0000689",
@@ -2385,7 +2385,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000689"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000689"
   },
   {
     "mixsId":"MIXS:0000692",
@@ -2397,7 +2397,7 @@
     "example":"10 milliSiemens per centimeter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000692"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000692"
   },
   {
     "mixsId":"MIXS:0000698",
@@ -2409,7 +2409,7 @@
     "example":"761 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000698"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000698"
   },
   {
     "mixsId":"MIXS:0000703",
@@ -2421,7 +2421,7 @@
     "example":"28.71 microEinstein per square meter per second",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000703"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000703"
   },
   {
     "mixsId":"MIXS:0000704",
@@ -2433,7 +2433,7 @@
     "example":"2.5 volts",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000704"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000704"
   },
   {
     "mixsId":"MIXS:0000706",
@@ -2445,7 +2445,7 @@
     "example":"0.3 lux",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000706"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000706"
   },
   {
     "mixsId":"MIXS:0000719",
@@ -2457,7 +2457,7 @@
     "example":"0.3 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000719"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000719"
   },
   {
     "mixsId":"MIXS:0000725",
@@ -2469,7 +2469,7 @@
     "example":"3.926 micromole photons per second per square meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000725"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000725"
   },
   {
     "mixsId":"MIXS:0000728",
@@ -2481,7 +2481,7 @@
     "example":"100 milligram per cubic meter per day",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000728"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000728"
   },
   {
     "mixsId":"MIXS:0000735",
@@ -2493,7 +2493,7 @@
     "example":"0.2 micrometer",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000735"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000735"
   },
   {
     "mixsId":"MIXS:0000736",
@@ -2505,7 +2505,7 @@
     "example":"20 micrometer",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000736"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000736"
   },
   {
     "mixsId":"MIXS:0000738",
@@ -2517,7 +2517,7 @@
     "example":"0.1 milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000738"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000738"
   },
   {
     "mixsId":"MIXS:0000741",
@@ -2529,7 +2529,7 @@
     "example":"0.5 milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000741"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000741"
   },
   {
     "mixsId":"MIXS:0000744",
@@ -2541,7 +2541,7 @@
     "example":"40 microgram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000744"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000744"
   },
   {
     "mixsId":"MIXS:0000745",
@@ -2553,7 +2553,7 @@
     "example":"40 microgram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000745"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000745"
   },
   {
     "mixsId":"MIXS:0000747",
@@ -2565,7 +2565,7 @@
     "example":"35 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000747"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000747"
   },
   {
     "mixsId":"MIXS:0000751",
@@ -2577,7 +2577,7 @@
     "example":"agar [CHEBI:2509];2018-05-11T20:00Z",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000751"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000751"
   },
   {
     "mixsId":"MIXS:0000752",
@@ -2589,7 +2589,7 @@
     "example":"Bicarbonate ion concentration;2075 micromole per kilogram",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000752"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000752"
   },
   {
     "mixsId":"MIXS:0000753",
@@ -2601,7 +2601,7 @@
     "example":"aerobic",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000753"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000753"
   },
   {
     "mixsId":"MIXS:0000754",
@@ -2613,7 +2613,7 @@
     "example":"antibiotic addition;R2/2018-05-11T14:30Z/2018-05-11T19:30Z/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000754"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000754"
   },
   {
     "mixsId":"MIXS:0000755",
@@ -2625,7 +2625,7 @@
     "example":"Freezer no:5",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000755"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000755"
   },
   {
     "mixsId":"MIXS:0000756",
@@ -2637,7 +2637,7 @@
     "example":"Operable windows",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000756"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000756"
   },
   {
     "mixsId":"MIXS:0000757",
@@ -2649,7 +2649,7 @@
     "example":"Northwest",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000757"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000757"
   },
   {
     "mixsId":"MIXS:0000758",
@@ -2661,7 +2661,7 @@
     "example":"wood",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000758"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000758"
   },
   {
     "mixsId":"MIXS:0000965",
@@ -2673,7 +2673,7 @@
     "example":"43231",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000965"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000965"
   },
   {
     "mixsId":"MIXS:0000988",
@@ -2685,7 +2685,7 @@
     "example":"Oil Sand",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000988"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000988"
   },
   {
     "mixsId":"MIXS:0001038",
@@ -2697,7 +2697,7 @@
     "example":"sample inoculated with Rhizobium spp. Culture",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001038"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001038"
   },
   {
     "mixsId":"MIXS:0001040",
@@ -2709,7 +2709,7 @@
     "example":"tropical climate;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001040"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001040"
   },
   {
     "mixsId":"MIXS:0001041",
@@ -2721,7 +2721,7 @@
     "example":"http://himedialabs.com/TD/PT158.pdf",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001041"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001041"
   },
   {
     "mixsId":"MIXS:0001043",
@@ -2733,7 +2733,7 @@
     "example":"Growth chamber [CO_715:0000189]",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001043"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001043"
   },
   {
     "mixsId":"MIXS:0001044",
@@ -2745,7 +2745,7 @@
     "example":"spreading",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001044"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001044"
   },
   {
     "mixsId":"MIXS:0001052",
@@ -2757,7 +2757,7 @@
     "example":"pruning;bark",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001052"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001052"
   },
   {
     "mixsId":"MIXS:0001056",
@@ -2769,7 +2769,7 @@
     "example":"7.6;R2/2018-05-11:T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001056"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001056"
   },
   {
     "mixsId":"MIXS:0001057",
@@ -2781,7 +2781,7 @@
     "example":"hydroponic plant culture media [EO:0007067]",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001057"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001057"
   },
   {
     "mixsId":"MIXS:0001058",
@@ -2793,7 +2793,7 @@
     "example":"xylem sap [PO:0025539]",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001058"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001058"
   },
   {
     "mixsId":"MIXS:0001059",
@@ -2805,7 +2805,7 @@
     "example":"Hermaphroditic",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001059"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001059"
   },
   {
     "mixsId":"MIXS:0001060",
@@ -2817,7 +2817,7 @@
     "example":"epidermis [PO:0005679]",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001060"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001060"
   },
   {
     "mixsId":"MIXS:0001061",
@@ -2829,7 +2829,7 @@
     "example":"http://himedialabs.com/TD/PT158.pdf",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001061"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001061"
   },
   {
     "mixsId":"MIXS:0001062",
@@ -2841,7 +2841,7 @@
     "example":"7.5",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001062"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001062"
   },
   {
     "mixsId":"MIXS:0001063",
@@ -2853,7 +2853,7 @@
     "example":"agar",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001063"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001063"
   },
   {
     "mixsId":"MIXS:0001068",
@@ -2865,7 +2865,7 @@
     "example":"rainy;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001068"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001068"
   },
   {
     "mixsId":"MIXS:0001069",
@@ -2877,7 +2877,7 @@
     "example":"standing water;R2/2018-05-11T14:30/2018-05-11T19:30/P1H30M",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001069"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001069"
   },
   {
     "mixsId":"MIXS:0001070",
@@ -2889,7 +2889,7 @@
     "example":"https://link.springer.com/content/pdf/10.1007/BF02796489.pdf",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001070"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001070"
   },
   {
     "mixsId":"MIXS:0001078",
@@ -2901,7 +2901,7 @@
     "example":"biogenous",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001078"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001078"
   },
   {
     "mixsId":"MIXS:0001079",
@@ -2913,7 +2913,7 @@
     "example":"high tide",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001079"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001079"
   },
   {
     "mixsId":"MIXS:0001080",
@@ -2925,7 +2925,7 @@
     "example":"conifers",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001080"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001080"
   },
   {
     "mixsId":"MIXS:0001097",
@@ -2937,7 +2937,7 @@
     "example":"wind speed;9 knots",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001097"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001097"
   },
   {
     "mixsId":"MIXS:0000282",
@@ -2949,7 +2949,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000282"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000282"
   },
   {
     "mixsId":"MIXS:0000285",
@@ -2961,7 +2961,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000285"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000285"
   },
   {
     "mixsId":"MIXS:0000312",
@@ -2973,7 +2973,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000312"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000312"
   },
   {
     "mixsId":"MIXS:0000759",
@@ -2985,7 +2985,7 @@
     "example":"radon",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000759"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000759"
   },
   {
     "mixsId":"MIXS:0000858",
@@ -2997,7 +2997,7 @@
     "example":"natural",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000858"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000858"
   },
   {
     "mixsId":"MIXS:0000924",
@@ -3009,7 +3009,7 @@
     "example":"P2H45M",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000924"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000924"
   },
   {
     "mixsId":"MIXS:0000943",
@@ -3021,7 +3021,7 @@
     "example":"P1D",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000943"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000943"
   },
   {
     "mixsId":"MIXS:0000989",
@@ -3033,7 +3033,7 @@
     "example":"Gas",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000989"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000989"
   },
   {
     "mixsId":"MIXS:0000121",
@@ -3045,7 +3045,7 @@
     "example":"0.8",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000121"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000121"
   },
   {
     "mixsId":"MIXS:0000290",
@@ -3057,7 +3057,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000290"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000290"
   },
   {
     "mixsId":"MIXS:0000314",
@@ -3069,7 +3069,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000314"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000314"
   },
   {
     "mixsId":"MIXS:0000859",
@@ -3081,7 +3081,7 @@
     "example":"aox1A transgenic",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000859"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000859"
   },
   {
     "mixsId":"MIXS:0000905",
@@ -3093,7 +3093,7 @@
     "example":"other:vegan",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000905"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000905"
   },
   {
     "mixsId":"MIXS:0000944",
@@ -3105,7 +3105,7 @@
     "example":"right",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000944"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000944"
   },
   {
     "mixsId":"MIXS:0000966",
@@ -3117,7 +3117,7 @@
     "example":"43231",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000966"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000966"
   },
   {
     "mixsId":"MIXS:0000122",
@@ -3129,7 +3129,7 @@
     "example":"9 gram per gram",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000122"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000122"
   },
   {
     "mixsId":"MIXS:0000248",
@@ -3141,7 +3141,7 @@
     "example":"mussel",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000248"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000248"
   },
   {
     "mixsId":"MIXS:0000291",
@@ -3153,7 +3153,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000291"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000291"
   },
   {
     "mixsId":"MIXS:0000315",
@@ -3165,7 +3165,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000315"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000315"
   },
   {
     "mixsId":"MIXS:0000967",
@@ -3177,7 +3177,7 @@
     "example":"43231",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000967"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000967"
   },
   {
     "mixsId":"MIXS:0000123",
@@ -3189,7 +3189,7 @@
     "example":"0.1",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000123"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000123"
   },
   {
     "mixsId":"MIXS:0000286",
@@ -3201,7 +3201,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000286"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000286"
   },
   {
     "mixsId":"MIXS:0000316",
@@ -3213,7 +3213,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000316"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000316"
   },
   {
     "mixsId":"MIXS:0000554",
@@ -3225,7 +3225,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000554"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000554"
   },
   {
     "mixsId":"MIXS:0000860",
@@ -3237,7 +3237,7 @@
     "example":"farm sample",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000860"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000860"
   },
   {
     "mixsId":"MIXS:0000884",
@@ -3249,7 +3249,7 @@
     "example":"810",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000884"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000884"
   },
   {
     "mixsId":"MIXS:0000124",
@@ -3261,7 +3261,7 @@
     "example":"20 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000124"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000124"
   },
   {
     "mixsId":"MIXS:0000249",
@@ -3273,7 +3273,7 @@
     "example":"infection",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000249"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000249"
   },
   {
     "mixsId":"MIXS:0000318",
@@ -3285,7 +3285,7 @@
     "example":"yes;R2/2017-01-01/2018-12-31/P6M",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000318"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000318"
   },
   {
     "mixsId":"MIXS:0000393",
@@ -3297,7 +3297,7 @@
     "example":"150-295 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000393"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000393"
   },
   {
     "mixsId":"MIXS:0000968",
@@ -3309,7 +3309,7 @@
     "example":"43231",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000968"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000968"
   },
   {
     "mixsId":"MIXS:0000125",
@@ -3321,7 +3321,7 @@
     "example":"15 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000125"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000125"
   },
   {
     "mixsId":"MIXS:0000250",
@@ -3333,7 +3333,7 @@
     "example":"7955",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000250"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000250"
   },
   {
     "mixsId":"MIXS:0000394",
@@ -3345,7 +3345,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000394"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000394"
   },
   {
     "mixsId":"MIXS:0000639",
@@ -3357,7 +3357,7 @@
     "example":"roundup;5 milligram per liter;2018-06-21",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000639"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000639"
   },
   {
     "mixsId":"MIXS:0000969",
@@ -3369,7 +3369,7 @@
     "example":"43231",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000969"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000969"
   },
   {
     "mixsId":"MIXS:0000287",
@@ -3381,7 +3381,7 @@
     "example":"no",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000287"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000287"
   },
   {
     "mixsId":"MIXS:0000395",
@@ -3393,7 +3393,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000395"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000395"
   },
   {
     "mixsId":"MIXS:0000760",
@@ -3405,7 +3405,7 @@
     "example":"7",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000760"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000760"
   },
   {
     "mixsId":"MIXS:0000861",
@@ -3417,7 +3417,7 @@
     "example":"MPI123",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000861"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000861"
   },
   {
     "mixsId":"MIXS:0001081",
@@ -3429,7 +3429,7 @@
     "example":"chisel",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001081"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001081"
   },
   {
     "mixsId":"MIXS:0000255",
@@ -3441,7 +3441,7 @@
     "example":"10 days",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000255"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000255"
   },
   {
     "mixsId":"MIXS:0000288",
@@ -3453,7 +3453,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000288"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000288"
   },
   {
     "mixsId":"MIXS:0000397",
@@ -3465,7 +3465,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000397"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000397"
   },
   {
     "mixsId":"MIXS:0000761",
@@ -3477,7 +3477,7 @@
     "example":"market",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000761"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000761"
   },
   {
     "mixsId":"MIXS:0001086",
@@ -3489,7 +3489,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001086"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001086"
   },
   {
     "mixsId":"MIXS:0000128",
@@ -3501,7 +3501,7 @@
     "example":"0.01 gram per square meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000128"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000128"
   },
   {
     "mixsId":"MIXS:0000251",
@@ -3513,7 +3513,7 @@
     "example":"adult",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000251"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000251"
   },
   {
     "mixsId":"MIXS:0000289",
@@ -3525,7 +3525,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000289"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000289"
   },
   {
     "mixsId":"MIXS:0000319",
@@ -3537,7 +3537,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000319"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000319"
   },
   {
     "mixsId":"MIXS:0000404",
@@ -3549,7 +3549,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000404"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000404"
   },
   {
     "mixsId":"MIXS:0000129",
@@ -3561,7 +3561,7 @@
     "example":"22 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000129"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000129"
   },
   {
     "mixsId":"MIXS:0000320",
@@ -3573,7 +3573,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000320"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000320"
   },
   {
     "mixsId":"MIXS:0000403",
@@ -3585,7 +3585,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000403"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000403"
   },
   {
     "mixsId":"MIXS:0000862",
@@ -3597,7 +3597,7 @@
     "example":"female",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000862"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000862"
   },
   {
     "mixsId":"MIXS:0000864",
@@ -3609,7 +3609,7 @@
     "example":"rabies [DOID:11260]",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000864"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000864"
   },
   {
     "mixsId":"MIXS:0000990",
@@ -3621,7 +3621,7 @@
     "example":"Volcanic",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000990"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000990"
   },
   {
     "mixsId":"MIXS:0001082",
@@ -3633,7 +3633,7 @@
     "example":"A horizon",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001082"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001082"
   },
   {
     "mixsId":"MIXS:0000321",
@@ -3645,7 +3645,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000321"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000321"
   },
   {
     "mixsId":"MIXS:0000992",
@@ -3657,7 +3657,7 @@
     "example":"Continental - Alluvial",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000992"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000992"
   },
   {
     "mixsId":"MIXS:0000866",
@@ -3669,7 +3669,7 @@
     "example":"nasopharynx",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000866"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000866"
   },
   {
     "mixsId":"MIXS:0000993",
@@ -3681,7 +3681,7 @@
     "example":"Silurian",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000993"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000993"
   },
   {
     "mixsId":"MIXS:0000405",
@@ -3693,7 +3693,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000405"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000405"
   },
   {
     "mixsId":"MIXS:0000763",
@@ -3705,7 +3705,7 @@
     "example":"foyer",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000763"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000763"
   },
   {
     "mixsId":"MIXS:0000867",
@@ -3717,7 +3717,7 @@
     "example":"gill [UBERON:0002535]",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000867"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000867"
   },
   {
     "mixsId":"MIXS:0000323",
@@ -3729,7 +3729,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000323"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000323"
   },
   {
     "mixsId":"MIXS:0000406",
@@ -3741,7 +3741,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000406"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000406"
   },
   {
     "mixsId":"MIXS:0000764",
@@ -3753,7 +3753,7 @@
     "example":"wall",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000764"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000764"
   },
   {
     "mixsId":"MIXS:0000868",
@@ -3765,7 +3765,7 @@
     "example":"Portion of mucus [fma66938]",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000868"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000868"
   },
   {
     "mixsId":"MIXS:0000262",
@@ -3777,7 +3777,7 @@
     "example":"yes",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000262"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000262"
   },
   {
     "mixsId":"MIXS:0000263",
@@ -3789,7 +3789,7 @@
     "example":"2500 gram",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000263"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000263"
   },
   {
     "mixsId":"MIXS:0000407",
@@ -3801,7 +3801,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000407"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000407"
   },
   {
     "mixsId":"MIXS:0000765",
@@ -3813,7 +3813,7 @@
     "example":"HEPA",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000765"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000765"
   },
   {
     "mixsId":"MIXS:0000264",
@@ -3825,7 +3825,7 @@
     "example":"0.1 meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000264"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000264"
   },
   {
     "mixsId":"MIXS:0000265",
@@ -3837,7 +3837,7 @@
     "example":"yes;yes",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000265"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000265"
   },
   {
     "mixsId":"MIXS:0000325",
@@ -3849,7 +3849,7 @@
     "example":"yes;5",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000325"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000325"
   },
   {
     "mixsId":"MIXS:0000408",
@@ -3861,7 +3861,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000408"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000408"
   },
   {
     "mixsId":"MIXS:0000766",
@@ -3873,7 +3873,7 @@
     "example":"heat pump",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000766"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000766"
   },
   {
     "mixsId":"MIXS:0000256",
@@ -3885,7 +3885,7 @@
     "example":"1 meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000256"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000256"
   },
   {
     "mixsId":"MIXS:0000327",
@@ -3897,7 +3897,7 @@
     "example":"-20 degree Celsius freezer;P2Y10D",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000327"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000327"
   },
   {
     "mixsId":"MIXS:0000767",
@@ -3909,7 +3909,7 @@
     "example":"basement",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000767"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000767"
   },
   {
     "mixsId":"MIXS:0000894",
@@ -3921,7 +3921,7 @@
     "example":"Lipitor;2/day",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000894"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000894"
   },
   {
     "mixsId":"MIXS:0000994",
@@ -3933,7 +3933,7 @@
     "example":"Type IV",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000994"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000994"
   },
   {
     "mixsId":"MIXS:0000317",
@@ -3945,7 +3945,7 @@
     "example":"22 kilogram per square meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000317"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000317"
   },
   {
     "mixsId":"MIXS:0000328",
@@ -3957,7 +3957,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000328"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000328"
   },
   {
     "mixsId":"MIXS:0000768",
@@ -3969,7 +3969,7 @@
     "example":"rural",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000768"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000768"
   },
   {
     "mixsId":"MIXS:0000869",
@@ -3981,7 +3981,7 @@
     "example":"herbivore",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000869"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000869"
   },
   {
     "mixsId":"MIXS:0000995",
@@ -3993,7 +3993,7 @@
     "example":"Coal",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000995"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000995"
   },
   {
     "mixsId":"MIXS:0000266",
@@ -4005,7 +4005,7 @@
     "example":"yes;vegetarian diet",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000266"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000266"
   },
   {
     "mixsId":"MIXS:0000642",
@@ -4017,7 +4017,7 @@
     "example":"12.5 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000642"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000642"
   },
   {
     "mixsId":"MIXS:0000769",
@@ -4029,7 +4029,7 @@
     "example":"desk lamp",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000769"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000769"
   },
   {
     "mixsId":"MIXS:0000870",
@@ -4041,7 +4041,7 @@
     "example":"corn feed;P2H",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000870"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000870"
   },
   {
     "mixsId":"MIXS:0000996",
@@ -4053,7 +4053,7 @@
     "example":"Marine",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000996"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000996"
   },
   {
     "mixsId":"MIXS:0000216",
@@ -4065,7 +4065,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000216"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000216"
   },
   {
     "mixsId":"MIXS:0000295",
@@ -4077,7 +4077,7 @@
     "example":"yes;5 kilogram",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000295"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000295"
   },
   {
     "mixsId":"MIXS:0000643",
@@ -4089,7 +4089,7 @@
     "example":"18 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000643"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000643"
   },
   {
     "mixsId":"MIXS:0000871",
@@ -4101,7 +4101,7 @@
     "example":"https://academic.oup.com/icesjms/article/68/2/349/617247",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000871"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000871"
   },
   {
     "mixsId":"MIXS:0000997",
@@ -4113,7 +4113,7 @@
     "example":"Silurian",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000997"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000997"
   },
   {
     "mixsId":"MIXS:0000252",
@@ -4125,7 +4125,7 @@
     "example":"rock",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000252"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000252"
   },
   {
     "mixsId":"MIXS:0000644",
@@ -4137,7 +4137,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000644"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000644"
   },
   {
     "mixsId":"MIXS:0000770",
@@ -4149,7 +4149,7 @@
     "example":"typically occupied",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000770"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000770"
   },
   {
     "mixsId":"MIXS:0000895",
@@ -4161,7 +4161,7 @@
     "example":"caucasian",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000895"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000895"
   },
   {
     "mixsId":"MIXS:0001008",
@@ -4173,7 +4173,7 @@
     "example":"43231",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001008"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001008"
   },
   {
     "mixsId":"MIXS:0000452",
@@ -4185,7 +4185,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000452"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000452"
   },
   {
     "mixsId":"MIXS:0000645",
@@ -4197,7 +4197,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000645"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000645"
   },
   {
     "mixsId":"MIXS:0000771",
@@ -4209,7 +4209,7 @@
     "example":"25",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000771"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000771"
   },
   {
     "mixsId":"MIXS:0000872",
@@ -4221,7 +4221,7 @@
     "example":"offspring;Mussel25",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000872"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000872"
   },
   {
     "mixsId":"MIXS:0000896",
@@ -4233,7 +4233,7 @@
     "example":"veterinary",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000896"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000896"
   },
   {
     "mixsId":"MIXS:0000253",
@@ -4245,7 +4245,7 @@
     "example":"borealis",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000253"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000253"
   },
   {
     "mixsId":"MIXS:0000267",
@@ -4257,7 +4257,7 @@
     "example":"yes; 5 cats",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000267"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000267"
   },
   {
     "mixsId":"MIXS:0000329",
@@ -4269,7 +4269,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000329"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000329"
   },
   {
     "mixsId":"MIXS:0000453",
@@ -4281,7 +4281,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000453"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000453"
   },
   {
     "mixsId":"MIXS:0000772",
@@ -4293,7 +4293,7 @@
     "example":"10",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000772"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000772"
   },
   {
     "mixsId":"MIXS:0000217",
@@ -4305,7 +4305,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000217"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000217"
   },
   {
     "mixsId":"MIXS:0000254",
@@ -4317,7 +4317,7 @@
     "example":"subspecies",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000254"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000254"
   },
   {
     "mixsId":"MIXS:0000268",
@@ -4329,7 +4329,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000268"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000268"
   },
   {
     "mixsId":"MIXS:0000454",
@@ -4341,7 +4341,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000454"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000454"
   },
   {
     "mixsId":"MIXS:0001083",
@@ -4353,7 +4353,7 @@
     "example":"Luvisols",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001083"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001083"
   },
   {
     "mixsId":"MIXS:0000218",
@@ -4365,7 +4365,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000218"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000218"
   },
   {
     "mixsId":"MIXS:0000326",
@@ -4377,7 +4377,7 @@
     "example":"yes",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000326"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000326"
   },
   {
     "mixsId":"MIXS:0000330",
@@ -4389,7 +4389,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000330"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000330"
   },
   {
     "mixsId":"MIXS:0000455",
@@ -4401,7 +4401,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000455"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000455"
   },
   {
     "mixsId":"MIXS:0000873",
@@ -4413,7 +4413,7 @@
     "example":"C57BL/6",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000873"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000873"
   },
   {
     "mixsId":"MIXS:0000219",
@@ -4425,7 +4425,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000219"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000219"
   },
   {
     "mixsId":"MIXS:0000331",
@@ -4437,7 +4437,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000331"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000331"
   },
   {
     "mixsId":"MIXS:0000874",
@@ -4449,7 +4449,7 @@
     "example":"elongated [PATO:0001154]",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000874"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000874"
   },
   {
     "mixsId":"MIXS:0000897",
@@ -4461,7 +4461,7 @@
     "example":"TRUE",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000897"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000897"
   },
   {
     "mixsId":"MIXS:0001009",
@@ -4473,7 +4473,7 @@
     "example":"Polymer Addition;2018-06-21T14:30Z",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001009"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001009"
   },
   {
     "mixsId":"MIXS:0000274",
@@ -4485,7 +4485,7 @@
     "example":"15 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000274"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000274"
   },
   {
     "mixsId":"MIXS:0000332",
@@ -4497,7 +4497,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000332"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000332"
   },
   {
     "mixsId":"MIXS:0000773",
@@ -4509,7 +4509,7 @@
     "example":"plane",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000773"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000773"
   },
   {
     "mixsId":"MIXS:0000898",
@@ -4521,7 +4521,7 @@
     "example":"no;non-compliance",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000898"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000898"
   },
   {
     "mixsId":"MIXS:0001010",
@@ -4533,7 +4533,7 @@
     "example":"43231",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001010"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001010"
   },
   {
     "mixsId":"MIXS:0000140",
@@ -4545,7 +4545,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000140"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000140"
   },
   {
     "mixsId":"MIXS:0000257",
@@ -4557,7 +4557,7 @@
     "example":"500 gram",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000257"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000257"
   },
   {
     "mixsId":"MIXS:0000269",
@@ -4569,7 +4569,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000269"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000269"
   },
   {
     "mixsId":"MIXS:0000334",
@@ -4581,7 +4581,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000334"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000334"
   },
   {
     "mixsId":"MIXS:0001011",
@@ -4593,7 +4593,7 @@
     "example":"ALPHA 1427;Baker Hughes;2008-01-23",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001011"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001011"
   },
   {
     "mixsId":"MIXS:0000258",
@@ -4605,7 +4605,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000258"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000258"
   },
   {
     "mixsId":"MIXS:0000270",
@@ -4617,7 +4617,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000270"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000270"
   },
   {
     "mixsId":"MIXS:0000456",
@@ -4629,7 +4629,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000456"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000456"
   },
   {
     "mixsId":"MIXS:0000646",
@@ -4641,7 +4641,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000646"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000646"
   },
   {
     "mixsId":"MIXS:0000774",
@@ -4653,7 +4653,7 @@
     "example":"shed",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000774"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000774"
   },
   {
     "mixsId":"MIXS:0000259",
@@ -4665,7 +4665,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000259"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000259"
   },
   {
     "mixsId":"MIXS:0000271",
@@ -4677,7 +4677,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000271"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000271"
   },
   {
     "mixsId":"MIXS:0000647",
@@ -4689,7 +4689,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000647"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000647"
   },
   {
     "mixsId":"MIXS:0000775",
@@ -4701,7 +4701,7 @@
     "example":"2",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000775"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000775"
   },
   {
     "mixsId":"MIXS:0001012",
@@ -4713,7 +4713,7 @@
     "example":"ACCENT 1125;DOW;2010-11-17",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001012"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001012"
   },
   {
     "mixsId":"MIXS:0000141",
@@ -4725,7 +4725,7 @@
     "example":"25.5 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000141"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000141"
   },
   {
     "mixsId":"MIXS:0000260",
@@ -4737,7 +4737,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000260"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000260"
   },
   {
     "mixsId":"MIXS:0000457",
@@ -4749,7 +4749,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000457"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000457"
   },
   {
     "mixsId":"MIXS:0001084",
@@ -4761,7 +4761,7 @@
     "example":"summit",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001084"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001084"
   },
   {
     "mixsId":"MIXS:0000136",
@@ -4773,7 +4773,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000136"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000136"
   },
   {
     "mixsId":"MIXS:0000142",
@@ -4785,7 +4785,7 @@
     "example":"12.5 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000142"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000142"
   },
   {
     "mixsId":"MIXS:0000261",
@@ -4797,7 +4797,7 @@
     "example":"round",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000261"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000261"
   },
   {
     "mixsId":"MIXS:0001085",
@@ -4809,7 +4809,7 @@
     "example":"well",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001085"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001085"
   },
   {
     "mixsId":"MIXS:0000296",
@@ -4821,7 +4821,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000296"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000296"
   },
   {
     "mixsId":"MIXS:0000333",
@@ -4833,7 +4833,7 @@
     "example":"65 beats per minute",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000333"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000333"
   },
   {
     "mixsId":"MIXS:0000335",
@@ -4845,7 +4845,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000335"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000335"
   },
   {
     "mixsId":"MIXS:0000776",
@@ -4857,7 +4857,7 @@
     "example":"1",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000776"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000776"
   },
   {
     "mixsId":"MIXS:0000875",
@@ -4869,7 +4869,7 @@
     "example":"yes;due date:2018-05-11",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000875"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000875"
   },
   {
     "mixsId":"MIXS:0000272",
@@ -4881,7 +4881,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000272"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000272"
   },
   {
     "mixsId":"MIXS:0000297",
@@ -4893,7 +4893,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000297"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000297"
   },
   {
     "mixsId":"MIXS:0000336",
@@ -4905,7 +4905,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000336"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000336"
   },
   {
     "mixsId":"MIXS:0000777",
@@ -4917,7 +4917,7 @@
     "example":"2",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000777"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000777"
   },
   {
     "mixsId":"MIXS:0000145",
@@ -4929,7 +4929,7 @@
     "example":"15",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000145"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000145"
   },
   {
     "mixsId":"MIXS:0000273",
@@ -4941,7 +4941,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000273"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000273"
   },
   {
     "mixsId":"MIXS:0000998",
@@ -4953,7 +4953,7 @@
     "example":"solid deposit",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000998"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000998"
   },
   {
     "mixsId":"MIXS:0000275",
@@ -4965,7 +4965,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000275"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000275"
   },
   {
     "mixsId":"MIXS:0000778",
@@ -4977,7 +4977,7 @@
     "example":"rural",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000778"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000778"
   },
   {
     "mixsId":"MIXS:0000999",
@@ -4989,7 +4989,7 @@
     "example":"biofilm",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000999"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000999"
   },
   {
     "mixsId":"MIXS:0001106",
@@ -5001,7 +5001,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001106"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001106"
   },
   {
     "mixsId":"MIXS:0000276",
@@ -5013,7 +5013,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000276"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000276"
   },
   {
     "mixsId":"MIXS:0000721",
@@ -5025,7 +5025,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000721"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000721"
   },
   {
     "mixsId":"MIXS:0001015",
@@ -5037,7 +5037,7 @@
     "example":"well",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001015"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001015"
   },
   {
     "mixsId":"MIXS:0000148",
@@ -5049,7 +5049,7 @@
     "example":"25 square meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000148"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000148"
   },
   {
     "mixsId":"MIXS:0000277",
@@ -5061,7 +5061,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000277"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000277"
   },
   {
     "mixsId":"MIXS:0000337",
@@ -5073,7 +5073,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000337"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000337"
   },
   {
     "mixsId":"MIXS:0000278",
@@ -5085,7 +5085,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000278"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000278"
   },
   {
     "mixsId":"MIXS:0000412",
@@ -5097,7 +5097,7 @@
     "example":"50 atmosphere",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000412"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000412"
   },
   {
     "mixsId":"MIXS:0000779",
@@ -5109,7 +5109,7 @@
     "example":"damaged",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000779"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000779"
   },
   {
     "mixsId":"MIXS:0000338",
@@ -5121,7 +5121,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000338"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000338"
   },
   {
     "mixsId":"MIXS:0000409",
@@ -5133,7 +5133,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000409"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000409"
   },
   {
     "mixsId":"MIXS:0000780",
@@ -5145,7 +5145,7 @@
     "example":"stucco",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000780"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000780"
   },
   {
     "mixsId":"MIXS:0000413",
@@ -5157,7 +5157,7 @@
     "example":"1534 meter;MSL",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000413"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000413"
   },
   {
     "mixsId":"MIXS:0000650",
@@ -5169,7 +5169,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000650"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000650"
   },
   {
     "mixsId":"MIXS:0000781",
@@ -5181,7 +5181,7 @@
     "example":"presence of mold visible",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000781"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000781"
   },
   {
     "mixsId":"MIXS:0000899",
@@ -5193,7 +5193,7 @@
     "example":"catheter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000899"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000899"
   },
   {
     "mixsId":"MIXS:0000339",
@@ -5205,7 +5205,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000339"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000339"
   },
   {
     "mixsId":"MIXS:0000782",
@@ -5217,7 +5217,7 @@
     "example":"concrete",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000782"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000782"
   },
   {
     "mixsId":"MIXS:0000340",
@@ -5229,7 +5229,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000340"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000340"
   },
   {
     "mixsId":"MIXS:0000783",
@@ -5241,7 +5241,7 @@
     "example":"popcorn",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000783"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000783"
   },
   {
     "mixsId":"MIXS:0000143",
@@ -5253,7 +5253,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000143"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000143"
   },
   {
     "mixsId":"MIXS:0000463",
@@ -5265,7 +5265,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000463"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000463"
   },
   {
     "mixsId":"MIXS:0000651",
@@ -5277,7 +5277,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000651"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000651"
   },
   {
     "mixsId":"MIXS:0000341",
@@ -5289,7 +5289,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000341"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000341"
   },
   {
     "mixsId":"MIXS:0000410",
@@ -5301,7 +5301,7 @@
     "example":"5 days;-20 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000410"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000410"
   },
   {
     "mixsId":"MIXS:0000784",
@@ -5313,7 +5313,7 @@
     "example":"coffered",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000784"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000784"
   },
   {
     "mixsId":"MIXS:0000652",
@@ -5325,7 +5325,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000652"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000652"
   },
   {
     "mixsId":"MIXS:0000785",
@@ -5337,7 +5337,7 @@
     "example":"12345",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000785"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000785"
   },
   {
     "mixsId":"MIXS:0000343",
@@ -5349,7 +5349,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000343"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000343"
   },
   {
     "mixsId":"MIXS:0000786",
@@ -5361,7 +5361,7 @@
     "example":"2018-05-11:T14:30Z",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000786"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000786"
   },
   {
     "mixsId":"MIXS:0000607",
@@ -5373,7 +5373,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000607"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000607"
   },
   {
     "mixsId":"MIXS:0000787",
@@ -5385,7 +5385,7 @@
     "example":"maintenance plans",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000787"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000787"
   },
   {
     "mixsId":"MIXS:0000158",
@@ -5397,7 +5397,7 @@
     "example":"2.5 square meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000158"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000158"
   },
   {
     "mixsId":"MIXS:0000324",
@@ -5409,7 +5409,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000324"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000324"
   },
   {
     "mixsId":"MIXS:0000788",
@@ -5421,7 +5421,7 @@
     "example":"new",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000788"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000788"
   },
   {
     "mixsId":"MIXS:0000099",
@@ -5433,7 +5433,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000099"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000099"
   },
   {
     "mixsId":"MIXS:0000789",
@@ -5445,7 +5445,7 @@
     "example":"inward",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000789"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000789"
   },
   {
     "mixsId":"MIXS:0000790",
@@ -5457,7 +5457,7 @@
     "example":"north",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000790"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000790"
   },
   {
     "mixsId":"MIXS:0001001",
@@ -5469,7 +5469,7 @@
     "example":"7.2",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0001001"
+    "url":"https://w3id.org/gensc/terms/MIXS_0001001"
   },
   {
     "mixsId":"MIXS:0000791",
@@ -5481,7 +5481,7 @@
     "example":"wood",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000791"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000791"
   },
   {
     "mixsId":"MIXS:0000421",
@@ -5493,7 +5493,7 @@
     "example":"50 milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000421"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000421"
   },
   {
     "mixsId":"MIXS:0000792",
@@ -5505,7 +5505,7 @@
     "example":"swinging",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000792"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000792"
   },
   {
     "mixsId":"MIXS:0000298",
@@ -5517,7 +5517,7 @@
     "example":"titration",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000298"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000298"
   },
   {
     "mixsId":"MIXS:0000793",
@@ -5529,7 +5529,7 @@
     "example":"presence of mold visible",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000793"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000793"
   },
   {
     "mixsId":"MIXS:0000423",
@@ -5541,7 +5541,7 @@
     "example":"5 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000423"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000423"
   },
   {
     "mixsId":"MIXS:0000794",
@@ -5553,7 +5553,7 @@
     "example":"wooden",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000794"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000794"
   },
   {
     "mixsId":"MIXS:0000424",
@@ -5565,7 +5565,7 @@
     "example":"2 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000424"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000424"
   },
   {
     "mixsId":"MIXS:0000795",
@@ -5577,7 +5577,7 @@
     "example":"revolving",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000795"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000795"
   },
   {
     "mixsId":"MIXS:0000419",
@@ -5589,7 +5589,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000419"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000419"
   },
   {
     "mixsId":"MIXS:0000796",
@@ -5601,7 +5601,7 @@
     "example":"hollow",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000796"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000796"
   },
   {
     "mixsId":"MIXS:0000425",
@@ -5613,7 +5613,7 @@
     "example":"65 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000425"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000425"
   },
   {
     "mixsId":"MIXS:0000797",
@@ -5625,7 +5625,7 @@
     "example":"battened",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000797"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000797"
   },
   {
     "mixsId":"MIXS:0000426",
@@ -5637,7 +5637,7 @@
     "example":"0.5 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000426"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000426"
   },
   {
     "mixsId":"MIXS:0000798",
@@ -5649,7 +5649,7 @@
     "example":"sketch",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000798"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000798"
   },
   {
     "mixsId":"MIXS:0000427",
@@ -5661,7 +5661,7 @@
     "example":"1.5 milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000427"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000427"
   },
   {
     "mixsId":"MIXS:0000799",
@@ -5673,7 +5673,7 @@
     "example":"2",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000799"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000799"
   },
   {
     "mixsId":"MIXS:0000102",
@@ -5685,7 +5685,7 @@
     "example":"50 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000102"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000102"
   },
   {
     "mixsId":"MIXS:0000800",
@@ -5697,7 +5697,7 @@
     "example":"4",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000800"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000800"
   },
   {
     "mixsId":"MIXS:0000144",
@@ -5709,7 +5709,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000144"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000144"
   },
   {
     "mixsId":"MIXS:0000422",
@@ -5721,7 +5721,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000422"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000422"
   },
   {
     "mixsId":"MIXS:0000220",
@@ -5733,7 +5733,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000220"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000220"
   },
   {
     "mixsId":"MIXS:0000428",
@@ -5745,7 +5745,7 @@
     "example":"10.5 milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000428"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000428"
   },
   {
     "mixsId":"MIXS:0000170",
@@ -5757,7 +5757,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000170"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000170"
   },
   {
     "mixsId":"MIXS:0000429",
@@ -5769,7 +5769,7 @@
     "example":"5000 milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000429"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000429"
   },
   {
     "mixsId":"MIXS:0000430",
@@ -5781,7 +5781,7 @@
     "example":"463 milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000430"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000430"
   },
   {
     "mixsId":"MIXS:0000802",
@@ -5793,7 +5793,7 @@
     "example":"wood burning",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000802"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000802"
   },
   {
     "mixsId":"MIXS:0000164",
@@ -5805,7 +5805,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000164"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000164"
   },
   {
     "mixsId":"MIXS:0000431",
@@ -5817,7 +5817,7 @@
     "example":"52.8 micromole per kilogram",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000431"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000431"
   },
   {
     "mixsId":"MIXS:0000165",
@@ -5829,7 +5829,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000165"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000165"
   },
   {
     "mixsId":"MIXS:0000432",
@@ -5841,7 +5841,7 @@
     "example":"0.2 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000432"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000432"
   },
   {
     "mixsId":"MIXS:0000105",
@@ -5853,7 +5853,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000105"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000105"
   },
   {
     "mixsId":"MIXS:0000803",
@@ -5865,7 +5865,7 @@
     "example":"new",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000803"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000803"
   },
   {
     "mixsId":"MIXS:0000225",
@@ -5877,7 +5877,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000225"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000225"
   },
   {
     "mixsId":"MIXS:0000433",
@@ -5889,7 +5889,7 @@
     "example":"197 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000433"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000433"
   },
   {
     "mixsId":"MIXS:0000434",
@@ -5901,7 +5901,7 @@
     "example":"2059 micromole per kilogram",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000434"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000434"
   },
   {
     "mixsId":"MIXS:0000804",
@@ -5913,7 +5913,7 @@
     "example":"carpet",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000804"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000804"
   },
   {
     "mixsId":"MIXS:0000106",
@@ -5925,7 +5925,7 @@
     "example":"56.5 micromole per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000106"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000106"
   },
   {
     "mixsId":"MIXS:0000805",
@@ -5937,7 +5937,7 @@
     "example":"ceiling discoloration",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000805"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000805"
   },
   {
     "mixsId":"MIXS:0000117",
@@ -5949,7 +5949,7 @@
     "example":"0.03 milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000117"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000117"
   },
   {
     "mixsId":"MIXS:0000806",
@@ -5961,7 +5961,7 @@
     "example":"concrete",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000806"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000806"
   },
   {
     "mixsId":"MIXS:0000166",
@@ -5973,7 +5973,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000166"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000166"
   },
   {
     "mixsId":"MIXS:0000437",
@@ -5985,7 +5985,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"m",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000437"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000437"
   },
   {
     "mixsId":"MIXS:0000226",
@@ -5997,7 +5997,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000226"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000226"
   },
   {
     "mixsId":"MIXS:0000435",
@@ -6009,7 +6009,7 @@
     "example":"1000 kilogram per cubic meter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000435"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000435"
   },
   {
     "mixsId":"MIXS:0000227",
@@ -6021,7 +6021,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000227"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000227"
   },
   {
     "mixsId":"MIXS:0000436",
@@ -6033,7 +6033,7 @@
     "example":"5 milligram per liter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000436"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000436"
   },
   {
     "mixsId":"MIXS:0000438",
@@ -6045,7 +6045,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000438"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000438"
   },
   {
     "mixsId":"MIXS:0000807",
@@ -6057,7 +6057,7 @@
     "example":"chair",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000807"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000807"
   },
   {
     "mixsId":"MIXS:0000439",
@@ -6069,7 +6069,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000439"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000439"
   },
   {
     "mixsId":"MIXS:0000808",
@@ -6081,7 +6081,7 @@
     "example":"male",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000808"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000808"
   },
   {
     "mixsId":"MIXS:0000228",
@@ -6093,7 +6093,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000228"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000228"
   },
   {
     "mixsId":"MIXS:0000440",
@@ -6105,7 +6105,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000440"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000440"
   },
   {
     "mixsId":"MIXS:0000441",
@@ -6117,7 +6117,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000441"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000441"
   },
   {
     "mixsId":"MIXS:0000809",
@@ -6129,7 +6129,7 @@
     "example":"right handedness",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000809"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000809"
   },
   {
     "mixsId":"MIXS:0000442",
@@ -6141,7 +6141,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000442"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000442"
   },
   {
     "mixsId":"MIXS:0000810",
@@ -6153,7 +6153,7 @@
     "example":"north",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000810"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000810"
   },
   {
     "mixsId":"MIXS:0000443",
@@ -6165,7 +6165,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000443"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000443"
   },
   {
     "mixsId":"MIXS:0000812",
@@ -6177,7 +6177,7 @@
     "example":"radiant",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000812"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000812"
   },
   {
     "mixsId":"MIXS:0000444",
@@ -6189,7 +6189,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000444"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000444"
   },
   {
     "mixsId":"MIXS:0000833",
@@ -6201,7 +6201,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000833"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000833"
   },
   {
     "mixsId":"MIXS:0000120",
@@ -6213,7 +6213,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000120"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000120"
   },
   {
     "mixsId":"MIXS:0000167",
@@ -6225,7 +6225,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000167"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000167"
   },
   {
     "mixsId":"MIXS:0000126",
@@ -6237,7 +6237,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000126"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000126"
   },
   {
     "mixsId":"MIXS:0000168",
@@ -6249,7 +6249,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000168"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000168"
   },
   {
     "mixsId":"MIXS:0000127",
@@ -6261,7 +6261,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000127"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000127"
   },
   {
     "mixsId":"MIXS:0000813",
@@ -6273,7 +6273,7 @@
     "example":"damaged",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000813"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000813"
   },
   {
     "mixsId":"MIXS:0000131",
@@ -6285,7 +6285,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000131"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000131"
   },
   {
     "mixsId":"MIXS:0000814",
@@ -6297,7 +6297,7 @@
     "example":"2018-05-11:T14:30Z",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000814"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000814"
   },
   {
     "mixsId":"MIXS:0000133",
@@ -6309,7 +6309,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000133"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000133"
   },
   {
     "mixsId":"MIXS:0000229",
@@ -6321,7 +6321,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000229"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000229"
   },
   {
     "mixsId":"MIXS:0000134",
@@ -6333,7 +6333,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000134"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000134"
   },
   {
     "mixsId":"MIXS:0000815",
@@ -6345,7 +6345,7 @@
     "example":"elevator",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000815"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000815"
   },
   {
     "mixsId":"MIXS:0000135",
@@ -6357,7 +6357,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000135"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000135"
   },
   {
     "mixsId":"MIXS:0000230",
@@ -6369,7 +6369,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000230"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000230"
   },
   {
     "mixsId":"MIXS:0000231",
@@ -6381,7 +6381,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000231"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000231"
   },
   {
     "mixsId":"MIXS:0000232",
@@ -6393,7 +6393,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000232"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000232"
   },
   {
     "mixsId":"MIXS:0000300",
@@ -6405,7 +6405,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000300"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000300"
   },
   {
     "mixsId":"MIXS:0000816",
@@ -6417,7 +6417,7 @@
     "example":"estimate",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000816"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000816"
   },
   {
     "mixsId":"MIXS:0000817",
@@ -6429,7 +6429,7 @@
     "example":"northwest",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000817"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000817"
   },
   {
     "mixsId":"MIXS:0000818",
@@ -6441,7 +6441,7 @@
     "example":"southwest",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000818"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000818"
   },
   {
     "mixsId":"MIXS:0000188",
@@ -6453,7 +6453,7 @@
     "example":"12 per kilogram of air",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000188"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000188"
   },
   {
     "mixsId":"MIXS:0000819",
@@ -6465,7 +6465,7 @@
     "example":"cat;5",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000819"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000819"
   },
   {
     "mixsId":"MIXS:0000820",
@@ -6477,7 +6477,7 @@
     "example":"West side",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000820"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000820"
   },
   {
     "mixsId":"MIXS:0000821",
@@ -6489,7 +6489,7 @@
     "example":"center of car",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000821"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000821"
   },
   {
     "mixsId":"MIXS:0000169",
@@ -6501,7 +6501,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000169"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000169"
   },
   {
     "mixsId":"MIXS:0000233",
@@ -6513,7 +6513,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000233"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000233"
   },
   {
     "mixsId":"MIXS:0000822",
@@ -6525,7 +6525,7 @@
     "example":"new",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000822"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000822"
   },
   {
     "mixsId":"MIXS:0000234",
@@ -6537,7 +6537,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000234"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000234"
   },
   {
     "mixsId":"MIXS:0000192",
@@ -6549,7 +6549,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000192"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000192"
   },
   {
     "mixsId":"MIXS:0000193",
@@ -6561,7 +6561,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000193"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000193"
   },
   {
     "mixsId":"MIXS:0000823",
@@ -6573,7 +6573,7 @@
     "example":"interior room",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000823"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000823"
   },
   {
     "mixsId":"MIXS:0000235",
@@ -6585,7 +6585,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000235"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000235"
   },
   {
     "mixsId":"MIXS:0000194",
@@ -6597,7 +6597,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000194"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000194"
   },
   {
     "mixsId":"MIXS:0000236",
@@ -6609,7 +6609,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000236"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000236"
   },
   {
     "mixsId":"MIXS:0000824",
@@ -6621,7 +6621,7 @@
     "example":"south corner",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000824"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000824"
   },
   {
     "mixsId":"MIXS:0000825",
@@ -6633,7 +6633,7 @@
     "example":"bathroom",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000825"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000825"
   },
   {
     "mixsId":"MIXS:0000195",
@@ -6645,7 +6645,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000195"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000195"
   },
   {
     "mixsId":"MIXS:0000237",
@@ -6657,7 +6657,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000237"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000237"
   },
   {
     "mixsId":"MIXS:0000826",
@@ -6669,7 +6669,7 @@
     "example":"office",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000826"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000826"
   },
   {
     "mixsId":"MIXS:0000238",
@@ -6681,7 +6681,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000238"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000238"
   },
   {
     "mixsId":"MIXS:0000242",
@@ -6693,7 +6693,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000242"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000242"
   },
   {
     "mixsId":"MIXS:0000243",
@@ -6705,7 +6705,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000243"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000243"
   },
   {
     "mixsId":"MIXS:0000827",
@@ -6717,7 +6717,7 @@
     "example":"foggy",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000827"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000827"
   },
   {
     "mixsId":"MIXS:0000828",
@@ -6729,7 +6729,7 @@
     "example":"4th floor",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000828"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000828"
   },
   {
     "mixsId":"MIXS:0000244",
@@ -6741,7 +6741,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000244"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000244"
   },
   {
     "mixsId":"MIXS:0000196",
@@ -6753,7 +6753,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000196"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000196"
   },
   {
     "mixsId":"MIXS:0000829",
@@ -6765,7 +6765,7 @@
     "example":"Summer",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000829"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000829"
   },
   {
     "mixsId":"MIXS:0000830",
@@ -6777,7 +6777,7 @@
     "example":"Winter",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000830"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000830"
   },
   {
     "mixsId":"MIXS:0000831",
@@ -6789,7 +6789,7 @@
     "example":"new",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000831"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000831"
   },
   {
     "mixsId":"MIXS:0000832",
@@ -6801,7 +6801,7 @@
     "example":"exterior",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000832"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000832"
   },
   {
     "mixsId":"MIXS:0000245",
@@ -6813,7 +6813,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000245"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000245"
   },
   {
     "mixsId":"MIXS:0000834",
@@ -6825,7 +6825,7 @@
     "example":"no presence of mold visible",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000834"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000834"
   },
   {
     "mixsId":"MIXS:0000835",
@@ -6837,7 +6837,7 @@
     "example":"slatted aluminum awning",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000835"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000835"
   },
   {
     "mixsId":"MIXS:0000214",
@@ -6849,7 +6849,7 @@
     "example":"15 per kilogram of air",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000214"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000214"
   },
   {
     "mixsId":"MIXS:0000836",
@@ -6861,7 +6861,7 @@
     "example":"construction",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000836"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000836"
   },
   {
     "mixsId":"MIXS:0000197",
@@ -6873,7 +6873,7 @@
     "example":"5 degree Celsius",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000197"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000197"
   },
   {
     "mixsId":"MIXS:0000837",
@@ -6885,7 +6885,7 @@
     "example":"red",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000837"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000837"
   },
   {
     "mixsId":"MIXS:0000838",
@@ -6897,7 +6897,7 @@
     "example":"forest hills",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000838"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000838"
   },
   {
     "mixsId":"MIXS:0000839",
@@ -6909,7 +6909,7 @@
     "example":"end",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000839"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000839"
   },
   {
     "mixsId":"MIXS:0000840",
@@ -6921,7 +6921,7 @@
     "example":"3D scans",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000840"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000840"
   },
   {
     "mixsId":"MIXS:0000198",
@@ -6933,7 +6933,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000198"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000198"
   },
   {
     "mixsId":"MIXS:0000841",
@@ -6945,7 +6945,7 @@
     "example":"fire resistive",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000841"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000841"
   },
   {
     "mixsId":"MIXS:0000842",
@@ -6957,7 +6957,7 @@
     "example":"wood",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000842"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000842"
   },
   {
     "mixsId":"MIXS:0000221",
@@ -6969,7 +6969,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000221"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000221"
   },
   {
     "mixsId":"MIXS:0000843",
@@ -6981,7 +6981,7 @@
     "example":"north",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000843"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000843"
   },
   {
     "mixsId":"MIXS:0000844",
@@ -6993,7 +6993,7 @@
     "example":"no presence of mold visible",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000844"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000844"
   },
   {
     "mixsId":"MIXS:0000845",
@@ -7005,7 +7005,7 @@
     "example":"paneling",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000845"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000845"
   },
   {
     "mixsId":"MIXS:0000846",
@@ -7017,7 +7017,7 @@
     "example":"popcorn",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000846"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000846"
   },
   {
     "mixsId":"MIXS:0000222",
@@ -7029,7 +7029,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000222"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000222"
   },
   {
     "mixsId":"MIXS:0000223",
@@ -7041,7 +7041,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000223"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000223"
   },
   {
     "mixsId":"MIXS:0000847",
@@ -7053,7 +7053,7 @@
     "example":"stream",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000847"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000847"
   },
   {
     "mixsId":"MIXS:0000848",
@@ -7065,7 +7065,7 @@
     "example":"Sunday",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000848"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000848"
   },
   {
     "mixsId":"MIXS:0000224",
@@ -7077,7 +7077,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000224"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000224"
   },
   {
     "mixsId":"MIXS:0000849",
@@ -7089,7 +7089,7 @@
     "example":"rupture",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000849"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000849"
   },
   {
     "mixsId":"MIXS:0000850",
@@ -7101,7 +7101,7 @@
     "example":"curtains",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000850"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000850"
   },
   {
     "mixsId":"MIXS:0000851",
@@ -7113,7 +7113,7 @@
     "example":"middle",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000851"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000851"
   },
   {
     "mixsId":"MIXS:0000852",
@@ -7125,7 +7125,7 @@
     "example":"west",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000852"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000852"
   },
   {
     "mixsId":"MIXS:0000853",
@@ -7137,7 +7137,7 @@
     "example":"wood",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000853"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000853"
   },
   {
     "mixsId":"MIXS:0000246",
@@ -7149,7 +7149,7 @@
     "example":"0",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000246"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000246"
   },
   {
     "mixsId":"MIXS:0000854",
@@ -7161,7 +7161,7 @@
     "example":"no presence of mold visible",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000854"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000854"
   },
   {
     "mixsId":"MIXS:0000855",
@@ -7173,7 +7173,7 @@
     "example":"open",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000855"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000855"
   },
   {
     "mixsId":"MIXS:0000856",
@@ -7185,7 +7185,7 @@
     "example":"fixed window",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000856"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000856"
   },
   {
     "mixsId":"MIXS:0000857",
@@ -7197,6 +7197,6 @@
     "example":"middle",
     "preferredUnit":"",
     "occurence":"1",
-    "url":"https://genomicsstandardsconsortium.github.io/mixs/0000857"
+    "url":"https://w3id.org/gensc/terms/MIXS_0000857"
   } 
 ]
