@@ -23,7 +23,7 @@ If there is not a suitable checklist already available and you are interested in
 
 ## [The Terms](standards/all-terms.html)
 The complete set of terms defined across all of the checklists and packages can be found [here](standards/all-terms.html).
-If you are interested in a specific term or terms, we provide a [simple search](standards/search-terms.html) function to aid you in finding the relevant term(s).
+
 
 
 ## [Legacy](standards/previous-mixs.html)
