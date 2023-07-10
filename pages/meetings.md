@@ -6,7 +6,7 @@
 
 ## **Upcoming meetings:**
 
-*   [GSC23, Bangkok, Thailand, (Date:TBA), 2023](meetings/current.html)
+*   [GSC23, Bangkok, Thailand, (Date:7-11Aug), 2023](meetings/current.html)
 
 ## **Past meetings:**
 
