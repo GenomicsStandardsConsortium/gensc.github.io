@@ -11,6 +11,19 @@ layout: default
 We are now very pleased to announce that the GSC23 meeting is scheduled for Aug 7-11th 2023. Please visit the [GSC23 meeting page](https://genomicsstandardsconsortium.github.io/GSC23-Bangkok/){:target="_blank"} for more details.
 
 
+-----
+
+
+# GSC24 Tucson
+
+24th Genomic Standards Consortium Meeting will begin planning soon. It is intended to be held in 2024 somewhere in Tucson, Arizona, USA.
+
+Watch the [GSC24 meeting page](https://genomicsstandardsconsortium.github.io/GSC24-Tucson/){:target="_blank"} for more details.
+
+
+-----
+
+
 <!--
 ## **Genomic Standards for Precision Medicine, Agriculture, Comparative Genomics, and Metabolomics**
 
