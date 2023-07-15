@@ -60,15 +60,6 @@
 <td>tbd</td>
 </tr>
 <tr>
-<td> <a href="projects/isa-project.html"><img style="vertical-align: top" src="../images/isa-150x150.png" alt="" width="91" height="91" /></a></td>
-<td style="text-align: center;vertical-align: middle">ISA</td>
-<td style="vertical-align: middle">ISA Infrastructure</td>
-<td style="vertical-align: middle"><a href="projects/isa-project.html">Next-generation data sharing software suite based on the ISA-file format &#8211; capable of handling multi-omic data.</a><a href="https://docs.google.com/file/d/0B1V2WmAsn-OkdG1rMUFVbl90M1E/edit?usp=drive_web&amp;pli=1">also available as a G-doc.</a></td>
-<td>Susanna Sansone</td>
-<td>2012 (2003)</td>
-<td>tbd</td>
-</tr>
-<tr>
 <td><a href="projects/mibig-project.html"><img class="alignnone wp-image-479" src="../images/mibig_logo.jpg" alt="mibig1.pdf" width="101" height="49" /></a></td>
 <td style="text-align: center;vertical-align: middle">MiBiG</td>
 <td style="vertical-align: middle">Minimum Information about a Biosynthetic Gene cluster</td>
@@ -163,7 +154,16 @@ End of table
 <td>GSC 18, 2016</td>
 <td>Alignment of terms is ongoing</td>
 </tr>
-/tbody>
+<tr>
+<td> <a href="projects/isa-project.html"><img style="vertical-align: top" src="../images/isa-150x150.png" alt="" width="91" height="91" /></a></td>
+<td style="text-align: center;vertical-align: middle">ISA</td>
+<td style="vertical-align: middle">ISA Infrastructure</td>
+<td style="vertical-align: middle"><a href="projects/isa-project.html">Next-generation data sharing software suite based on the ISA-file format &#8211; capable of handling multi-omic data.</a><a href="https://docs.google.com/file/d/0B1V2WmAsn-OkdG1rMUFVbl90M1E/edit?usp=drive_web&amp;pli=1">also available as a G-doc.</a></td>
+<td>Susanna Sansone</td>
+<td>2012 (2003)</td>
+<td>The ISA metadata format is ongoing</td>
+</tr>
+</tbody>
 </table>
 
 End of table
