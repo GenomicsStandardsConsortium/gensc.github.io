@@ -16,12 +16,12 @@ For a complete list of all announcements and news posts see [here](https://genom
 - {{ post.date | date: "%-d %B %Y" }} - <a href="{{site.url}}{{ post.url }}"> {{ post.title }}</a>
 {% endfor %}
  
- 
+<!-- 
 # Twitter <a href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @genomestandards</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/genomestandards?ref_src=twsrc%5Etfw">Tweets by genomestandards</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<!--
+
 ## Site Map
 * [Home](/)
  * [Meetings pages](pages/meetings.md)
