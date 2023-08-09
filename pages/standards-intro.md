@@ -29,7 +29,7 @@ In addition, the GSC maintain a [GitHub repository](https://github.com/GenomicsS
 You can find all previous versions of the checklists in our [mixs-legacy GitHub](https://github.com/GenomicsStandardsConsortium/mixs-legacy) repository.
 
 
-![mixs-umbrella](../images/mixs-umbrella1.png) **MIxS checklists** - Used to refer to the entire collection of all checklists under the MIxS umbrella.
+![MIxS checklists is a term used to refer to the entire collection of all checklists under the MIxS umbrella.](../images/mixs-umbrella1.png) 
 
 ## Terminology (GSC parlance):
 
