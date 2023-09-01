@@ -78,13 +78,13 @@ Current Board Members
     <td><a href="https://www.linkedin.com/in/joao-carlos-setubal-2015734/" target=_blank>Joao Setubal</a>, University of São Paulo (2022-)</td>
   </tr> 
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="../../images/board/Kasthuri_Venkateswaran-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Ruth_Timme-400x400.jpg" width="200" height="200" /></td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="" target=_blank>TBC</a>, TBC</td>
-    <td><a href="" target=_blank>TBC</a>, TBC</td>
+    <td><a href="https://scienceandtechnology.jpl.nasa.gov/people/k_venkateswaran" target=_blank>Kasthuri Venkateswaran</a>, NASA-JPL</td>
+    <td><a href="https://www.linkedin.com/in/ruth-e-timme-2615248/" target=_blank>Ruth Timme</a>, FDA</td>
     <td><a href="" target=_blank>TBC</a>, TBC</td>
   </tr>   
 </table>
