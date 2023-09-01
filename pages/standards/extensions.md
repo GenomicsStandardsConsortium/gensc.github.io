@@ -4,7 +4,7 @@
 
 The MIxS standard is designed as an overarching framework, in order to create a single entry point to all minimum information checklists from the GSC and to the environmental packages. MIxS includes the technology-specific checklists from the previous MIGS and MIMS standards, provides a way of introducing additional checklists such as MIMARKS, and also allows annotation of sample data using environmental packages. With this modular and extensible framework, both horizontal (i.e new environmental packages) and vertical extension (i.e. new checklists) development is possible and encouraged.
 
-[![mixs_ext_graphic](/images/mixs_ext_graphic-1024x731.png)
+![mixs_ext_graphic](/images/mixs_ext_graphic-1024x731.png)
 
 For the complete documentation on each checklist, package and individual term please visit the [MIxS repository content pages](https://genomicsstandardsconsortium.github.io/mixs/).
 
@@ -35,6 +35,7 @@ These are the current set of environmental packages:
  * [wastewater/sludge](https://genomicsstandardsconsortium.github.io/mixs/WastewaterSludge)
  * [water](https://genomicsstandardsconsortium.github.io/mixs/water)
 
+<!--
 
 ### Agriculture
 
@@ -98,7 +99,7 @@ You can download the BE package separately **[here]() NB this link still needs t
 ### Wastewater/sludge
 
 ### Water
-
+-->
 
 ## Planned Extensions
 
@@ -127,11 +128,12 @@ Once the above steps are completed, the new extension is integrated into our com
 
 
 
-
+<!--
 ### Minimal Information about a Biosynthetic Gene cluster (MIBiG)
 
 [MIBiG](http://gensc.org/projects/mibig/ "MIBiG") utilizes the environmental and ecological parameters from the MIxS standards, but extends them towards covering information on biosynthetic gene clusters. Information on, e.g., enzyme function, substrate specificities, functional subclusters, regulatory and transport systems, operon structure, chemical moieties of the end compound and its intermediates, biosynthetic precursor compounds, compound bioactivity and molecular targets and compound toxicity have been added to allow cross-linking the information to biochemistry, pharmaceutical properties, genomic structure and ecology. Using the already developed computational pipeline for analysis of biosynthetic gene clusters antiSMASH (http://antismash.secondarymetabolites.org/), which has quickly become a standard in the field, information on characterized biosynthetic gene clusters will be linked to the untapped wealth of thousands of unknown gene clusters that have recently been unearthed by massive genome sequencing efforts.
 
-**Contact**
+**Contact** -->
+
 
 *   Marnix Medema (marnix.medema@wur.nl)
