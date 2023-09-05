@@ -4,24 +4,16 @@ layout: default
 
 {% include header.html %}
 
-# GSC23 Bangkok
+# GSC24 Cape Town
 
-23rd Genomic Standards Consortium Meeting was originally planned as GSC22 to take place in 2020, however as with most things in 2020, it was postponed. 
+24th Genomic Standards Consortium Meeting is currently in planning. It is hoped to be co-located with ISME19 in Cape Town, South Africa in August 2024, but we have no firm dates or details at this time.
 
-We are now very pleased to announce that the GSC23 meeting is scheduled for Aug 7-11th 2023. Please visit the [GSC23 meeting page](https://genomicsstandardsconsortium.github.io/GSC23-Bangkok/){:target="_blank"} for more details.
+# GSC25 Tuscon, Arizona, USA
 
-
------
-
-
-# GSC24 Tucson
-
-24th Genomic Standards Consortium Meeting will begin planning soon. It is intended to be held in 2024 somewhere in Tucson, Arizona, USA.
-
-Watch the [GSC24 meeting page](https://genomicsstandardsconsortium.github.io/GSC24-Tucson/){:target="_blank"} for more details.
-
+It is envisaged that GSC25 will be hosted in Tuscon, Arizona, USA. Details are not yet available.
 
 -----
+
 
 
 <!--
