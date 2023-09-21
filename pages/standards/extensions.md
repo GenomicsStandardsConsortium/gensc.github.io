@@ -136,4 +136,3 @@ Once the above steps are completed, the new extension is integrated into our com
 **Contact** -->
 
 
-*   Marnix Medema (marnix.medema@wur.nl)
