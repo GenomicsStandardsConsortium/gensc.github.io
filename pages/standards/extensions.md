@@ -119,7 +119,7 @@ We can recommend the following steps to anyone interested in developing new exte
 1.  identify reported metadata from literature and/or sequence databases
 2.  solicit community input
 3.  formulate an initial checklist or package
-4.  present initial list and rationale behind the extension at a GSC meeting. Alternatively, solicit feedback via our general mailing list or compliance and interoperability mailing list (gensc-developers\[at\]lists.gensc.org)
+4.  present initial list and rationale behind the extension at a GSC meeting. Alternatively, solicit feedback via our general mailing list or compliance and interoperability mailing list (gensc-cig\[at\]googlegroups.com)
 5.  coordinate efforts with the MIxS working group to finalize metadata item descriptions, requirements, and other format issues
 6.  procure final approval from GSC MIxS group leader
 
