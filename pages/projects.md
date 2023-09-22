@@ -110,6 +110,15 @@ End of table
 <td>Rebranded as <a href="https://jgi.doe.gov/our-science/science-programs/microbial-genomics/phylogenetic-diversity/" target=_balnk>GEBA</a></td>
 </tr>
 <tr>
+<td><a href="https://www.mixs-minas.org/proposal/" target=_blank><img style="vertical-align: top" src="../images/minas-logo-flat.png" alt="minas logo" width="94" height="92" /></a></td>
+<td style="text-align: center;vertical-align: middle">MINAS</td>
+<td style="vertical-align: middle">Minimum Information about aNy Ancient Sequence</td>
+<td style="vertical-align: middle"><a href="projects/minas-proposal.html">This project extends existing MIxS standards for compatibility with the particular requirements of ancient DNA (aDNA).</a></td>
+<td>Antonio Fernandez Guerra & James A Fellows Yates</td>
+<td>2023</td>
+<td>Ongoing</td>
+</tr>
+<tr>
 <td> <a href="projects/gbwg-project.html"><img class="alignnone size-full wp-image-373" src="../images/GBWG2-logo.png" alt="GBWG2-logo" width="188" height="47" /></a></td>
 <td style="text-align: center;vertical-align: middle">GBWG</td>
 <td style="vertical-align: middle">GSC Biodiversity Working Group</td>
