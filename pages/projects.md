@@ -59,6 +59,15 @@
 <td>GSC 12, 2011</td>
 <td>tbd</td>
 </tr>
+<tr>
+<td><a href="projects/miop-project.html"><img style="vertical-align: top" src="../images/MIOP-unofficial-logo.png" alt="MIOP" width="114" height="49" /></a></td>
+<td style="text-align: center;vertical-align: middle">MIOP</td>
+<td style="vertical-align: middle">Minimum Information about an Omic Protocol</td>
+<td style="vertical-align: middle"><a href="projects/miop-project.html">MIOP is intended to be a community-developed metadata specification for genomic protocols in any environment. </a></td>
+<td>Neil Davies</td>
+<td>GSC 23, 2023</td>
+<td>tbd</td>
+</tr>
 </tbody>
 </table>
 
