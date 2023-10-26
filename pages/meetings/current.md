@@ -4,13 +4,13 @@ layout: default
 
 {% include header.html %}
 
-# GSC24 Cape Town
+# GSC24 Tuscon, Arizona, USA
 
-24th Genomic Standards Consortium Meeting is currently in planning. It is hoped to be co-located with ISME19 in Cape Town, South Africa in August 2024, but we have no firm dates or details at this time.
+24th Genomic Standards Consortium Meeting is currently in planning. Details are not yet available.
 
-# GSC25 Tuscon, Arizona, USA
 
-It is envisaged that GSC25 will be hosted in Tuscon, Arizona, USA. Details are not yet available.
+Note- It was hoped that we could co-located with ISME19 in Cape Town, South Africa in August 2024, but we were unable to secure that so we have returned to the original plan of Tuscon 2024.
+
 
 -----
 
