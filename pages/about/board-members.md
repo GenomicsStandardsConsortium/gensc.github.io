@@ -65,7 +65,7 @@ Current Board Members
   <tr>
     <td><a href="https://www.linkedin.com/in/rob-finn-35a3562/" target=_blank>Rob Finn</a>, EMBL-EBI (2019-)</td>
     <td><a href="https://www.linkedin.com/in/chr1shunter/" target=_blank>Christopher Hunter</a>, GigaScience (2018-)</td>
-    <td><a href="https://www.linkedin.com/in/ilene-mizrachi-a7167717/" target=_blank>Ilene Mizrachi</a>, NCBI/GenBank. (2009-) Secretary (2019-2022)</td></td>
+    <td><a href="https://www.linkedin.com/in/ilene-mizrachi-a7167717/" target=_blank>Ilene Mizrachi</a>, NCBI/GenBank. (2009-) Secretary (2019-2022)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Alice_McHardy-400x400.jpg" width="200" height="200" /></td>
