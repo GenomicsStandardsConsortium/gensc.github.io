@@ -10,7 +10,7 @@
 
 ## **Past meetings:**
 
-*   [GSC23, Bangkok, Thailand, (Date:7-11Aug), 2023](https://genomicsstandardsconsortium.github.io/GSC23-bangkok/)
+*   [GSC23, Bangkok, Thailand, (Date:7-11Aug), 2023](https://genomicsstandardsconsortium.github.io/GSC23-Bangkok/)
 *   [GSC22 Moorea, Mar 23-26, 2022](https://genomicsstandardsconsortium.github.io/GSC22-Moorea/)
 *   [GSC21, Vienna, Austria, May 20-23, 2019](meetings/GSC21/GSC21.html)
 *   [GSC20, San Diego, USA, May 2-4, 2018](meetings/GSC20/GSC20.html)

@@ -8,9 +8,9 @@ layout: default
 
 24th Genomic Standards Consortium Meeting is currently in planning. Details are not yet available.
 
+The conference website is still under construction but will be available [here](https://genomicsstandardsconsortium.github.io/GSC24-Tucson/) in due course.
 
-Note- It was hoped that we could co-located with ISME19 in Cape Town, South Africa in August 2024, but we were unable to secure that so we have returned to the original plan of Tuscon 2024.
-
+![](/GSC24/GSC24-Tuscon-Flier.png)
 
 -----
 
