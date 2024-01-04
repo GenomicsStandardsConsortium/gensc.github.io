@@ -2,18 +2,21 @@
 
 # Funding
 
-While the vast majority of GSC efforts are contributed on a volunteer basis by a wide range of participants, the GSC gratefully acknowledges our generous sponsors for the GSC annual meetings.
-
-The GSC also acknowledges a range of funding sources for its past meetings, including NERC (UK National Environment Research Council), NIeES (UK National Institute for Environmental eScience), NSF (US National Science Foundation), and the Gordon and Betty Moore Foundation (GBMF).
 The GSC was launched in 2005 with funding from NIEeS and a NERC International Opportunities Award called “‘_Cataloguing our Complete Genome Collection_” [NE/3521773/1](http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/D521773/1&cookieConsent=A) 2005-2008 and NERC granted further funding to build essential infrastructure [NE/D01252X/1](http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/D01252X/1&cookieConsent=A). Funding from NSF in the form of a Research Co-ordination Network [RCN4GSC](https://pubmed.ncbi.nlm.nih.gov/21304642/) is further supporting knowledge exchange between GSC members and external communities, exchange visits of early career scientists to tackle GSC implementation projects, and helped launch the GSC’s Developer Group and the Biodiversity Working Group. The DOE has also now given funds to support the earliest stages of the development of the vision for the [M5](https://www.gensc.org/pages/projects/m5-project.html) project.
+
+While the vast majority of GSC efforts are contributed on a volunteer basis by a wide range of participants, the GSC gratefully acknowledges our generous sponsors for each of the GSC annual meetings. 
 
 
 ## GSC Sponsorship
 
-The GSC has an annual sponsorship opportunities. There are three levels of sponsorship – Platinum, Gold and Silver, each with specific benefits for the sponsor. **Please [contact us](https://www.gensc.org/pages/contact.html) for more information.**
+The GSC always has annual sponsorship opportunities. Usually, there are three levels of sponsorship – Platinum, Gold and Silver, each with specific benefits for the sponsor, but we are also happy to discuss bespoke levels of support. **Please [contact us](mailto:gensc-cig@googlegroups.com?subject:sponsorship opportiunities) for more information.**
 
-## Corportate Sponsors 
-The GSC thanks and acknowledges the support of our corporate partners. 
+## Corporate Sponsors 
+The GSC thanks and acknowledges the support of our previous corporate sponsors. 
+
+**GSC23 (2023) Meeting Sponsors:**  
+
+
 
 **GSC22 (2022) Meeting Sponsors:**  
 Pineapple Platinum Sponsors: [GenapSys](https://genapsys.com), [Illumina](https://www.illumina.com), [Innovaprep](https://www.innovaprep.com), [Zymo Research](https://www.zymoresearch.com)
@@ -77,6 +80,6 @@ The GSC acknowledges the support of the following institutions and companies whi
  - University of California San Diego, Center for Microbiome Innovation (GSC20)
  - University of Vienna, Austria (GSC21)
  - Berkeley University's Gump Research Station and CRIOBE - Center for Insular Research and Observatory of the Environment, Moorea, French Polynesia (GSC22).  
-
+ - Siriraj Hospital Mahidol University and the National Center for Genetic Engineering and Biotechnology in Bangkok, Thailand. (GSC23)
 
 
