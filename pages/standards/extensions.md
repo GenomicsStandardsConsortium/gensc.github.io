@@ -12,52 +12,52 @@ For the complete documentation on each checklist, extension and individual term 
 ## Current Extensions (packages)
 These are the current set of environmental packages:
 
- * [MIxS-agriculture](https://genomicsstandardsconsortium.github.io/mixs/Agriculture/) (J. P. Dundore-Arias, et.al 2020) 
+ * [MIxS-agriculture](https://genomicsstandardsconsortium.github.io/mixs/0016018/) (J. P. Dundore-Arias, et.al 2020 [link to paper](https://doi.org/10.1094/PBIOMES-09-19-0051-P) ) 
 
- * [MIxS-air](https://genomicsstandardsconsortium.github.io/mixs/air) (Yilmaz et al. 2011) 
+ * [MIxS-air](https://genomicsstandardsconsortium.github.io/mixs/0016000) (Yilmaz et al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) ) 
   
- * [MIxS-built environment](https://genomicsstandardsconsortium.github.io/mixs/BuiltEnvironment) (Glass et al. 2014)
+ * [MIxS-built environment](https://genomicsstandardsconsortium.github.io/mixs/0016001) (Glass et al. 2014 [link to paper](https://doi.org/10.1038/ismej.2013.176) )
  
- * [MIxS-food-animal and animal feed](https://genomicsstandardsconsortium.github.io/mixs/FoodAnimalAndAnimalFeed) 
+ * [MIxS-food-animal and animal feed](https://genomicsstandardsconsortium.github.io/mixs/0016019) 
 
- * [MIxS-food-farm environment](https://genomicsstandardsconsortium.github.io/mixs/FoodFarmEnvironment/) 
+ * [MIxS-food-farm environment](https://genomicsstandardsconsortium.github.io/mixs/0016020/) 
 
- * [MIxS-food-food production facility](https://genomicsstandardsconsortium.github.io/mixs/FoodFoodProductionFacility)
+ * [MIxS-food-food production facility](https://genomicsstandardsconsortium.github.io/mixs/0016021)
 
- * [MIxS-food-human foods](https://genomicsstandardsconsortium.github.io/mixs/FoodHumanFoods)
+ * [MIxS-food-human foods](https://genomicsstandardsconsortium.github.io/mixs/0016022)
  
- * [MIxS-host-associated](https://genomicsstandardsconsortium.github.io/mixs/HostAssociated) (Yilmaz et al. 2011)
+ * [MIxS-host-associated](https://genomicsstandardsconsortium.github.io/mixs/0016002) (Yilmaz et al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) )
 
- * [MIxS-human-associated](https://genomicsstandardsconsortium.github.io/mixs/HumanAssociated) (Yilmaz et al. 2011) 
+ * [MIxS-human-associated](https://genomicsstandardsconsortium.github.io/mixs/0016003) (Yilmaz et al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) ) 
 
- * [MIxS-human-gut](https://genomicsstandardsconsortium.github.io/mixs/HumanGut) (Yilmaz et al. 2011) 
+ * [MIxS-human-gut](https://genomicsstandardsconsortium.github.io/mixs/0016004) (Yilmaz et al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) ) 
 
- * [MIxS-human-oral](https://genomicsstandardsconsortium.github.io/mixs/HumanOral) (Yilmaz et al. 2011) 
+ * [MIxS-human-oral](https://genomicsstandardsconsortium.github.io/mixs/0016005) (Yilmaz et al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) ) 
 
- * [MIxS-human-skin](https://genomicsstandardsconsortium.github.io/mixs/HumanSkin) (Yilmaz et al. 2011)
+ * [MIxS-human-skin](https://genomicsstandardsconsortium.github.io/mixs/0016006) (Yilmaz et al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) )
 
- * [MIxS-human-vaginal](https://genomicsstandardsconsortium.github.io/mixs/HumanVaginal) (Yilmaz et al. 2011) 
+ * [MIxS-human-vaginal](https://genomicsstandardsconsortium.github.io/mixs/0016007) (Yilmaz et al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) ) 
 
- * [MIxS-hydrocarbon resources-cores](https://genomicsstandardsconsortium.github.io/mixs/HydrocarbonResourcesCores) (Tsesmetzis et al. 2016)
+ * [MIxS-hydrocarbon resources-cores](https://genomicsstandardsconsortium.github.io/mixs/0016015) (Tsesmetzis et al. 2016 [link to paper](https://doi.org/10.1186/s40793-016-0203-5) )
 
- * [MIxS-hydrocarbon resources-fluids/swabs](https://genomicsstandardsconsortium.github.io/mixs/HydrocarbonResourcesFluidsSwabs) (Tsesmetzis et al. 2016) .
+ * [MIxS-hydrocarbon resources-fluids/swabs](https://genomicsstandardsconsortium.github.io/mixs/0016016) (Tsesmetzis et al. 2016 [link to paper](https://doi.org/10.1186/s40793-016-0203-5) )
 
- * [MIxS-microbial mat/biofilm](https://genomicsstandardsconsortium.github.io/mixs/MicrobialMatBiofilm) (Yilmaz et al. 2011) 
+ * [MIxS-microbial mat/biofilm](https://genomicsstandardsconsortium.github.io/mixs/0016008) (Yilmaz et al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) ) 
 
- * [MIxS-miscellaneous natural or artificial environment](https://genomicsstandardsconsortium.github.io/mixs/MiscellaneousNaturalOrArtificialEnvironment) (Yilmaz et al. 2011) 
+ * [MIxS-miscellaneous natural or artificial environment](https://genomicsstandardsconsortium.github.io/mixs/0016009) (Yilmaz et al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) ) 
 
- * [MIxS-plant-associated](https://genomicsstandardsconsortium.github.io/mixs/PlantAssociated) (Yilmaz et.al. 2011)
+ * [MIxS-plant-associated](https://genomicsstandardsconsortium.github.io/mixs/0016010) (Yilmaz et.al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) )
 
- * [MIxS-sediment](https://genomicsstandardsconsortium.github.io/mixs/Sediment) (Yilmaz et.al. 2011)
+ * [MIxS-sediment](https://genomicsstandardsconsortium.github.io/mixs/0016011) (Yilmaz et.al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) )
 
- * [MIxS-soil](https://genomicsstandardsconsortium.github.io/mixs/Soil) (Yilmaz et.al. 2011) 
+ * [MIxS-soil](https://genomicsstandardsconsortium.github.io/mixs/0016012) (Yilmaz et.al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) ) 
 
- * [MIxS-symbiont-associated](https://genomicsstandardsconsortium.github.io/mixs/SymbiontAssociated) (Jorge et al., 2022) 
+ * [MIxS-symbiont-associated](https://genomicsstandardsconsortium.github.io/mixs/0016023) (Jorge et al., 2022 [link to paper](https://doi.org/10.1038/s43705-022-00092-w) ) 
  
- * [MIxS-wastewater/sludge](https://genomicsstandardsconsortium.github.io/mixs/WastewaterSludge) (Yilmaz et.al. 2011) 
+ * [MIxS-wastewater/sludge](https://genomicsstandardsconsortium.github.io/mixs/0016013) (Yilmaz et.al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) ) 
  
 
- * [MIxS-water](https://genomicsstandardsconsortium.github.io/mixs/Water) (Yilmaz et.al. 2011) 
+ * [MIxS-water](https://genomicsstandardsconsortium.github.io/mixs/0016014) (Yilmaz et.al. 2011 [link to paper](https://doi.org/10.1038/nbt.1823) ) 
 
 
 [Dundore-Arias, JP. et al., "Community-Driven Metadata Standards for Agricultural Microbiome Research" <i>Phytobiomes Journal</i> 2020 4:2, 115-121 DOI:10.1094/PBIOMES-09-19-0051-P](https://doi.org/10.1094/PBIOMES-09-19-0051-P).
@@ -68,7 +68,7 @@ These are the current set of environmental packages:
 
 [Tsesmetzis N. et al., "MIxS-HCR: a MIxS extension defining a minimal information standard for sequence data from environments pertaining to hydrocarbon resources" <i>Stand Genomic Sci.</i> 2016 Oct 12;11:78. doi: 10.1186/s40793-016-0203-5. eCollection 2016.](https://doi.org/10.1186/s40793-016-0203-5)
 
-[Yilmaz, P. et al., "Minimum information about a marker gene sequence (MIMARKS) and minimum information about any (x) sequence (MIxS) specifications." <i>Nature biotechnology</i> vol. 29,5 (2011): 415-20. doi:10.1038/nbt.1823](https://doi.org/10.1038/nbt.1823).
+[Yilmaz, P. et al., "Minimum information about a marker gene sequence (MIMARKS) and minimum information about any (x) sequence (MIxS) specifications." <i>Nature biotechnology</i> vol. 29,5 (2011): 415-20. doi:10.1038/nbt.1823](https://doi.org/10.1038/nbt.1823)
  
 
 <!--
