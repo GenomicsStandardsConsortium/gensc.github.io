@@ -16,8 +16,8 @@ MIGS and MIMARKS are further divided into additional subchecklists, based on the
 - MIGS-PL: MIGS for plasmid sequences
 - MIGS-VI: MIGS for viral genome sequences
 - MIGS-ORG: MIGS for organelle sequences
-- MIMARKS-SP: MIMARKS-survey  for marker gene sequences obtained directly from the environment
-- MIMARKS-SU: MIMARKS-specimen for marker gene sequences from cultured or voucher-identifiable specimens
+- MIMARKS-SU: MIMARKS-survey  for marker gene sequences obtained directly from the environment
+- MIMARKS-SP: MIMARKS-specimen for marker gene sequences from cultured or voucher-identifiable specimens
 
 
 ### Core and type-specific descriptors
@@ -63,10 +63,10 @@ MIGS-ORG
 
 MIMS
 
-MIMARKS-S
+MIMARKS-SU
 - target gene
 
-MIMARKS-C
+MIMARKS-SP
 - isolation and growth condition
 - target gene
 
