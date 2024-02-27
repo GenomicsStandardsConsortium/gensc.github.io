@@ -4,7 +4,7 @@ layout: default
 
 {% include header.html %}
 
-# GSC24 Tuscon, Arizona, USA
+# GSC24 Tucson, Arizona, USA
 
 24th Genomic Standards Consortium Meeting is currently in planning. Details are not yet available.
 
