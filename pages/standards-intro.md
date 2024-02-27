@@ -37,24 +37,25 @@ You can find all previous versions of the checklists in our [mixs-legacy GitHub]
 
 A term is an individual metadata attribute used to describe any aspect of a sample, sequence, environment or methodology. This is the granular element of any checklist or extension.
 
-Each term is uniquely defined and given its own URI. See the [terms page](standards/all-terms.html) for a complete searchable list of all terms defined within the GSC MIxS checklists and extensions.
+Each term is uniquely defined and given its own URI. See the [terms page](https://genomicsstandardsconsortium.github.io/mixs/term_list/) for a complete searchable list of all terms defined within the GSC MIxS checklists and extensions.
 
 ## [Checklist](standards/checklists.html)
 
 A checklist is a collection of metadata terms to minimally describe the sampling and sequencing method of a specimen used to generate a nucleotide sequence.
 
-- See the [checklist page](standards/checklists.html) for more details on individual checklists.
+- See the [checklist documentation page](https://genomicsstandardsconsortium.github.io/mixs/#checklists) for more details on individual checklists.
 
 
 ## [Extension](standards/extensions.html) (previously known as Environmental package)
 
 An extension is the collection of recommended metadata terms as developed by community experts, describing the specific context under which a sample was collected.
 
-See the [extensions page](standards/extensions.html) for more details on available extensions.
+See the [extensions documentation page](https://genomicsstandardsconsortium.github.io/mixs/#extensions) for more details on available extensions.
 
 ## Combination (previously known as packages)
 A combination of a Checklist with an Extension.
 
+See the [combinations documentation page](https://genomicsstandardsconsortium.github.io/mixs/combinations/) for more details on available combinations.
 
 ## Section
 The grouping of a metadata term into a specific category. The current sections are;
@@ -62,6 +63,8 @@ The grouping of a metadata term into a specific category. The current sections a
 	- **Nucleic acid sequence source** ; terms that are about where and how the DNA sample was created.
 	- **Sequencing** ; terms that relate to how the DNA sample was processed for sequencing.
 	- **Environment** ; terms that relate to the environment from which the sample/DNA was obtained.
+
+There are additional documentation about Sections [here](https://genomicsstandardsconsortium.github.io/mixs/#subsets)
 
 ## MIXS ID
 The resolvable globally unique persistent identifier associated with a Term, Extension, Checklist or Combination
