@@ -103,7 +103,7 @@ Hans-Peter Klenk (May 2016-)
 
 Frank Oliver Glöckner (August 2017-)
 
-Tanja Wolke (May 2018-)
+Tanja Woyke (May 2018-)
 
 Susanna Sansone (Sept 2022- )
 
