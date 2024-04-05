@@ -6,7 +6,7 @@
 
 ## **Upcoming meetings:**
 
-*   [GSC24, Tuscon, Arizona, USA (Date:5-9 Aug,2024](meetings/current.html)
+*   [GSC24, Tuscon, Arizona, USA (Date:5-9 Aug,2024](https://genomicsstandardsconsortium.github.io/GSC24-Tucson/)
 
 ## **Past meetings:**
 

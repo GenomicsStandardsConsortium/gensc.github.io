@@ -8,7 +8,7 @@ layout: default
 
 24th Genomic Standards Consortium Meeting is currently in planning. Details are not yet available.
 
-The conference website is still under construction but will be available [here](https://genomicsstandardsconsortium.github.io/GSC24-Tucson/) in due course.
+The conference website is available [here](https://genomicsstandardsconsortium.github.io/GSC24-Tucson/) in due course.
 
 ![](/GSC24/GSC24-Tuscon-Flier.png)
 
