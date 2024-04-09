@@ -104,15 +104,29 @@ The core MIxS team have developed a series environmental packages which expand o
 
 # A few important notes:
 
+## Date & Time
 * All dates, times, durations and intervals should be written in ISO 8601 formats
-* Units – Strict units are not defined for items in the MIxS checklists, but suggestions are made under “preferred units”, wherever applicable the unit of choice should accompany the value of an item. The units should be in accordance with the The International System of Units (SI)
-* If a value is missing, please consider using the INSDC missing value vocabulary:
-   * Not applicable - information is inappropriate to report, can indicate that the standard itself fails to model or represent the information appropriately
-   * Not collected - information of an expected format was not given because it has not been collected
-   * Not provided - information of an expected format was not given, a value may be given at the later stage
-   * Restricted access - information exists but can not be released openly because of privacy concerns
-   * Missing - its unknown if the data was collected or not
 
+## Units
+* Units – Strict units are not defined for items in the MIxS checklists, but suggestions are made under “preferred units”, wherever applicable the unit of choice should accompany the value of an item. The units should be in accordance with the The International System of Units (SI)
+
+## Missing value reporting
+If a value is missing, please consider using the [INSDC missing value](https://www.insdc.org/submitting-standards/missing-value-reporting/) vocabulary. This list of values is designed to give reasons for the missing value which can be very useful when interpreting the related data. The valid missing values are summarised below:
+   * **missing: control sample** - Information is not applicable as the sample represents a negative control sample collected in a lab.
+   * **missing: sample group** - Information is not applicable as the sample represents a group of samples that do not have a single origin. E.g. for co-assembly or transcriptome assembly.
+   * **Not collected** - information of an expected format was not given because it has not been collected
+   * **Not provided** - information of an expected format was not given, a value may be given at the later stage
+   * **Restricted access** - information exists but can not be released openly because of privacy concerns
+   * **missing: synthetic construct** - Information does not exist as the sample represents an ab-initio synthetic construct.
+   * **missing: lab stock** - Information was not collected as the sample represents a cultured cell line or model organism under long-term lab control.
+   * **missing: third party data** - Information does not exist as the metadata was not collected or reported in records predating the 2023 agreement. For use in Third Party data submissions.
+   * **missing: endangered species** - Information can not be reported as the target organism is endangered e.g. on the IUCN red-list.
+   * **missing: human-identifiable** - Information can not be reported as the metadata would make the sample human-identifiable.
+
+If none of the above are appropriate, it may indicate that the standard is not the correct one to model or represent the information, consider using other checklist(s), or adjusting the template to remove terms that are not appropriate (be careful to not remove mandatory terms!).
+
+
+## ENVO term usage
 * Notes on using the ENVO terms in the MIxS context are provided [here](https://github.com/EnvironmentOntology/envo/wiki/Using-ENVO-with-MIxS).
 
 
