@@ -145,6 +145,8 @@ Four further extensions to MIxS checklists are currently under development:
 *   Pathogen package, Lynn Schriml (lschriml@som.umaryland.edu)
 *   Single cell genomes and genome assemblies from metagenomes, Tanja Woyke (twoyke@lbl.gov) and Susannah Tringe (SGTringe@lbl.gov)
 *   [Urobiome](https://github.com/GenomicsStandardsConsortium/mixs/projects/4), Lisa Karstens.
+*   Ancient DNA extension [MinAS](https://www.mixs-minas.org/), James Fellows Yates. [Project proposal](/pages/projects/minas-proposal.html)
+
 
 ## Developing Extensions
 
