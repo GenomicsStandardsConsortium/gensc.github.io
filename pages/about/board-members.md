@@ -19,23 +19,23 @@ Current Board Members
 <table style="width:100%">
   <tr>
     <td><img src="../../images/board/Lynn_Schriml-400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Scott_Tighe-400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Ramona_Walls-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Bonnie_Hurwitz-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Christopher_Hunter-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/lynn-schriml-1753609/" target=_blank>Lynn Schriml</a>, University of Maryland (2009-) Treasurer (2010–2015). President (2015–)</td>
-    <td><a href="https://www.linkedin.com/in/scott-tighe-094058a/" target=_blank>Scott Tighe</a>, University of Vermont (2019–). Treasurer (2022-)</td>
-    <td><a href="https://www.linkedin.com/in/ramona-walls-41aa7599/" target=_blank>Ramona Walls</a>, Critical Path Institute (2019-) Secretary (2022-) </td>
+    <td><a href="https://www.linkedin.com/in/bonnie-hurwitz-a1a1911/" target=_blank>Bonnie Hurwitz</a>, University of Arizona (2019-), Treasurer (2024-)</td>
+    <td><a href="https://www.linkedin.com/in/chr1shunter/" target=_blank>Chris Hunter</a>, GigaScience Press (2018-), Secretary (2024-) </td>
 </tr>
   <tr>
     <td><img src="../../images/board/Folker_Meyer-400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Granger_Sutton400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Bonnie_Hurwitz-400x400.jpg" width="200" height="200" /></td>
+	<td></td>
+    <td><img src="../../images/board/Scott_Tighe-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/folker-meyer-3849521b9/" target=_blank>Folker Meyer</a>, University of Duisburg-Essen (2009-). Treasurer (2015-2022)</td>
-    <td><a href="https://www.linkedin.com/in/granger-sutton-7844b81/" target=_blank>Granger Sutton</a>, J. Craig Venter Institute (2015-)</td>
-    <td><a href="https://www.linkedin.com/in/bonnie-hurwitz-a1a1911/" target=_blank>Bonnie Hurwitz</a>, University of Arizona (2019-)</td>
+    <td></td>
+    <td><a href="https://www.linkedin.com/in/scott-tighe-094058a/" target=_blank>Scott Tighe</a>, University of Vermont (2019–). Treasurer (2022-2024)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Maria_Chuvochina-400x400.jpg" width="200" height="200" /></td>
@@ -59,12 +59,12 @@ Current Board Members
   </tr>
   <tr>
     <td><img src="../../images/board/Rob_Finn-400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Christopher_Hunter-400x400.jpg" width="200" height="200" /></td>
+    <td></td>
     <td><img src="../../images/board/Ilene_Mizrachi-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/rob-finn-35a3562/" target=_blank>Rob Finn</a>, EMBL-EBI (2019-)</td>
-    <td><a href="https://www.linkedin.com/in/chr1shunter/" target=_blank>Christopher Hunter</a>, GigaScience (2018-)</td>
+    <td></td>
     <td><a href="https://www.linkedin.com/in/ilene-mizrachi-a7167717/" target=_blank>Ilene Mizrachi</a>, NCBI/GenBank. (2009-) Secretary (2019-2022)</td>
   </tr>
   <tr>
@@ -107,9 +107,13 @@ Tanja Woyke (May 2018-)
 
 Susanna Sansone (Sept 2022- )
 
+Ramona Walls, Critical Path Institute (Sept 2024- )
 
 Former Board Members
 --------------------
+Ramona Walls, Critical Path Institute (2019-2024) Secretary (2022- Sept 2024)
+
+Granger Sutton, J. Craig Venter Institute (2015- Sept 2024)
 
 Linda Amaral-Zettler, MBL (April 2010-April 2020)
 
