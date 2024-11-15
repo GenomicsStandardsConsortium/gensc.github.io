@@ -93,21 +93,24 @@ Current Board Members
 Advisory Board members
 ----------------------
 
-Guy Cochrane, EMBL-EBI (May 2019-)
+Guy Cochrane, EMBL-EBI (May 2019-present)
 
-Jack Gilbert (May 2015-)
+Jack Gilbert (May 2015-present)
 
-Owen White (May 2015-)
+Owen White (May 2015-present)
 
-Hans-Peter Klenk (May 2016-)
+Hans-Peter Klenk (May 2016-present)
 
-Frank Oliver Glöckner (August 2017-)
+Frank Oliver Glöckner (August 2017-present)
 
-Tanja Woyke (May 2018-)
+Tanja Woyke (May 2018-present)
 
-Susanna Sansone (Sept 2022- )
+Susanna Sansone (Sept 2022- present)
 
-Ramona Walls, Critical Path Institute (Sept 2024- )
+Ramona Walls, Critical Path Institute (Sept 2024- present)
+
+Rita Colwell (Nov 2024 - present)
+
 
 Former Board Members
 --------------------
