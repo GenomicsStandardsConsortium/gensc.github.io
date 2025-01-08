@@ -30,7 +30,6 @@ Current Board Members
   <tr>
     <td><img src="../../images/board/meyerheadshot_55.jpg" width="200" height="200" /></td>
  <td><img src="../../images/board/Folker_Meyer-400x400.jpg" width="200" height="200" /></td>
-	<td></td>
 <td><img src="../../images/board/Scott_Tighe-400x400.jpg" width="200" height="200" /></td>
    </tr>
 	  <tr>
