@@ -34,9 +34,8 @@ Current Board Members
    </tr>
 	  <tr>
    <td><a href="https://naturalhistory.si.edu/staff/christopher-meyer" target=_blank>Chris Meyer</a>, Smithsonian National Museum of Natural History (2024-).</td>
-    <td></td>
+
     <td><a href="https://www.linkedin.com/in/folker-meyer-3849521b9/" target=_blank>Folker Meyer</a>, University of Duisburg-Essen (2009-). Treasurer (2015-2022)</td>
-    <td></td>
 	  <td><a href="https://www.linkedin.com/in/scott-tighe-094058a/" target=_blank>Scott Tighe</a>, University of Vermont (2019–). Treasurer (2022-2024)</td>
   </tr>
   <tr>
