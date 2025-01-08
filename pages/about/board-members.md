@@ -20,7 +20,7 @@ Current Board Members
   <tr>
     <td><img src="../../images/board/Lynn_Schriml-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Bonnie_Hurwitz-400x400.jpg" width="200" height="200" /></td>
-    <td><img src="../../images/board/Christopher_Hunter-400x400.jpg" width="200" height="200" /</td>
+    <td><img src="../../images/board/Christopher_Hunter-400x400.jpg" width="200" height="200" /> </td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/lynn-schriml-1753609/" target=_blank>Lynn Schriml</a>, University of Maryland (2009-) Treasurer (2010–2015). President (2015–)</td>
