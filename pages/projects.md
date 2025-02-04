@@ -154,10 +154,10 @@ End of table
 </tr>
 <tr>
 <td><a href="https://www.mixs-minas.org/proposal/" target=_blank><img style="vertical-align: top" src="../images/minas-logo-flat.png" alt="minas logo" width="94" height="92" /></a></td>
-<td style="text-align: center;vertical-align: middle">MINAS</td>
-<td style="vertical-align: middle">Minimum Information about aNy Ancient Sequence</td>
+<td style="text-align: center;vertical-align: middle">MInAS</td>
+<td style="vertical-align: middle">Minimum Information about any Ancient Sequence</td>
 <td style="vertical-align: middle"><a href="projects/minas-proposal.html">This project extends existing MIxS standards for compatibility with the particular requirements of ancient DNA (aDNA).</a></td>
-<td>Antonio Fernandez Guerra, James A Fellows Yates & Kelly Blevins</td>
+<td>Antonio Fernandez Guerra, James A Fellows Yates & Meriam Guellil</td>
 <td>2023</td>
 <td>Ongoing</td>
 </tr>
