@@ -68,15 +68,6 @@
 <td>GSC 23, 2023</td>
 <td>tbd</td>
 </tr>
-<tr>
-<td><a href="https://fair-edna.github.io/guidelines.html#faire-metadata-checklist"><img style="vertical-align: top" src="../images/FAIRe-project-logo.jpg" alt="eDNA" width="114" height="49" /></a></td>
-<td style="text-align: center;vertical-align: middle">eDNA</td>
-<td style="vertical-align: middle">FAIR eDNA sharing project</td>
-<td style="vertical-align: middle"><a href="projects/edna-project.html">Environmental DNA (eDNA) is a powerful biodiversity monitoring tool, but inconsistent/incomplete metadata limits its interoperability and reuse. This project seeks to solve that challenge by incorporating existing and new terms and controlled vocabularies which accommodate unique eDNA requirements into the GSC suite.</a></td>
-<td>Miwa Takahashi</td>
-<td>GSC 25, 2025</td>
-<td>tbd</td>
-</tr>
 </tbody>
 </table>
 
@@ -98,6 +89,15 @@ End of table
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><a href="https://fair-edna.github.io/guidelines.html#faire-metadata-checklist"><img style="vertical-align: top" src="../images/FAIRe-project-logo.jpg" alt="eDNA" width="114" height="75" /></a></td>
+<td style="text-align: center;vertical-align: middle">eDNA</td>
+<td style="vertical-align: middle">FAIR eDNA sharing project</td>
+<td style="vertical-align: middle"><a href="projects/edna-project.html">Environmental DNA (eDNA) is a powerful biodiversity monitoring tool, but inconsistent/incomplete metadata limits its interoperability and reuse. This project seeks to solve that challenge by incorporating existing and new terms and controlled vocabularies which accommodate unique eDNA requirements into the GSC suite.</a></td>
+<td>Miwa Takahashi</td>
+<td>GSC 25, 2025</td>
+<td>tbd</td>
+</tr>
 <tr>
 <td><a href="projects/microbial-earth-project.html"><img style="vertical-align: top" src="../images/Microbial_earth_logo_small.png" alt="Microbial_earth_logo_small" width="94" height="92" /></a></td>
 <td style="text-align: center;vertical-align: middle">MEP</td>
