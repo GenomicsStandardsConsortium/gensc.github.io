@@ -1,8 +1,6 @@
 {% include header.html %}
 
 # environmental DNA (eDNA)
-====
-
 
 ## Project Title
 eDNA checklist

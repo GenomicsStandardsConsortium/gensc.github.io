@@ -96,7 +96,7 @@ End of table
 <td style="vertical-align: middle"><a href="projects/eDNA-project.html">Environmental DNA (eDNA) is a powerful biodiversity monitoring tool, but inconsistent/incomplete metadata limits its interoperability and reuse. This project seeks to solve that challenge by incorporating existing and new terms and controlled vocabularies which accommodate unique eDNA requirements into the GSC suite.</a></td>
 <td>Miwa Takahashi</td>
 <td>GSC 25, 2025</td>
-<td>tbd</td>
+<td>Ongoing twice monthly meetings to prepare a checklist.</td>
 </tr>
 <tr>
 <td><a href="projects/microbial-earth-project.html"><img style="vertical-align: top" src="../images/Microbial_earth_logo_small.png" alt="Microbial_earth_logo_small" width="94" height="92" /></a></td>
