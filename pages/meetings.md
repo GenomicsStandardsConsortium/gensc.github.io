@@ -6,10 +6,11 @@
 
 ## **Upcoming meetings:**
 
-*   [GSC25, Cambridge, UK (Date:28 July - 1 Aug,2025](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/)
+*   [GSC26, Rotura, UK (Date:12-14, August,2026]
 
 ## **Past meetings:**
 
+*   [GSC25, Cambridge, UK (Date:28 July - 1 Aug,2025](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/)
 *   [GSC24, Tuscon, Arizona, USA (Date:5-9 Aug,2024](https://genomicsstandardsconsortium.github.io/GSC24-Tucson/)
 *   [GSC23, Bangkok, Thailand, (Date:7-11Aug), 2023](https://genomicsstandardsconsortium.github.io/GSC23-Bangkok/)
 *   [GSC22 Moorea, Mar 23-26, 2022](https://genomicsstandardsconsortium.github.io/GSC22-Moorea/)
