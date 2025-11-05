@@ -6,7 +6,7 @@
 
 ## **Upcoming meetings:**
 
-*   [GSC26, Rotura, UK (Date:12-14, August,2026)](https://genomicsstandardsconsortium.github.io/GSC26-Rotorua/)
+*   [GSC26, Rotura, NZ (Date:12-14, August,2026)](https://genomicsstandardsconsortium.github.io/GSC26-Rotorua/)
 
 ## **Past meetings:**
 
