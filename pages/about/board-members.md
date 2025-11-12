@@ -24,7 +24,7 @@ Current Board Members
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/lynn-schriml-1753609/" target=_blank>Lynn Schriml</a>, University of Maryland (2009-) Treasurer (2010–2015). President (2015–)</td>
-    <td><a href="https://www.linkedin.com/in/bonnie-hurwitz-a1a1911/" target=_blank>Bonnie Hurwitz</a>, University of Arizona (2019-), Treasurer (2024-)</td>
+    <td><a href="https://www.linkedin.com/in/bonnie-hurwitz-a1a1911/" target=_blank>Bonnie Hurwitz</a>, NC State University (2019-), Treasurer (2024-2025)</td>
     <td><a href="https://www.linkedin.com/in/chr1shunter/" target=_blank>Chris Hunter</a>, GigaScience Press (2018-), Secretary (2024-) </td>
 </tr>
   <tr>
@@ -44,7 +44,7 @@ Current Board Members
     <td><img src="../../images/board/Nikos_Kyrpides-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td><a href="https://www.linkedin.com/in/maria-chuvochina-4b9555124/" target=_blank>Maria Chuvochina</a>, Australian Centre for Ecogenomics (2019-)</td>
+    <td><a href="https://www.linkedin.com/in/maria-chuvochina-4b9555124/" target=_blank>Maria Chuvochina</a>, Aalborg University (2019-)</td>
     <td><a href="https://www.linkedin.com/in/neiltahiti/" target=_blank>Neil Davies</a>, Berkeley (2011-)</td>
     <td><a href="https://www.linkedin.com/in/nikoskyrpides/" target=_blank>Nikos Kyrpides</a>, DOE JGI (2009-)</td>
   </tr>
@@ -56,7 +56,7 @@ Current Board Members
   <tr>
     <td><a href="https://www.linkedin.com/in/philip-hugenholtz-a91b784/" target=_blank>Philip Hugenholtz</a>, The University of Queensland (2015-)</td>
     <td><a href="https://www.linkedin.com/in/pier-luigi-buttigieg/" target=_blank>Pier Buttigieg</a>, MPI for Marine Microbiology, Bremen. (2020-)</td>
-    <td><a href="https://www.linkedin.com/in/emiley-eloe-fadrosh-30670996/" target=_blank>Emiley Eloe-Fadrosh</a>, DOE JGI (2018-)</td>
+    <td><a href="https://www.linkedin.com/in/emiley-eloe-fadrosh-30670996/" target=_blank>Emiley Eloe-Fadrosh</a>, DOE JGI (2018-), Treasurer (2025-)</td>
   </tr>
   <tr>
     <td><img src="../../images/board/Rob_Finn-400x400.jpg" width="200" height="200" /></td>
@@ -75,7 +75,7 @@ Current Board Members
   </tr>
   <tr>
     <td><a href="https://www.helmholtz-hzi.de/en/research/research-topics/bacterial-and-viral-pathogens/computational-biology-of-infection-research/alice-mchardy/" target=_blank>Alice McHardy</a>, Helmholtz Centre for Infection Research (2022-)</td>
-    <td><a href="https://www.linkedin.com/in/scottjackson26/" target=_blank>Scott Jackson</a>, NIST (2022–)</td>
+    <td><a href="https://www.linkedin.com/in/scottjackson26/" target=_blank>Scott Jackson</a>, formerly NIST, Recondite Consulting (2022–)</td>
     <td><a href="https://www.linkedin.com/in/joao-carlos-setubal-2015734/" target=_blank>Joao Setubal</a>, University of São Paulo (2022-)</td>
   </tr> 
   <tr>
