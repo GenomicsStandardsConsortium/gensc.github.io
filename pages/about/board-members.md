@@ -39,12 +39,12 @@ Current Board Members
 	  <td><a href="https://www.linkedin.com/in/scott-tighe-094058a/" target=_blank>Scott Tighe</a>, University of Vermont (2019–). Treasurer (2022-2024)</td>
   </tr>
   <tr>
-    <td><img src="../../images/board/Masha_Chuvochina-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Maria_Chuvochina-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Neil_Davies-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Nikos_Kyrpides-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td><a href="https://www.linkedin.com/in/maria-chuvochina-4b9555124/" target=_blank>Maria Chuvochina</a>, Aalborg University (2019-)</td>
+    <td><a href="https://www.linkedin.com/in/maria-chuvochina-4b9555124/" target=_blank>Masha Chuvochina</a>, Aalborg University (2019-)</td>
     <td><a href="https://www.linkedin.com/in/neiltahiti/" target=_blank>Neil Davies</a>, Berkeley (2011-)</td>
     <td><a href="https://www.linkedin.com/in/nikoskyrpides/" target=_blank>Nikos Kyrpides</a>, DOE JGI (2009-)</td>
   </tr>
@@ -60,32 +60,33 @@ Current Board Members
   </tr>
   <tr>
     <td><img src="../../images/board/Rob_Finn-400x400.jpg" width="200" height="200" /></td>
-    <td></td>
+    <td><img src="../../images/board/Alice_McHardy-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Ilene_Mizrachi-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/rob-finn-35a3562/" target=_blank>Rob Finn</a>, EMBL-EBI (2019-)</td>
-    <td></td>
+   <td><a href="https://www.helmholtz-hzi.de/en/research/research-topics/bacterial-and-viral-pathogens/computational-biology-of-infection-research/alice-mchardy/" target=_blank>Alice McHardy</a>, Helmholtz Centre for Infection Research (2022-)</td>
     <td><a href="https://www.linkedin.com/in/ilene-mizrachi-a7167717/" target=_blank>Ilene Mizrachi</a>, NCBI/GenBank. (2009-) Secretary (2019-2022)</td>
   </tr>
   <tr>
-    <td><img src="../../images/board/Alice_McHardy-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Scott_Jackson-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Joao_Setubal-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Kasthuri_Venkateswaran-400x400.jpg" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td><a href="https://www.helmholtz-hzi.de/en/research/research-topics/bacterial-and-viral-pathogens/computational-biology-of-infection-research/alice-mchardy/" target=_blank>Alice McHardy</a>, Helmholtz Centre for Infection Research (2022-)</td>
+   
     <td><a href="https://www.linkedin.com/in/scottjackson26/" target=_blank>Scott Jackson</a>, formerly NIST, Recondite Consulting (2022–)</td>
     <td><a href="https://www.linkedin.com/in/joao-carlos-setubal-2015734/" target=_blank>Joao Setubal</a>, University of São Paulo (2022-)</td>
+	 <td><a href="https://scienceandtechnology.jpl.nasa.gov/people/k_venkateswaran" target=_blank>Kasthuri Venkateswaran</a>, NASA-JPL</td>
   </tr> 
   <tr>
-    <td><img src="../../images/board/Kasthuri_Venkateswaran-400x400.jpg" width="200" height="200" /></td>
+   
     <td><img src="../../images/board/Ruth_Timme-400x400.jpg" width="200" height="200" /></td>
 	<td><img src="../../images/board/Libby_Liggins-400x400.jpg" width="200" height="200" /></td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scienceandtechnology.jpl.nasa.gov/people/k_venkateswaran" target=_blank>Kasthuri Venkateswaran</a>, NASA-JPL</td>
+   
     <td><a href="https://www.linkedin.com/in/ruth-e-timme-2615248/" target=_blank>Ruth Timme</a>, FDA</td>
 	<td><a href="https://www.linkedin.com/in/libby-liggins-07181930/" target=_blank>Libby Liggins</a>, University of Auckland</td>
  
