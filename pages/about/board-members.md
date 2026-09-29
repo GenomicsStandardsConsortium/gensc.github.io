@@ -25,7 +25,7 @@ Current Board Members
   <tr>
     <td><a href="https://www.linkedin.com/in/lynn-schriml-1753609/" target=_blank>Lynn Schriml</a>, University of Maryland (2009-) Treasurer (2010–2015). President (2015–)</td>
     <td><a href="https://www.linkedin.com/in/bonnie-hurwitz-a1a1911/" target=_blank>Bonnie Hurwitz</a>, NC State University (2019-), Treasurer (2024-2025)</td>
-    <td><a href="https://www.linkedin.com/in/chr1shunter/" target=_blank>Chris Hunter</a>, GigaScience Press (2018-), Secretary (2024-) </td>
+    <td><a href="https://www.linkedin.com/in/chr1shunter/" target=_blank>Chris Hunter</a>, GigaScience Press (2018-), Secretary (2024-2026) </td>
 </tr>
   <tr>
     <td><img src="../../images/board/meyerheadshot_55.jpg" width="200" height="200" /></td>
@@ -39,7 +39,7 @@ Current Board Members
 	  <td><a href="https://www.linkedin.com/in/scott-tighe-094058a/" target=_blank>Scott Tighe</a>, University of Vermont (2019–). Treasurer (2022-2024)</td>
   </tr>
   <tr>
-    <td><img src="../../images/board/Maria_Chuvochina-400x400.jpg" width="200" height="200" /></td>
+    <td><img src="../../images/board/Masha_Chuvochina-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Neil_Davies-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Nikos_Kyrpides-400x400.jpg" width="200" height="200" /></td>
   </tr>
@@ -81,12 +81,14 @@ Current Board Members
   <tr>
     <td><img src="../../images/board/Kasthuri_Venkateswaran-400x400.jpg" width="200" height="200" /></td>
     <td><img src="../../images/board/Ruth_Timme-400x400.jpg" width="200" height="200" /></td>
+	<td><img src="../../images/board/Libby_Liggins-400x400.jpg" width="200" height="200" /></td>
     <td></td>
   </tr>
   <tr>
     <td><a href="https://scienceandtechnology.jpl.nasa.gov/people/k_venkateswaran" target=_blank>Kasthuri Venkateswaran</a>, NASA-JPL</td>
     <td><a href="https://www.linkedin.com/in/ruth-e-timme-2615248/" target=_blank>Ruth Timme</a>, FDA</td>
-    <td><a href="" target=_blank>TBC</a>, TBC</td>
+	<td><a href="https://www.linkedin.com/in/libby-liggins-07181930/" target=_blank>Libby Liggins</a>, University of Auckland</td>
+ 
   </tr>   
 </table>
 
