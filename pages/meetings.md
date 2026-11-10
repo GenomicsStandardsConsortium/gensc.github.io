@@ -5,11 +5,12 @@
 <img src="meetings/GSC19/images/GSC19-Group-outside-lightened-1024x336.jpg" width="640">
 
 ## **Upcoming meetings:**
+ * [GSC27, Brazil, (Date:28-30, July, 2027)](https://genomicsstandardsconsortium.github.io/GSC27-Brazil/index)
 
-*   [GSC26, Rotura, NZ (Date:12-14, August,2026)](https://genomicsstandardsconsortium.github.io/GSC26-Rotorua/)
 
 ## **Past meetings:**
 
+*   [GSC26, Rotura, NZ (Date:12-14, August,2026)](https://genomicsstandardsconsortium.github.io/GSC26-Rotorua/)
 *   [GSC25, Cambridge, UK (Date:28 July - 1 Aug,2025)](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/)
 *   [GSC24, Tuscon, Arizona, USA (Date:5-9 Aug,2024)](https://genomicsstandardsconsortium.github.io/GSC24-Tucson/)
 *   [GSC23, Bangkok, Thailand, (Date:7-11Aug), 2023](https://genomicsstandardsconsortium.github.io/GSC23-Bangkok/)
